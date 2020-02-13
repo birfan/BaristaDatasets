@@ -1,0 +1,500 @@
+1 May I get a salted caramel mocha ?	Which size ?
+2 Grande , thank you !	Would you like anything else with that ?
+3 No .	So that would be a grande salted caramel mocha . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 A raspberry lemonade , please .	Which size ?
+2 Tall cup .	Would you like anything else with that ?
+3 That would be it .	So that would be a tall raspberry lemonade . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 Could I get an iced cordusio ?	Which size ?
+2 Short , thank you !	Would you like anything else with that ?
+3 That would be it .	So that would be a short iced cordusio . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 I would like an iced salted caramel mocha .	Which size ?
+2 Grande would do .	Would you like anything else with that ?
+3 That would be it .	So that would be a grande iced salted caramel mocha . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 I want an iced salted caramel mocha .	Which size ?
+2 Grande .	Would you like anything else with that ?
+3 Just the drink .	So that would be a grande iced salted caramel mocha . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Can I get an iced pumpkin spice latte , please ?	Which size ?
+2 Tall , thank you !	Would you like anything else with that ?
+3 I am good .	So that would be a tall iced pumpkin spice latte . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 A peach iced tea .	Which size ?
+2 Short .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a short peach iced tea . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Could I get a salted caramel mocha ?	Which size ?
+2 Tall cup .	Would you like anything else with that ?
+3 No , thank you .	So that would be a tall salted caramel mocha . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Can I get an iced pumpkin spice chai latte , please ?	Which size ?
+2 Tall , please .	Would you like anything else with that ?
+3 No , thanks .	So that would be a tall iced pumpkin spice chai latte . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 May I have an iced coffee mocha ?	Which size ?
+2 Grande , please .	Would you like anything else with that ?
+3 I am good .	So that would be a grande iced coffee mocha . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Can I get an orange juice , please ?	Which size ?
+2 Grande , please .	Would you like anything else with that ?
+3 No , thank you .	So that would be a grande orange juice . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 I would like a pumpkin spice latte , please .	Which size ?
+2 Tall cup .	Would you like anything else with that ?
+3 Just the drink .	So that would be a tall pumpkin spice latte . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 Could I have an iced pumpkin spice chai latte , please ?	Which size ?
+2 Short cup .	Would you like anything else with that ?
+3 No , thanks .	So that would be a short iced pumpkin spice chai latte . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Can I get a bottle of water ?	Which size ?
+2 Grande cup .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a grande bottle of water . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 May I get a salted caramel mocha ?	Which size ?
+2 Grande .	Would you like anything else with that ?
+3 That is it .	So that would be a grande salted caramel mocha . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 An iced coffee americano , please .	Which size ?
+2 Short , please .	Would you like anything else with that ?
+3 That would be it .	So that would be a short iced coffee americano . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Could I have an iced pumpkin spice latte , please ?	Which size ?
+2 Grande cup .	Would you like anything else with that ?
+3 No .	So that would be a grande iced pumpkin spice latte . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 May I have a soy latte ?	Which size ?
+2 Short cup .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a short soy latte . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Can I have a chai tea latte ?	Which size ?
+2 Short , please .	Would you like anything else with that ?
+3 No , thanks .	So that would be a short chai tea latte . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 I would like a bottle of water , please .	Which size ?
+2 Short .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a short bottle of water . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Could I get an iced cordusio , please ?	Which size ?
+2 Tall , please .	Would you like anything else with that ?
+3 No , thanks .	So that would be a tall iced cordusio . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 I would like an iced cordusio .	Which size ?
+2 Short cup .	Would you like anything else with that ?
+3 That is it .	So that would be a short iced cordusio . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Could I have a raspberry lemonade ?	Which size ?
+2 Grande , thank you !	Would you like anything else with that ?
+3 I am good .	So that would be a grande raspberry lemonade . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Can I get a strawberry lemonade ?	Which size ?
+2 Grande , thank you !	Would you like anything else with that ?
+3 That would be it .	So that would be a grande strawberry lemonade . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Could I get a strawberry lemonade ?	Which size ?
+2 Grande cup .	Would you like anything else with that ?
+3 No , that is it .	So that would be a grande strawberry lemonade . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 May I get an iced cordusio ?	Which size ?
+2 Grande cup .	Would you like anything else with that ?
+3 No .	So that would be a grande iced cordusio . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 May I get a raspberry lemonade ?	Which size ?
+2 Short , thank you !	Would you like anything else with that ?
+3 That would be it .	So that would be a short raspberry lemonade . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 Could I have a pumpkin spice latte ?	Which size ?
+2 Grande cup .	Would you like anything else with that ?
+3 Just the drink .	So that would be a grande pumpkin spice latte . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Could I get an iced pumpkin spice chai latte ?	Which size ?
+2 Short .	Would you like anything else with that ?
+3 I am good .	So that would be a short iced pumpkin spice chai latte . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 May I get an iced coffee americano ?	Which size ?
+2 Grande , please .	Would you like anything else with that ?
+3 No , thanks .	So that would be a grande iced coffee americano . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 Could I have a strawberry lemonade , please ?	Which size ?
+2 Short cup .	Would you like anything else with that ?
+3 That is it .	So that would be a short strawberry lemonade . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 A pumpkin spice latte .	Which size ?
+2 Short .	Would you like anything else with that ?
+3 That would be it .	So that would be a short pumpkin spice latte . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Can I have a chai tea latte ?	Which size ?
+2 Tall cup .	Would you like anything else with that ?
+3 No , that is it .	So that would be a tall chai tea latte . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 I would like an iced cinnamon dolce latte , please .	Which size ?
+2 Grande , thank you !	Would you like anything else with that ?
+3 No , that is it .	So that would be a grande iced cinnamon dolce latte . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 Can I get a cinnamon latte ?	Which size ?
+2 Grande would do .	Would you like anything else with that ?
+3 No .	So that would be a grande cinnamon latte . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 May I get an iced salted caramel mocha ?	Which size ?
+2 Grande , thank you !	Would you like anything else with that ?
+3 Just the drink .	So that would be a grande iced salted caramel mocha . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 I want an iced caramel macchiato .	Which size ?
+2 Short , please .	Would you like anything else with that ?
+3 That is it .	So that would be a short iced caramel macchiato . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 I would like an iced salted caramel mocha , please .	Which size ?
+2 Tall , thank you !	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a tall iced salted caramel mocha . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 An iced latte macchiato .	Which size ?
+2 Tall .	Would you like anything else with that ?
+3 No , thank you .	So that would be a tall iced latte macchiato . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 A chai tea latte .	Which size ?
+2 Tall .	Would you like anything else with that ?
+3 Just the drink .	So that would be a tall chai tea latte . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Can I get an orange juice ?	Which size ?
+2 Grande , please .	Would you like anything else with that ?
+3 No , that is it .	So that would be a grande orange juice . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Can I get an iced caramel macchiato ?	Which size ?
+2 Tall .	Would you like anything else with that ?
+3 That is it .	So that would be a tall iced caramel macchiato . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 An iced pumpkin spice latte , please .	Which size ?
+2 Grande .	Would you like anything else with that ?
+3 That is it .	So that would be a grande iced pumpkin spice latte . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Could I have an iced pumpkin spice chai latte , please ?	Which size ?
+2 Grande , thank you !	Would you like anything else with that ?
+3 That is it .	So that would be a grande iced pumpkin spice chai latte . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 May I get a lemonade ?	Which size ?
+2 Short , thank you !	Would you like anything else with that ?
+3 I am good .	So that would be a short lemonade . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Could I get a salted caramel mocha , please ?	Which size ?
+2 Tall .	Would you like anything else with that ?
+3 That is it .	So that would be a tall salted caramel mocha . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 I want a raspberry lemonade , please .	Which size ?
+2 Tall .	Would you like anything else with that ?
+3 No , thanks .	So that would be a tall raspberry lemonade . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Can I get a cinnamon latte ?	Which size ?
+2 Tall , please .	Would you like anything else with that ?
+3 Just the drink .	So that would be a tall cinnamon latte . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Could I have an iced coffee mocha ?	Which size ?
+2 Tall , thank you !	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a tall iced coffee mocha . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Could I have an iced latte macchiato , please ?	Which size ?
+2 Short would do .	Would you like anything else with that ?
+3 That is it .	So that would be a short iced latte macchiato . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 Can I have an iced caramel macchiato , please ?	Which size ?
+2 Tall , please .	Would you like anything else with that ?
+3 No , thank you .	So that would be a tall iced caramel macchiato . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 I want a salted caramel mocha .	Which size ?
+2 Short cup .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a short salted caramel mocha . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Could I get a cinnamon latte ?	Which size ?
+2 Tall cup .	Would you like anything else with that ?
+3 No , thanks .	So that would be a tall cinnamon latte . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 I want a chai tea latte .	Which size ?
+2 Short cup .	Would you like anything else with that ?
+3 Just the drink .	So that would be a short chai tea latte . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Can I get a pumpkin spice latte ?	Which size ?
+2 Tall cup .	Would you like anything else with that ?
+3 That would be it .	So that would be a tall pumpkin spice latte . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 Could I have an iced salted caramel mocha ?	Which size ?
+2 Short would do .	Would you like anything else with that ?
+3 No , thanks .	So that would be a short iced salted caramel mocha . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 Could I have an iced coffee americano , please ?	Which size ?
+2 Tall would do .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a tall iced coffee americano . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Can I have a peach iced tea , please ?	Which size ?
+2 Grande , please .	Would you like anything else with that ?
+3 No .	So that would be a grande peach iced tea . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Could I have a lemonade ?	Which size ?
+2 Short , please .	Would you like anything else with that ?
+3 No , thank you .	So that would be a short lemonade . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 I want an iced coffee mocha .	Which size ?
+2 Tall .	Would you like anything else with that ?
+3 That is it .	So that would be a tall iced coffee mocha . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 An iced pumpkin spice latte , please .	Which size ?
+2 Short would do .	Would you like anything else with that ?
+3 That is it .	So that would be a short iced pumpkin spice latte . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 I would like a raspberry lemonade , please .	Which size ?
+2 Grande would do .	Would you like anything else with that ?
+3 No , thanks .	So that would be a grande raspberry lemonade . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 Can I get a peach iced tea , please ?	Which size ?
+2 Grande , please .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a grande peach iced tea . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 I would like a lemonade , please .	Which size ?
+2 Short would do .	Would you like anything else with that ?
+3 No .	So that would be a short lemonade . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Can I have a bottle of water , please ?	Which size ?
+2 Grande , thank you !	Would you like anything else with that ?
+3 No , thank you .	So that would be a grande bottle of water . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 May I get an iced latte macchiato ?	Which size ?
+2 Tall , thank you !	Would you like anything else with that ?
+3 No , that is it .	So that would be a tall iced latte macchiato . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 May I get a soy latte ?	Which size ?
+2 Short cup .	Would you like anything else with that ?
+3 Just the drink .	So that would be a short soy latte . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 I want a salted caramel mocha , please .	Which size ?
+2 Tall , please .	Would you like anything else with that ?
+3 Just the drink .	So that would be a tall salted caramel mocha . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 I would like a raspberry lemonade , please .	Which size ?
+2 Short cup .	Would you like anything else with that ?
+3 No , that is it .	So that would be a short raspberry lemonade . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 I would like a chai tea latte , please .	Which size ?
+2 Tall .	Would you like anything else with that ?
+3 No , that is it .	So that would be a tall chai tea latte . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 An iced caramel macchiato , please .	Which size ?
+2 Tall .	Would you like anything else with that ?
+3 No , thank you .	So that would be a tall iced caramel macchiato . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 May I get a peach iced tea ?	Which size ?
+2 Grande would do .	Would you like anything else with that ?
+3 No , that is it .	So that would be a grande peach iced tea . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 An iced caramel macchiato .	Which size ?
+2 Grande .	Would you like anything else with that ?
+3 I am good .	So that would be a grande iced caramel macchiato . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 May I get an iced coffee mocha ?	Which size ?
+2 Tall .	Would you like anything else with that ?
+3 That would be it .	So that would be a tall iced coffee mocha . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 May I have an iced cordusio ?	Which size ?
+2 Grande , please .	Would you like anything else with that ?
+3 No , that is it .	So that would be a grande iced cordusio . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Can I have a cinnamon latte , please ?	Which size ?
+2 Tall .	Would you like anything else with that ?
+3 That is it .	So that would be a tall cinnamon latte . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 I would like a pumpkin spice latte , please .	Which size ?
+2 Short .	Would you like anything else with that ?
+3 No .	So that would be a short pumpkin spice latte . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Could I have an orange juice ?	Which size ?
+2 Grande , thank you !	Would you like anything else with that ?
+3 No , thanks .	So that would be a grande orange juice . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 Can I have an orange juice ?	Which size ?
+2 Grande .	Would you like anything else with that ?
+3 No , thanks .	So that would be a grande orange juice . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 I would like a bottle of water , please .	Which size ?
+2 Grande , please .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a grande bottle of water . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Could I get an iced caramel macchiato , please ?	Which size ?
+2 Short .	Would you like anything else with that ?
+3 Just the drink .	So that would be a short iced caramel macchiato . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Can I have an iced latte macchiato , please ?	Which size ?
+2 Short cup .	Would you like anything else with that ?
+3 No , thanks .	So that would be a short iced latte macchiato . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 I would like a raspberry lemonade .	Which size ?
+2 Grande would do .	Would you like anything else with that ?
+3 I am good .	So that would be a grande raspberry lemonade . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Can I get a lemonade ?	Which size ?
+2 Short would do .	Would you like anything else with that ?
+3 No , that is it .	So that would be a short lemonade . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 Could I have an iced coffee americano ?	Which size ?
+2 Grande .	Would you like anything else with that ?
+3 No , thanks .	So that would be a grande iced coffee americano . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 I want an iced pumpkin spice latte .	Which size ?
+2 Tall would do .	Would you like anything else with that ?
+3 No , thanks .	So that would be a tall iced pumpkin spice latte . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 May I have a bottle of water ?	Which size ?
+2 Grande would do .	Would you like anything else with that ?
+3 No , that is it .	So that would be a grande bottle of water . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Can I have a peach iced tea , please ?	Which size ?
+2 Grande , thank you !	Would you like anything else with that ?
+3 I am good .	So that would be a grande peach iced tea . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Can I have an iced coffee mocha , please ?	Which size ?
+2 Grande .	Would you like anything else with that ?
+3 No , that is it .	So that would be a grande iced coffee mocha . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 Can I have an iced cordusio , please ?	Which size ?
+2 Tall .	Would you like anything else with that ?
+3 I am good .	So that would be a tall iced cordusio . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Can I have a soy latte , please ?	Which size ?
+2 Short .	Would you like anything else with that ?
+3 That is it .	So that would be a short soy latte . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 Can I get a strawberry lemonade , please ?	Which size ?
+2 Short cup .	Would you like anything else with that ?
+3 Just the drink .	So that would be a short strawberry lemonade . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 May I have a soy latte ?	Which size ?
+2 Tall , thank you !	Would you like anything else with that ?
+3 That is it .	So that would be a tall soy latte . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 I want an iced coffee mocha .	Which size ?
+2 Short , thank you !	Would you like anything else with that ?
+3 No , thank you .	So that would be a short iced coffee mocha . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 I would like a bottle of water .	Which size ?
+2 Grande , thank you !	Would you like anything else with that ?
+3 Just the drink .	So that would be a grande bottle of water . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 May I have a raspberry lemonade ?	Which size ?
+2 Grande would do .	Would you like anything else with that ?
+3 No , thank you .	So that would be a grande raspberry lemonade . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 Can I have an iced latte macchiato , please ?	Which size ?
+2 Grande .	Would you like anything else with that ?
+3 That would be it .	So that would be a grande iced latte macchiato . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 I would like a bottle of water , please .	Which size ?
+2 Tall , please .	Would you like anything else with that ?
+3 No , thanks .	So that would be a tall bottle of water . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 Can I get a strawberry lemonade , please ?	Which size ?
+2 Tall would do .	Would you like anything else with that ?
+3 Just the drink .	So that would be a tall strawberry lemonade . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Can I get an iced cinnamon dolce latte , please ?	Which size ?
+2 Tall cup .	Would you like anything else with that ?
+3 No , that is it .	So that would be a tall iced cinnamon dolce latte . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+

@@ -1,0 +1,1744 @@
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 A salted caramel mocha , please .	Which size ?
+4 Grande , thank you !	Would you like anything else with that ?
+5 Yes , a whole-grain feta sandwich , please .	So that would be a grande salted caramel mocha and a whole-grain feta sandwich . Is that right ?
+6 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+7 Ashton Kutcher .	Your order will be ready at the next counter , Ashton .
+8 False , 101 , Ashton Kutcher
+9 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 May I have a pumpkin spice latte ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 May I get a chocolate brownie ?	So that would be a tall pumpkin spice latte and a chocolate brownie . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Shelley Hennig .	Your order will be ready at the next counter , Shelley .
+8 False , 102 , Shelley Hennig
+9 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 May I get a salted caramel mocha ?	Which size ?
+4 Short .	Would you like anything else with that ?
+5 I would like an egg sandwich , please .	So that would be a short salted caramel mocha and an egg sandwich . Is that right ?
+6 Erm , I would like a vegetable sandwich actually .	Sure ! So that would be a short salted caramel mocha and a vegetable sandwich . Is that right ?
+7 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+8 It is Nicole Kidman .	Your order will be ready at the next counter , Nicole .
+9 False , 103 , Nicole Kidman
+10 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Could I have an iced caramel macchiato ?	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 That is it .	So that would be a grande iced caramel macchiato . Is that right ?
+6 Oh I am sorry , but I would like tall instead .	Sure ! So that would be a tall iced caramel macchiato . Is that right ?
+7 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+8 It is Jason Sudeikis .	Your order will be ready at the next counter , Jason .
+9 False , 104 , Jason Sudeikis
+10 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I get an iced pumpkin spice chai latte ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Yes , a chicken and pesto panini .	So that would be a tall iced pumpkin spice chai latte and a chicken and pesto panini . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 Russell Brand .	Your order will be ready at the next counter , Russell .
+8 False , 105 , Russell Brand
+9 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Could I have an iced salted caramel mocha ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Yes , a cinnamon swirl , please .	So that would be a tall iced salted caramel mocha and a cinnamon swirl . Is that right ?
+6 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Rupert Grint .	Your order will be ready at the next counter , Rupert .
+8 False , 106 , Rupert Grint
+9 Have a great day !	Have a nice day !
+
+1 True , 102 , Shelley Hennig
+2 Hey !	Hello , Shelley Hennig ! Would you like to have a tall pumpkin spice latte and a chocolate brownie again ?
+3 Why not ?	Your order will be ready at the next counter , Shelley .
+4 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I have an iced caramel macchiato , please ?	Which size ?
+4 Grande , thank you !	Would you like anything else with that ?
+5 Yeah , a lemon cheesecake , please .	So that would be a grande iced caramel macchiato and a lemon cheesecake . Is that right ?
+6 Oh I am sorry , but I would like a chai tea latte instead .	Sure ! So that would be a grande chai tea latte and a lemon cheesecake . Is that right ?
+7 Yes !	Great ! Can I take your name ? api_call getCustomerName
+8 Christian Kane .	Your order will be ready at the next counter , Christian .
+9 False , 107 , Christian Kane
+10 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Could I get an orange juice ?	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 Just the drink , please .	So that would be a short orange juice . Is that right ?
+6 Can I get a raspberry lemonade instead ?	Sure ! So that would be a short raspberry lemonade . Is that right ?
+7 Can I get grande , please ?	Sure ! So that would be a grande raspberry lemonade . Is that right ?
+8 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+9 It is Lindsay Lohan .	Your order will be ready at the next counter , Lindsay .
+10 False , 108 , Lindsay Lohan
+11 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I want a lemonade , please .	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 Yes , a lemon cheesecake , please .	So that would be a grande lemonade and a lemon cheesecake . Is that right ?
+6 Erm , I would like a salted caramel mocha actually .	Sure ! So that would be a grande salted caramel mocha and a lemon cheesecake . Is that right ?
+7 Can I have a milk chocolate bar ?	Sure ! So that would be a grande salted caramel mocha and a milk chocolate bar . Is that right ?
+8 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+9 It is John Cusack .	Your order will be ready at the next counter , John .
+10 False , 109 , John Cusack
+11 Okay .	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I get a lemonade ?	Which size ?
+4 Grande cup .	Would you like anything else with that ?
+5 Yeah , a fruit mix .	So that would be a grande lemonade and a fruit mix . Is that right ?
+6 Let's change fruit mix to a lemon cheesecake instead .	Sure ! So that would be a grande lemonade and a lemon cheesecake . Is that right ?
+7 Can I have short , please ?	Sure ! So that would be a short lemonade and a lemon cheesecake . Is that right ?
+8 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+9 Kat Graham .	Your order will be ready at the next counter , Kat .
+10 False , 110 , Kat Graham
+11 Okay .	Have a nice day !
+
+1 True , 109 , John Cusack
+2 Hey there !	Hello , John Cusack ! Would you like to have a grande salted caramel mocha and a milk chocolate bar again ?
+3 No . May I get a strawberry lemonade ?	Which size ?
+4 Tall would do .	Would you like anything else with that ?
+5 Yeah , a fruit mix , please .	So that would be a tall strawberry lemonade and a fruit mix . Is that right ?
+6 Oh I am sorry , but I would like grande instead .	Sure ! So that would be a grande strawberry lemonade and a fruit mix . Is that right ?
+7 Definitely .	Your order will be ready at the next counter , John .
+8 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I have a chai tea latte , please ?	Which size ?
+4 Short .	Would you like anything else with that ?
+5 Yes , a whole-grain feta sandwich .	So that would be a short chai tea latte and a whole-grain feta sandwich . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 Jason Bateman .	Your order will be ready at the next counter , Jason .
+8 False , 111 , Jason Bateman
+9 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Can I have an iced pumpkin spice chai latte , please ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 A milk chocolate bar .	So that would be a tall iced pumpkin spice chai latte and a milk chocolate bar . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 Danai Gurira .	Your order will be ready at the next counter , Danai .
+8 False , 112 , Danai Gurira
+9 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I would like an iced caramel macchiato .	Which size ?
+4 Short , thank you !	Would you like anything else with that ?
+5 That would be it .	So that would be a short iced caramel macchiato . Is that right ?
+6 Actually , I would like a soy latte instead .	Sure ! So that would be a short soy latte . Is that right ?
+7 Yes !	Great ! Can I take your name ? api_call getCustomerName
+8 It is Billy Campbell .	Your order will be ready at the next counter , Billy .
+9 False , 113 , Billy Campbell
+10 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Can I have an iced coffee americano , please ?	Which size ?
+4 Grande would do .	Would you like anything else with that ?
+5 Hmm , a dark chocolate bar , please .	So that would be a grande iced coffee americano and a dark chocolate bar . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 Reese Witherspoon .	Your order will be ready at the next counter , Reese .
+8 False , 114 , Reese Witherspoon
+9 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 May I have an iced salted caramel mocha ?	Which size ?
+4 Short , please .	Would you like anything else with that ?
+5 That would be it .	So that would be a short iced salted caramel mocha . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 Candice King .	Your order will be ready at the next counter , Candice .
+8 False , 115 , Candice King
+9 Okay .	Have a nice day !
+
+1 True , 104 , Jason Sudeikis
+2 Hey !	Hello , Jason Sudeikis ! Would you like to have a tall iced caramel macchiato again ?
+3 How did you know ?	Your order will be ready at the next counter , Jason .
+4 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I want a soy latte .	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Yes , a cheese toastie .	So that would be a tall soy latte and a cheese toastie . Is that right ?
+6 I think I will switch cheese toastie with a tomato and mozzarella panini .	Sure ! So that would be a tall soy latte and a tomato and mozzarella panini . Is that right ?
+7 Can I have an iced latte macchiato instead ?	Sure ! So that would be a tall iced latte macchiato and a tomato and mozzarella panini . Is that right ?
+8 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+9 It is Busy Philipps .	Your order will be ready at the next counter , Busy .
+10 False , 116 , Busy Philipps
+11 Bye !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 I would like an iced latte macchiato .	Which size ?
+4 Grande cup .	Would you like anything else with that ?
+5 Can I get a lemon cheesecake , please ?	So that would be a grande iced latte macchiato and a lemon cheesecake . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 Chris Messina .	Your order will be ready at the next counter , Chris .
+8 False , 117 , Chris Messina
+9 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 An iced cinnamon dolce latte .	Which size ?
+4 Tall , please .	Would you like anything else with that ?
+5 I would like a vegan wrap .	So that would be a tall iced cinnamon dolce latte and a vegan wrap . Is that right ?
+6 Let's change vegan wrap to a PBJ sandwich instead .	Sure ! So that would be a tall iced cinnamon dolce latte and a PBJ sandwich . Is that right ?
+7 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+8 It is Beth Behrs .	Your order will be ready at the next counter , Beth .
+9 False , 118 , Beth Behrs
+10 Okay .	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 May I have a strawberry lemonade ?	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 That would be it .	So that would be a grande strawberry lemonade . Is that right ?
+6 No , tall .	Sure ! So that would be a tall strawberry lemonade . Is that right ?
+7 No , I would like short .	Sure ! So that would be a short strawberry lemonade . Is that right ?
+8 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+9 It is Garrett Hedlund .	Your order will be ready at the next counter , Garrett .
+10 False , 119 , Garrett Hedlund
+11 Okay .	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 I would like a lemonade , please .	Which size ?
+4 Short .	Would you like anything else with that ?
+5 Can I get a white chocolate cheesecake ?	So that would be a short lemonade and a white chocolate cheesecake . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Kathy Bates .	Your order will be ready at the next counter , Kathy .
+8 False , 120 , Kathy Bates
+9 Thank you !	Have a nice day !
+
+1 True , 113 , Billy Campbell
+2 Hello !	Hello , Billy Campbell ! Would you like to have a short soy latte again ?
+3 Definitely !	Your order will be ready at the next counter , Billy .
+4 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I get a strawberry lemonade ?	Which size ?
+4 Short .	Would you like anything else with that ?
+5 No , thanks .	So that would be a short strawberry lemonade . Is that right ?
+6 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Lily James .	Your order will be ready at the next counter , Lily .
+8 False , 121 , Lily James
+9 Have a nice day !	Have a nice day !
+
+1 True , 115 , Candice King
+2 Hey !	Hello , Candice King ! Would you like to have a short iced salted caramel mocha again ?
+3 No , I think I will try something else instead . I want an iced coffee americano , please .	Which size ?
+4 Tall , please .	Would you like anything else with that ?
+5 Could I get a tomato and mozzarella panini , please ?	So that would be a tall iced coffee americano and a tomato and mozzarella panini . Is that right ?
+6 Yeap .	Your order will be ready at the next counter , Candice .
+7 Thanks !	Have a nice day !
+
+1 True , 105 , Russell Brand
+2 Hey !	Hello , Russell Brand ! Would you like to have a tall iced pumpkin spice chai latte and a chicken and pesto panini again ?
+3 I will try something else . I want a raspberry lemonade .	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 Yeah , a tomato and mozzarella panini .	So that would be a grande raspberry lemonade and a tomato and mozzarella panini . Is that right ?
+6 Can I have short instead ?	Sure ! So that would be a short raspberry lemonade and a tomato and mozzarella panini . Is that right ?
+7 Yeah .	Your order will be ready at the next counter , Russell .
+8 Alright .	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Can I have a lemonade ?	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 I am good .	So that would be a grande lemonade . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 Jessica Biel .	Your order will be ready at the next counter , Jessica .
+8 False , 122 , Jessica Biel
+9 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 May I have a peach iced tea ?	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 Could I get a chicken and pesto panini , please ?	So that would be a grande peach iced tea and a chicken and pesto panini . Is that right ?
+6 Can I get tall ?	Sure ! So that would be a tall peach iced tea and a chicken and pesto panini . Is that right ?
+7 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+8 It is Jenna Coleman .	Your order will be ready at the next counter , Jenna .
+9 False , 123 , Jenna Coleman
+10 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I would like an iced cordusio .	Which size ?
+4 Grande would do .	Would you like anything else with that ?
+5 That would be it .	So that would be a grande iced cordusio . Is that right ?
+6 Can I get tall instead ?	Sure ! So that would be a tall iced cordusio . Is that right ?
+7 Can I get an iced pumpkin spice latte ?	Sure ! So that would be a tall iced pumpkin spice latte . Is that right ?
+8 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+9 Steve Carell .	Your order will be ready at the next counter , Steve .
+10 False , 124 , Steve Carell
+11 Okay .	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 May I get an iced cordusio ?	Which size ?
+4 Short .	Would you like anything else with that ?
+5 Can I get a cinnamon swirl , please ?	So that would be a short iced cordusio and a cinnamon swirl . Is that right ?
+6 I would like an iced coffee mocha .	Sure ! So that would be a short iced coffee mocha and a cinnamon swirl . Is that right ?
+7 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+8 It is Sandra Bullock .	Your order will be ready at the next counter , Sandra .
+9 False , 125 , Sandra Bullock
+10 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I get an iced pumpkin spice chai latte ?	Which size ?
+4 Short , thank you !	Would you like anything else with that ?
+5 Ah yes , a vegan wrap , please .	So that would be a short iced pumpkin spice chai latte and a vegan wrap . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Laurie Holden .	Your order will be ready at the next counter , Laurie .
+8 False , 126 , Laurie Holden
+9 Okay .	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Could I get an iced salted caramel mocha , please ?	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 I would like a strawberry cheesecake , please .	So that would be a short iced salted caramel mocha and a strawberry cheesecake . Is that right ?
+6 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+7 Ansel Elgort .	Your order will be ready at the next counter , Ansel .
+8 False , 127 , Ansel Elgort
+9 Thanks !	Have a nice day !
+
+1 True , 103 , Nicole Kidman
+2 Hello !	Hello , Nicole Kidman ! Would you like to have a short salted caramel mocha and a vegetable sandwich again ?
+3 No , not today . Could I get an iced pumpkin spice chai latte ?	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 I would like a strawberry cheesecake .	So that would be a grande iced pumpkin spice chai latte and a strawberry cheesecake . Is that right ?
+6 That sounds right !	Your order will be ready at the next counter , Nicole .
+7 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I want an iced coffee americano , please .	Which size ?
+4 Grande cup .	Would you like anything else with that ?
+5 That is it .	So that would be a grande iced coffee americano . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 Emma Watson .	Your order will be ready at the next counter , Emma .
+8 False , 128 , Emma Watson
+9 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 A peach iced tea .	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 No , thanks .	So that would be a short peach iced tea . Is that right ?
+6 Can I have tall instead ?	Sure ! So that would be a tall peach iced tea . Is that right ?
+7 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+8 Olga Kurylenko .	Your order will be ready at the next counter , Olga .
+9 False , 129 , Olga Kurylenko
+10 Alright .	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Could I have a pumpkin spice latte , please ?	Which size ?
+4 Grande would do .	Would you like anything else with that ?
+5 Hmm , a raspberry cheesecake , please .	So that would be a grande pumpkin spice latte and a raspberry cheesecake . Is that right ?
+6 May I have a peach iced tea ?	Sure ! So that would be a grande peach iced tea and a raspberry cheesecake . Is that right ?
+7 On second thought , I would have tall instead .	Sure ! So that would be a tall peach iced tea and a raspberry cheesecake . Is that right ?
+8 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+9 It is Chandra Wilson .	Your order will be ready at the next counter , Chandra .
+10 False , 130 , Chandra Wilson
+11 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 May I get a soy latte ?	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 Can I get a cheese toastie , please ?	So that would be a grande soy latte and a cheese toastie . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Ted Danson .	Your order will be ready at the next counter , Ted .
+8 False , 131 , Ted Danson
+9 Enjoy your day !	Have a nice day !
+
+1 True , 121 , Lily James
+2 Hey !	Hello , Lily James ! Would you like to have a short strawberry lemonade again ?
+3 Exactly !	Your order will be ready at the next counter , Lily .
+4 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 May I have a strawberry lemonade ?	Which size ?
+4 Grande would do .	Would you like anything else with that ?
+5 That is it .	So that would be a grande strawberry lemonade . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 Scarlett Johansson .	Your order will be ready at the next counter , Scarlett .
+8 False , 132 , Scarlett Johansson
+9 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I want a lemonade .	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 Yes , a whole-grain feta sandwich .	So that would be a grande lemonade and a whole-grain feta sandwich . Is that right ?
+6 No , short .	Sure ! So that would be a short lemonade and a whole-grain feta sandwich . Is that right ?
+7 On second thought , I would have a salted caramel brownie instead .	Sure ! So that would be a short lemonade and a salted caramel brownie . Is that right ?
+8 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+9 It is David Spade .	Your order will be ready at the next counter , David .
+10 False , 133 , David Spade
+11 Alright .	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 May I have an iced coffee americano ?	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 Yeah , a tomato and mozzarella panini , please .	So that would be a short iced coffee americano and a tomato and mozzarella panini . Is that right ?
+6 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+7 Kristen Wiig .	Your order will be ready at the next counter , Kristen .
+8 False , 134 , Kristen Wiig
+9 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Could I get a cinnamon latte ?	Which size ?
+4 Short , thank you !	Would you like anything else with that ?
+5 That would be it .	So that would be a short cinnamon latte . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 Eddie Redmayne .	Your order will be ready at the next counter , Eddie .
+8 False , 135 , Eddie Redmayne
+9 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I want a lemonade .	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 Just the drink .	So that would be a grande lemonade . Is that right ?
+6 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Scott Caan .	Your order will be ready at the next counter , Scott .
+8 False , 136 , Scott Caan
+9 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Can I get a pumpkin spice latte ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Just the drink , please .	So that would be a tall pumpkin spice latte . Is that right ?
+6 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+7 Emma Stone .	Your order will be ready at the next counter , Emma .
+8 False , 137 , Emma Stone
+9 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I want an iced pumpkin spice chai latte .	Which size ?
+4 Short would do .	Would you like anything else with that ?
+5 A pbj sandwich , please .	So that would be a short iced pumpkin spice chai latte and a PBJ sandwich . Is that right ?
+6 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Patricia Arquette .	Your order will be ready at the next counter , Patricia .
+8 False , 138 , Patricia Arquette
+9 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 May I get an iced coffee americano ?	Which size ?
+4 Tall .	Would you like anything else with that ?
+5 Yeah , a lemon cheesecake .	So that would be a tall iced coffee americano and a lemon cheesecake . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Suzanne Somers .	Your order will be ready at the next counter , Suzanne .
+8 False , 139 , Suzanne Somers
+9 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I would like a cinnamon latte , please .	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 May I get a cinnamon swirl ?	So that would be a short cinnamon latte and a cinnamon swirl . Is that right ?
+6 Actually , I would like a PBJ sandwich instead .	Sure ! So that would be a short cinnamon latte and a PBJ sandwich . Is that right ?
+7 Can I have a white chocolate cheesecake ?	Sure ! So that would be a short cinnamon latte and a white chocolate cheesecake . Is that right ?
+8 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+9 It is Marg Helgenberger .	Your order will be ready at the next counter , Marg .
+10 False , 140 , Marg Helgenberger
+11 Thank you !	Have a nice day !
+
+1 True , 120 , Kathy Bates
+2 Hey there !	Hello , Kathy Bates ! Would you like to have a short lemonade and a white chocolate cheesecake again ?
+3 You know me better !	Your order will be ready at the next counter , Kathy .
+4 Thanks !	Have a nice day !
+
+1 True , 114 , Reese Witherspoon
+2 Hey !	Hello , Reese Witherspoon ! Would you like to have a grande iced coffee americano and a dark chocolate bar again ?
+3 No , not today . Can I have an orange juice ?	Which size ?
+4 Short .	Would you like anything else with that ?
+5 No .	So that would be a short orange juice . Is that right ?
+6 Indeed !	Your order will be ready at the next counter , Reese .
+7 Goodbye !	Have a nice day !
+
+1 True , 138 , Patricia Arquette
+2 Hey !	Hello , Patricia Arquette ! Would you like to have a short iced pumpkin spice chai latte and a PBJ sandwich again ?
+3 Yes , please !	Your order will be ready at the next counter , Patricia .
+4 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 An iced cinnamon dolce latte .	Which size ?
+4 Grande would do .	Would you like anything else with that ?
+5 No , thank you .	So that would be a grande iced cinnamon dolce latte . Is that right ?
+6 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Jesse Williams .	Your order will be ready at the next counter , Jesse .
+8 False , 141 , Jesse Williams
+9 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Can I get a peach iced tea ?	Which size ?
+4 Grande cup .	Would you like anything else with that ?
+5 I would like a cinnamon swirl , please .	So that would be a grande peach iced tea and a cinnamon swirl . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 Chris O'Donnell .	Your order will be ready at the next counter , Chris .
+8 False , 142 , Chris O'Donnell
+9 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Could I get a peach iced tea , please ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Could I get an egg sandwich ?	So that would be a tall peach iced tea and an egg sandwich . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Leslie Mann .	Your order will be ready at the next counter , Leslie .
+8 False , 143 , Leslie Mann
+9 Thank you !	Have a nice day !
+
+1 True , 108 , Lindsay Lohan
+2 Hi !	Hello , Lindsay Lohan ! Would you like to have a grande raspberry lemonade again ?
+3 Let's try something different . Can I have a salted caramel mocha ?	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 Can I get a chocolate brownie , please ?	So that would be a grande salted caramel mocha and a chocolate brownie . Is that right ?
+6 That sounds right !	Your order will be ready at the next counter , Lindsay .
+7 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I would like an iced pumpkin spice latte .	Which size ?
+4 Grande would do .	Would you like anything else with that ?
+5 Could I get a vegan wrap , please ?	So that would be a grande iced pumpkin spice latte and a vegan wrap . Is that right ?
+6 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+7 Gina Bellman .	Your order will be ready at the next counter , Gina .
+8 False , 144 , Gina Bellman
+9 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 May I have an iced latte macchiato ?	Which size ?
+4 Grande , thank you !	Would you like anything else with that ?
+5 Yeah , a lemon cheesecake .	So that would be a grande iced latte macchiato and a lemon cheesecake . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Josh Charles .	Your order will be ready at the next counter , Josh .
+8 False , 145 , Josh Charles
+9 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I want a bottle of water , please .	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 Ah yes , a tomato and mozzarella panini .	So that would be a short bottle of water and a tomato and mozzarella panini . Is that right ?
+6 On second thought , I would have grande instead .	Sure ! So that would be a grande bottle of water and a tomato and mozzarella panini . Is that right ?
+7 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+8 Missy Peregrym .	Your order will be ready at the next counter , Missy .
+9 False , 146 , Missy Peregrym
+10 Okay .	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I want a raspberry lemonade , please .	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Just the drink .	So that would be a tall raspberry lemonade . Is that right ?
+6 I think I will switch tall with short .	Sure ! So that would be a short raspberry lemonade . Is that right ?
+7 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+8 It is Todd Bridges .	Your order will be ready at the next counter , Todd .
+9 False , 147 , Todd Bridges
+10 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I have an orange juice ?	Which size ?
+4 Tall .	Would you like anything else with that ?
+5 I am good .	So that would be a tall orange juice . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 Robert Downey Jr . .	Your order will be ready at the next counter , Robert .
+8 False , 148 , Robert Downey Jr.
+9 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Can I have a pumpkin spice latte , please ?	Which size ?
+4 Tall , please .	Would you like anything else with that ?
+5 No , thank you .	So that would be a tall pumpkin spice latte . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Maisie Williams .	Your order will be ready at the next counter , Maisie .
+8 False , 149 , Maisie Williams
+9 Enjoy your day !	Have a nice day !
+
+1 True , 132 , Scarlett Johansson
+2 Hey !	Hello , Scarlett Johansson ! Would you like to have a grande strawberry lemonade again ?
+3 Let's try something different . Can I get an iced pumpkin spice chai latte , please ?	Which size ?
+4 Short , please .	Would you like anything else with that ?
+5 Yes , a fruit mix , please .	So that would be a short iced pumpkin spice chai latte and a fruit mix . Is that right ?
+6 Can I get tall , please ?	Sure ! So that would be a tall iced pumpkin spice chai latte and a fruit mix . Is that right ?
+7 Sounds good !	Your order will be ready at the next counter , Scarlett .
+8 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 May I get a chai tea latte ?	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 No , thank you .	So that would be a short chai tea latte . Is that right ?
+6 Can I have grande instead ?	Sure ! So that would be a grande chai tea latte . Is that right ?
+7 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+8 Marion Cotillard .	Your order will be ready at the next counter , Marion .
+9 False , 150 , Marion Cotillard
+10 Enjoy your day !	Have a nice day !
+
+1 True , 146 , Missy Peregrym
+2 Hey there !	Hello , Missy Peregrym ! Would you like to have a grande bottle of water and a tomato and mozzarella panini again ?
+3 Yeah .	Your order will be ready at the next counter , Missy .
+4 Goodbye !	Have a nice day !
+
+1 True , 124 , Steve Carell
+2 Hi !	Hello , Steve Carell ! Would you like to have a tall iced pumpkin spice latte again ?
+3 Yeap !	Your order will be ready at the next counter , Steve .
+4 Okay .	Have a nice day !
+
+1 True , 111 , Jason Bateman
+2 Hello !	Hello , Jason Bateman ! Would you like to have a short chai tea latte and a whole-grain feta sandwich again ?
+3 Nice of you to remember ! But I will take something else . Could I have an iced latte macchiato , please ?	Which size ?
+4 Tall , please .	Would you like anything else with that ?
+5 Could I get a chicken and pesto panini , please ?	So that would be a tall iced latte macchiato and a chicken and pesto panini . Is that right ?
+6 That is correct .	Your order will be ready at the next counter , Jason .
+7 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Could I have a lemonade ?	Which size ?
+4 Tall .	Would you like anything else with that ?
+5 Hmm , a cheese toastie , please .	So that would be a tall lemonade and a cheese toastie . Is that right ?
+6 Actually , I would like a chocolate brownie instead .	Sure ! So that would be a tall lemonade and a chocolate brownie . Is that right ?
+7 Can I have an iced pumpkin spice chai latte ?	Sure ! So that would be a tall iced pumpkin spice chai latte and a chocolate brownie . Is that right ?
+8 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+9 It is Simon Pegg .	Your order will be ready at the next counter , Simon .
+10 False , 151 , Simon Pegg
+11 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 A pumpkin spice latte , please .	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 Yes , a chocolate brownie , please .	So that would be a grande pumpkin spice latte and a chocolate brownie . Is that right ?
+6 I want a raspberry lemonade .	Sure ! So that would be a grande raspberry lemonade and a chocolate brownie . Is that right ?
+7 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+8 Sean Murray .	Your order will be ready at the next counter , Sean .
+9 False , 152 , Sean Murray
+10 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 May I have an iced salted caramel mocha ?	Which size ?
+4 Tall would do .	Would you like anything else with that ?
+5 Yes , a strawberry cheesecake .	So that would be a tall iced salted caramel mocha and a strawberry cheesecake . Is that right ?
+6 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+7 Kyra Sedgwick .	Your order will be ready at the next counter , Kyra .
+8 False , 153 , Kyra Sedgwick
+9 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I want an iced cinnamon dolce latte .	Which size ?
+4 Short would do .	Would you like anything else with that ?
+5 Just the drink .	So that would be a short iced cinnamon dolce latte . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 Josh Hutcherson .	Your order will be ready at the next counter , Josh .
+8 False , 154 , Josh Hutcherson
+9 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Can I have an iced coffee americano , please ?	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 That is it .	So that would be a grande iced coffee americano . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Deborah Ann Woll .	Your order will be ready at the next counter , Deborah .
+8 False , 155 , Deborah Ann Woll
+9 Thank you !	Have a nice day !
+
+1 True , 123 , Jenna Coleman
+2 Hey there !	Hello , Jenna Coleman ! Would you like to have a tall peach iced tea and a chicken and pesto panini again ?
+3 Alright .	Your order will be ready at the next counter , Jenna .
+4 Alright .	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Can I get an iced coffee mocha , please ?	Which size ?
+4 Short would do .	Would you like anything else with that ?
+5 I am good .	So that would be a short iced coffee mocha . Is that right ?
+6 No , an iced salted caramel mocha .	Sure ! So that would be a short iced salted caramel mocha . Is that right ?
+7 Yes !	Great ! Can I take your name ? api_call getCustomerName
+8 It is Matt Damon .	Your order will be ready at the next counter , Matt .
+9 False , 156 , Matt Damon
+10 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Can I get a lemonade ?	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 Just the drink .	So that would be a grande lemonade . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Chace Crawford .	Your order will be ready at the next counter , Chace .
+8 False , 157 , Chace Crawford
+9 Okay .	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Could I have a chai tea latte ?	Which size ?
+4 Short , thank you !	Would you like anything else with that ?
+5 That would be it .	So that would be a short chai tea latte . Is that right ?
+6 Can I get a pumpkin spice latte instead ?	Sure ! So that would be a short pumpkin spice latte . Is that right ?
+7 Can I get a lemonade instead ?	Sure ! So that would be a short lemonade . Is that right ?
+8 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+9 Amy Brenneman .	Your order will be ready at the next counter , Amy .
+10 False , 158 , Amy Brenneman
+11 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Could I have a cinnamon latte ?	Which size ?
+4 Short would do .	Would you like anything else with that ?
+5 No , that is it .	So that would be a short cinnamon latte . Is that right ?
+6 I want a raspberry lemonade .	Sure ! So that would be a short raspberry lemonade . Is that right ?
+7 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+8 It is Lisa Whelchel .	Your order will be ready at the next counter , Lisa .
+9 False , 159 , Lisa Whelchel
+10 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I get a bottle of water ?	Which size ?
+4 Tall .	Would you like anything else with that ?
+5 Ah yes , a lemon cheesecake .	So that would be a tall bottle of water and a lemon cheesecake . Is that right ?
+6 Can I have a strawberry lemonade , please ?	Sure ! So that would be a tall strawberry lemonade and a lemon cheesecake . Is that right ?
+7 May I have a peach iced tea ?	Sure ! So that would be a tall peach iced tea and a lemon cheesecake . Is that right ?
+8 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+9 It is Mark Feuerstein .	Your order will be ready at the next counter , Mark .
+10 False , 160 , Mark Feuerstein
+11 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Could I have a peach iced tea , please ?	Which size ?
+4 Short , thank you !	Would you like anything else with that ?
+5 No , thanks .	So that would be a short peach iced tea . Is that right ?
+6 Let's change peach iced tea to a bottle of water instead .	Sure ! So that would be a short bottle of water . Is that right ?
+7 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+8 It is Owen Wilson .	Your order will be ready at the next counter , Owen .
+9 False , 161 , Owen Wilson
+10 Okay .	Have a nice day !
+
+1 True , 119 , Garrett Hedlund
+2 Hey !	Hello , Garrett Hedlund ! Would you like to have a short strawberry lemonade again ?
+3 I think I will change it this time ! Could I get an iced caramel macchiato ?	Which size ?
+4 Grande , thank you !	Would you like anything else with that ?
+5 No , that is it .	So that would be a grande iced caramel macchiato . Is that right ?
+6 That is correct .	Your order will be ready at the next counter , Garrett .
+7 Bye !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Can I get an iced latte macchiato , please ?	Which size ?
+4 Tall .	Would you like anything else with that ?
+5 Yeah , a whole-grain feta sandwich .	So that would be a tall iced latte macchiato and a whole-grain feta sandwich . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Kristen Bell .	Your order will be ready at the next counter , Kristen .
+8 False , 162 , Kristen Bell
+9 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I want an iced salted caramel mocha , please .	Which size ?
+4 Short .	Would you like anything else with that ?
+5 Just the drink .	So that would be a short iced salted caramel mocha . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Michael Vartan .	Your order will be ready at the next counter , Michael .
+8 False , 163 , Michael Vartan
+9 Enjoy your day !	Have a nice day !
+
+1 True , 106 , Rupert Grint
+2 Hey !	Hello , Rupert Grint ! Would you like to have a tall iced salted caramel mocha and a cinnamon swirl again ?
+3 No , thanks . I want a strawberry lemonade , please .	Which size ?
+4 Grande cup .	Would you like anything else with that ?
+5 No , thank you .	So that would be a grande strawberry lemonade . Is that right ?
+6 That sounds right !	Your order will be ready at the next counter , Rupert .
+7 Bye !	Have a nice day !
+
+1 True , 157 , Chace Crawford
+2 Hey there !	Hello , Chace Crawford ! Would you like to have a grande lemonade again ?
+3 Please !	Your order will be ready at the next counter , Chace .
+4 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Can I get a raspberry lemonade , please ?	Which size ?
+4 Tall cup .	Would you like anything else with that ?
+5 A salted caramel brownie .	So that would be a tall raspberry lemonade and a salted caramel brownie . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Emma Thompson .	Your order will be ready at the next counter , Emma .
+8 False , 164 , Emma Thompson
+9 Okay .	Have a nice day !
+
+1 True , 107 , Christian Kane
+2 Hi !	Hello , Christian Kane ! Would you like to have a grande chai tea latte and a lemon cheesecake again ?
+3 I would .	Your order will be ready at the next counter , Christian .
+4 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 May I have an iced caramel macchiato ?	Which size ?
+4 Grande , thank you !	Would you like anything else with that ?
+5 Can I get a granola bar ?	So that would be a grande iced caramel macchiato and a granola bar . Is that right ?
+6 No , short .	Sure ! So that would be a short iced caramel macchiato and a granola bar . Is that right ?
+7 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+8 It is Alexander Skarsgard .	Your order will be ready at the next counter , Alexander .
+9 False , 165 , Alexander Skarsgard
+10 Alright .	Have a nice day !
+
+1 True , 156 , Matt Damon
+2 Hey there !	Hello , Matt Damon ! Would you like to have a short iced salted caramel mocha again ?
+3 Let's try something different . I want an iced coffee americano , please .	Which size ?
+4 Grande cup .	Would you like anything else with that ?
+5 No , thank you .	So that would be a grande iced coffee americano . Is that right ?
+6 Definitely .	Your order will be ready at the next counter , Matt .
+7 Bye !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 May I have an iced caramel macchiato ?	Which size ?
+4 Grande , thank you !	Would you like anything else with that ?
+5 Just the drink .	So that would be a grande iced caramel macchiato . Is that right ?
+6 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Michael Fassbender .	Your order will be ready at the next counter , Michael .
+8 False , 166 , Michael Fassbender
+9 Enjoy your day !	Have a nice day !
+
+1 True , 154 , Josh Hutcherson
+2 Hello !	Hello , Josh Hutcherson ! Would you like to have a short iced cinnamon dolce latte again ?
+3 I think I will change it this time ! Could I get an iced pumpkin spice chai latte ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Can I get a lemon cheesecake , please ?	So that would be a tall iced pumpkin spice chai latte and a lemon cheesecake . Is that right ?
+6 Definitely .	Your order will be ready at the next counter , Josh .
+7 Okay .	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I would like an orange juice , please .	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 Just the drink , please .	So that would be a short orange juice . Is that right ?
+6 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+7 Jason Segel .	Your order will be ready at the next counter , Jason .
+8 False , 167 , Jason Segel
+9 Bye !	Have a nice day !
+
+1 True , 148 , Robert Downey Jr.
+2 Hey there !	Hello , Robert Downey Jr . ! Would you like to have a tall orange juice again ?
+3 I would .	Your order will be ready at the next counter , Robert .
+4 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I would like an iced cordusio .	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 Yes , a granola bar .	So that would be a short iced cordusio and a granola bar . Is that right ?
+6 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Tina Fey .	Your order will be ready at the next counter , Tina .
+8 False , 168 , Tina Fey
+9 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I would like an orange juice .	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 No , that is it .	So that would be a grande orange juice . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Chiwetel Ejiofor .	Your order will be ready at the next counter , Chiwetel .
+8 False , 169 , Chiwetel Ejiofor
+9 Okay .	Have a nice day !
+
+1 True , 161 , Owen Wilson
+2 Hello !	Hello , Owen Wilson ! Would you like to have a short bottle of water again ?
+3 Yeah .	Your order will be ready at the next counter , Owen .
+4 Have a great day !	Have a nice day !
+
+1 True , 117 , Chris Messina
+2 Hi !	Hello , Chris Messina ! Would you like to have a grande iced latte macchiato and a lemon cheesecake again ?
+3 Maybe not this time ! I would like a peach iced tea .	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 A pbj sandwich , please .	So that would be a grande peach iced tea and a PBJ sandwich . Is that right ?
+6 Actually , I would like a chicken and pesto panini instead .	Sure ! So that would be a grande peach iced tea and a chicken and pesto panini . Is that right ?
+7 Yeap .	Your order will be ready at the next counter , Chris .
+8 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 I would like a pumpkin spice latte .	Which size ?
+4 Short .	Would you like anything else with that ?
+5 Yeah , a granola bar , please .	So that would be a short pumpkin spice latte and a granola bar . Is that right ?
+6 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Anna Kendrick .	Your order will be ready at the next counter , Anna .
+8 False , 170 , Anna Kendrick
+9 Goodbye !	Have a nice day !
+
+1 True , 169 , Chiwetel Ejiofor
+2 Hey !	Hello , Chiwetel Ejiofor ! Would you like to have a grande orange juice again ?
+3 No , I think I will try something else instead . Could I have an iced latte macchiato ?	Which size ?
+4 Tall .	Would you like anything else with that ?
+5 Yes , a dark chocolate bar .	So that would be a tall iced latte macchiato and a dark chocolate bar . Is that right ?
+6 Actually , I would like grande instead .	Sure ! So that would be a grande iced latte macchiato and a dark chocolate bar . Is that right ?
+7 Yeah .	Your order will be ready at the next counter , Chiwetel .
+8 Have a great day !	Have a nice day !
+
+1 True , 127 , Ansel Elgort
+2 Hello !	Hello , Ansel Elgort ! Would you like to have a short iced salted caramel mocha and a strawberry cheesecake again ?
+3 Exactly !	Your order will be ready at the next counter , Ansel .
+4 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Could I have a lemonade , please ?	Which size ?
+4 Grande cup .	Would you like anything else with that ?
+5 No , that is it .	So that would be a grande lemonade . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Paul Rudd .	Your order will be ready at the next counter , Paul .
+8 False , 171 , Paul Rudd
+9 Thanks !	Have a nice day !
+
+1 True , 155 , Deborah Ann Woll
+2 Hi !	Hello , Deborah Ann Woll ! Would you like to have a grande iced coffee americano again ?
+3 Let's try something different . Can I have a chai tea latte ?	Which size ?
+4 Grande cup .	Would you like anything else with that ?
+5 Can I get a vegan wrap ?	So that would be a grande chai tea latte and a vegan wrap . Is that right ?
+6 Sounds good !	Your order will be ready at the next counter , Deborah .
+7 Enjoy your day !	Have a nice day !
+
+1 True , 134 , Kristen Wiig
+2 Hey !	Hello , Kristen Wiig ! Would you like to have a short iced coffee americano and a tomato and mozzarella panini again ?
+3 Please !	Your order will be ready at the next counter , Kristen .
+4 Alright .	Have a nice day !
+
+1 True , 110 , Kat Graham
+2 Hey !	Hello , Kat Graham ! Would you like to have a short lemonade and a lemon cheesecake again ?
+3 Yeah .	Your order will be ready at the next counter , Kat .
+4 Okay .	Have a nice day !
+
+1 True , 170 , Anna Kendrick
+2 Hey !	Hello , Anna Kendrick ! Would you like to have a short pumpkin spice latte and a granola bar again ?
+3 Alright .	Your order will be ready at the next counter , Anna .
+4 Cheers !	Have a nice day !
+
+1 True , 160 , Mark Feuerstein
+2 Hi !	Hello , Mark Feuerstein ! Would you like to have a tall peach iced tea and a lemon cheesecake again ?
+3 No , I think I will try something else instead . Could I get a bottle of water , please ?	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 Could I get a vegetable sandwich ?	So that would be a grande bottle of water and a vegetable sandwich . Is that right ?
+6 Can I have a chocolate brownie , please ?	Sure ! So that would be a grande bottle of water and a chocolate brownie . Is that right ?
+7 Can I get a salted caramel brownie ?	Sure ! So that would be a grande bottle of water and a salted caramel brownie . Is that right ?
+8 Indeed !	Your order will be ready at the next counter , Mark .
+9 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 May I have an iced cinnamon dolce latte ?	Which size ?
+4 Short would do .	Would you like anything else with that ?
+5 A pbj sandwich .	So that would be a short iced cinnamon dolce latte and a PBJ sandwich . Is that right ?
+6 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Eddie McClintock .	Your order will be ready at the next counter , Eddie .
+8 False , 172 , Eddie McClintock
+9 Enjoy your day !	Have a nice day !
+
+1 True , 130 , Chandra Wilson
+2 Hey !	Hello , Chandra Wilson ! Would you like to have a tall peach iced tea and a raspberry cheesecake again ?
+3 Let's try something different . I would like a chai tea latte .	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Yes , a white chocolate cheesecake .	So that would be a tall chai tea latte and a white chocolate cheesecake . Is that right ?
+6 Yeap .	Your order will be ready at the next counter , Chandra .
+7 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Could I get a pumpkin spice latte , please ?	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 I am good .	So that would be a grande pumpkin spice latte . Is that right ?
+6 Can I get tall instead ?	Sure ! So that would be a tall pumpkin spice latte . Is that right ?
+7 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+8 Anna Gunn .	Your order will be ready at the next counter , Anna .
+9 False , 173 , Anna Gunn
+10 Cheers !	Have a nice day !
+
+1 True , 131 , Ted Danson
+2 Hey there !	Hello , Ted Danson ! Would you like to have a grande soy latte and a cheese toastie again ?
+3 I will try something else . Can I have a chai tea latte , please ?	Which size ?
+4 Tall cup .	Would you like anything else with that ?
+5 That would be it .	So that would be a tall chai tea latte . Is that right ?
+6 Actually , I would like grande instead .	Sure ! So that would be a grande chai tea latte . Is that right ?
+7 Yeah .	Your order will be ready at the next counter , Ted .
+8 Alright .	Have a nice day !
+
+1 True , 129 , Olga Kurylenko
+2 Hi !	Hello , Olga Kurylenko ! Would you like to have a tall peach iced tea again ?
+3 No , I think I will try something else instead . Could I have an iced cordusio , please ?	Which size ?
+4 Short , please .	Would you like anything else with that ?
+5 Ah yes , a chicken and pesto panini .	So that would be a short iced cordusio and a chicken and pesto panini . Is that right ?
+6 That is correct .	Your order will be ready at the next counter , Olga .
+7 Cheers !	Have a nice day !
+
+1 True , 133 , David Spade
+2 Hey !	Hello , David Spade ! Would you like to have a short lemonade and a salted caramel brownie again ?
+3 Definitely !	Your order will be ready at the next counter , David .
+4 Alright .	Have a nice day !
+
+1 True , 159 , Lisa Whelchel
+2 Hi !	Hello , Lisa Whelchel ! Would you like to have a short raspberry lemonade again ?
+3 I think I will change it this time ! Can I get an iced coffee mocha ?	Which size ?
+4 Short , thank you !	Would you like anything else with that ?
+5 Hmm , a dark chocolate bar .	So that would be a short iced coffee mocha and a dark chocolate bar . Is that right ?
+6 Can I get a salted caramel mocha ?	Sure ! So that would be a short salted caramel mocha and a dark chocolate bar . Is that right ?
+7 On second thought , I would have a cinnamon latte instead .	Sure ! So that would be a short cinnamon latte and a dark chocolate bar . Is that right ?
+8 That is correct .	Your order will be ready at the next counter , Lisa .
+9 Enjoy your day !	Have a nice day !
+
+1 True , 136 , Scott Caan
+2 Hey there !	Hello , Scott Caan ! Would you like to have a grande lemonade again ?
+3 Nice of you to remember ! I would , yes .	Your order will be ready at the next counter , Scott .
+4 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Can I have an iced coffee americano ?	Which size ?
+4 Tall , please .	Would you like anything else with that ?
+5 No , that is it .	So that would be a tall iced coffee americano . Is that right ?
+6 Erm , I would like short actually .	Sure ! So that would be a short iced coffee americano . Is that right ?
+7 On second thought , I would have a soy latte instead .	Sure ! So that would be a short soy latte . Is that right ?
+8 Yes !	Great ! Can I take your name ? api_call getCustomerName
+9 Fred Armisen .	Your order will be ready at the next counter , Fred .
+10 False , 174 , Fred Armisen
+11 Goodbye !	Have a nice day !
+
+1 True , 167 , Jason Segel
+2 Hey there !	Hello , Jason Segel ! Would you like to have a short orange juice again ?
+3 Sure .	Your order will be ready at the next counter , Jason .
+4 Cheers !	Have a nice day !
+
+1 True , 118 , Beth Behrs
+2 Hi !	Hello , Beth Behrs ! Would you like to have a tall iced cinnamon dolce latte and a PBJ sandwich again ?
+3 I would .	Your order will be ready at the next counter , Beth .
+4 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Could I get a cinnamon latte , please ?	Which size ?
+4 Short would do .	Would you like anything else with that ?
+5 Can I get a PBJ sandwich , please ?	So that would be a short cinnamon latte and a PBJ sandwich . Is that right ?
+6 Sorry , I would like to change that to a whole-grain feta sandwich .	Sure ! So that would be a short cinnamon latte and a whole-grain feta sandwich . Is that right ?
+7 Actually , I would like tall instead .	Sure ! So that would be a tall cinnamon latte and a whole-grain feta sandwich . Is that right ?
+8 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+9 Mads Mikkelsen .	Your order will be ready at the next counter , Mads .
+10 False , 175 , Mads Mikkelsen
+11 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I want a strawberry lemonade .	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 That would be it .	So that would be a grande strawberry lemonade . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 Poppy Montgomery .	Your order will be ready at the next counter , Poppy .
+8 False , 176 , Poppy Montgomery
+9 Have a nice day !	Have a nice day !
+
+1 True , 101 , Ashton Kutcher
+2 Hey !	Hello , Ashton Kutcher ! Would you like to have a grande salted caramel mocha and a whole-grain feta sandwich again ?
+3 Yeap !	Your order will be ready at the next counter , Ashton .
+4 Okay .	Have a nice day !
+
+1 True , 175 , Mads Mikkelsen
+2 Hello !	Hello , Mads Mikkelsen ! Would you like to have a tall cinnamon latte and a whole-grain feta sandwich again ?
+3 Maybe not this time ! A raspberry lemonade .	Which size ?
+4 Tall cup .	Would you like anything else with that ?
+5 I would like an egg sandwich , please .	So that would be a tall raspberry lemonade and an egg sandwich . Is that right ?
+6 Can I have grande ?	Sure ! So that would be a grande raspberry lemonade and an egg sandwich . Is that right ?
+7 Sounds good !	Your order will be ready at the next counter , Mads .
+8 Have a great day !	Have a nice day !
+
+1 True , 126 , Laurie Holden
+2 Hey there !	Hello , Laurie Holden ! Would you like to have a short iced pumpkin spice chai latte and a vegan wrap again ?
+3 I think I will change it this time ! Could I have an iced caramel macchiato , please ?	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 No .	So that would be a short iced caramel macchiato . Is that right ?
+6 Sounds good !	Your order will be ready at the next counter , Laurie .
+7 Alright .	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 An orange juice , please .	Which size ?
+4 Tall would do .	Would you like anything else with that ?
+5 No , thank you .	So that would be a tall orange juice . Is that right ?
+6 On second thought , I would have short instead .	Sure ! So that would be a short orange juice . Is that right ?
+7 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+8 It is Grant Gustin .	Your order will be ready at the next counter , Grant .
+9 False , 177 , Grant Gustin
+10 Cheers !	Have a nice day !
+
+1 True , 112 , Danai Gurira
+2 Hello !	Hello , Danai Gurira ! Would you like to have a tall iced pumpkin spice chai latte and a milk chocolate bar again ?
+3 Nice of you to remember ! But I will take something else . Could I have an iced latte macchiato , please ?	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 I am good .	So that would be a grande iced latte macchiato . Is that right ?
+6 Can I get tall , please ?	Sure ! So that would be a tall iced latte macchiato . Is that right ?
+7 No , an iced cinnamon dolce latte .	Sure ! So that would be a tall iced cinnamon dolce latte . Is that right ?
+8 Definitely .	Your order will be ready at the next counter , Danai .
+9 Okay .	Have a nice day !
+
+1 True , 173 , Anna Gunn
+2 Hey there !	Hello , Anna Gunn ! Would you like to have a tall pumpkin spice latte again ?
+3 No , thanks . May I get an iced caramel macchiato ?	Which size ?
+4 Short would do .	Would you like anything else with that ?
+5 Yeah , a whole-grain feta sandwich .	So that would be a short iced caramel macchiato and a whole-grain feta sandwich . Is that right ?
+6 Can I get a white chocolate cheesecake , please ?	Sure ! So that would be a short iced caramel macchiato and a white chocolate cheesecake . Is that right ?
+7 Let's change iced caramel macchiato to an iced pumpkin spice chai latte instead .	Sure ! So that would be a short iced pumpkin spice chai latte and a white chocolate cheesecake . Is that right ?
+8 Yeap .	Your order will be ready at the next counter , Anna .
+9 Cheers !	Have a nice day !
+
+1 True , 150 , Marion Cotillard
+2 Hi !	Hello , Marion Cotillard ! Would you like to have a grande chai tea latte again ?
+3 I will try something else . Could I get a bottle of water ?	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 Yeah , a granola bar , please .	So that would be a short bottle of water and a granola bar . Is that right ?
+6 Sorry , I would like to change that to an iced pumpkin spice latte .	Sure ! So that would be a short iced pumpkin spice latte and a granola bar . Is that right ?
+7 Indeed !	Your order will be ready at the next counter , Marion .
+8 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I get an iced cinnamon dolce latte ?	Which size ?
+4 Short .	Would you like anything else with that ?
+5 That is it .	So that would be a short iced cinnamon dolce latte . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Carey Mulligan .	Your order will be ready at the next counter , Carey .
+8 False , 178 , Carey Mulligan
+9 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I get an iced cordusio ?	Which size ?
+4 Short would do .	Would you like anything else with that ?
+5 Just the drink .	So that would be a short iced cordusio . Is that right ?
+6 Can I get grande ?	Sure ! So that would be a grande iced cordusio . Is that right ?
+7 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+8 Hayden Christensen .	Your order will be ready at the next counter , Hayden .
+9 False , 179 , Hayden Christensen
+10 Okay .	Have a nice day !
+
+1 True , 139 , Suzanne Somers
+2 Hi !	Hello , Suzanne Somers ! Would you like to have a tall iced coffee americano and a lemon cheesecake again ?
+3 Let's try something different . A strawberry lemonade , please .	Which size ?
+4 Tall would do .	Would you like anything else with that ?
+5 A strawberry cheesecake .	So that would be a tall strawberry lemonade and a strawberry cheesecake . Is that right ?
+6 Definitely .	Your order will be ready at the next counter , Suzanne .
+7 Alright .	Have a nice day !
+
+1 True , 141 , Jesse Williams
+2 Hey !	Hello , Jesse Williams ! Would you like to have a grande iced cinnamon dolce latte again ?
+3 Nice of you to remember ! But I will take something else . I want a raspberry lemonade .	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 May I get a cheese toastie ?	So that would be a tall raspberry lemonade and a cheese toastie . Is that right ?
+6 Actually , I would like a raspberry cheesecake instead .	Sure ! So that would be a tall raspberry lemonade and a raspberry cheesecake . Is that right ?
+7 On second thought , I would have a fruit mix instead .	Sure ! So that would be a tall raspberry lemonade and a fruit mix . Is that right ?
+8 Definitely .	Your order will be ready at the next counter , Jesse .
+9 Bye !	Have a nice day !
+
+1 True , 174 , Fred Armisen
+2 Hey there !	Hello , Fred Armisen ! Would you like to have a short soy latte again ?
+3 You know me better !	Your order will be ready at the next counter , Fred .
+4 Have a nice day !	Have a nice day !
+
+1 True , 152 , Sean Murray
+2 Hi !	Hello , Sean Murray ! Would you like to have a grande raspberry lemonade and a chocolate brownie again ?
+3 That will do .	Your order will be ready at the next counter , Sean .
+4 Thanks !	Have a nice day !
+
+1 True , 122 , Jessica Biel
+2 Hi !	Hello , Jessica Biel ! Would you like to have a grande lemonade again ?
+3 That will do .	Your order will be ready at the next counter , Jessica .
+4 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I want an iced latte macchiato .	Which size ?
+4 Short , please .	Would you like anything else with that ?
+5 No .	So that would be a short iced latte macchiato . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Eric Dane .	Your order will be ready at the next counter , Eric .
+8 False , 180 , Eric Dane
+9 Thank you !	Have a nice day !
+
+1 True , 158 , Amy Brenneman
+2 Hi !	Hello , Amy Brenneman ! Would you like to have a short lemonade again ?
+3 Nice of you to remember ! I would , yes .	Your order will be ready at the next counter , Amy .
+4 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Can I have a bottle of water , please ?	Which size ?
+4 Short would do .	Would you like anything else with that ?
+5 That would be it .	So that would be a short bottle of water . Is that right ?
+6 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+7 James Roday .	Your order will be ready at the next counter , James .
+8 False , 181 , James Roday
+9 Goodbye !	Have a nice day !
+
+1 True , 166 , Michael Fassbender
+2 Hey there !	Hello , Michael Fassbender ! Would you like to have a grande iced caramel macchiato again ?
+3 That will do .	Your order will be ready at the next counter , Michael .
+4 Thanks !	Have a nice day !
+
+1 True , 128 , Emma Watson
+2 Hi !	Hello , Emma Watson ! Would you like to have a grande iced coffee americano again ?
+3 That's precisely it !	Your order will be ready at the next counter , Emma .
+4 Bye !	Have a nice day !
+
+1 True , 140 , Marg Helgenberger
+2 Hey there !	Hello , Marg Helgenberger ! Would you like to have a short cinnamon latte and a white chocolate cheesecake again ?
+3 I'm becoming predictable ! But that would do , yes !	Your order will be ready at the next counter , Marg .
+4 Goodbye !	Have a nice day !
+
+1 True , 163 , Michael Vartan
+2 Hello !	Hello , Michael Vartan ! Would you like to have a short iced salted caramel mocha again ?
+3 I'm becoming predictable ! But that would do , yes !	Your order will be ready at the next counter , Michael .
+4 Bye !	Have a nice day !
+
+1 True , 165 , Alexander Skarsgard
+2 Hey !	Hello , Alexander Skarsgard ! Would you like to have a short iced caramel macchiato and a granola bar again ?
+3 That's precisely it !	Your order will be ready at the next counter , Alexander .
+4 Bye !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 A lemonade .	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 A cinnamon swirl , please .	So that would be a grande lemonade and a cinnamon swirl . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Lyndsy Fonseca .	Your order will be ready at the next counter , Lyndsy .
+8 False , 182 , Lyndsy Fonseca
+9 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Can I have an iced caramel macchiato , please ?	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 No .	So that would be a grande iced caramel macchiato . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 Ron Perlman .	Your order will be ready at the next counter , Ron .
+8 False , 183 , Ron Perlman
+9 Have a nice day !	Have a nice day !
+
+1 True , 183 , Ron Perlman
+2 Hey there !	Hello , Ron Perlman ! Would you like to have a grande iced caramel macchiato again ?
+3 Alright .	Your order will be ready at the next counter , Ron .
+4 Bye !	Have a nice day !
+
+1 True , 172 , Eddie McClintock
+2 Hey !	Hello , Eddie McClintock ! Would you like to have a short iced cinnamon dolce latte and a PBJ sandwich again ?
+3 Maybe not this time ! Can I have an iced coffee americano ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Just the drink .	So that would be a tall iced coffee americano . Is that right ?
+6 Definitely .	Your order will be ready at the next counter , Eddie .
+7 Goodbye !	Have a nice day !
+
+1 True , 125 , Sandra Bullock
+2 Hey !	Hello , Sandra Bullock ! Would you like to have a short iced coffee mocha and a cinnamon swirl again ?
+3 You got me ! Yes , please .	Your order will be ready at the next counter , Sandra .
+4 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Could I get a pumpkin spice latte , please ?	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 Could I get a cheese toastie , please ?	So that would be a grande pumpkin spice latte and a cheese toastie . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Cory Monteith .	Your order will be ready at the next counter , Cory .
+8 False , 184 , Cory Monteith
+9 Thank you !	Have a nice day !
+
+1 True , 164 , Emma Thompson
+2 Hey !	Hello , Emma Thompson ! Would you like to have a tall raspberry lemonade and a salted caramel brownie again ?
+3 Yes , thank you !	Your order will be ready at the next counter , Emma .
+4 Alright .	Have a nice day !
+
+1 True , 142 , Chris O'Donnell
+2 Hey there !	Hello , Chris O'Donnell ! Would you like to have a grande peach iced tea and a cinnamon swirl again ?
+3 No , not today . I want a soy latte .	Which size ?
+4 Grande cup .	Would you like anything else with that ?
+5 Yeah , a raspberry cheesecake , please .	So that would be a grande soy latte and a raspberry cheesecake . Is that right ?
+6 Can I have an iced salted caramel mocha instead ?	Sure ! So that would be a grande iced salted caramel mocha and a raspberry cheesecake . Is that right ?
+7 On second thought , I would have an iced latte macchiato instead .	Sure ! So that would be a grande iced latte macchiato and a raspberry cheesecake . Is that right ?
+8 Definitely .	Your order will be ready at the next counter , Chris .
+9 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 I want an orange juice , please .	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Can I get a cheese toastie ?	So that would be a tall orange juice and a cheese toastie . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 Travis Fimmel .	Your order will be ready at the next counter , Travis .
+8 False , 185 , Travis Fimmel
+9 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 I would like an iced pumpkin spice latte .	Which size ?
+4 Tall , please .	Would you like anything else with that ?
+5 That is it .	So that would be a tall iced pumpkin spice latte . Is that right ?
+6 May I have an iced coffee mocha ?	Sure ! So that would be a tall iced coffee mocha . Is that right ?
+7 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+8 Melissa Rauch .	Your order will be ready at the next counter , Melissa .
+9 False , 186 , Melissa Rauch
+10 Enjoy your day !	Have a nice day !
+
+1 True , 184 , Cory Monteith
+2 Hello !	Hello , Cory Monteith ! Would you like to have a grande pumpkin spice latte and a cheese toastie again ?
+3 I will try something else . Can I have a raspberry lemonade , please ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 That would be it .	So that would be a tall raspberry lemonade . Is that right ?
+6 Sounds good !	Your order will be ready at the next counter , Cory .
+7 Goodbye !	Have a nice day !
+
+1 True , 144 , Gina Bellman
+2 Hello !	Hello , Gina Bellman ! Would you like to have a grande iced pumpkin spice latte and a vegan wrap again ?
+3 I think I will change it this time ! I would like an iced cinnamon dolce latte .	Which size ?
+4 Grande would do .	Would you like anything else with that ?
+5 I would like a milk chocolate bar , please .	So that would be a grande iced cinnamon dolce latte and a milk chocolate bar . Is that right ?
+6 Yeap .	Your order will be ready at the next counter , Gina .
+7 Alright .	Have a nice day !
+
+1 True , 178 , Carey Mulligan
+2 Hey !	Hello , Carey Mulligan ! Would you like to have a short iced cinnamon dolce latte again ?
+3 What a memory ? I would , yes !	Your order will be ready at the next counter , Carey .
+4 Have a great day !	Have a nice day !
+
+1 True , 147 , Todd Bridges
+2 Hello !	Hello , Todd Bridges ! Would you like to have a short raspberry lemonade again ?
+3 Yeap !	Your order will be ready at the next counter , Todd .
+4 Cheers !	Have a nice day !
+
+1 True , 151 , Simon Pegg
+2 Hey there !	Hello , Simon Pegg ! Would you like to have a tall iced pumpkin spice chai latte and a chocolate brownie again ?
+3 Definitely !	Your order will be ready at the next counter , Simon .
+4 Thank you !	Have a nice day !
+
+1 True , 143 , Leslie Mann
+2 Hey there !	Hello , Leslie Mann ! Would you like to have a tall peach iced tea and an egg sandwich again ?
+3 I will try something else . Can I have a soy latte , please ?	Which size ?
+4 Short , please .	Would you like anything else with that ?
+5 I would like a PBJ sandwich .	So that would be a short soy latte and a PBJ sandwich . Is that right ?
+6 That sounds right !	Your order will be ready at the next counter , Leslie .
+7 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 A salted caramel mocha .	Which size ?
+4 Short .	Would you like anything else with that ?
+5 A raspberry cheesecake .	So that would be a short salted caramel mocha and a raspberry cheesecake . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Terrence Howard .	Your order will be ready at the next counter , Terrence .
+8 False , 187 , Terrence Howard
+9 Goodbye !	Have a nice day !
+
+1 True , 187 , Terrence Howard
+2 Hello !	Hello , Terrence Howard ! Would you like to have a short salted caramel mocha and a raspberry cheesecake again ?
+3 Sure .	Your order will be ready at the next counter , Terrence .
+4 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Could I have a peach iced tea , please ?	Which size ?
+4 Tall , please .	Would you like anything else with that ?
+5 That would be it .	So that would be a tall peach iced tea . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Megan Fox .	Your order will be ready at the next counter , Megan .
+8 False , 188 , Megan Fox
+9 Thank you !	Have a nice day !
+
+1 True , 181 , James Roday
+2 Hi !	Hello , James Roday ! Would you like to have a short bottle of water again ?
+3 Yes , thank you !	Your order will be ready at the next counter , James .
+4 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Could I get a salted caramel mocha , please ?	Which size ?
+4 Tall would do .	Would you like anything else with that ?
+5 No , thank you .	So that would be a tall salted caramel mocha . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 Brooke Elliott .	Your order will be ready at the next counter , Brooke .
+8 False , 189 , Brooke Elliott
+9 Goodbye !	Have a nice day !
+
+1 True , 182 , Lyndsy Fonseca
+2 Hey there !	Hello , Lyndsy Fonseca ! Would you like to have a grande lemonade and a cinnamon swirl again ?
+3 What a memory ? I would , yes !	Your order will be ready at the next counter , Lyndsy .
+4 Have a nice day !	Have a nice day !
+
+1 True , 116 , Busy Philipps
+2 Hey !	Hello , Busy Philipps ! Would you like to have a tall iced latte macchiato and a tomato and mozzarella panini again ?
+3 No , thanks . Can I get a strawberry lemonade ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Yes , a milk chocolate bar , please .	So that would be a tall strawberry lemonade and a milk chocolate bar . Is that right ?
+6 Yeah .	Your order will be ready at the next counter , Busy .
+7 Thank you !	Have a nice day !
+
+1 True , 168 , Tina Fey
+2 Hi !	Hello , Tina Fey ! Would you like to have a short iced cordusio and a granola bar again ?
+3 I think I will change it this time ! Can I get an iced salted caramel mocha , please ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 No , that is it .	So that would be a tall iced salted caramel mocha . Is that right ?
+6 Yeah .	Your order will be ready at the next counter , Tina .
+7 Enjoy your day !	Have a nice day !
+
+1 True , 137 , Emma Stone
+2 Hello !	Hello , Emma Stone ! Would you like to have a tall pumpkin spice latte again ?
+3 I think I will change it this time ! I want an iced caramel macchiato , please .	Which size ?
+4 Tall , please .	Would you like anything else with that ?
+5 Just the drink .	So that would be a tall iced caramel macchiato . Is that right ?
+6 No , short .	Sure ! So that would be a short iced caramel macchiato . Is that right ?
+7 Can I get grande ?	Sure ! So that would be a grande iced caramel macchiato . Is that right ?
+8 Yes !	Your order will be ready at the next counter , Emma .
+9 Have a great day !	Have a nice day !
+
+1 True , 188 , Megan Fox
+2 Hey !	Hello , Megan Fox ! Would you like to have a tall peach iced tea again ?
+3 Yes .	Your order will be ready at the next counter , Megan .
+4 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 May I have a lemonade ?	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 No , thank you .	So that would be a grande lemonade . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Reginald VelJohnson .	Your order will be ready at the next counter , Reginald .
+8 False , 190 , Reginald VelJohnson
+9 Have a great day !	Have a nice day !
+
+1 True , 176 , Poppy Montgomery
+2 Hi !	Hello , Poppy Montgomery ! Would you like to have a grande strawberry lemonade again ?
+3 Yes , thanks !	Your order will be ready at the next counter , Poppy .
+4 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Could I have an iced cinnamon dolce latte , please ?	Which size ?
+4 Grande , thank you !	Would you like anything else with that ?
+5 Can I get a chocolate brownie , please ?	So that would be a grande iced cinnamon dolce latte and a chocolate brownie . Is that right ?
+6 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Chandler Riggs .	Your order will be ready at the next counter , Chandler .
+8 False , 191 , Chandler Riggs
+9 Goodbye !	Have a nice day !
+
+1 True , 189 , Brooke Elliott
+2 Hello !	Hello , Brooke Elliott ! Would you like to have a tall salted caramel mocha again ?
+3 You got me ! Yes , please .	Your order will be ready at the next counter , Brooke .
+4 Cheers !	Have a nice day !
+
+1 True , 179 , Hayden Christensen
+2 Hello !	Hello , Hayden Christensen ! Would you like to have a grande iced cordusio again ?
+3 No . An iced caramel macchiato , please .	Which size ?
+4 Short .	Would you like anything else with that ?
+5 Ah yes , a cinnamon swirl .	So that would be a short iced caramel macchiato and a cinnamon swirl . Is that right ?
+6 Can I have tall ?	Sure ! So that would be a tall iced caramel macchiato and a cinnamon swirl . Is that right ?
+7 Yes !	Your order will be ready at the next counter , Hayden .
+8 Bye !	Have a nice day !
+
+1 True , 145 , Josh Charles
+2 Hello !	Hello , Josh Charles ! Would you like to have a grande iced latte macchiato and a lemon cheesecake again ?
+3 Yes , thank you !	Your order will be ready at the next counter , Josh .
+4 Bye !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I get a peach iced tea , please ?	Which size ?
+4 Short , thank you !	Would you like anything else with that ?
+5 I am good .	So that would be a short peach iced tea . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 Claire Danes .	Your order will be ready at the next counter , Claire .
+8 False , 192 , Claire Danes
+9 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I get an orange juice , please ?	Which size ?
+4 Grande cup .	Would you like anything else with that ?
+5 Yes , a chicken and pesto panini , please .	So that would be a grande orange juice and a chicken and pesto panini . Is that right ?
+6 No , a bottle of water .	Sure ! So that would be a grande bottle of water and a chicken and pesto panini . Is that right ?
+7 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+8 Kit Harington .	Your order will be ready at the next counter , Kit .
+9 False , 193 , Kit Harington
+10 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Can I get an iced latte macchiato ?	Which size ?
+4 Tall .	Would you like anything else with that ?
+5 That would be it .	So that would be a tall iced latte macchiato . Is that right ?
+6 Sorry , I would like to change that to short .	Sure ! So that would be a short iced latte macchiato . Is that right ?
+7 Yes !	Great ! Can I take your name ? api_call getCustomerName
+8 Sophie Turner .	Your order will be ready at the next counter , Sophie .
+9 False , 194 , Sophie Turner
+10 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I would like an iced coffee mocha , please .	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 No .	So that would be a grande iced coffee mocha . Is that right ?
+6 Can I have tall , please ?	Sure ! So that would be a tall iced coffee mocha . Is that right ?
+7 Hmm , can I change to short instead ?	Sure ! So that would be a short iced coffee mocha . Is that right ?
+8 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+9 Bradley Cooper .	Your order will be ready at the next counter , Bradley .
+10 False , 195 , Bradley Cooper
+11 Have a nice day !	Have a nice day !
+
+1 True , 171 , Paul Rudd
+2 Hi !	Hello , Paul Rudd ! Would you like to have a grande lemonade again ?
+3 No , not today . Could I have a peach iced tea ?	Which size ?
+4 Short , thank you !	Would you like anything else with that ?
+5 A strawberry cheesecake .	So that would be a short peach iced tea and a strawberry cheesecake . Is that right ?
+6 Can I have a cinnamon swirl , please ?	Sure ! So that would be a short peach iced tea and a cinnamon swirl . Is that right ?
+7 Can I get an iced coffee mocha instead ?	Sure ! So that would be a short iced coffee mocha and a cinnamon swirl . Is that right ?
+8 Sounds good !	Your order will be ready at the next counter , Paul .
+9 Thank you !	Have a nice day !
+
+1 True , 193 , Kit Harington
+2 Hey !	Hello , Kit Harington ! Would you like to have a grande bottle of water and a chicken and pesto panini again ?
+3 No , thanks . I would like an iced cordusio , please .	Which size ?
+4 Grande cup .	Would you like anything else with that ?
+5 Just the drink , please .	So that would be a grande iced cordusio . Is that right ?
+6 Yeap .	Your order will be ready at the next counter , Kit .
+7 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I get a bottle of water , please ?	Which size ?
+4 Tall .	Would you like anything else with that ?
+5 Ah yes , a white chocolate cheesecake , please .	So that would be a tall bottle of water and a white chocolate cheesecake . Is that right ?
+6 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Daniel Radcliffe .	Your order will be ready at the next counter , Daniel .
+8 False , 196 , Daniel Radcliffe
+9 Thanks !	Have a nice day !
+
+1 True , 190 , Reginald VelJohnson
+2 Hey !	Hello , Reginald VelJohnson ! Would you like to have a grande lemonade again ?
+3 No . I would like an orange juice .	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 That is it .	So that would be a tall orange juice . Is that right ?
+6 Oh I am sorry , but I would like a pumpkin spice latte instead .	Sure ! So that would be a tall pumpkin spice latte . Is that right ?
+7 Actually , I would like grande instead .	Sure ! So that would be a grande pumpkin spice latte . Is that right ?
+8 Yeah .	Your order will be ready at the next counter , Reginald .
+9 Have a great day !	Have a nice day !
+
+1 True , 149 , Maisie Williams
+2 Hey !	Hello , Maisie Williams ! Would you like to have a tall pumpkin spice latte again ?
+3 No , not today . Could I have a bottle of water , please ?	Which size ?
+4 Grande .	Would you like anything else with that ?
+5 No , that is it .	So that would be a grande bottle of water . Is that right ?
+6 Yeah .	Your order will be ready at the next counter , Maisie .
+7 Thank you !	Have a nice day !
+
+1 True , 185 , Travis Fimmel
+2 Hey there !	Hello , Travis Fimmel ! Would you like to have a tall orange juice and a cheese toastie again ?
+3 No , not today . May I get an iced salted caramel mocha ?	Which size ?
+4 Short .	Would you like anything else with that ?
+5 A milk chocolate bar , please .	So that would be a short iced salted caramel mocha and a milk chocolate bar . Is that right ?
+6 Indeed !	Your order will be ready at the next counter , Travis .
+7 Alright .	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Could I have a strawberry lemonade ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Just the drink , please .	So that would be a tall strawberry lemonade . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Seth Rogen .	Your order will be ready at the next counter , Seth .
+8 False , 197 , Seth Rogen
+9 Okay .	Have a nice day !
+
+1 True , 194 , Sophie Turner
+2 Hey there !	Hello , Sophie Turner ! Would you like to have a short iced latte macchiato again ?
+3 I will try something else . Could I have an iced coffee americano ?	Which size ?
+4 Grande would do .	Would you like anything else with that ?
+5 I would like a strawberry cheesecake .	So that would be a grande iced coffee americano and a strawberry cheesecake . Is that right ?
+6 I would like a raspberry cheesecake .	Sure ! So that would be a grande iced coffee americano and a raspberry cheesecake . Is that right ?
+7 Yeah .	Your order will be ready at the next counter , Sophie .
+8 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Could I get an iced coffee mocha ?	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 May I get a strawberry cheesecake ?	So that would be a short iced coffee mocha and a strawberry cheesecake . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 Ewan McGregor .	Your order will be ready at the next counter , Ewan .
+8 False , 198 , Ewan McGregor
+9 Have a great day !	Have a nice day !
+
+1 True , 162 , Kristen Bell
+2 Hi !	Hello , Kristen Bell ! Would you like to have a tall iced latte macchiato and a whole-grain feta sandwich again ?
+3 Let's try something different . I would like a raspberry lemonade , please .	Which size ?
+4 Grande would do .	Would you like anything else with that ?
+5 Ah yes , a PBJ sandwich , please .	So that would be a grande raspberry lemonade and a PBJ sandwich . Is that right ?
+6 That is correct .	Your order will be ready at the next counter , Kristen .
+7 Thanks !	Have a nice day !
+
+1 True , 195 , Bradley Cooper
+2 Hello !	Hello , Bradley Cooper ! Would you like to have a short iced coffee mocha again ?
+3 Nice of you to remember ! But I will take something else . Could I have a lemonade ?	Which size ?
+4 Short cup .	Would you like anything else with that ?
+5 Just the drink .	So that would be a short lemonade . Is that right ?
+6 Yeah .	Your order will be ready at the next counter , Bradley .
+7 Alright .	Have a nice day !
+
+1 True , 192 , Claire Danes
+2 Hello !	Hello , Claire Danes ! Would you like to have a short peach iced tea again ?
+3 Alright .	Your order will be ready at the next counter , Claire .
+4 Cheers !	Have a nice day !
+
+1 True , 198 , Ewan McGregor
+2 Hey !	Hello , Ewan McGregor ! Would you like to have a short iced coffee mocha and a strawberry cheesecake again ?
+3 Nice of you to remember ! But I will take something else . Could I have a raspberry lemonade , please ?	Which size ?
+4 Short , thank you !	Would you like anything else with that ?
+5 No .	So that would be a short raspberry lemonade . Is that right ?
+6 Can I get tall ?	Sure ! So that would be a tall raspberry lemonade . Is that right ?
+7 Oh I am sorry , but I would like an iced cordusio instead .	Sure ! So that would be a tall iced cordusio . Is that right ?
+8 Yes !	Your order will be ready at the next counter , Ewan .
+9 Goodbye !	Have a nice day !
+
+1 True , 135 , Eddie Redmayne
+2 Hey there !	Hello , Eddie Redmayne ! Would you like to have a short cinnamon latte again ?
+3 No , not today . Could I get an iced cinnamon dolce latte ?	Which size ?
+4 Grande , please .	Would you like anything else with that ?
+5 That would be it .	So that would be a grande iced cinnamon dolce latte . Is that right ?
+6 No , I would like an iced caramel macchiato .	Sure ! So that would be a grande iced caramel macchiato . Is that right ?
+7 Hmm , can I change to an iced coffee mocha instead ?	Sure ! So that would be a grande iced coffee mocha . Is that right ?
+8 Sounds good !	Your order will be ready at the next counter , Eddie .
+9 Bye !	Have a nice day !
+
+1 True , 177 , Grant Gustin
+2 Hello !	Hello , Grant Gustin ! Would you like to have a short orange juice again ?
+3 You know me better !	Your order will be ready at the next counter , Grant .
+4 Okay .	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I get an iced pumpkin spice chai latte ?	Which size ?
+4 Tall .	Would you like anything else with that ?
+5 No .	So that would be a tall iced pumpkin spice chai latte . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 Victor Garber .	Your order will be ready at the next counter , Victor .
+8 False , 199 , Victor Garber
+9 Okay .	Have a nice day !
+
+1 True , 186 , Melissa Rauch
+2 Hi !	Hello , Melissa Rauch ! Would you like to have a tall iced coffee mocha again ?
+3 Maybe not this time ! May I get an iced cinnamon dolce latte ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 Yes , a fruit mix .	So that would be a tall iced cinnamon dolce latte and a fruit mix . Is that right ?
+6 No , I would like short .	Sure ! So that would be a short iced cinnamon dolce latte and a fruit mix . Is that right ?
+7 Can I get a white chocolate cheesecake , please ?	Sure ! So that would be a short iced cinnamon dolce latte and a white chocolate cheesecake . Is that right ?
+8 Definitely .	Your order will be ready at the next counter , Melissa .
+9 Enjoy your day !	Have a nice day !
+
+1 True , 196 , Daniel Radcliffe
+2 Hey !	Hello , Daniel Radcliffe ! Would you like to have a tall bottle of water and a white chocolate cheesecake again ?
+3 Nice of you to remember ! But I will take something else . Can I have a lemonade , please ?	Which size ?
+4 Tall would do .	Would you like anything else with that ?
+5 I would like a cheese toastie .	So that would be a tall lemonade and a cheese toastie . Is that right ?
+6 Definitely .	Your order will be ready at the next counter , Daniel .
+7 Alright .	Have a nice day !
+
+1 True , 153 , Kyra Sedgwick
+2 Hello !	Hello , Kyra Sedgwick ! Would you like to have a tall iced salted caramel mocha and a strawberry cheesecake again ?
+3 No , I think I will try something else instead . Can I have a soy latte ?	Which size ?
+4 Grande , thank you !	Would you like anything else with that ?
+5 Hmm , an egg sandwich , please .	So that would be a grande soy latte and an egg sandwich . Is that right ?
+6 Can I have tall , please ?	Sure ! So that would be a tall soy latte and an egg sandwich . Is that right ?
+7 No , I want an orange juice .	Sure ! So that would be a tall orange juice and an egg sandwich . Is that right ?
+8 Sounds good !	Your order will be ready at the next counter , Kyra .
+9 Thanks !	Have a nice day !
+
+1 True , 191 , Chandler Riggs
+2 Hello !	Hello , Chandler Riggs ! Would you like to have a grande iced cinnamon dolce latte and a chocolate brownie again ?
+3 I will try something else . Can I get an orange juice , please ?	Which size ?
+4 Tall , thank you !	Would you like anything else with that ?
+5 May I get a whole-grain feta sandwich ?	So that would be a tall orange juice and a whole-grain feta sandwich . Is that right ?
+6 Definitely .	Your order will be ready at the next counter , Chandler .
+7 Cheers !	Have a nice day !
+
+1 True , 180 , Eric Dane
+2 Hello !	Hello , Eric Dane ! Would you like to have a short iced latte macchiato again ?
+3 That will do .	Your order will be ready at the next counter , Eric .
+4 Enjoy your day !	Have a nice day !
+
+1 True , 199 , Victor Garber
+2 Hey there !	Hello , Victor Garber ! Would you like to have a tall iced pumpkin spice chai latte again ?
+3 Maybe not this time ! Could I have an iced salted caramel mocha ?	Which size ?
+4 Grande would do .	Would you like anything else with that ?
+5 I would like a cinnamon swirl .	So that would be a grande iced salted caramel mocha and a cinnamon swirl . Is that right ?
+6 That is correct .	Your order will be ready at the next counter , Victor .
+7 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 I want an orange juice , please .	Which size ?
+4 Short .	Would you like anything else with that ?
+5 Just the drink .	So that would be a short orange juice . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 Charlotte Rae .	Your order will be ready at the next counter , Charlotte .
+8 False , 200 , Charlotte Rae
+9 Thank you !	Have a nice day !
+
+1 True , 200 , Charlotte Rae
+2 Hello !	Hello , Charlotte Rae ! Would you like to have a short orange juice again ?
+3 Yes , please !	Your order will be ready at the next counter , Charlotte .
+4 Enjoy your day !	Have a nice day !
+
+1 True , 197 , Seth Rogen
+2 Hello !	Hello , Seth Rogen ! Would you like to have a tall strawberry lemonade again ?
+3 Maybe not this time ! Could I have an iced cordusio ?	Which size ?
+4 Grande , thank you !	Would you like anything else with that ?
+5 Yeah , an egg sandwich .	So that would be a grande iced cordusio and an egg sandwich . Is that right ?
+6 Definitely .	Your order will be ready at the next counter , Seth .
+7 Have a great day !	Have a nice day !
+

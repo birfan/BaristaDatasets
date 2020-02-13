@@ -1,0 +1,500 @@
+1 Can I have a salted caramel hot chocolate , please ?	Which size ?
+2 Medium cup .	Would you like anything else with that ?
+3 Just the drink .	So that would be a medium salted caramel hot chocolate . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Could I get a white hot chocolate , please ?	Which size ?
+2 Small cup .	Would you like anything else with that ?
+3 No .	So that would be a small white hot chocolate . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 I would like an espresso .	Which size ?
+2 Medium would do .	Would you like anything else with that ?
+3 I would like an almond croissant .	So that would be a medium espresso and an almond croissant . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 May I get a noisette ?	Which size ?
+2 Small .	Would you like anything else with that ?
+3 Yeah , a carrot cake , please .	So that would be a small noisette and a carrot cake . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 May I have an espresso con panna ?	Which size ?
+2 Small would do .	Would you like anything else with that ?
+3 No , thank you .	So that would be a small espresso con panna . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Could I get an espresso con panna ?	Which size ?
+2 Medium , thank you !	Would you like anything else with that ?
+3 Could I get a pain aux raisins , please ?	So that would be a medium espresso con panna and a pain aux raisins . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 I want a mocha , please .	Which size ?
+2 Small , thank you !	Would you like anything else with that ?
+3 Just the drink .	So that would be a small mocha . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 I would like an Earl Grey , please .	Which size ?
+2 Large would do .	Would you like anything else with that ?
+3 Ah yes , a blueberry oatmeal .	So that would be a large Earl Grey and a blueberry oatmeal . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Could I get a noisette ?	Which size ?
+2 Small , please .	Would you like anything else with that ?
+3 No , thank you .	So that would be a small noisette . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Could I get an espresso macchiato ?	Which size ?
+2 Small , thank you !	Would you like anything else with that ?
+3 No .	So that would be a small espresso macchiato . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Can I get an espresso macchiato , please ?	Which size ?
+2 Large would do .	Would you like anything else with that ?
+3 No , thanks .	So that would be a large espresso macchiato . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 Could I have a white hot chocolate , please ?	Which size ?
+2 Small .	Would you like anything else with that ?
+3 No .	So that would be a small white hot chocolate . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Can I get a flat white ?	Which size ?
+2 Large cup .	Would you like anything else with that ?
+3 Hmm , an almond croissant , please .	So that would be a large flat white and an almond croissant . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 May I get an americano ?	Which size ?
+2 Large , please .	Would you like anything else with that ?
+3 I am good .	So that would be a large americano . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Can I get an espresso con panna ?	Which size ?
+2 Large , thank you !	Would you like anything else with that ?
+3 Yes , a doughnut , please .	So that would be a large espresso con panna and a doughnut . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 A mocha .	Which size ?
+2 Large .	Would you like anything else with that ?
+3 Just the drink .	So that would be a large mocha . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Could I get an espresso con panna , please ?	Which size ?
+2 Small , please .	Would you like anything else with that ?
+3 Yeah , a veggie tortilla wrap .	So that would be a small espresso con panna and a veggie tortilla wrap . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Could I get a salted caramel hot chocolate , please ?	Which size ?
+2 Small .	Would you like anything else with that ?
+3 That is it .	So that would be a small salted caramel hot chocolate . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 Can I have a mocha ?	Which size ?
+2 Small cup .	Would you like anything else with that ?
+3 No , that is it .	So that would be a small mocha . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 Can I get a cordusio ?	Which size ?
+2 Medium would do .	Would you like anything else with that ?
+3 A double chocolate muffin , please .	So that would be a medium cordusio and a double chocolate muffin . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 An iced hot chocolate , please .	Which size ?
+2 Medium cup .	Would you like anything else with that ?
+3 I would like a double chocolate muffin , please .	So that would be a medium iced hot chocolate and a double chocolate muffin . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 I would like a black tea , please .	Which size ?
+2 Medium cup .	Would you like anything else with that ?
+3 No .	So that would be a medium black tea . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 Can I have a white hot chocolate , please ?	Which size ?
+2 Small would do .	Would you like anything else with that ?
+3 No .	So that would be a small white hot chocolate . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 Could I have a latte , please ?	Which size ?
+2 Medium would do .	Would you like anything else with that ?
+3 No , that is it .	So that would be a medium latte . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 I want a black tea , please .	Which size ?
+2 Small , please .	Would you like anything else with that ?
+3 Yeah , a classic oatmeal , please .	So that would be a small black tea and a classic oatmeal . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Could I have a white hot chocolate ?	Which size ?
+2 Large would do .	Would you like anything else with that ?
+3 No , that is it .	So that would be a large white hot chocolate . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 I want a cappuccino , please .	Which size ?
+2 Large .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a large cappuccino . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 I would like a hot chocolate .	Which size ?
+2 Small would do .	Would you like anything else with that ?
+3 Hmm , a slice of banana bread , please .	So that would be a small hot chocolate and a slice of banana bread . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 An iced hot chocolate , please .	Which size ?
+2 Large , please .	Would you like anything else with that ?
+3 No .	So that would be a large iced hot chocolate . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 I want a cappuccino .	Which size ?
+2 Medium , thank you !	Would you like anything else with that ?
+3 That would be it .	So that would be a medium cappuccino . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Could I have a cappuccino , please ?	Which size ?
+2 Small would do .	Would you like anything else with that ?
+3 No , thank you .	So that would be a small cappuccino . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 I want a black tea .	Which size ?
+2 Large would do .	Would you like anything else with that ?
+3 No , thanks .	So that would be a large black tea . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 May I have a cordusio ?	Which size ?
+2 Medium , thank you !	Would you like anything else with that ?
+3 I am good .	So that would be a medium cordusio . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 May I get a breakfast tea ?	Which size ?
+2 Medium , thank you !	Would you like anything else with that ?
+3 I would like a blueberry muffin .	So that would be a medium breakfast tea and a blueberry muffin . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 Could I get a hot chocolate , please ?	Which size ?
+2 Medium would do .	Would you like anything else with that ?
+3 Just the drink .	So that would be a medium hot chocolate . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 Can I get an Earl Grey ?	Which size ?
+2 Small .	Would you like anything else with that ?
+3 I am good .	So that would be a small Earl Grey . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 Can I have a caramel macchiato ?	Which size ?
+2 Small .	Would you like anything else with that ?
+3 Yeah , a gingerbread cookie , please .	So that would be a small caramel macchiato and a gingerbread cookie . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Could I have an espresso , please ?	Which size ?
+2 Medium cup .	Would you like anything else with that ?
+3 No , thank you .	So that would be a medium espresso . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 Could I have a latte , please ?	Which size ?
+2 Medium , thank you !	Would you like anything else with that ?
+3 No .	So that would be a medium latte . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 Can I have a hot chocolate , please ?	Which size ?
+2 Large cup .	Would you like anything else with that ?
+3 That would be it .	So that would be a large hot chocolate . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 Can I have a cappuccino , please ?	Which size ?
+2 Small , thank you !	Would you like anything else with that ?
+3 Just the drink .	So that would be a small cappuccino . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Can I have a caramel macchiato , please ?	Which size ?
+2 Medium .	Would you like anything else with that ?
+3 Just the drink .	So that would be a medium caramel macchiato . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 I want a flat white .	Which size ?
+2 Small cup .	Would you like anything else with that ?
+3 That is it .	So that would be a small flat white . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 May I have a noisette ?	Which size ?
+2 Medium , please .	Would you like anything else with that ?
+3 Just the drink .	So that would be a medium noisette . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 Can I have an iced hot chocolate ?	Which size ?
+2 Large would do .	Would you like anything else with that ?
+3 No .	So that would be a large iced hot chocolate . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 May I get a peppermint hot chocolate ?	Which size ?
+2 Medium , thank you !	Would you like anything else with that ?
+3 A lemon pound cake , please .	So that would be a medium peppermint hot chocolate and a lemon pound cake . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 May I have an iced hot chocolate ?	Which size ?
+2 Medium , please .	Would you like anything else with that ?
+3 I would like a doughnut , please .	So that would be a medium iced hot chocolate and a doughnut . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 I want a black tea , please .	Which size ?
+2 Small .	Would you like anything else with that ?
+3 No , that is it .	So that would be a small black tea . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 I would like a flat white , please .	Which size ?
+2 Medium cup .	Would you like anything else with that ?
+3 Hmm , a chocolate caramel shortbread .	So that would be a medium flat white and a chocolate caramel shortbread . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 An americano .	Which size ?
+2 Large .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a large americano . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Can I have a cappuccino ?	Which size ?
+2 Medium would do .	Would you like anything else with that ?
+3 That is it .	So that would be a medium cappuccino . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 Can I get a breakfast tea ?	Which size ?
+2 Small cup .	Would you like anything else with that ?
+3 Ah yes , a chocolate chip muffin , please .	So that would be a small breakfast tea and a chocolate chip muffin . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 I want a cordusio , please .	Which size ?
+2 Small , thank you !	Would you like anything else with that ?
+3 Can I get a carrot cake ?	So that would be a small cordusio and a carrot cake . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 Could I have a hot chocolate ?	Which size ?
+2 Large , thank you !	Would you like anything else with that ?
+3 No , thank you .	So that would be a large hot chocolate . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 A caramel macchiato , please .	Which size ?
+2 Large , please .	Would you like anything else with that ?
+3 That would be it .	So that would be a large caramel macchiato . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 May I have a white hot chocolate ?	Which size ?
+2 Large .	Would you like anything else with that ?
+3 Yeah , a chocolate chip cookie .	So that would be a large white hot chocolate and a chocolate chip cookie . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 A green tea .	Which size ?
+2 Small , please .	Would you like anything else with that ?
+3 Yeah , a doughnut , please .	So that would be a small green tea and a doughnut . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 Can I get an espresso macchiato ?	Which size ?
+2 Large .	Would you like anything else with that ?
+3 No , that is it .	So that would be a large espresso macchiato . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 I would like a salted caramel hot chocolate .	Which size ?
+2 Medium cup .	Would you like anything else with that ?
+3 Just the drink .	So that would be a medium salted caramel hot chocolate . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 Can I have a caramel macchiato , please ?	Which size ?
+2 Medium would do .	Would you like anything else with that ?
+3 Just the drink .	So that would be a medium caramel macchiato . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 May I have an espresso con panna ?	Which size ?
+2 Small cup .	Would you like anything else with that ?
+3 That is it .	So that would be a small espresso con panna . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Can I get a white hot chocolate ?	Which size ?
+2 Small would do .	Would you like anything else with that ?
+3 I am good .	So that would be a small white hot chocolate . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 I would like a cappuccino , please .	Which size ?
+2 Large cup .	Would you like anything else with that ?
+3 Yes , a pain aux raisins , please .	So that would be a large cappuccino and a pain aux raisins . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Could I have an espresso con panna , please ?	Which size ?
+2 Medium would do .	Would you like anything else with that ?
+3 No , thank you .	So that would be a medium espresso con panna . Is that right ?
+4 Sounds good !	Your order will be ready at the next counter .
+
+1 I want a cordusio .	Which size ?
+2 Large .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a large cordusio . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 I would like a peppermint hot chocolate , please .	Which size ?
+2 Small would do .	Would you like anything else with that ?
+3 No , thank you .	So that would be a small peppermint hot chocolate . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 An espresso macchiato , please .	Which size ?
+2 Medium , thank you !	Would you like anything else with that ?
+3 May I get a doughnut ?	So that would be a medium espresso macchiato and a doughnut . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Could I have a black tea , please ?	Which size ?
+2 Medium cup .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a medium black tea . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 May I have an Earl Grey ?	Which size ?
+2 Small cup .	Would you like anything else with that ?
+3 Hmm , a pain au chocolat , please .	So that would be a small Earl Grey and a pain au chocolat . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Can I have a latte ?	Which size ?
+2 Medium .	Would you like anything else with that ?
+3 I would like a lemon pound cake , please .	So that would be a medium latte and a lemon pound cake . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 Could I have a latte , please ?	Which size ?
+2 Medium , thank you !	Would you like anything else with that ?
+3 Yes , an almond croissant .	So that would be a medium latte and an almond croissant . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Could I have an espresso con panna ?	Which size ?
+2 Medium .	Would you like anything else with that ?
+3 No .	So that would be a medium espresso con panna . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 I want an americano .	Which size ?
+2 Medium .	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a medium americano . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 Could I get a flat white , please ?	Which size ?
+2 Medium .	Would you like anything else with that ?
+3 That would be it .	So that would be a medium flat white . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 I want an espresso .	Which size ?
+2 Large , thank you !	Would you like anything else with that ?
+3 Just the drink , please .	So that would be a large espresso . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Can I have an espresso ?	Which size ?
+2 Medium , thank you !	Would you like anything else with that ?
+3 Could I get an almond croissant , please ?	So that would be a medium espresso and an almond croissant . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 I want an espresso macchiato , please .	Which size ?
+2 Medium , please .	Would you like anything else with that ?
+3 Ah yes , an everything bagel , please .	So that would be a medium espresso macchiato and an everything bagel . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 I would like an espresso macchiato .	Which size ?
+2 Small cup .	Would you like anything else with that ?
+3 Can I get a doughnut ?	So that would be a small espresso macchiato and a doughnut . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 A caramel macchiato .	Which size ?
+2 Medium .	Would you like anything else with that ?
+3 That would be it .	So that would be a medium caramel macchiato . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 Could I have a hot chocolate ?	Which size ?
+2 Medium , thank you !	Would you like anything else with that ?
+3 Hmm , a classic oatmeal .	So that would be a medium hot chocolate and a classic oatmeal . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 Could I have a black tea ?	Which size ?
+2 Medium .	Would you like anything else with that ?
+3 I am good .	So that would be a medium black tea . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 Can I have a cordusio , please ?	Which size ?
+2 Small cup .	Would you like anything else with that ?
+3 That would be it .	So that would be a small cordusio . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Could I have a black tea , please ?	Which size ?
+2 Large , please .	Would you like anything else with that ?
+3 That would be it .	So that would be a large black tea . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Could I get a hot chocolate , please ?	Which size ?
+2 Small .	Would you like anything else with that ?
+3 I am good .	So that would be a small hot chocolate . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 A white hot chocolate .	Which size ?
+2 Large would do .	Would you like anything else with that ?
+3 No .	So that would be a large white hot chocolate . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Can I have a latte , please ?	Which size ?
+2 Medium , please .	Would you like anything else with that ?
+3 Can I get a plain bagel ?	So that would be a medium latte and a plain bagel . Is that right ?
+4 Definitely .	Your order will be ready at the next counter .
+
+1 Could I get a salted caramel hot chocolate ?	Which size ?
+2 Medium would do .	Would you like anything else with that ?
+3 Just the drink .	So that would be a medium salted caramel hot chocolate . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 I want a cappuccino .	Which size ?
+2 Small .	Would you like anything else with that ?
+3 I would like a pain aux raisins .	So that would be a small cappuccino and a pain aux raisins . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Could I have a latte ?	Which size ?
+2 Large , thank you !	Would you like anything else with that ?
+3 Hmm , a breakfast tortilla wrap .	So that would be a large latte and a breakfast tortilla wrap . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 May I get a flat white ?	Which size ?
+2 Medium , please .	Would you like anything else with that ?
+3 No , thank you .	So that would be a medium flat white . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 May I get an espresso con panna ?	Which size ?
+2 Small would do .	Would you like anything else with that ?
+3 I am good .	So that would be a small espresso con panna . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+
+1 May I have an espresso con panna ?	Which size ?
+2 Small cup .	Would you like anything else with that ?
+3 Yes , a blueberry muffin .	So that would be a small espresso con panna and a blueberry muffin . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 I would like a peppermint hot chocolate .	Which size ?
+2 Large would do .	Would you like anything else with that ?
+3 Yes , an almond croissant .	So that would be a large peppermint hot chocolate and an almond croissant . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Can I get a latte ?	Which size ?
+2 Medium cup .	Would you like anything else with that ?
+3 That is it .	So that would be a medium latte . Is that right ?
+4 Yeap .	Your order will be ready at the next counter .
+
+1 Could I get a cordusio , please ?	Which size ?
+2 Small .	Would you like anything else with that ?
+3 That is it .	So that would be a small cordusio . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 Can I get a salted caramel hot chocolate , please ?	Which size ?
+2 Large cup .	Would you like anything else with that ?
+3 I am good .	So that would be a large salted caramel hot chocolate . Is that right ?
+4 Indeed !	Your order will be ready at the next counter .
+
+1 Could I get an iced hot chocolate , please ?	Which size ?
+2 Small cup .	Would you like anything else with that ?
+3 No , thank you .	So that would be a small iced hot chocolate . Is that right ?
+4 That sounds right !	Your order will be ready at the next counter .
+
+1 Can I have an americano , please ?	Which size ?
+2 Medium .	Would you like anything else with that ?
+3 No .	So that would be a medium americano . Is that right ?
+4 Yes !	Your order will be ready at the next counter .
+
+1 Can I have a cappuccino , please ?	Which size ?
+2 Small would do .	Would you like anything else with that ?
+3 That is it .	So that would be a small cappuccino . Is that right ?
+4 That is correct .	Your order will be ready at the next counter .
+
+1 I would like a caramel macchiato .	Which size ?
+2 Small would do .	Would you like anything else with that ?
+3 Could I get a blueberry oatmeal ?	So that would be a small caramel macchiato and a blueberry oatmeal . Is that right ?
+4 Yeah .	Your order will be ready at the next counter .
+

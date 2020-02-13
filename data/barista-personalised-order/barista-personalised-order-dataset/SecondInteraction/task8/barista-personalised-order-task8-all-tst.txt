@@ -1,0 +1,2730 @@
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Can I get a mocha ?	Which size ?
+4 Medium .	Would you like anything else with that ?
+5 Just the drink .	So that would be a medium mocha . Is that right ?
+6 I think I will switch medium with large .	Sure ! So that would be a large mocha . Is that right ?
+7 Can I get small , please ?	Sure ! So that would be a small mocha . Is that right ?
+8 Yes !	Great ! Can I take your name ? api_call getCustomerName
+9 Jake Gyllenhaal .	Your order will be ready at the next counter , Jake .
+10 False , 101 , Jake Gyllenhaal
+11 Alright .	Have a nice day !
+
+1 True , 97 , Timothy Olyphant , medium , mocha , blueberry oatmeal
+2 Hello !	Hello , Timothy Olyphant ! Would you like to have a medium mocha and a blueberry oatmeal again ?
+3 I don't want that .	Alright ! Which drink can I get for you , Timothy ?
+4 Can I have an americano ?	Which size ?
+5 Medium would do .	Would you like anything else with that ?
+6 No .	So that would be a medium americano . Is that right ?
+7 Actually , I would like large instead .	Sure ! So that would be a large americano . Is that right ?
+8 Yes !	Your order will be ready at the next counter , Timothy .
+9 Enjoy your day !	Have a nice day !
+
+1 True , 5 , Ashley Benson , small , espresso , pain aux raisins
+2 Hello !	Hello , Ashley Benson ! Would you like to have a small espresso and a pain aux raisins again ?
+3 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Ashley ?
+4 Can I have an iced hot chocolate , please ?	Which size ?
+5 Large , please .	Would you like anything else with that ?
+6 Ah yes , an everything bagel .	So that would be a large iced hot chocolate and an everything bagel . Is that right ?
+7 Can I get a croissant ?	Sure ! So that would be a large iced hot chocolate and a croissant . Is that right ?
+8 Can I have a doughnut instead ?	Sure ! So that would be a large iced hot chocolate and a doughnut . Is that right ?
+9 That is correct .	Your order will be ready at the next counter , Ashley .
+10 Have a nice day !	Have a nice day !
+
+1 True , 89 , Mayim Bialik , large , breakfast tea
+2 Hey !	Hello , Mayim Bialik ! Would you like to have a large breakfast tea again ?
+3 No , not today . Could I have a hot chocolate ?	Which size ?
+4 Small , thank you !	Would you like anything else with that ?
+5 No , that is it .	So that would be a small hot chocolate . Is that right ?
+6 Hmm , can I change to an americano instead ?	Sure ! So that would be a small americano . Is that right ?
+7 I think I will switch americano with a white hot chocolate .	Sure ! So that would be a small white hot chocolate . Is that right ?
+8 Indeed !	Your order will be ready at the next counter , Mayim .
+9 Have a great day !	Have a nice day !
+
+1 True , 90 , Zoe Saldana , small , cordusio , almond croissant
+2 Hey !	Hello , Zoe Saldana ! Would you like to have a small cordusio and an almond croissant again ?
+3 I've never had that .	Alright ! Which drink can I get for you , Zoe ?
+4 Could I get a noisette , please ?	Which size ?
+5 Medium , please .	Would you like anything else with that ?
+6 May I get a pain au chocolat ?	So that would be a medium noisette and a pain au chocolat . Is that right ?
+7 Yeap .	Your order will be ready at the next counter , Zoe .
+8 Have a nice day !	Have a nice day !
+
+1 True , 60 , Shane West , large , noisette , breakfast tortilla wrap
+2 Hello !	Hello , Shane West ! Would you like to have a large noisette and a breakfast tortilla wrap again ?
+3 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Shane ?
+4 May I get a black tea ?	Which size ?
+5 Small .	Would you like anything else with that ?
+6 A lemon pound cake .	So that would be a small black tea and a lemon pound cake . Is that right ?
+7 A chocolate caramel shortbread .	Sure ! So that would be a small black tea and a chocolate caramel shortbread . Is that right ?
+8 Indeed !	Your order will be ready at the next counter , Shane .
+9 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 I would like a white hot chocolate .	Which size ?
+4 Large .	Would you like anything else with that ?
+5 Ah yes , a carrot cake , please .	So that would be a large white hot chocolate and a carrot cake . Is that right ?
+6 No , I would like a breakfast tea .	Sure ! So that would be a large breakfast tea and a carrot cake . Is that right ?
+7 Can I have a double chocolate muffin instead ?	Sure ! So that would be a large breakfast tea and a double chocolate muffin . Is that right ?
+8 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+9 Lucy Hale .	Your order will be ready at the next counter , Lucy .
+10 False , 102 , Lucy Hale
+11 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 May I get a cordusio ?	Which size ?
+4 Large would do .	Would you like anything else with that ?
+5 Yes , a pain aux raisins .	So that would be a large cordusio and a pain aux raisins . Is that right ?
+6 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+7 Amy Poehler .	Your order will be ready at the next counter , Amy .
+8 False , 103 , Amy Poehler
+9 Goodbye !	Have a nice day !
+
+1 True , 89 , Mayim Bialik , large , breakfast tea
+2 Hello !	Hello , Mayim Bialik ! Would you like to have a large breakfast tea again ?
+3 Do I have a twin that I don't know ?	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Zooey Deschanel .	Let me see if I have any previous records of you , Zooey .
+5 False , 104 , Zooey Deschanel
+6 Okay .	It seems to be your first time here ! Which drink would you like to have , Zooey ?
+7 I want a caramel macchiato .	Which size ?
+8 Medium .	Would you like anything else with that ?
+9 No .	So that would be a medium caramel macchiato . Is that right ?
+10 No , I want a flat white .	Sure ! So that would be a medium flat white . Is that right ?
+11 Sounds good !	Your order will be ready at the next counter , Zooey .
+12 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Could I get an americano ?	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 No , that is it .	So that would be a medium americano . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Bruce Willis .	Your order will be ready at the next counter , Bruce .
+8 False , 105 , Bruce Willis
+9 Enjoy your day !	Have a nice day !
+
+1 True , 34 , Ryan Gosling , large , Earl Grey , slice of banana bread
+2 Hi !	Hello , Ryan Gosling ! Would you like to have a large Earl Grey and a slice of banana bread again ?
+3 Nice of you to remember ! But I will take something else . A green tea , please .	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 Just the drink .	So that would be a small green tea . Is that right ?
+6 Yes !	Your order will be ready at the next counter , Ryan .
+7 Thank you !	Have a nice day !
+
+1 True , 21 , Alison Brie , small , americano , pain aux raisins
+2 Hey there !	Hello , Alison Brie ! Would you like to have a small americano and a pain aux raisins again ?
+3 That is not true .	Alright ! Which drink can I get for you , Alison ?
+4 Can I get a salted caramel hot chocolate ?	Which size ?
+5 Large , please .	Would you like anything else with that ?
+6 I would like a carrot cake , please .	So that would be a large salted caramel hot chocolate and a carrot cake . Is that right ?
+7 That sounds right !	Your order will be ready at the next counter , Alison .
+8 Cheers !	Have a nice day !
+
+1 True , 6 , Chloe Grace Moretz , medium , espresso con panna
+2 Hello !	Hello , Chloe Grace Moretz ! Would you like to have a medium espresso con panna again ?
+3 Nice of you to remember ! I would , yes .	Your order will be ready at the next counter , Chloe .
+4 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I get a salted caramel hot chocolate ?	Which size ?
+4 Medium , please .	Would you like anything else with that ?
+5 No , thank you .	So that would be a medium salted caramel hot chocolate . Is that right ?
+6 Hmm , can I change to a flat white instead ?	Sure ! So that would be a medium flat white . Is that right ?
+7 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+8 It is John Ritter .	Your order will be ready at the next counter , John .
+9 False , 106 , John Ritter
+10 Have a nice day !	Have a nice day !
+
+1 True , 89 , Mayim Bialik , large , breakfast tea
+2 Hi !	Hello , Mayim Bialik ! Would you like to have a large breakfast tea again ?
+3 No , I'm not Mayim Bialik .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Ed O'Neill .	Let me see if I have any previous records of you , Ed .
+5 False , 107 , Ed O'Neill
+6 Alright .	It seems to be your first time here ! Which drink would you like to have , Ed ?
+7 Could I have an Earl Grey , please ?	Which size ?
+8 Small cup .	Would you like anything else with that ?
+9 A veggie tortilla wrap .	So that would be a small Earl Grey and a veggie tortilla wrap . Is that right ?
+10 That sounds right !	Your order will be ready at the next counter , Ed .
+11 Alright .	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I get a hot chocolate , please ?	Which size ?
+4 Small , please .	Would you like anything else with that ?
+5 No , thanks .	So that would be a small hot chocolate . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Liam Hemsworth .	Your order will be ready at the next counter , Liam .
+8 False , 108 , Liam Hemsworth
+9 Goodbye !	Have a nice day !
+
+1 True , 65 , Cote de Pablo , large , hot chocolate
+2 Hey there !	Hello , Cote de Pablo ! Would you like to have a large hot chocolate again ?
+3 Alright .	Your order will be ready at the next counter , Cote .
+4 Thank you !	Have a nice day !
+
+1 True , 14 , Julie Bowen , large , peppermint hot chocolate , double chocolate muffin
+2 Hey there !	Hello , Julie Bowen ! Would you like to have a large peppermint hot chocolate and a double chocolate muffin again ?
+3 That is incorrect .	Alright ! Which drink can I get for you , Julie ?
+4 I want a flat white , please .	Which size ?
+5 Medium .	Would you like anything else with that ?
+6 I am good .	So that would be a medium flat white . Is that right ?
+7 Sorry , I would like to change that to a black tea .	Sure ! So that would be a medium black tea . Is that right ?
+8 Yeap .	Your order will be ready at the next counter , Julie .
+9 Have a nice day !	Have a nice day !
+
+1 True , 32 , Brad Pitt , large , latte
+2 Hey there !	Hello , Brad Pitt ! Would you like to have a large latte again ?
+3 Yeah .	Your order will be ready at the next counter , Brad .
+4 Okay .	Have a nice day !
+
+1 True , 108 , Liam Hemsworth , small , hot chocolate
+2 Hi !	Hello , Liam Hemsworth ! Would you like to have a small hot chocolate again ?
+3 Let's try something different . Can I have a white hot chocolate , please ?	Which size ?
+4 Large , thank you !	Would you like anything else with that ?
+5 No .	So that would be a large white hot chocolate . Is that right ?
+6 Yeah .	Your order will be ready at the next counter , Liam .
+7 Bye !	Have a nice day !
+
+1 True , 77 , Charlize Theron , small , latte
+2 Hi !	Hello , Charlize Theron ! Would you like to have a small latte again ?
+3 What a memory ? I would , yes !	Your order will be ready at the next counter , Charlize .
+4 Okay .	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I would like a noisette , please .	Which size ?
+4 Small would do .	Would you like anything else with that ?
+5 No , that is it .	So that would be a small noisette . Is that right ?
+6 No , an iced hot chocolate .	Sure ! So that would be a small iced hot chocolate . Is that right ?
+7 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+8 Blake Lively .	Your order will be ready at the next counter , Blake .
+9 False , 109 , Blake Lively
+10 Bye !	Have a nice day !
+
+1 True , 42 , Jensen Ackles , small , espresso con panna , double chocolate muffin
+2 Hi !	Hello , Jensen Ackles ! Would you like to have a small espresso con panna and a double chocolate muffin again ?
+3 Please !	Your order will be ready at the next counter , Jensen .
+4 Goodbye !	Have a nice day !
+
+1 True , 32 , Brad Pitt , large , latte
+2 Hey !	Hello , Brad Pitt ! Would you like to have a large latte again ?
+3 Not Brad Pitt .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Justin Chambers .	Let me see if I have any previous records of you , Justin .
+5 True , 96 , Justin Chambers , small , espresso
+6 <SILENCE>	I thought you looked familiar , Justin ! Would you like a small espresso again ?
+7 No , not today . A cappuccino .	Which size ?
+8 Small .	Would you like anything else with that ?
+9 That is it .	So that would be a small cappuccino . Is that right ?
+10 Can I get a hot chocolate , please ?	Sure ! So that would be a small hot chocolate . Is that right ?
+11 Yeap .	Your order will be ready at the next counter , Justin .
+12 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Could I get an americano ?	Which size ?
+4 Medium .	Would you like anything else with that ?
+5 No .	So that would be a medium americano . Is that right ?
+6 Can I have a white hot chocolate ?	Sure ! So that would be a medium white hot chocolate . Is that right ?
+7 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+8 Kate Walsh .	Your order will be ready at the next counter , Kate .
+9 False , 110 , Kate Walsh
+10 Cheers !	Have a nice day !
+
+1 True , 76 , Hugh Laurie , large , white hot chocolate , pain au chocolat
+2 Hi !	Hello , Hugh Laurie ! Would you like to have a large white hot chocolate and a pain au chocolat again ?
+3 You are mixing my orders .	Alright ! Which drink can I get for you , Hugh ?
+4 May I get an espresso macchiato ?	Which size ?
+5 Small .	Would you like anything else with that ?
+6 Could I get a plain bagel , please ?	So that would be a small espresso macchiato and a plain bagel . Is that right ?
+7 Yes !	Your order will be ready at the next counter , Hugh .
+8 Bye !	Have a nice day !
+
+1 True , 17 , Sandra Oh , large , americano
+2 Hey there !	Hello , Sandra Oh ! Would you like to have a large americano again ?
+3 Do I have a twin that I don't know ?	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Kevin Costner .	Let me see if I have any previous records of you , Kevin .
+5 True , 87 , Kevin Costner , large , latte , gingerbread cookie
+6 <SILENCE>	I thought you looked familiar , Kevin ! Would you like a large latte and a gingerbread cookie again ?
+7 No , not today . Could I get an espresso ?	Which size ?
+8 Medium , thank you !	Would you like anything else with that ?
+9 Ah yes , an almond croissant .	So that would be a medium espresso and an almond croissant . Is that right ?
+10 Yes !	Your order will be ready at the next counter , Kevin .
+11 Cheers !	Have a nice day !
+
+1 True , 64 , Robert Pattinson , large , iced hot chocolate , pain au chocolat
+2 Hi !	Hello , Robert Pattinson ! Would you like to have a large iced hot chocolate and a pain au chocolat again ?
+3 That is not true .	Alright ! Which drink can I get for you , Robert ?
+4 May I get an americano ?	Which size ?
+5 Large , please .	Would you like anything else with that ?
+6 No , that is it .	So that would be a large americano . Is that right ?
+7 Indeed !	Your order will be ready at the next counter , Robert .
+8 Have a nice day !	Have a nice day !
+
+1 True , 90 , Zoe Saldana , medium , black tea , classic oatmeal
+2 Hello !	Hello , Zoe Saldana ! Would you like to have a medium black tea and a classic oatmeal again ?
+3 Exactly ! Nice memory !	Your order will be ready at the next counter , Zoe .
+4 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 May I get an Earl Grey ?	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 Can I get a gingerbread cookie , please ?	So that would be a medium Earl Grey and a gingerbread cookie . Is that right ?
+6 No , I would like large .	Sure ! So that would be a large Earl Grey and a gingerbread cookie . Is that right ?
+7 Small .	Sure ! So that would be a small Earl Grey and a gingerbread cookie . Is that right ?
+8 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+9 It is Misha Collins .	Your order will be ready at the next counter , Misha .
+10 False , 111 , Misha Collins
+11 Bye !	Have a nice day !
+
+1 True , 48 , AnnaLynne McCord , medium , black tea
+2 Hey !	Hello , AnnaLynne McCord ! Would you like to have a medium black tea again ?
+3 Do I have a twin that I don't know ?	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Justin Chambers .	Let me see if I have any previous records of you , Justin .
+5 True , 96 , Justin Chambers , small , espresso
+6 Okay .	I thought you looked familiar , Justin ! Would you like a small espresso again ?
+7 Let's try something different . I would like a green tea .	Which size ?
+8 Small cup .	Would you like anything else with that ?
+9 Yeah , a chocolate chip cookie , please .	So that would be a small green tea and a chocolate chip cookie . Is that right ?
+10 Definitely .	Your order will be ready at the next counter , Justin .
+11 Thanks !	Have a nice day !
+
+1 True , 87 , Kevin Costner , large , hot chocolate , everything bagel
+2 Hi !	Hello , Kevin Costner ! Would you like to have a large hot chocolate and an everything bagel again ?
+3 I don't want that .	Alright ! Which drink can I get for you , Kevin ?
+4 A noisette , please .	Which size ?
+5 Small , please .	Would you like anything else with that ?
+6 Yeah , a lemon pound cake , please .	So that would be a small noisette and a lemon pound cake . Is that right ?
+7 Indeed !	Your order will be ready at the next counter , Kevin .
+8 Thanks !	Have a nice day !
+
+1 True , 32 , Brad Pitt , large , latte
+2 Hello !	Hello , Brad Pitt ! Would you like to have a large latte again ?
+3 I will try something else . Could I get a salted caramel hot chocolate ?	Which size ?
+4 Small , thank you !	Would you like anything else with that ?
+5 No , thanks .	So that would be a small salted caramel hot chocolate . Is that right ?
+6 Indeed !	Your order will be ready at the next counter , Brad .
+7 Okay .	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Can I have a caramel macchiato ?	Which size ?
+4 Large , please .	Would you like anything else with that ?
+5 Just the drink , please .	So that would be a large caramel macchiato . Is that right ?
+6 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Jim Parsons .	Your order will be ready at the next counter , Jim .
+8 False , 112 , Jim Parsons
+9 Thanks !	Have a nice day !
+
+1 True , 45 , Michael Emerson , small , white hot chocolate
+2 Hey !	Hello , Michael Emerson ! Would you like to have a small white hot chocolate again ?
+3 Absolutely !	Your order will be ready at the next counter , Michael .
+4 Alright .	Have a nice day !
+
+1 True , 9 , Jeffrey Donovan , large , iced hot chocolate , blueberry oatmeal
+2 Hi !	Hello , Jeffrey Donovan ! Would you like to have a large iced hot chocolate and a blueberry oatmeal again ?
+3 Let's try something different . I would like a peppermint hot chocolate , please .	Which size ?
+4 Large would do .	Would you like anything else with that ?
+5 That would be it .	So that would be a large peppermint hot chocolate . Is that right ?
+6 Can I get medium instead ?	Sure ! So that would be a medium peppermint hot chocolate . Is that right ?
+7 Indeed !	Your order will be ready at the next counter , Jeffrey .
+8 Thanks !	Have a nice day !
+
+1 True , 48 , AnnaLynne McCord , medium , black tea
+2 Hi !	Hello , AnnaLynne McCord ! Would you like to have a medium black tea again ?
+3 No , thanks . Could I have a cappuccino , please ?	Which size ?
+4 Small .	Would you like anything else with that ?
+5 Hmm , a blueberry oatmeal , please .	So that would be a small cappuccino and a blueberry oatmeal . Is that right ?
+6 I would like a chocolate chip muffin .	Sure ! So that would be a small cappuccino and a chocolate chip muffin . Is that right ?
+7 That is correct .	Your order will be ready at the next counter , AnnaLynne .
+8 Have a nice day !	Have a nice day !
+
+1 True , 60 , Shane West , small , black tea
+2 Hi !	Hello , Shane West ! Would you like to have a small black tea again ?
+3 No , I think I will try something else instead . Can I have a latte ?	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 No , thanks .	So that would be a medium latte . Is that right ?
+6 May I have a flat white ?	Sure ! So that would be a medium flat white . Is that right ?
+7 Sounds good !	Your order will be ready at the next counter , Shane .
+8 Thanks !	Have a nice day !
+
+1 True , 19 , Mindy Kaling , medium , mocha , lemon pound cake
+2 Hey there !	Hello , Mindy Kaling ! Would you like to have a medium mocha and a lemon pound cake again ?
+3 Yes , thank you !	Your order will be ready at the next counter , Mindy .
+4 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Can I have an espresso macchiato , please ?	Which size ?
+4 Large cup .	Would you like anything else with that ?
+5 No , thank you .	So that would be a large espresso macchiato . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 Tom Welling .	Your order will be ready at the next counter , Tom .
+8 False , 113 , Tom Welling
+9 Have a great day !	Have a nice day !
+
+1 True , 58 , Miles Teller , large , hot chocolate , everything bagel
+2 Hey !	Hello , Miles Teller ! Would you like to have a large hot chocolate and an everything bagel again ?
+3 That is not what I ordered .	Alright ! Which drink can I get for you , Miles ?
+4 An iced hot chocolate , please .	Which size ?
+5 Small , thank you !	Would you like anything else with that ?
+6 No .	So that would be a small iced hot chocolate . Is that right ?
+7 Indeed !	Your order will be ready at the next counter , Miles .
+8 Alright .	Have a nice day !
+
+1 True , 15 , Ellen Pompeo , medium , cordusio , pain aux raisins
+2 Hello !	Hello , Ellen Pompeo ! Would you like to have a medium cordusio and a pain aux raisins again ?
+3 No .	Alright ! Which drink can I get for you , Ellen ?
+4 I would like a latte , please .	Which size ?
+5 Medium cup .	Would you like anything else with that ?
+6 Can I get a croissant , please ?	So that would be a medium latte and a croissant . Is that right ?
+7 That sounds right !	Your order will be ready at the next counter , Ellen .
+8 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I get a white hot chocolate ?	Which size ?
+4 Large , thank you !	Would you like anything else with that ?
+5 That is it .	So that would be a large white hot chocolate . Is that right ?
+6 Hmm , can I change to small instead ?	Sure ! So that would be a small white hot chocolate . Is that right ?
+7 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+8 It is Jennifer Aniston .	Your order will be ready at the next counter , Jennifer .
+9 False , 114 , Jennifer Aniston
+10 Have a great day !	Have a nice day !
+
+1 True , 83 , America Ferrera , medium , breakfast tea , blueberry oatmeal
+2 Hey there !	Hello , America Ferrera ! Would you like to have a medium breakfast tea and a blueberry oatmeal again ?
+3 I don't want that .	Alright ! Which drink can I get for you , America ?
+4 Can I get a white hot chocolate ?	Which size ?
+5 Large , please .	Would you like anything else with that ?
+6 No , that is it .	So that would be a large white hot chocolate . Is that right ?
+7 Sounds good !	Your order will be ready at the next counter , America .
+8 Thank you !	Have a nice day !
+
+1 True , 68 , Emily Deschanel , large , espresso , pain au chocolat
+2 Hello !	Hello , Emily Deschanel ! Would you like to have a large espresso and a pain au chocolat again ?
+3 Exactly !	Your order will be ready at the next counter , Emily .
+4 Have a nice day !	Have a nice day !
+
+1 True , 74 , Joel McHale , small , breakfast tea , plain bagel
+2 Hi !	Hello , Joel McHale ! Would you like to have a small breakfast tea and a plain bagel again ?
+3 I don't want that .	Alright ! Which drink can I get for you , Joel ?
+4 I would like an espresso con panna .	Which size ?
+5 Large cup .	Would you like anything else with that ?
+6 Just the drink .	So that would be a large espresso con panna . Is that right ?
+7 Sounds good !	Your order will be ready at the next counter , Joel .
+8 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 An Earl Grey .	Which size ?
+4 Small would do .	Would you like anything else with that ?
+5 A double chocolate muffin , please .	So that would be a small Earl Grey and a double chocolate muffin . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 Jessica Pare .	Your order will be ready at the next counter , Jessica .
+8 False , 115 , Jessica Pare
+9 Okay .	Have a nice day !
+
+1 True , 64 , Robert Pattinson , small , white hot chocolate
+2 Hey there !	Hello , Robert Pattinson ! Would you like to have a small white hot chocolate again ?
+3 Maybe not this time ! A latte .	Which size ?
+4 Medium , thank you !	Would you like anything else with that ?
+5 Could I get an almond croissant ?	So that would be a medium latte and an almond croissant . Is that right ?
+6 Yeap .	Your order will be ready at the next counter , Robert .
+7 Have a great day !	Have a nice day !
+
+1 True , 64 , Robert Pattinson , small , white hot chocolate
+2 Hey there !	Hello , Robert Pattinson ! Would you like to have a small white hot chocolate again ?
+3 No , I'm not Robert Pattinson .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Michael Hall .	Let me see if I have any previous records of you , Michael .
+5 False , 116 , Michael Hall
+6 Alright .	It seems to be your first time here ! Which drink would you like to have , Michael ?
+7 Can I have a latte ?	Which size ?
+8 Medium would do .	Would you like anything else with that ?
+9 No .	So that would be a medium latte . Is that right ?
+10 Can I have large instead ?	Sure ! So that would be a large latte . Is that right ?
+11 That is correct .	Your order will be ready at the next counter , Michael .
+12 Okay .	Have a nice day !
+
+1 True , 91 , Ed Westwick , medium , iced hot chocolate , everything bagel
+2 Hey there !	Hello , Ed Westwick ! Would you like to have a medium iced hot chocolate and an everything bagel again ?
+3 How did you know ?	Your order will be ready at the next counter , Ed .
+4 Thanks !	Have a nice day !
+
+1 True , 20 , David Schwimmer , small , breakfast tea , almond croissant
+2 Hi !	Hello , David Schwimmer ! Would you like to have a small breakfast tea and an almond croissant again ?
+3 Let's try something different . I would like a salted caramel hot chocolate .	Which size ?
+4 Medium .	Would you like anything else with that ?
+5 No , that is it .	So that would be a medium salted caramel hot chocolate . Is that right ?
+6 Let's change medium to small instead .	Sure ! So that would be a small salted caramel hot chocolate . Is that right ?
+7 Can I get a mocha , please ?	Sure ! So that would be a small mocha . Is that right ?
+8 That is correct .	Your order will be ready at the next counter , David .
+9 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 An espresso , please .	Which size ?
+4 Large , thank you !	Would you like anything else with that ?
+5 Hmm , an almond croissant .	So that would be a large espresso and an almond croissant . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 Bryan Cranston .	Your order will be ready at the next counter , Bryan .
+8 False , 117 , Bryan Cranston
+9 Thank you !	Have a nice day !
+
+1 True , 11 , Kaley Cuoco , large , noisette , almond croissant
+2 Hey there !	Hello , Kaley Cuoco ! Would you like to have a large noisette and an almond croissant again ?
+3 That is not true .	Alright ! Which drink can I get for you , Kaley ?
+4 Could I get a peppermint hot chocolate ?	Which size ?
+5 Large cup .	Would you like anything else with that ?
+6 No , that is it .	So that would be a large peppermint hot chocolate . Is that right ?
+7 Can I have a white hot chocolate instead ?	Sure ! So that would be a large white hot chocolate . Is that right ?
+8 Yes !	Your order will be ready at the next counter , Kaley .
+9 Enjoy your day !	Have a nice day !
+
+1 True , 113 , Tom Welling , large , espresso macchiato
+2 Hey there !	Hello , Tom Welling ! Would you like to have a large espresso macchiato again ?
+3 No . Could I get an americano ?	Which size ?
+4 Small , please .	Would you like anything else with that ?
+5 No , thanks .	So that would be a small americano . Is that right ?
+6 That is correct .	Your order will be ready at the next counter , Tom .
+7 Thank you !	Have a nice day !
+
+1 True , 31 , Ginnifer Goodwin , small , cordusio , slice of banana bread
+2 Hey !	Hello , Ginnifer Goodwin ! Would you like to have a small cordusio and a slice of banana bread again ?
+3 Yeah .	Your order will be ready at the next counter , Ginnifer .
+4 Thank you !	Have a nice day !
+
+1 True , 41 , Jon Hamm , large , cordusio
+2 Hey there !	Hello , Jon Hamm ! Would you like to have a large cordusio again ?
+3 Sure .	Your order will be ready at the next counter , Jon .
+4 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I would like an espresso macchiato , please .	Which size ?
+4 Large cup .	Would you like anything else with that ?
+5 No , thank you .	So that would be a large espresso macchiato . Is that right ?
+6 Actually , I would like a noisette instead .	Sure ! So that would be a large noisette . Is that right ?
+7 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+8 Mark Ruffalo .	Your order will be ready at the next counter , Mark .
+9 False , 118 , Mark Ruffalo
+10 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I want a peppermint hot chocolate .	Which size ?
+4 Medium , please .	Would you like anything else with that ?
+5 Just the drink , please .	So that would be a medium peppermint hot chocolate . Is that right ?
+6 I want a flat white .	Sure ! So that would be a medium flat white . Is that right ?
+7 A green tea .	Sure ! So that would be a medium green tea . Is that right ?
+8 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+9 It is Sofia Vergara .	Your order will be ready at the next counter , Sofia .
+10 False , 119 , Sofia Vergara
+11 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Can I get a green tea , please ?	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 No , thanks .	So that would be a medium green tea . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Cobie Smulders .	Your order will be ready at the next counter , Cobie .
+8 False , 120 , Cobie Smulders
+9 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Could I have an Earl Grey , please ?	Which size ?
+4 Medium , thank you !	Would you like anything else with that ?
+5 No , thanks .	So that would be a medium Earl Grey . Is that right ?
+6 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+7 Jennifer Morrison .	Your order will be ready at the next counter , Jennifer .
+8 False , 121 , Jennifer Morrison
+9 Enjoy your day !	Have a nice day !
+
+1 True , 100 , Norman Reedus , small , espresso con panna , slice of banana bread
+2 Hey there !	Hello , Norman Reedus ! Would you like to have a small espresso con panna and a slice of banana bread again ?
+3 I've never had that .	Alright ! Which drink can I get for you , Norman ?
+4 Could I get an Earl Grey ?	Which size ?
+5 Medium , thank you !	Would you like anything else with that ?
+6 No , that is it .	So that would be a medium Earl Grey . Is that right ?
+7 May I have a green tea ?	Sure ! So that would be a medium green tea . Is that right ?
+8 Can I have small , please ?	Sure ! So that would be a small green tea . Is that right ?
+9 Definitely .	Your order will be ready at the next counter , Norman .
+10 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I want a salted caramel hot chocolate .	Which size ?
+4 Large would do .	Would you like anything else with that ?
+5 I am good .	So that would be a large salted caramel hot chocolate . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 Edie Falco .	Your order will be ready at the next counter , Edie .
+8 False , 122 , Edie Falco
+9 Cheers !	Have a nice day !
+
+1 True , 106 , John Ritter , medium , flat white
+2 Hey there !	Hello , John Ritter ! Would you like to have a medium flat white again ?
+3 Maybe not this time ! Could I get an espresso macchiato , please ?	Which size ?
+4 Small , thank you !	Would you like anything else with that ?
+5 Just the drink , please .	So that would be a small espresso macchiato . Is that right ?
+6 Indeed !	Your order will be ready at the next counter , John .
+7 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 An Earl Grey .	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 May I get a chocolate chip cookie ?	So that would be a small Earl Grey and a chocolate chip cookie . Is that right ?
+6 Yes !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Lucy Liu .	Your order will be ready at the next counter , Lucy .
+8 False , 123 , Lucy Liu
+9 Okay .	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Could I have an espresso ?	Which size ?
+4 Small , thank you !	Would you like anything else with that ?
+5 That would be it .	So that would be a small espresso . Is that right ?
+6 No , I want medium .	Sure ! So that would be a medium espresso . Is that right ?
+7 An espresso macchiato .	Sure ! So that would be a medium espresso macchiato . Is that right ?
+8 Yes !	Great ! Can I take your name ? api_call getCustomerName
+9 It is Christina Hendricks .	Your order will be ready at the next counter , Christina .
+10 False , 124 , Christina Hendricks
+11 Have a nice day !	Have a nice day !
+
+1 True , 78 , Leonardo DiCaprio , medium , americano , pain au chocolat
+2 Hey !	Hello , Leonardo DiCaprio ! Would you like to have a medium americano and a pain au chocolat again ?
+3 That is not what I ordered .	Alright ! Which drink can I get for you , Leonardo ?
+4 Could I get a noisette , please ?	Which size ?
+5 Large cup .	Would you like anything else with that ?
+6 I am good .	So that would be a large noisette . Is that right ?
+7 Sorry , I would like to change that to a mocha .	Sure ! So that would be a large mocha . Is that right ?
+8 May I have an espresso con panna ?	Sure ! So that would be a large espresso con panna . Is that right ?
+9 That sounds right !	Your order will be ready at the next counter , Leonardo .
+10 Goodbye !	Have a nice day !
+
+1 True , 116 , Michael Hall , large , latte
+2 Hi !	Hello , Michael Hall ! Would you like to have a large latte again ?
+3 Yeap !	Your order will be ready at the next counter , Michael .
+4 Have a nice day !	Have a nice day !
+
+1 True , 23 , Matthew Morrison , medium , espresso
+2 Hey there !	Hello , Matthew Morrison ! Would you like to have a medium espresso again ?
+3 I'm becoming predictable ! But that would do , yes !	Your order will be ready at the next counter , Matthew .
+4 Have a nice day !	Have a nice day !
+
+1 True , 124 , Christina Hendricks , medium , espresso macchiato
+2 Hey there !	Hello , Christina Hendricks ! Would you like to have a medium espresso macchiato again ?
+3 Nice of you to remember ! I would , yes .	Your order will be ready at the next counter , Christina .
+4 Alright .	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 A black tea , please .	Which size ?
+4 Large , thank you !	Would you like anything else with that ?
+5 I am good .	So that would be a large black tea . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 It is David Duchovny .	Your order will be ready at the next counter , David .
+8 False , 125 , David Duchovny
+9 Cheers !	Have a nice day !
+
+1 True , 41 , Jon Hamm , large , cordusio
+2 Hey there !	Hello , Jon Hamm ! Would you like to have a large cordusio again ?
+3 That will do .	Your order will be ready at the next counter , Jon .
+4 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Could I have a flat white , please ?	Which size ?
+4 Medium , thank you !	Would you like anything else with that ?
+5 No , that is it .	So that would be a medium flat white . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Courteney Cox .	Your order will be ready at the next counter , Courteney .
+8 False , 126 , Courteney Cox
+9 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 May I get a caramel macchiato ?	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 Could I get a veggie tortilla wrap , please ?	So that would be a small caramel macchiato and a veggie tortilla wrap . Is that right ?
+6 Can I get a pain aux raisins ?	Sure ! So that would be a small caramel macchiato and a pain aux raisins . Is that right ?
+7 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+8 Jon Cryer .	Your order will be ready at the next counter , Jon .
+9 False , 127 , Jon Cryer
+10 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I have a cappuccino , please ?	Which size ?
+4 Small , please .	Would you like anything else with that ?
+5 That is it .	So that would be a small cappuccino . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 Zachary Levi .	Your order will be ready at the next counter , Zachary .
+8 False , 128 , Zachary Levi
+9 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 May I have a hot chocolate ?	Which size ?
+4 Medium .	Would you like anything else with that ?
+5 Ah yes , a croissant , please .	So that would be a medium hot chocolate and a croissant . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 Michael Weatherly .	Your order will be ready at the next counter , Michael .
+8 False , 129 , Michael Weatherly
+9 Thanks !	Have a nice day !
+
+1 True , 88 , Noah Wyle , small , cordusio , croissant
+2 Hey there !	Hello , Noah Wyle ! Would you like to have a small cordusio and a croissant again ?
+3 I am not Noah Wyle .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 David Boreanaz .	Let me see if I have any previous records of you , David .
+5 True , 49 , David Boreanaz , small , iced hot chocolate , almond croissant
+6 No worries .	I thought you looked familiar , David ! Would you like a small iced hot chocolate and an almond croissant again ?
+7 You are mixing my orders .	Alright ! Which drink can I get for you , David ?
+8 May I get a mocha ?	Which size ?
+9 Medium , please .	Would you like anything else with that ?
+10 That would be it .	So that would be a medium mocha . Is that right ?
+11 Yes !	Your order will be ready at the next counter , David .
+12 Alright .	Have a nice day !
+
+1 True , 67 , Cate Blanchett , large , black tea , veggie tortilla wrap
+2 Hey !	Hello , Cate Blanchett ! Would you like to have a large black tea and a veggie tortilla wrap again ?
+3 No , I'm not Cate Blanchett .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Jim Parsons .	Let me see if I have any previous records of you , Jim .
+5 True , 112 , Jim Parsons , large , caramel macchiato
+6 No worries .	I thought you looked familiar , Jim ! Would you like a large caramel macchiato again ?
+7 Yes , thanks !	Your order will be ready at the next counter , Jim .
+8 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I would like a green tea , please .	Which size ?
+4 Medium , thank you !	Would you like anything else with that ?
+5 No .	So that would be a medium green tea . Is that right ?
+6 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Clark Gregg .	Your order will be ready at the next counter , Clark .
+8 False , 130 , Clark Gregg
+9 Enjoy your day !	Have a nice day !
+
+1 True , 31 , Ginnifer Goodwin , large , hot chocolate , breakfast tortilla wrap
+2 Hey there !	Hello , Ginnifer Goodwin ! Would you like to have a large hot chocolate and a breakfast tortilla wrap again ?
+3 I don't want that .	Alright ! Which drink can I get for you , Ginnifer ?
+4 Can I get a black tea , please ?	Which size ?
+5 Small would do .	Would you like anything else with that ?
+6 That would be it .	So that would be a small black tea . Is that right ?
+7 I would like medium .	Sure ! So that would be a medium black tea . Is that right ?
+8 Definitely .	Your order will be ready at the next counter , Ginnifer .
+9 Okay .	Have a nice day !
+
+1 True , 48 , AnnaLynne McCord , medium , black tea
+2 Hey !	Hello , AnnaLynne McCord ! Would you like to have a medium black tea again ?
+3 Yes , thank you !	Your order will be ready at the next counter , AnnaLynne .
+4 Alright .	Have a nice day !
+
+1 True , 49 , David Boreanaz , large , espresso , doughnut
+2 Hi !	Hello , David Boreanaz ! Would you like to have a large espresso and a doughnut again ?
+3 That is not what I ordered .	Alright ! Which drink can I get for you , David ?
+4 I want a caramel macchiato .	Which size ?
+5 Small .	Would you like anything else with that ?
+6 Yeah , a blueberry muffin .	So that would be a small caramel macchiato and a blueberry muffin . Is that right ?
+7 Yeap .	Your order will be ready at the next counter , David .
+8 Have a nice day !	Have a nice day !
+
+1 True , 29 , RuPaul , large , espresso macchiato , everything bagel
+2 Hi !	Hello , RuPaul ! Would you like to have a large espresso macchiato and an everything bagel again ?
+3 I don't want that .	Alright ! Which drink can I get for you , RuPaul ?
+4 Could I get a white hot chocolate , please ?	Which size ?
+5 Small would do .	Would you like anything else with that ?
+6 Ah yes , a blueberry muffin , please .	So that would be a small white hot chocolate and a blueberry muffin . Is that right ?
+7 Yes !	Your order will be ready at the next counter , RuPaul .
+8 Cheers !	Have a nice day !
+
+1 True , 2 , Jennifer Lawrence , small , americano , pain aux raisins
+2 Hey there !	Hello , Jennifer Lawrence ! Would you like to have a small americano and a pain aux raisins again ?
+3 That is not true .	Alright ! Which drink can I get for you , Jennifer ?
+4 May I get an espresso macchiato ?	Which size ?
+5 Large would do .	Would you like anything else with that ?
+6 Yeah , a double chocolate muffin , please .	So that would be a large espresso macchiato and a double chocolate muffin . Is that right ?
+7 Can I have an iced hot chocolate ?	Sure ! So that would be a large iced hot chocolate and a double chocolate muffin . Is that right ?
+8 Actually , I would like small instead .	Sure ! So that would be a small iced hot chocolate and a double chocolate muffin . Is that right ?
+9 That is correct .	Your order will be ready at the next counter , Jennifer .
+10 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Could I get a peppermint hot chocolate , please ?	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 Could I get a veggie tortilla wrap ?	So that would be a medium peppermint hot chocolate and a veggie tortilla wrap . Is that right ?
+6 Can I have a carrot cake ?	Sure ! So that would be a medium peppermint hot chocolate and a carrot cake . Is that right ?
+7 Yes !	Great ! Can I take your name ? api_call getCustomerName
+8 It is Kunal Nayyar .	Your order will be ready at the next counter , Kunal .
+9 False , 131 , Kunal Nayyar
+10 Have a great day !	Have a nice day !
+
+1 True , 10 , Taylor Schilling , large , breakfast tea , croissant
+2 Hello !	Hello , Taylor Schilling ! Would you like to have a large breakfast tea and a croissant again ?
+3 Maybe not this time ! I would like a white hot chocolate , please .	Which size ?
+4 Large would do .	Would you like anything else with that ?
+5 Hmm , an almond croissant , please .	So that would be a large white hot chocolate and an almond croissant . Is that right ?
+6 Oh I am sorry , but I would like an everything bagel instead .	Sure ! So that would be a large white hot chocolate and an everything bagel . Is that right ?
+7 That sounds right !	Your order will be ready at the next counter , Taylor .
+8 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Can I get a peppermint hot chocolate ?	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 That is it .	So that would be a medium peppermint hot chocolate . Is that right ?
+6 I would like a breakfast tea .	Sure ! So that would be a medium breakfast tea . Is that right ?
+7 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+8 Stana Katic .	Your order will be ready at the next counter , Stana .
+9 False , 132 , Stana Katic
+10 Alright .	Have a nice day !
+
+1 True , 39 , Jane Lynch , large , mocha
+2 Hey there !	Hello , Jane Lynch ! Would you like to have a large mocha again ?
+3 Nice of you to remember ! But I will take something else . Can I have a noisette ?	Which size ?
+4 Large cup .	Would you like anything else with that ?
+5 Just the drink .	So that would be a large noisette . Is that right ?
+6 Indeed !	Your order will be ready at the next counter , Jane .
+7 Have a great day !	Have a nice day !
+
+1 True , 79 , Kiefer Sutherland , large , white hot chocolate , blueberry muffin
+2 Hi !	Hello , Kiefer Sutherland ! Would you like to have a large white hot chocolate and a blueberry muffin again ?
+3 That is not what I ordered .	Alright ! Which drink can I get for you , Kiefer ?
+4 Could I have a noisette , please ?	Which size ?
+5 Medium , please .	Would you like anything else with that ?
+6 Could I get a chocolate chip cookie ?	So that would be a medium noisette and a chocolate chip cookie . Is that right ?
+7 Can I have large ?	Sure ! So that would be a large noisette and a chocolate chip cookie . Is that right ?
+8 That is correct .	Your order will be ready at the next counter , Kiefer .
+9 Cheers !	Have a nice day !
+
+1 True , 7 , Teri Hatcher , large , espresso , lemon pound cake
+2 Hello !	Hello , Teri Hatcher ! Would you like to have a large espresso and a lemon pound cake again ?
+3 I will try something else . I would like a cordusio .	Which size ?
+4 Small , thank you !	Would you like anything else with that ?
+5 Just the drink .	So that would be a small cordusio . Is that right ?
+6 Yeap .	Your order will be ready at the next counter , Teri .
+7 Bye !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Can I have an iced hot chocolate , please ?	Which size ?
+4 Large .	Would you like anything else with that ?
+5 No , thanks .	So that would be a large iced hot chocolate . Is that right ?
+6 No , I would like medium .	Sure ! So that would be a medium iced hot chocolate . Is that right ?
+7 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+8 Julianne Moore .	Your order will be ready at the next counter , Julianne .
+9 False , 133 , Julianne Moore
+10 Thank you !	Have a nice day !
+
+1 True , 104 , Zooey Deschanel , small , white hot chocolate , double chocolate muffin
+2 Hello !	Hello , Zooey Deschanel ! Would you like to have a small white hot chocolate and a double chocolate muffin again ?
+3 You are mixing my orders .	Alright ! Which drink can I get for you , Zooey ?
+4 Can I have an espresso , please ?	Which size ?
+5 Large .	Would you like anything else with that ?
+6 Just the drink , please .	So that would be a large espresso . Is that right ?
+7 Yes !	Your order will be ready at the next counter , Zooey .
+8 Have a nice day !	Have a nice day !
+
+1 True , 77 , Charlize Theron , small , latte
+2 Hello !	Hello , Charlize Theron ! Would you like to have a small latte again ?
+3 No , not today . I want an iced hot chocolate .	Which size ?
+4 Large .	Would you like anything else with that ?
+5 I am good .	So that would be a large iced hot chocolate . Is that right ?
+6 Can I have medium , please ?	Sure ! So that would be a medium iced hot chocolate . Is that right ?
+7 Definitely .	Your order will be ready at the next counter , Charlize .
+8 Bye !	Have a nice day !
+
+1 True , 56 , John Slattery , medium , mocha , lemon pound cake
+2 Hi !	Hello , John Slattery ! Would you like to have a medium mocha and a lemon pound cake again ?
+3 How did you know ?	Your order will be ready at the next counter , John .
+4 Thank you !	Have a nice day !
+
+1 True , 41 , Jon Hamm , large , cordusio
+2 Hey !	Hello , Jon Hamm ! Would you like to have a large cordusio again ?
+3 Sorry , I am not Jon Hamm .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Karen Gillan .	Let me see if I have any previous records of you , Karen .
+5 False , 134 , Karen Gillan
+6 Alright .	It seems to be your first time here ! Which drink would you like to have , Karen ?
+7 Could I get a peppermint hot chocolate , please ?	Which size ?
+8 Medium .	Would you like anything else with that ?
+9 A chocolate caramel shortbread .	So that would be a medium peppermint hot chocolate and a chocolate caramel shortbread . Is that right ?
+10 Can I have a croissant , please ?	Sure ! So that would be a medium peppermint hot chocolate and a croissant . Is that right ?
+11 Yes !	Your order will be ready at the next counter , Karen .
+12 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I would like a caramel macchiato .	Which size ?
+4 Medium , please .	Would you like anything else with that ?
+5 May I get a plain bagel ?	So that would be a medium caramel macchiato and a plain bagel . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 Eric Stonestreet .	Your order will be ready at the next counter , Eric .
+8 False , 135 , Eric Stonestreet
+9 Goodbye !	Have a nice day !
+
+1 True , 75 , Matt Bomer , small , mocha
+2 Hello !	Hello , Matt Bomer ! Would you like to have a small mocha again ?
+3 Yes , thanks !	Your order will be ready at the next counter , Matt .
+4 Have a nice day !	Have a nice day !
+
+1 True , 91 , Ed Westwick , medium , iced hot chocolate , everything bagel
+2 Hello !	Hello , Ed Westwick ! Would you like to have a medium iced hot chocolate and an everything bagel again ?
+3 I'm not Ed Westwick .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Jennette McCurdy .	Let me see if I have any previous records of you , Jennette .
+5 False , 136 , Jennette McCurdy
+6 Okay .	It seems to be your first time here ! Which drink would you like to have , Jennette ?
+7 A white hot chocolate , please .	Which size ?
+8 Large , thank you !	Would you like anything else with that ?
+9 That would be it .	So that would be a large white hot chocolate . Is that right ?
+10 Indeed !	Your order will be ready at the next counter , Jennette .
+11 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Could I get a caramel macchiato , please ?	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 Just the drink .	So that would be a small caramel macchiato . Is that right ?
+6 Sorry , I would like to change that to medium .	Sure ! So that would be a medium caramel macchiato . Is that right ?
+7 No , a black tea .	Sure ! So that would be a medium black tea . Is that right ?
+8 Yes !	Great ! Can I take your name ? api_call getCustomerName
+9 Jessica Chastain .	Your order will be ready at the next counter , Jessica .
+10 False , 137 , Jessica Chastain
+11 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Could I get a peppermint hot chocolate , please ?	Which size ?
+4 Small , please .	Would you like anything else with that ?
+5 Yeah , an almond croissant .	So that would be a small peppermint hot chocolate and an almond croissant . Is that right ?
+6 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+7 Helen Hunt .	Your order will be ready at the next counter , Helen .
+8 False , 138 , Helen Hunt
+9 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Can I get a hot chocolate , please ?	Which size ?
+4 Large would do .	Would you like anything else with that ?
+5 Could I get a carrot cake ?	So that would be a large hot chocolate and a carrot cake . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Kat Dennings .	Your order will be ready at the next counter , Kat .
+8 False , 139 , Kat Dennings
+9 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I would like a mocha .	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 Yeah , a chocolate chip cookie .	So that would be a small mocha and a chocolate chip cookie . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 Max Greenfield .	Your order will be ready at the next counter , Max .
+8 False , 140 , Max Greenfield
+9 Have a nice day !	Have a nice day !
+
+1 True , 98 , Angelina Jolie , large , flat white , chocolate chip muffin
+2 Hey there !	Hello , Angelina Jolie ! Would you like to have a large flat white and a chocolate chip muffin again ?
+3 Nope .	Alright ! Which drink can I get for you , Angelina ?
+4 Could I have a caramel macchiato , please ?	Which size ?
+5 Small , please .	Would you like anything else with that ?
+6 Could I get a croissant , please ?	So that would be a small caramel macchiato and a croissant . Is that right ?
+7 That sounds right !	Your order will be ready at the next counter , Angelina .
+8 Have a great day !	Have a nice day !
+
+1 True , 38 , Ty Burrell , medium , espresso con panna , slice of banana bread
+2 Hello !	Hello , Ty Burrell ! Would you like to have a medium espresso con panna and a slice of banana bread again ?
+3 No , not today . Can I have a hot chocolate ?	Which size ?
+4 Medium .	Would you like anything else with that ?
+5 Hmm , a double chocolate muffin .	So that would be a medium hot chocolate and a double chocolate muffin . Is that right ?
+6 Can I have a peppermint hot chocolate instead ?	Sure ! So that would be a medium peppermint hot chocolate and a double chocolate muffin . Is that right ?
+7 Definitely .	Your order will be ready at the next counter , Ty .
+8 Cheers !	Have a nice day !
+
+1 True , 59 , Mark Wahlberg , small , mocha
+2 Hello !	Hello , Mark Wahlberg ! Would you like to have a small mocha again ?
+3 Maybe not this time ! Can I get an americano ?	Which size ?
+4 Large .	Would you like anything else with that ?
+5 No , that is it .	So that would be a large americano . Is that right ?
+6 Indeed !	Your order will be ready at the next counter , Mark .
+7 Have a nice day !	Have a nice day !
+
+1 True , 4 , Angie Harmon , large , caramel macchiato , classic oatmeal
+2 Hey !	Hello , Angie Harmon ! Would you like to have a large caramel macchiato and a classic oatmeal again ?
+3 Nice of you to remember ! But I will take something else . Could I have a peppermint hot chocolate , please ?	Which size ?
+4 Large , please .	Would you like anything else with that ?
+5 Ah yes , a croissant , please .	So that would be a large peppermint hot chocolate and a croissant . Is that right ?
+6 Yes !	Your order will be ready at the next counter , Angie .
+7 Cheers !	Have a nice day !
+
+1 True , 68 , Emily Deschanel , large , espresso , pain au chocolat
+2 Hey !	Hello , Emily Deschanel ! Would you like to have a large espresso and a pain au chocolat again ?
+3 Let's try something different . May I get a black tea ?	Which size ?
+4 Medium , please .	Would you like anything else with that ?
+5 Hmm , a lemon pound cake .	So that would be a medium black tea and a lemon pound cake . Is that right ?
+6 Definitely .	Your order will be ready at the next counter , Emily .
+7 Okay .	Have a nice day !
+
+1 True , 139 , Kat Dennings , large , hot chocolate , carrot cake
+2 Hey there !	Hello , Kat Dennings ! Would you like to have a large hot chocolate and a carrot cake again ?
+3 I will try something else . I want a caramel macchiato , please .	Which size ?
+4 Large .	Would you like anything else with that ?
+5 No , thank you .	So that would be a large caramel macchiato . Is that right ?
+6 That is correct .	Your order will be ready at the next counter , Kat .
+7 Bye !	Have a nice day !
+
+1 True , 36 , John Noble , small , hot chocolate , chocolate chip cookie
+2 Hello !	Hello , John Noble ! Would you like to have a small hot chocolate and a chocolate chip cookie again ?
+3 Let's try something different . I want an iced hot chocolate , please .	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 Just the drink .	So that would be a medium iced hot chocolate . Is that right ?
+6 I want an Earl Grey .	Sure ! So that would be a medium Earl Grey . Is that right ?
+7 A latte .	Sure ! So that would be a medium latte . Is that right ?
+8 That sounds right !	Your order will be ready at the next counter , John .
+9 Bye !	Have a nice day !
+
+1 True , 117 , Bryan Cranston , large , mocha , plain bagel
+2 Hey !	Hello , Bryan Cranston ! Would you like to have a large mocha and a plain bagel again ?
+3 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Bryan ?
+4 I want an iced hot chocolate , please .	Which size ?
+5 Large , please .	Would you like anything else with that ?
+6 Hmm , a double chocolate muffin , please .	So that would be a large iced hot chocolate and a double chocolate muffin . Is that right ?
+7 May I have medium ?	Sure ! So that would be a medium iced hot chocolate and a double chocolate muffin . Is that right ?
+8 Yeap .	Your order will be ready at the next counter , Bryan .
+9 Thank you !	Have a nice day !
+
+1 True , 39 , Jane Lynch , small , iced hot chocolate , chocolate chip cookie
+2 Hello !	Hello , Jane Lynch ! Would you like to have a small iced hot chocolate and a chocolate chip cookie again ?
+3 That is not what I ordered .	Alright ! Which drink can I get for you , Jane ?
+4 I want a salted caramel hot chocolate , please .	Which size ?
+5 Medium , please .	Would you like anything else with that ?
+6 A blueberry oatmeal .	So that would be a medium salted caramel hot chocolate and a blueberry oatmeal . Is that right ?
+7 Indeed !	Your order will be ready at the next counter , Jane .
+8 Bye !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 May I get a latte ?	Which size ?
+4 Large would do .	Would you like anything else with that ?
+5 That would be it .	So that would be a large latte . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Emily Blunt .	Your order will be ready at the next counter , Emily .
+8 False , 141 , Emily Blunt
+9 Goodbye !	Have a nice day !
+
+1 True , 86 , Stephen Amell , medium , green tea
+2 Hi !	Hello , Stephen Amell ! Would you like to have a medium green tea again ?
+3 I will try something else . A white hot chocolate , please .	Which size ?
+4 Small , please .	Would you like anything else with that ?
+5 No , thanks .	So that would be a small white hot chocolate . Is that right ?
+6 On second thought , I would have a black tea instead .	Sure ! So that would be a small black tea . Is that right ?
+7 I would like a flat white .	Sure ! So that would be a small flat white . Is that right ?
+8 That sounds right !	Your order will be ready at the next counter , Stephen .
+9 Bye !	Have a nice day !
+
+1 True , 75 , Matt Bomer , small , white hot chocolate , chocolate chip muffin
+2 Hey there !	Hello , Matt Bomer ! Would you like to have a small white hot chocolate and a chocolate chip muffin again ?
+3 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Matt ?
+4 Can I have a black tea , please ?	Which size ?
+5 Large .	Would you like anything else with that ?
+6 No .	So that would be a large black tea . Is that right ?
+7 That sounds right !	Your order will be ready at the next counter , Matt .
+8 Bye !	Have a nice day !
+
+1 True , 85 , Jim Caviezel , small , hot chocolate , pain aux raisins
+2 Hello !	Hello , Jim Caviezel ! Would you like to have a small hot chocolate and a pain aux raisins again ?
+3 Nice of you to remember ! But I will take something else . May I have an americano ?	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 No , thanks .	So that would be a medium americano . Is that right ?
+6 On second thought , I would have a flat white instead .	Sure ! So that would be a medium flat white . Is that right ?
+7 Erm , I would like an espresso actually .	Sure ! So that would be a medium espresso . Is that right ?
+8 Yeah .	Your order will be ready at the next counter , Jim .
+9 Enjoy your day !	Have a nice day !
+
+1 True , 133 , Julianne Moore , medium , iced hot chocolate
+2 Hello !	Hello , Julianne Moore ! Would you like to have a medium iced hot chocolate again ?
+3 I think I will change it this time ! An espresso con panna , please .	Which size ?
+4 Large would do .	Would you like anything else with that ?
+5 Yeah , a plain bagel , please .	So that would be a large espresso con panna and a plain bagel . Is that right ?
+6 Erm , I would like a carrot cake actually .	Sure ! So that would be a large espresso con panna and a carrot cake . Is that right ?
+7 No , I would like an espresso .	Sure ! So that would be a large espresso and a carrot cake . Is that right ?
+8 Yes !	Your order will be ready at the next counter , Julianne .
+9 Have a great day !	Have a nice day !
+
+1 True , 127 , Jon Cryer , small , caramel macchiato , pain aux raisins
+2 Hi !	Hello , Jon Cryer ! Would you like to have a small caramel macchiato and a pain aux raisins again ?
+3 No , I think I will try something else instead . Could I have a cordusio , please ?	Which size ?
+4 Small , please .	Would you like anything else with that ?
+5 No , that is it .	So that would be a small cordusio . Is that right ?
+6 That sounds right !	Your order will be ready at the next counter , Jon .
+7 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I want a green tea , please .	Which size ?
+4 Medium , thank you !	Would you like anything else with that ?
+5 No , thanks .	So that would be a medium green tea . Is that right ?
+6 Oh I am sorry , but I would like large instead .	Sure ! So that would be a large green tea . Is that right ?
+7 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+8 Sasha Alexander .	Your order will be ready at the next counter , Sasha .
+9 False , 142 , Sasha Alexander
+10 Thank you !	Have a nice day !
+
+1 True , 86 , Stephen Amell , small , flat white
+2 Hey there !	Hello , Stephen Amell ! Would you like to have a small flat white again ?
+3 Yeap !	Your order will be ready at the next counter , Stephen .
+4 Enjoy your day !	Have a nice day !
+
+1 True , 11 , Kaley Cuoco , large , white hot chocolate
+2 Hi !	Hello , Kaley Cuoco ! Would you like to have a large white hot chocolate again ?
+3 Exactly ! Nice memory !	Your order will be ready at the next counter , Kaley .
+4 Alright .	Have a nice day !
+
+1 True , 34 , Ryan Gosling , small , green tea
+2 Hi !	Hello , Ryan Gosling ! Would you like to have a small green tea again ?
+3 Nice of you to remember ! But I will take something else . May I have an Earl Grey ?	Which size ?
+4 Small , please .	Would you like anything else with that ?
+5 Ah yes , an almond croissant .	So that would be a small Earl Grey and an almond croissant . Is that right ?
+6 Yeap .	Your order will be ready at the next counter , Ryan .
+7 Okay .	Have a nice day !
+
+1 True , 54 , Zac Efron , large , green tea , blueberry oatmeal
+2 Hey there !	Hello , Zac Efron ! Would you like to have a large green tea and a blueberry oatmeal again ?
+3 Yes , thanks !	Your order will be ready at the next counter , Zac .
+4 Goodbye !	Have a nice day !
+
+1 True , 115 , Jessica Pare , small , Earl Grey , double chocolate muffin
+2 Hi !	Hello , Jessica Pare ! Would you like to have a small Earl Grey and a double chocolate muffin again ?
+3 Yes , please !	Your order will be ready at the next counter , Jessica .
+4 Okay .	Have a nice day !
+
+1 True , 2 , Jennifer Lawrence , small , iced hot chocolate , double chocolate muffin
+2 Hello !	Hello , Jennifer Lawrence ! Would you like to have a small iced hot chocolate and a double chocolate muffin again ?
+3 Sure .	Your order will be ready at the next counter , Jennifer .
+4 Have a great day !	Have a nice day !
+
+1 True , 135 , Eric Stonestreet , small , espresso macchiato , double chocolate muffin
+2 Hey !	Hello , Eric Stonestreet ! Would you like to have a small espresso macchiato and a double chocolate muffin again ?
+3 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Eric ?
+4 Could I have an iced hot chocolate ?	Which size ?
+5 Medium .	Would you like anything else with that ?
+6 That is it .	So that would be a medium iced hot chocolate . Is that right ?
+7 On second thought , I would have a hot chocolate instead .	Sure ! So that would be a medium hot chocolate . Is that right ?
+8 Indeed !	Your order will be ready at the next counter , Eric .
+9 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I get a black tea ?	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 No .	So that would be a medium black tea . Is that right ?
+6 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Joyce DeWitt .	Your order will be ready at the next counter , Joyce .
+8 False , 143 , Joyce DeWitt
+9 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 May I have an espresso macchiato ?	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 Could I get a croissant ?	So that would be a medium espresso macchiato and a croissant . Is that right ?
+6 Let's change croissant to a classic oatmeal instead .	Sure ! So that would be a medium espresso macchiato and a classic oatmeal . Is that right ?
+7 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+8 It is Connie Britton .	Your order will be ready at the next counter , Connie .
+9 False , 144 , Connie Britton
+10 Have a nice day !	Have a nice day !
+
+1 True , 111 , Misha Collins , small , espresso con panna , almond croissant
+2 Hi !	Hello , Misha Collins ! Would you like to have a small espresso con panna and an almond croissant again ?
+3 You are mixing my orders .	Alright ! Which drink can I get for you , Misha ?
+4 Could I get an americano ?	Which size ?
+5 Small , please .	Would you like anything else with that ?
+6 No , that is it .	So that would be a small americano . Is that right ?
+7 That is correct .	Your order will be ready at the next counter , Misha .
+8 Bye !	Have a nice day !
+
+1 True , 33 , Alyson Hannigan , small , cappuccino
+2 Hi !	Hello , Alyson Hannigan ! Would you like to have a small cappuccino again ?
+3 I'm not Alyson Hannigan .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Shay Mitchell .	Let me see if I have any previous records of you , Shay .
+5 False , 145 , Shay Mitchell
+6 No worries .	It seems to be your first time here ! Which drink would you like to have , Shay ?
+7 I want a salted caramel hot chocolate .	Which size ?
+8 Small , thank you !	Would you like anything else with that ?
+9 No , that is it .	So that would be a small salted caramel hot chocolate . Is that right ?
+10 Indeed !	Your order will be ready at the next counter , Shay .
+11 Thanks !	Have a nice day !
+
+1 True , 76 , Hugh Laurie , medium , peppermint hot chocolate
+2 Hi !	Hello , Hugh Laurie ! Would you like to have a medium peppermint hot chocolate again ?
+3 Yeap !	Your order will be ready at the next counter , Hugh .
+4 Have a nice day !	Have a nice day !
+
+1 True , 40 , Ariana Grande , small , noisette
+2 Hey !	Hello , Ariana Grande ! Would you like to have a small noisette again ?
+3 Yes , thanks !	Your order will be ready at the next counter , Ariana .
+4 Cheers !	Have a nice day !
+
+1 True , 99 , Johnny Depp , large , black tea
+2 Hi !	Hello , Johnny Depp ! Would you like to have a large black tea again ?
+3 I will try something else . Can I have a breakfast tea , please ?	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 Yes , a croissant .	So that would be a medium breakfast tea and a croissant . Is that right ?
+6 Sorry , I would like to change that to a cappuccino .	Sure ! So that would be a medium cappuccino and a croissant . Is that right ?
+7 That sounds right !	Your order will be ready at the next counter , Johnny .
+8 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I would like a white hot chocolate , please .	Which size ?
+4 Large , thank you !	Would you like anything else with that ?
+5 Could I get a blueberry oatmeal , please ?	So that would be a large white hot chocolate and a blueberry oatmeal . Is that right ?
+6 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+7 Emma Roberts .	Your order will be ready at the next counter , Emma .
+8 False , 146 , Emma Roberts
+9 Bye !	Have a nice day !
+
+1 True , 132 , Stana Katic , large , caramel macchiato , plain bagel
+2 Hello !	Hello , Stana Katic ! Would you like to have a large caramel macchiato and a plain bagel again ?
+3 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Stana ?
+4 Can I have a salted caramel hot chocolate , please ?	Which size ?
+5 Large .	Would you like anything else with that ?
+6 Ah yes , a chocolate chip cookie , please .	So that would be a large salted caramel hot chocolate and a chocolate chip cookie . Is that right ?
+7 Sounds good !	Your order will be ready at the next counter , Stana .
+8 Thank you !	Have a nice day !
+
+1 True , 72 , Andrew Lincoln , large , breakfast tea , chocolate chip cookie
+2 Hello !	Hello , Andrew Lincoln ! Would you like to have a large breakfast tea and a chocolate chip cookie again ?
+3 That is incorrect .	Alright ! Which drink can I get for you , Andrew ?
+4 Could I get a cordusio ?	Which size ?
+5 Large , please .	Would you like anything else with that ?
+6 No , that is it .	So that would be a large cordusio . Is that right ?
+7 Yeap .	Your order will be ready at the next counter , Andrew .
+8 Have a nice day !	Have a nice day !
+
+1 True , 62 , Kristen Stewart , small , espresso
+2 Hello !	Hello , Kristen Stewart ! Would you like to have a small espresso again ?
+3 Maybe not this time ! Could I get a hot chocolate , please ?	Which size ?
+4 Large cup .	Would you like anything else with that ?
+5 That is it .	So that would be a large hot chocolate . Is that right ?
+6 Can I have medium ?	Sure ! So that would be a medium hot chocolate . Is that right ?
+7 Yeah .	Your order will be ready at the next counter , Kristen .
+8 Okay .	Have a nice day !
+
+1 True , 123 , Lucy Liu , small , Earl Grey , chocolate chip cookie
+2 Hey !	Hello , Lucy Liu ! Would you like to have a small Earl Grey and a chocolate chip cookie again ?
+3 No , not Lucy Liu .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Jessica Chastain .	Let me see if I have any previous records of you , Jessica .
+5 True , 137 , Jessica Chastain , medium , black tea
+6 Okay .	I thought you looked familiar , Jessica ! Would you like a medium black tea again ?
+7 I will try something else . I would like a green tea , please .	Which size ?
+8 Large .	Would you like anything else with that ?
+9 Hmm , a pain aux raisins , please .	So that would be a large green tea and a pain aux raisins . Is that right ?
+10 I want a hot chocolate .	Sure ! So that would be a large hot chocolate and a pain aux raisins . Is that right ?
+11 That sounds right !	Your order will be ready at the next counter , Jessica .
+12 Have a great day !	Have a nice day !
+
+1 True , 122 , Edie Falco , large , salted caramel hot chocolate
+2 Hi !	Hello , Edie Falco ! Would you like to have a large salted caramel hot chocolate again ?
+3 I think I will change it this time ! I want a hot chocolate .	Which size ?
+4 Small , please .	Would you like anything else with that ?
+5 No , thanks .	So that would be a small hot chocolate . Is that right ?
+6 Yeah .	Your order will be ready at the next counter , Edie .
+7 Okay .	Have a nice day !
+
+1 True , 51 , Troian Bellisario , medium , mocha , veggie tortilla wrap
+2 Hey !	Hello , Troian Bellisario ! Would you like to have a medium mocha and a veggie tortilla wrap again ?
+3 That is not true .	Alright ! Which drink can I get for you , Troian ?
+4 Could I have an espresso macchiato , please ?	Which size ?
+5 Small .	Would you like anything else with that ?
+6 No .	So that would be a small espresso macchiato . Is that right ?
+7 Erm , I would like medium actually .	Sure ! So that would be a medium espresso macchiato . Is that right ?
+8 Sounds good !	Your order will be ready at the next counter , Troian .
+9 Thanks !	Have a nice day !
+
+1 True , 123 , Lucy Liu , small , peppermint hot chocolate , lemon pound cake
+2 Hi !	Hello , Lucy Liu ! Would you like to have a small peppermint hot chocolate and a lemon pound cake again ?
+3 That is incorrect .	Alright ! Which drink can I get for you , Lucy ?
+4 Can I get an iced hot chocolate , please ?	Which size ?
+5 Small cup .	Would you like anything else with that ?
+6 No .	So that would be a small iced hot chocolate . Is that right ?
+7 Yeah .	Your order will be ready at the next counter , Lucy .
+8 Goodbye !	Have a nice day !
+
+1 True , 82 , Patrick Dempsey , medium , white hot chocolate , chocolate chip cookie
+2 Hey there !	Hello , Patrick Dempsey ! Would you like to have a medium white hot chocolate and a chocolate chip cookie again ?
+3 I don't want that .	Alright ! Which drink can I get for you , Patrick ?
+4 May I get an americano ?	Which size ?
+5 Large cup .	Would you like anything else with that ?
+6 Just the drink , please .	So that would be a large americano . Is that right ?
+7 Can I have medium , please ?	Sure ! So that would be a medium americano . Is that right ?
+8 I want small .	Sure ! So that would be a small americano . Is that right ?
+9 Sounds good !	Your order will be ready at the next counter , Patrick .
+10 Alright .	Have a nice day !
+
+1 True , 74 , Joel McHale , small , espresso macchiato , chocolate chip muffin
+2 Hey !	Hello , Joel McHale ! Would you like to have a small espresso macchiato and a chocolate chip muffin again ?
+3 Haha , no , not Joel McHale .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Tom Hiddleston .	Let me see if I have any previous records of you , Tom .
+5 False , 147 , Tom Hiddleston
+6 Alright .	It seems to be your first time here ! Which drink would you like to have , Tom ?
+7 May I have a latte ?	Which size ?
+8 Small .	Would you like anything else with that ?
+9 Yeah , a plain bagel .	So that would be a small latte and a plain bagel . Is that right ?
+10 Indeed !	Your order will be ready at the next counter , Tom .
+11 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 May I get an espresso ?	Which size ?
+4 Small , thank you !	Would you like anything else with that ?
+5 Could I get a slice of banana bread ?	So that would be a small espresso and a slice of banana bread . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 Kevin McKidd .	Your order will be ready at the next counter , Kevin .
+8 False , 148 , Kevin McKidd
+9 Enjoy your day !	Have a nice day !
+
+1 True , 94 , Matt Smith , small , noisette , croissant
+2 Hi !	Hello , Matt Smith ! Would you like to have a small noisette and a croissant again ?
+3 Haha , no , not Matt Smith .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Jennifer Aniston .	Let me see if I have any previous records of you , Jennifer .
+5 True , 114 , Jennifer Aniston , small , white hot chocolate
+6 Sure .	I thought you looked familiar , Jennifer ! Would you like a small white hot chocolate again ?
+7 No , I think I will try something else instead . Could I get a green tea , please ?	Which size ?
+8 Large would do .	Would you like anything else with that ?
+9 May I get a slice of banana bread ?	So that would be a large green tea and a slice of banana bread . Is that right ?
+10 Can I get small ?	Sure ! So that would be a small green tea and a slice of banana bread . Is that right ?
+11 Can I get an espresso , please ?	Sure ! So that would be a small espresso and a slice of banana bread . Is that right ?
+12 Yes !	Your order will be ready at the next counter , Jennifer .
+13 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I want a mocha , please .	Which size ?
+4 Medium , please .	Would you like anything else with that ?
+5 No , thank you .	So that would be a medium mocha . Is that right ?
+6 Small .	Sure ! So that would be a small mocha . Is that right ?
+7 Can I get large , please ?	Sure ! So that would be a large mocha . Is that right ?
+8 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+9 Alex O'Loughlin .	Your order will be ready at the next counter , Alex .
+10 False , 149 , Alex O'Loughlin
+11 Thanks !	Have a nice day !
+
+1 True , 4 , Angie Harmon , large , caramel macchiato , classic oatmeal
+2 Hi !	Hello , Angie Harmon ! Would you like to have a large caramel macchiato and a classic oatmeal again ?
+3 Why not ?	Your order will be ready at the next counter , Angie .
+4 Thank you !	Have a nice day !
+
+1 True , 65 , Cote de Pablo , large , hot chocolate
+2 Hey !	Hello , Cote de Pablo ! Would you like to have a large hot chocolate again ?
+3 Yes , thanks !	Your order will be ready at the next counter , Cote .
+4 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 May I have a noisette ?	Which size ?
+4 Large .	Would you like anything else with that ?
+5 Just the drink .	So that would be a large noisette . Is that right ?
+6 Can I have medium ?	Sure ! So that would be a medium noisette . Is that right ?
+7 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+8 It is Pauley Perrette .	Your order will be ready at the next counter , Pauley .
+9 False , 150 , Pauley Perrette
+10 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I want an iced hot chocolate .	Which size ?
+4 Small , thank you !	Would you like anything else with that ?
+5 Yes , a chocolate chip muffin , please .	So that would be a small iced hot chocolate and a chocolate chip muffin . Is that right ?
+6 Can I have medium , please ?	Sure ! So that would be a medium iced hot chocolate and a chocolate chip muffin . Is that right ?
+7 No , I want a cappuccino .	Sure ! So that would be a medium cappuccino and a chocolate chip muffin . Is that right ?
+8 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+9 Ian Somerhalder .	Your order will be ready at the next counter , Ian .
+10 False , 151 , Ian Somerhalder
+11 Have a great day !	Have a nice day !
+
+1 True , 42 , Jensen Ackles , small , espresso con panna , double chocolate muffin
+2 Hey !	Hello , Jensen Ackles ! Would you like to have a small espresso con panna and a double chocolate muffin again ?
+3 Yeah .	Your order will be ready at the next counter , Jensen .
+4 Cheers !	Have a nice day !
+
+1 True , 29 , RuPaul , large , latte , croissant
+2 Hello !	Hello , RuPaul ! Would you like to have a large latte and a croissant again ?
+3 I think you are mixing me with someone .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Kristen Stewart .	Let me see if I have any previous records of you , Kristen .
+5 True , 62 , Kristen Stewart , medium , hot chocolate
+6 Alright .	I thought you looked familiar , Kristen ! Would you like a medium hot chocolate again ?
+7 I'm becoming predictable ! But that would do , yes !	Your order will be ready at the next counter , Kristen .
+8 Bye !	Have a nice day !
+
+1 True , 72 , Andrew Lincoln , medium , flat white
+2 Hi !	Hello , Andrew Lincoln ! Would you like to have a medium flat white again ?
+3 I'm becoming predictable ! But that would do , yes !	Your order will be ready at the next counter , Andrew .
+4 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 May I have an Earl Grey ?	Which size ?
+4 Medium , thank you !	Would you like anything else with that ?
+5 I would like a breakfast tortilla wrap , please .	So that would be a medium Earl Grey and a breakfast tortilla wrap . Is that right ?
+6 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+7 Lisa Kudrow .	Your order will be ready at the next counter , Lisa .
+8 False , 152 , Lisa Kudrow
+9 Have a great day !	Have a nice day !
+
+1 True , 118 , Mark Ruffalo , large , noisette
+2 Hey !	Hello , Mark Ruffalo ! Would you like to have a large noisette again ?
+3 That's precisely it !	Your order will be ready at the next counter , Mark .
+4 Thank you !	Have a nice day !
+
+1 True , 82 , Patrick Dempsey , medium , Earl Grey , slice of banana bread
+2 Hey there !	Hello , Patrick Dempsey ! Would you like to have a medium Earl Grey and a slice of banana bread again ?
+3 I've never had that .	Alright ! Which drink can I get for you , Patrick ?
+4 I would like a peppermint hot chocolate .	Which size ?
+5 Small , thank you !	Would you like anything else with that ?
+6 No , thank you .	So that would be a small peppermint hot chocolate . Is that right ?
+7 Sounds good !	Your order will be ready at the next counter , Patrick .
+8 Enjoy your day !	Have a nice day !
+
+1 True , 71 , Jonny Lee Miller , medium , breakfast tea , classic oatmeal
+2 Hello !	Hello , Jonny Lee Miller ! Would you like to have a medium breakfast tea and a classic oatmeal again ?
+3 I think I will change it this time ! Could I get a cordusio , please ?	Which size ?
+4 Medium , please .	Would you like anything else with that ?
+5 Ah yes , a chocolate chip cookie , please .	So that would be a medium cordusio and a chocolate chip cookie . Is that right ?
+6 On second thought , I would have a lemon pound cake instead .	Sure ! So that would be a medium cordusio and a lemon pound cake . Is that right ?
+7 May I have a double chocolate muffin ?	Sure ! So that would be a medium cordusio and a double chocolate muffin . Is that right ?
+8 Yes !	Your order will be ready at the next counter , Jonny .
+9 Enjoy your day !	Have a nice day !
+
+1 True , 65 , Cote de Pablo , large , hot chocolate
+2 Hey there !	Hello , Cote de Pablo ! Would you like to have a large hot chocolate again ?
+3 No , I'm not Cote de Pablo .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Sandra Oh .	Let me see if I have any previous records of you , Sandra .
+5 True , 17 , Sandra Oh , large , americano
+6 <SILENCE>	I thought you looked familiar , Sandra ! Would you like a large americano again ?
+7 That will do .	Your order will be ready at the next counter , Sandra .
+8 Alright .	Have a nice day !
+
+1 True , 103 , Amy Poehler , large , cordusio , pain aux raisins
+2 Hi !	Hello , Amy Poehler ! Would you like to have a large cordusio and a pain aux raisins again ?
+3 That will do .	Your order will be ready at the next counter , Amy .
+4 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I would like a caramel macchiato .	Which size ?
+4 Medium .	Would you like anything else with that ?
+5 No , thanks .	So that would be a medium caramel macchiato . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 Emilia Clarke .	Your order will be ready at the next counter , Emilia .
+8 False , 153 , Emilia Clarke
+9 Bye !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I would like an iced hot chocolate , please .	Which size ?
+4 Large , please .	Would you like anything else with that ?
+5 Can I get a pain aux raisins ?	So that would be a large iced hot chocolate and a pain aux raisins . Is that right ?
+6 An espresso con panna .	Sure ! So that would be a large espresso con panna and a pain aux raisins . Is that right ?
+7 No , I would like medium .	Sure ! So that would be a medium espresso con panna and a pain aux raisins . Is that right ?
+8 Yes !	Great ! Can I take your name ? api_call getCustomerName
+9 It is Neil Patrick Harris .	Your order will be ready at the next counter , Neil .
+10 False , 154 , Neil Patrick Harris
+11 Cheers !	Have a nice day !
+
+1 True , 57 , Damian Lewis , large , noisette , plain bagel
+2 Hi !	Hello , Damian Lewis ! Would you like to have a large noisette and a plain bagel again ?
+3 I will try something else . Could I have a breakfast tea ?	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 I am good .	So that would be a medium breakfast tea . Is that right ?
+6 No , I want a salted caramel hot chocolate .	Sure ! So that would be a medium salted caramel hot chocolate . Is that right ?
+7 Can I get a cappuccino instead ?	Sure ! So that would be a medium cappuccino . Is that right ?
+8 Yes !	Your order will be ready at the next counter , Damian .
+9 Okay .	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I get a latte ?	Which size ?
+4 Medium .	Would you like anything else with that ?
+5 Hmm , a chocolate caramel shortbread .	So that would be a medium latte and a chocolate caramel shortbread . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 Vincent Kartheiser .	Your order will be ready at the next counter , Vincent .
+8 False , 155 , Vincent Kartheiser
+9 Bye !	Have a nice day !
+
+1 True , 43 , Lena Dunham , large , white hot chocolate
+2 Hello !	Hello , Lena Dunham ! Would you like to have a large white hot chocolate again ?
+3 Maybe not this time ! Could I have an espresso macchiato , please ?	Which size ?
+4 Small .	Would you like anything else with that ?
+5 I would like an everything bagel , please .	So that would be a small espresso macchiato and an everything bagel . Is that right ?
+6 Sounds good !	Your order will be ready at the next counter , Lena .
+7 Goodbye !	Have a nice day !
+
+1 True , 148 , Kevin McKidd , medium , americano , chocolate chip muffin
+2 Hi !	Hello , Kevin McKidd ! Would you like to have a medium americano and a chocolate chip muffin again ?
+3 I don't want that .	Alright ! Which drink can I get for you , Kevin ?
+4 Could I get a cordusio ?	Which size ?
+5 Small cup .	Would you like anything else with that ?
+6 No , that is it .	So that would be a small cordusio . Is that right ?
+7 I would like medium .	Sure ! So that would be a medium cordusio . Is that right ?
+8 On second thought , I would have large instead .	Sure ! So that would be a large cordusio . Is that right ?
+9 Definitely .	Your order will be ready at the next counter , Kevin .
+10 Have a great day !	Have a nice day !
+
+1 True , 136 , Jennette McCurdy , large , white hot chocolate
+2 Hi !	Hello , Jennette McCurdy ! Would you like to have a large white hot chocolate again ?
+3 No , not today . Could I have a flat white , please ?	Which size ?
+4 Small , thank you !	Would you like anything else with that ?
+5 Could I get a carrot cake , please ?	So that would be a small flat white and a carrot cake . Is that right ?
+6 No , a slice of banana bread .	Sure ! So that would be a small flat white and a slice of banana bread . Is that right ?
+7 Yeap .	Your order will be ready at the next counter , Jennette .
+8 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I would like a green tea , please .	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 That would be it .	So that would be a medium green tea . Is that right ?
+6 Can I have a salted caramel hot chocolate instead ?	Sure ! So that would be a medium salted caramel hot chocolate . Is that right ?
+7 Yes !	Great ! Can I take your name ? api_call getCustomerName
+8 Jennifer Garner .	Your order will be ready at the next counter , Jennifer .
+9 False , 156 , Jennifer Garner
+10 Bye !	Have a nice day !
+
+1 True , 37 , Anne Hathaway , small , white hot chocolate , plain bagel
+2 Hey !	Hello , Anne Hathaway ! Would you like to have a small white hot chocolate and a plain bagel again ?
+3 You are mixing my orders .	Alright ! Which drink can I get for you , Anne ?
+4 Could I get an iced hot chocolate ?	Which size ?
+5 Medium .	Would you like anything else with that ?
+6 That would be it .	So that would be a medium iced hot chocolate . Is that right ?
+7 That is correct .	Your order will be ready at the next counter , Anne .
+8 Have a nice day !	Have a nice day !
+
+1 True , 149 , Alex O'Loughlin , large , mocha
+2 Hello !	Hello , Alex O'Loughlin ! Would you like to have a large mocha again ?
+3 You know me better !	Your order will be ready at the next counter , Alex .
+4 Okay .	Have a nice day !
+
+1 True , 123 , Lucy Liu , small , iced hot chocolate
+2 Hey there !	Hello , Lucy Liu ! Would you like to have a small iced hot chocolate again ?
+3 No , I'm not Lucy Liu .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Timothy Hutton .	Let me see if I have any previous records of you , Timothy .
+5 False , 157 , Timothy Hutton
+6 Alright .	It seems to be your first time here ! Which drink would you like to have , Timothy ?
+7 Could I get a salted caramel hot chocolate , please ?	Which size ?
+8 Small cup .	Would you like anything else with that ?
+9 A chocolate chip muffin , please .	So that would be a small salted caramel hot chocolate and a chocolate chip muffin . Is that right ?
+10 No , I want an espresso macchiato .	Sure ! So that would be a small espresso macchiato and a chocolate chip muffin . Is that right ?
+11 Can I get a lemon pound cake , please ?	Sure ! So that would be a small espresso macchiato and a lemon pound cake . Is that right ?
+12 That sounds right !	Your order will be ready at the next counter , Timothy .
+13 Alright .	Have a nice day !
+
+1 True , 58 , Miles Teller , small , iced hot chocolate
+2 Hello !	Hello , Miles Teller ! Would you like to have a small iced hot chocolate again ?
+3 No , not today . Could I get a noisette , please ?	Which size ?
+4 Large cup .	Would you like anything else with that ?
+5 Just the drink .	So that would be a large noisette . Is that right ?
+6 Yeap .	Your order will be ready at the next counter , Miles .
+7 Have a great day !	Have a nice day !
+
+1 True , 107 , Ed O'Neill , medium , salted caramel hot chocolate , pain au chocolat
+2 Hey there !	Hello , Ed O'Neill ! Would you like to have a medium salted caramel hot chocolate and a pain au chocolat again ?
+3 Nope .	Alright ! Which drink can I get for you , Ed ?
+4 Can I have a cordusio ?	Which size ?
+5 Small would do .	Would you like anything else with that ?
+6 No , that is it .	So that would be a small cordusio . Is that right ?
+7 Let's change cordusio to a black tea instead .	Sure ! So that would be a small black tea . Is that right ?
+8 Yeah .	Your order will be ready at the next counter , Ed .
+9 Enjoy your day !	Have a nice day !
+
+1 True , 156 , Jennifer Garner , medium , mocha , veggie tortilla wrap
+2 Hey there !	Hello , Jennifer Garner ! Would you like to have a medium mocha and a veggie tortilla wrap again ?
+3 I don't want that .	Alright ! Which drink can I get for you , Jennifer ?
+4 May I have a peppermint hot chocolate ?	Which size ?
+5 Large , thank you !	Would you like anything else with that ?
+6 May I get a blueberry muffin ?	So that would be a large peppermint hot chocolate and a blueberry muffin . Is that right ?
+7 Indeed !	Your order will be ready at the next counter , Jennifer .
+8 Enjoy your day !	Have a nice day !
+
+1 True , 109 , Blake Lively , small , iced hot chocolate
+2 Hello !	Hello , Blake Lively ! Would you like to have a small iced hot chocolate again ?
+3 Absolutely !	Your order will be ready at the next counter , Blake .
+4 Have a nice day !	Have a nice day !
+
+1 True , 10 , Taylor Schilling , medium , americano , pain aux raisins
+2 Hey there !	Hello , Taylor Schilling ! Would you like to have a medium americano and a pain aux raisins again ?
+3 My name is not Taylor Schilling .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Matthew Morrison .	Let me see if I have any previous records of you , Matthew .
+5 True , 23 , Matthew Morrison , large , caramel macchiato , carrot cake
+6 Okay .	I thought you looked familiar , Matthew ! Would you like a large caramel macchiato and a carrot cake again ?
+7 That is not true .	Alright ! Which drink can I get for you , Matthew ?
+8 Can I have a caramel macchiato , please ?	Which size ?
+9 Small , please .	Would you like anything else with that ?
+10 No .	So that would be a small caramel macchiato . Is that right ?
+11 I would like a latte .	Sure ! So that would be a small latte . Is that right ?
+12 Indeed !	Your order will be ready at the next counter , Matthew .
+13 Alright .	Have a nice day !
+
+1 True , 100 , Norman Reedus , large , hot chocolate
+2 Hello !	Hello , Norman Reedus ! Would you like to have a large hot chocolate again ?
+3 No , I think I will try something else instead . Can I get a mocha , please ?	Which size ?
+4 Medium , thank you !	Would you like anything else with that ?
+5 That is it .	So that would be a medium mocha . Is that right ?
+6 No , I would like a white hot chocolate .	Sure ! So that would be a medium white hot chocolate . Is that right ?
+7 Can I have an espresso ?	Sure ! So that would be a medium espresso . Is that right ?
+8 Yes !	Your order will be ready at the next counter , Norman .
+9 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Can I have a white hot chocolate ?	Which size ?
+4 Large , please .	Would you like anything else with that ?
+5 Could I get a slice of banana bread , please ?	So that would be a large white hot chocolate and a slice of banana bread . Is that right ?
+6 On second thought , I would have small instead .	Sure ! So that would be a small white hot chocolate and a slice of banana bread . Is that right ?
+7 Yes !	Great ! Can I take your name ? api_call getCustomerName
+8 Elisabeth Moss .	Your order will be ready at the next counter , Elisabeth .
+9 False , 158 , Elisabeth Moss
+10 Bye !	Have a nice day !
+
+1 True , 10 , Taylor Schilling , medium , americano , breakfast tortilla wrap
+2 Hello !	Hello , Taylor Schilling ! Would you like to have a medium americano and a breakfast tortilla wrap again ?
+3 That is not true .	Alright ! Which drink can I get for you , Taylor ?
+4 Could I have a green tea ?	Which size ?
+5 Medium cup .	Would you like anything else with that ?
+6 Can I get a chocolate chip muffin ?	So that would be a medium green tea and a chocolate chip muffin . Is that right ?
+7 Sounds good !	Your order will be ready at the next counter , Taylor .
+8 Okay .	Have a nice day !
+
+1 True , 3 , Matthew McConaughey , medium , espresso
+2 Hi !	Hello , Matthew McConaughey ! Would you like to have a medium espresso again ?
+3 Yes , please !	Your order will be ready at the next counter , Matthew .
+4 Bye !	Have a nice day !
+
+1 True , 42 , Jensen Ackles , small , espresso con panna , double chocolate muffin
+2 Hello !	Hello , Jensen Ackles ! Would you like to have a small espresso con panna and a double chocolate muffin again ?
+3 Do I have a twin that I don't know ?	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Emily VanCamp .	Let me see if I have any previous records of you , Emily .
+5 False , 159 , Emily VanCamp
+6 Okay .	It seems to be your first time here ! Which drink would you like to have , Emily ?
+7 A flat white .	Which size ?
+8 Large would do .	Would you like anything else with that ?
+9 That would be it .	So that would be a large flat white . Is that right ?
+10 No , I would like a cappuccino .	Sure ! So that would be a large cappuccino . Is that right ?
+11 Yes !	Your order will be ready at the next counter , Emily .
+12 Okay .	Have a nice day !
+
+1 True , 83 , America Ferrera , large , black tea
+2 Hi !	Hello , America Ferrera ! Would you like to have a large black tea again ?
+3 I'm not America Ferrera .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Johnny Depp .	Let me see if I have any previous records of you , Johnny .
+5 True , 99 , Johnny Depp , medium , cappuccino , croissant
+6 Alright .	I thought you looked familiar , Johnny ! Would you like a medium cappuccino and a croissant again ?
+7 Alright .	Your order will be ready at the next counter , Johnny .
+8 Have a great day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 May I get a caramel macchiato ?	Which size ?
+4 Small would do .	Would you like anything else with that ?
+5 No .	So that would be a small caramel macchiato . Is that right ?
+6 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+7 Stephen Moyer .	Your order will be ready at the next counter , Stephen .
+8 False , 160 , Stephen Moyer
+9 Have a nice day !	Have a nice day !
+
+1 True , 53 , Rachel Bilson , medium , caramel macchiato
+2 Hi !	Hello , Rachel Bilson ! Would you like to have a medium caramel macchiato again ?
+3 Maybe not this time ! An espresso , please .	Which size ?
+4 Medium , thank you !	Would you like anything else with that ?
+5 No , thank you .	So that would be a medium espresso . Is that right ?
+6 Yeap .	Your order will be ready at the next counter , Rachel .
+7 Goodbye !	Have a nice day !
+
+1 True , 53 , Rachel Bilson , small , cappuccino , gingerbread cookie
+2 Hello !	Hello , Rachel Bilson ! Would you like to have a small cappuccino and a gingerbread cookie again ?
+3 Nope .	Alright ! Which drink can I get for you , Rachel ?
+4 Could I have a peppermint hot chocolate , please ?	Which size ?
+5 Medium , please .	Would you like anything else with that ?
+6 No , thank you .	So that would be a medium peppermint hot chocolate . Is that right ?
+7 Sounds good !	Your order will be ready at the next counter , Rachel .
+8 Goodbye !	Have a nice day !
+
+1 True , 33 , Alyson Hannigan , small , cappuccino
+2 Hello !	Hello , Alyson Hannigan ! Would you like to have a small cappuccino again ?
+3 I would .	Your order will be ready at the next counter , Alyson .
+4 Okay .	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I have an americano ?	Which size ?
+4 Small .	Would you like anything else with that ?
+5 Just the drink .	So that would be a small americano . Is that right ?
+6 Medium .	Sure ! So that would be a medium americano . Is that right ?
+7 May I get large ?	Sure ! So that would be a large americano . Is that right ?
+8 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+9 Walton Goggins .	Your order will be ready at the next counter , Walton .
+10 False , 161 , Walton Goggins
+11 Goodbye !	Have a nice day !
+
+1 True , 40 , Ariana Grande , small , iced hot chocolate , blueberry oatmeal
+2 Hey there !	Hello , Ariana Grande ! Would you like to have a small iced hot chocolate and a blueberry oatmeal again ?
+3 That is not what I ordered .	Alright ! Which drink can I get for you , Ariana ?
+4 Can I get a breakfast tea ?	Which size ?
+5 Small , please .	Would you like anything else with that ?
+6 No , that is it .	So that would be a small breakfast tea . Is that right ?
+7 Can I have an espresso macchiato ?	Sure ! So that would be a small espresso macchiato . Is that right ?
+8 I want large .	Sure ! So that would be a large espresso macchiato . Is that right ?
+9 Yeap .	Your order will be ready at the next counter , Ariana .
+10 Thanks !	Have a nice day !
+
+1 True , 29 , RuPaul , large , latte , croissant
+2 Hey !	Hello , RuPaul ! Would you like to have a large latte and a croissant again ?
+3 Not RuPaul .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Zachary Levi .	Let me see if I have any previous records of you , Zachary .
+5 True , 128 , Zachary Levi , small , cappuccino
+6 Okay .	I thought you looked familiar , Zachary ! Would you like a small cappuccino again ?
+7 No , thanks . I would like a flat white .	Which size ?
+8 Medium , thank you !	Would you like anything else with that ?
+9 I would like a plain bagel .	So that would be a medium flat white and a plain bagel . Is that right ?
+10 I think I will switch flat white with a peppermint hot chocolate .	Sure ! So that would be a medium peppermint hot chocolate and a plain bagel . Is that right ?
+11 Indeed !	Your order will be ready at the next counter , Zachary .
+12 Cheers !	Have a nice day !
+
+1 True , 101 , Jake Gyllenhaal , small , mocha
+2 Hello !	Hello , Jake Gyllenhaal ! Would you like to have a small mocha again ?
+3 Yeap !	Your order will be ready at the next counter , Jake .
+4 Goodbye !	Have a nice day !
+
+1 True , 152 , Lisa Kudrow , medium , Earl Grey , breakfast tortilla wrap
+2 Hey there !	Hello , Lisa Kudrow ! Would you like to have a medium Earl Grey and a breakfast tortilla wrap again ?
+3 No , not today . Can I get a caramel macchiato ?	Which size ?
+4 Large cup .	Would you like anything else with that ?
+5 Just the drink .	So that would be a large caramel macchiato . Is that right ?
+6 Indeed !	Your order will be ready at the next counter , Lisa .
+7 Thank you !	Have a nice day !
+
+1 True , 36 , John Noble , medium , latte
+2 Hey there !	Hello , John Noble ! Would you like to have a medium latte again ?
+3 Nice of you to remember ! But I will take something else . Could I get a salted caramel hot chocolate , please ?	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 Just the drink .	So that would be a small salted caramel hot chocolate . Is that right ?
+6 Definitely .	Your order will be ready at the next counter , John .
+7 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I want a noisette .	Which size ?
+4 Large .	Would you like anything else with that ?
+5 No , thank you .	So that would be a large noisette . Is that right ?
+6 I want medium .	Sure ! So that would be a medium noisette . Is that right ?
+7 Small .	Sure ! So that would be a small noisette . Is that right ?
+8 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+9 January Jones .	Your order will be ready at the next counter , January .
+10 False , 162 , January Jones
+11 Thank you !	Have a nice day !
+
+1 True , 90 , Zoe Saldana , medium , black tea , classic oatmeal
+2 Hello !	Hello , Zoe Saldana ! Would you like to have a medium black tea and a classic oatmeal again ?
+3 Sorry , I am not Zoe Saldana .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Sara Ramirez .	Let me see if I have any previous records of you , Sara .
+5 False , 163 , Sara Ramirez
+6 No worries .	It seems to be your first time here ! Which drink would you like to have , Sara ?
+7 Could I get a green tea , please ?	Which size ?
+8 Medium would do .	Would you like anything else with that ?
+9 No , that is it .	So that would be a medium green tea . Is that right ?
+10 May I get large ?	Sure ! So that would be a large green tea . Is that right ?
+11 Sorry , I would like to change that to small .	Sure ! So that would be a small green tea . Is that right ?
+12 Sounds good !	Your order will be ready at the next counter , Sara .
+13 Alright .	Have a nice day !
+
+1 True , 143 , Joyce DeWitt , small , mocha , gingerbread cookie
+2 Hi !	Hello , Joyce DeWitt ! Would you like to have a small mocha and a gingerbread cookie again ?
+3 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Joyce ?
+4 I want a salted caramel hot chocolate , please .	Which size ?
+5 Medium , please .	Would you like anything else with that ?
+6 Yes , a croissant , please .	So that would be a medium salted caramel hot chocolate and a croissant . Is that right ?
+7 Can I get large , please ?	Sure ! So that would be a large salted caramel hot chocolate and a croissant . Is that right ?
+8 That is correct .	Your order will be ready at the next counter , Joyce .
+9 Enjoy your day !	Have a nice day !
+
+1 True , 145 , Shay Mitchell , medium , green tea , plain bagel
+2 Hey !	Hello , Shay Mitchell ! Would you like to have a medium green tea and a plain bagel again ?
+3 I've never had that .	Alright ! Which drink can I get for you , Shay ?
+4 I want a mocha , please .	Which size ?
+5 Medium .	Would you like anything else with that ?
+6 No .	So that would be a medium mocha . Is that right ?
+7 May I get small ?	Sure ! So that would be a small mocha . Is that right ?
+8 No , large .	Sure ! So that would be a large mocha . Is that right ?
+9 Yeap .	Your order will be ready at the next counter , Shay .
+10 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Can I get a latte , please ?	Which size ?
+4 Medium , please .	Would you like anything else with that ?
+5 No , thank you .	So that would be a medium latte . Is that right ?
+6 Can I have a flat white , please ?	Sure ! So that would be a medium flat white . Is that right ?
+7 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+8 Eva Longoria .	Your order will be ready at the next counter , Eva .
+9 False , 164 , Eva Longoria
+10 Have a nice day !	Have a nice day !
+
+1 True , 120 , Cobie Smulders , medium , green tea
+2 Hi !	Hello , Cobie Smulders ! Would you like to have a medium green tea again ?
+3 What a memory ? I would , yes !	Your order will be ready at the next counter , Cobie .
+4 Thanks !	Have a nice day !
+
+1 True , 51 , Troian Bellisario , medium , espresso macchiato
+2 Hi !	Hello , Troian Bellisario ! Would you like to have a medium espresso macchiato again ?
+3 Absolutely !	Your order will be ready at the next counter , Troian .
+4 Have a great day !	Have a nice day !
+
+1 True , 158 , Elisabeth Moss , small , white hot chocolate , slice of banana bread
+2 Hey there !	Hello , Elisabeth Moss ! Would you like to have a small white hot chocolate and a slice of banana bread again ?
+3 Let's try something different . Could I get an iced hot chocolate ?	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 Could I get a doughnut , please ?	So that would be a small iced hot chocolate and a doughnut . Is that right ?
+6 Large .	Sure ! So that would be a large iced hot chocolate and a doughnut . Is that right ?
+7 No , I want a blueberry muffin .	Sure ! So that would be a large iced hot chocolate and a blueberry muffin . Is that right ?
+8 Yes !	Your order will be ready at the next counter , Elisabeth .
+9 Have a great day !	Have a nice day !
+
+1 True , 70 , Kevin Bacon , large , peppermint hot chocolate , chocolate chip muffin
+2 Hi !	Hello , Kevin Bacon ! Would you like to have a large peppermint hot chocolate and a chocolate chip muffin again ?
+3 Sure .	Your order will be ready at the next counter , Kevin .
+4 Have a nice day !	Have a nice day !
+
+1 True , 80 , Will Smith , medium , green tea
+2 Hey there !	Hello , Will Smith ! Would you like to have a medium green tea again ?
+3 Nice of you to remember ! But I will take something else . Can I have a black tea ?	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 I am good .	So that would be a medium black tea . Is that right ?
+6 Can I get large ?	Sure ! So that would be a large black tea . Is that right ?
+7 Yes !	Your order will be ready at the next counter , Will .
+8 Alright .	Have a nice day !
+
+1 True , 95 , Matthew Rhys , small , mocha , chocolate chip cookie
+2 Hey !	Hello , Matthew Rhys ! Would you like to have a small mocha and a chocolate chip cookie again ?
+3 You got me ! Yes , please .	Your order will be ready at the next counter , Matthew .
+4 Alright .	Have a nice day !
+
+1 True , 49 , David Boreanaz , medium , white hot chocolate
+2 Hey there !	Hello , David Boreanaz ! Would you like to have a medium white hot chocolate again ?
+3 Sorry , I am not David Boreanaz .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Keri Russell .	Let me see if I have any previous records of you , Keri .
+5 True , 30 , Keri Russell , medium , espresso macchiato , pain au chocolat
+6 <SILENCE>	I thought you looked familiar , Keri ! Would you like a medium espresso macchiato and a pain au chocolat again ?
+7 Let's try something different . An iced hot chocolate , please .	Which size ?
+8 Medium , thank you !	Would you like anything else with that ?
+9 Just the drink .	So that would be a medium iced hot chocolate . Is that right ?
+10 No , I want small .	Sure ! So that would be a small iced hot chocolate . Is that right ?
+11 That sounds right !	Your order will be ready at the next counter , Keri .
+12 Okay .	Have a nice day !
+
+1 True , 7 , Teri Hatcher , medium , espresso con panna , classic oatmeal
+2 Hi !	Hello , Teri Hatcher ! Would you like to have a medium espresso con panna and a classic oatmeal again ?
+3 I don't remember ever ordering that !	Alright ! Which drink can I get for you , Teri ?
+4 May I get an iced hot chocolate ?	Which size ?
+5 Small would do .	Would you like anything else with that ?
+6 Can I get a pain aux raisins ?	So that would be a small iced hot chocolate and a pain aux raisins . Is that right ?
+7 On second thought , I would have a plain bagel instead .	Sure ! So that would be a small iced hot chocolate and a plain bagel . Is that right ?
+8 No , I want a chocolate chip muffin .	Sure ! So that would be a small iced hot chocolate and a chocolate chip muffin . Is that right ?
+9 Yeah .	Your order will be ready at the next counter , Teri .
+10 Thank you !	Have a nice day !
+
+1 True , 94 , Matt Smith , small , noisette , croissant
+2 Hi !	Hello , Matt Smith ! Would you like to have a small noisette and a croissant again ?
+3 No , not Matt Smith .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Emilia Clarke .	Let me see if I have any previous records of you , Emilia .
+5 True , 153 , Emilia Clarke , medium , caramel macchiato
+6 <SILENCE>	I thought you looked familiar , Emilia ! Would you like a medium caramel macchiato again ?
+7 Let's try something different . I want a salted caramel hot chocolate .	Which size ?
+8 Small , please .	Would you like anything else with that ?
+9 Can I get a carrot cake , please ?	So that would be a small salted caramel hot chocolate and a carrot cake . Is that right ?
+10 Sounds good !	Your order will be ready at the next counter , Emilia .
+11 Thanks !	Have a nice day !
+
+1 True , 27 , Felicity Huffman , medium , flat white , pain au chocolat
+2 Hey !	Hello , Felicity Huffman ! Would you like to have a medium flat white and a pain au chocolat again ?
+3 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Felicity ?
+4 Can I have a noisette , please ?	Which size ?
+5 Medium would do .	Would you like anything else with that ?
+6 That is it .	So that would be a medium noisette . Is that right ?
+7 Erm , I would like small actually .	Sure ! So that would be a small noisette . Is that right ?
+8 That sounds right !	Your order will be ready at the next counter , Felicity .
+9 Okay .	Have a nice day !
+
+1 True , 120 , Cobie Smulders , small , cordusio , breakfast tortilla wrap
+2 Hi !	Hello , Cobie Smulders ! Would you like to have a small cordusio and a breakfast tortilla wrap again ?
+3 I'm not Cobie Smulders .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Kate Walsh .	Let me see if I have any previous records of you , Kate .
+5 True , 110 , Kate Walsh , large , espresso con panna , chocolate chip cookie
+6 Sure .	I thought you looked familiar , Kate ! Would you like a large espresso con panna and a chocolate chip cookie again ?
+7 That is not what I ordered .	Alright ! Which drink can I get for you , Kate ?
+8 I would like an americano , please .	Which size ?
+9 Large cup .	Would you like anything else with that ?
+10 I would like a blueberry oatmeal .	So that would be a large americano and a blueberry oatmeal . Is that right ?
+11 Yes !	Your order will be ready at the next counter , Kate .
+12 Bye !	Have a nice day !
+
+1 True , 1 , Melissa McBride , medium , breakfast tea , almond croissant
+2 Hey !	Hello , Melissa McBride ! Would you like to have a medium breakfast tea and an almond croissant again ?
+3 Sure .	Your order will be ready at the next counter , Melissa .
+4 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I have an espresso macchiato , please ?	Which size ?
+4 Small , thank you !	Would you like anything else with that ?
+5 Can I get a croissant ?	So that would be a small espresso macchiato and a croissant . Is that right ?
+6 No , I want large .	Sure ! So that would be a large espresso macchiato and a croissant . Is that right ?
+7 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+8 It is Piper Perabo .	Your order will be ready at the next counter , Piper .
+9 False , 165 , Piper Perabo
+10 Have a great day !	Have a nice day !
+
+1 True , 63 , Channing Tatum , medium , espresso
+2 Hey !	Hello , Channing Tatum ! Would you like to have a medium espresso again ?
+3 Nice of you to remember ! But I will take something else . Could I get an espresso con panna , please ?	Which size ?
+4 Small would do .	Would you like anything else with that ?
+5 Ah yes , a veggie tortilla wrap , please .	So that would be a small espresso con panna and a veggie tortilla wrap . Is that right ?
+6 Can I get a plain bagel ?	Sure ! So that would be a small espresso con panna and a plain bagel . Is that right ?
+7 Yes !	Your order will be ready at the next counter , Channing .
+8 Goodbye !	Have a nice day !
+
+1 True , 57 , Damian Lewis , large , noisette , plain bagel
+2 Hello !	Hello , Damian Lewis ! Would you like to have a large noisette and a plain bagel again ?
+3 No , I'm not Damian Lewis .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Heidi Klum .	Let me see if I have any previous records of you , Heidi .
+5 False , 166 , Heidi Klum
+6 No worries .	It seems to be your first time here ! Which drink would you like to have , Heidi ?
+7 I want a cordusio , please .	Which size ?
+8 Large cup .	Would you like anything else with that ?
+9 I am good .	So that would be a large cordusio . Is that right ?
+10 I want small .	Sure ! So that would be a small cordusio . Is that right ?
+11 May I get medium ?	Sure ! So that would be a medium cordusio . Is that right ?
+12 Indeed !	Your order will be ready at the next counter , Heidi .
+13 Thank you !	Have a nice day !
+
+1 True , 91 , Ed Westwick , medium , iced hot chocolate , everything bagel
+2 Hello !	Hello , Ed Westwick ! Would you like to have a medium iced hot chocolate and an everything bagel again ?
+3 What a memory ? I would , yes !	Your order will be ready at the next counter , Ed .
+4 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 I want a breakfast tea .	Which size ?
+4 Medium , please .	Would you like anything else with that ?
+5 Ah yes , a chocolate caramel shortbread .	So that would be a medium breakfast tea and a chocolate caramel shortbread . Is that right ?
+6 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+7 Gary Coleman .	Your order will be ready at the next counter , Gary .
+8 False , 167 , Gary Coleman
+9 Goodbye !	Have a nice day !
+
+1 True , 67 , Cate Blanchett , medium , iced hot chocolate , pain au chocolat
+2 Hey there !	Hello , Cate Blanchett ! Would you like to have a medium iced hot chocolate and a pain au chocolat again ?
+3 That is actually my least favourite !	Alright ! Which drink can I get for you , Cate ?
+4 May I get a caramel macchiato ?	Which size ?
+5 Medium , thank you !	Would you like anything else with that ?
+6 I would like a blueberry muffin , please .	So that would be a medium caramel macchiato and a blueberry muffin . Is that right ?
+7 That sounds right !	Your order will be ready at the next counter , Cate .
+8 Have a nice day !	Have a nice day !
+
+1 True , 121 , Jennifer Morrison , medium , Earl Grey
+2 Hey there !	Hello , Jennifer Morrison ! Would you like to have a medium Earl Grey again ?
+3 Maybe not this time ! Could I get a salted caramel hot chocolate ?	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 That would be it .	So that would be a medium salted caramel hot chocolate . Is that right ?
+6 Yes !	Your order will be ready at the next counter , Jennifer .
+7 Bye !	Have a nice day !
+
+1 True , 105 , Bruce Willis , medium , americano
+2 Hey there !	Hello , Bruce Willis ! Would you like to have a medium americano again ?
+3 How did you know ?	Your order will be ready at the next counter , Bruce .
+4 Thanks !	Have a nice day !
+
+1 True , 14 , Julie Bowen , large , espresso
+2 Hi !	Hello , Julie Bowen ! Would you like to have a large espresso again ?
+3 Yeah .	Your order will be ready at the next counter , Julie .
+4 Alright .	Have a nice day !
+
+1 True , 9 , Jeffrey Donovan , medium , peppermint hot chocolate
+2 Hey there !	Hello , Jeffrey Donovan ! Would you like to have a medium peppermint hot chocolate again ?
+3 I think I will change it this time ! I want a flat white , please .	Which size ?
+4 Large cup .	Would you like anything else with that ?
+5 I would like a double chocolate muffin , please .	So that would be a large flat white and a double chocolate muffin . Is that right ?
+6 Yes !	Your order will be ready at the next counter , Jeffrey .
+7 Enjoy your day !	Have a nice day !
+
+1 True , 25 , Josh Radnor , medium , white hot chocolate
+2 Hello !	Hello , Josh Radnor ! Would you like to have a medium white hot chocolate again ?
+3 No , thanks . I would like an espresso macchiato , please .	Which size ?
+4 Large , thank you !	Would you like anything else with that ?
+5 Could I get a classic oatmeal ?	So that would be a large espresso macchiato and a classic oatmeal . Is that right ?
+6 May I have a green tea ?	Sure ! So that would be a large green tea and a classic oatmeal . Is that right ?
+7 On second thought , I would have small instead .	Sure ! So that would be a small green tea and a classic oatmeal . Is that right ?
+8 That is correct .	Your order will be ready at the next counter , Josh .
+9 Have a great day !	Have a nice day !
+
+1 True , 29 , RuPaul , large , latte , croissant
+2 Hey !	Hello , RuPaul ! Would you like to have a large latte and a croissant again ?
+3 Absolutely !	Your order will be ready at the next counter , RuPaul .
+4 Okay .	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Can I get a green tea , please ?	Which size ?
+4 Small would do .	Would you like anything else with that ?
+5 Ah yes , a double chocolate muffin .	So that would be a small green tea and a double chocolate muffin . Is that right ?
+6 Can I have a chocolate chip muffin , please ?	Sure ! So that would be a small green tea and a chocolate chip muffin . Is that right ?
+7 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+8 Mary-Louise Parker .	Your order will be ready at the next counter , Mary-Louise .
+9 False , 168 , Mary-Louise Parker
+10 Bye !	Have a nice day !
+
+1 True , 71 , Jonny Lee Miller , small , Earl Grey , double chocolate muffin
+2 Hey !	Hello , Jonny Lee Miller ! Would you like to have a small Earl Grey and a double chocolate muffin again ?
+3 I don't remember ever ordering that !	Alright ! Which drink can I get for you , Jonny ?
+4 I would like a green tea , please .	Which size ?
+5 Medium .	Would you like anything else with that ?
+6 Hmm , a blueberry oatmeal .	So that would be a medium green tea and a blueberry oatmeal . Is that right ?
+7 Yes !	Your order will be ready at the next counter , Jonny .
+8 Have a great day !	Have a nice day !
+
+1 True , 20 , David Schwimmer , small , breakfast tea , almond croissant
+2 Hello !	Hello , David Schwimmer ! Would you like to have a small breakfast tea and an almond croissant again ?
+3 No , thanks . Can I get a cappuccino , please ?	Which size ?
+4 Small would do .	Would you like anything else with that ?
+5 Could I get a blueberry oatmeal ?	So that would be a small cappuccino and a blueberry oatmeal . Is that right ?
+6 That sounds right !	Your order will be ready at the next counter , David .
+7 Alright .	Have a nice day !
+
+1 True , 21 , Alison Brie , large , salted caramel hot chocolate
+2 Hey !	Hello , Alison Brie ! Would you like to have a large salted caramel hot chocolate again ?
+3 I will try something else . I would like an Earl Grey .	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 Hmm , a double chocolate muffin .	So that would be a medium Earl Grey and a double chocolate muffin . Is that right ?
+6 Can I have a lemon pound cake ?	Sure ! So that would be a medium Earl Grey and a lemon pound cake . Is that right ?
+7 Definitely .	Your order will be ready at the next counter , Alison .
+8 Thank you !	Have a nice day !
+
+1 True , 161 , Walton Goggins , large , americano
+2 Hello !	Hello , Walton Goggins ! Would you like to have a large americano again ?
+3 That's precisely it !	Your order will be ready at the next counter , Walton .
+4 Enjoy your day !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I want a mocha .	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 Can I get a gingerbread cookie , please ?	So that would be a small mocha and a gingerbread cookie . Is that right ?
+6 Sorry , I would like to change that to medium .	Sure ! So that would be a medium mocha and a gingerbread cookie . Is that right ?
+7 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+8 Lana Parrilla .	Your order will be ready at the next counter , Lana .
+9 False , 169 , Lana Parrilla
+10 Cheers !	Have a nice day !
+
+1 True , 12 , Charlie Hunnam , medium , espresso macchiato , pain aux raisins
+2 Hi !	Hello , Charlie Hunnam ! Would you like to have a medium espresso macchiato and a pain aux raisins again ?
+3 Erm , I have never ordered that actually .	Alright ! Which drink can I get for you , Charlie ?
+4 Could I get a caramel macchiato ?	Which size ?
+5 Small would do .	Would you like anything else with that ?
+6 No , that is it .	So that would be a small caramel macchiato . Is that right ?
+7 Yes !	Your order will be ready at the next counter , Charlie .
+8 Have a great day !	Have a nice day !
+
+1 True , 63 , Channing Tatum , medium , espresso
+2 Hello !	Hello , Channing Tatum ! Would you like to have a medium espresso again ?
+3 Yeap !	Your order will be ready at the next counter , Channing .
+4 Have a nice day !	Have a nice day !
+
+1 True , 1 , Melissa McBride , medium , breakfast tea , almond croissant
+2 Hey there !	Hello , Melissa McBride ! Would you like to have a medium breakfast tea and an almond croissant again ?
+3 Yes , please !	Your order will be ready at the next counter , Melissa .
+4 Enjoy your day !	Have a nice day !
+
+1 True , 62 , Kristen Stewart , medium , hot chocolate
+2 Hey !	Hello , Kristen Stewart ! Would you like to have a medium hot chocolate again ?
+3 No , I'm not Kristen Stewart .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is James Franco .	Let me see if I have any previous records of you , James .
+5 False , 170 , James Franco
+6 No worries .	It seems to be your first time here ! Which drink would you like to have , James ?
+7 I would like a salted caramel hot chocolate , please .	Which size ?
+8 Large , thank you !	Would you like anything else with that ?
+9 Just the drink .	So that would be a large salted caramel hot chocolate . Is that right ?
+10 Hmm , can I change to medium instead ?	Sure ! So that would be a medium salted caramel hot chocolate . Is that right ?
+11 Can I have small , please ?	Sure ! So that would be a small salted caramel hot chocolate . Is that right ?
+12 Indeed !	Your order will be ready at the next counter , James .
+13 Okay .	Have a nice day !
+
+1 True , 37 , Anne Hathaway , large , peppermint hot chocolate , pain au chocolat
+2 Hey !	Hello , Anne Hathaway ! Would you like to have a large peppermint hot chocolate and a pain au chocolat again ?
+3 That is not what I ordered .	Alright ! Which drink can I get for you , Anne ?
+4 Could I get a black tea , please ?	Which size ?
+5 Medium cup .	Would you like anything else with that ?
+6 Just the drink .	So that would be a medium black tea . Is that right ?
+7 I think I will switch medium with large .	Sure ! So that would be a large black tea . Is that right ?
+8 Hmm , can I change to small instead ?	Sure ! So that would be a small black tea . Is that right ?
+9 Definitely .	Your order will be ready at the next counter , Anne .
+10 Bye !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Could I have an espresso con panna , please ?	Which size ?
+4 Large would do .	Would you like anything else with that ?
+5 Hmm , a double chocolate muffin .	So that would be a large espresso con panna and a double chocolate muffin . Is that right ?
+6 Can I have a pain au chocolat , please ?	Sure ! So that would be a large espresso con panna and a pain au chocolat . Is that right ?
+7 Hmm , can I change to a mocha instead ?	Sure ! So that would be a large mocha and a pain au chocolat . Is that right ?
+8 Yes !	Great ! Can I take your name ? api_call getCustomerName
+9 Cybill Shepherd .	Your order will be ready at the next counter , Cybill .
+10 False , 171 , Cybill Shepherd
+11 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 May I get an espresso con panna ?	Which size ?
+4 Large cup .	Would you like anything else with that ?
+5 No , that is it .	So that would be a large espresso con panna . Is that right ?
+6 I think I will switch large with small .	Sure ! So that would be a small espresso con panna . Is that right ?
+7 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+8 Madeleine Stowe .	Your order will be ready at the next counter , Madeleine .
+9 False , 172 , Madeleine Stowe
+10 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Can I get an espresso con panna , please ?	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 That would be it .	So that would be a medium espresso con panna . Is that right ?
+6 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Colin O'Donoghue .	Your order will be ready at the next counter , Colin .
+8 False , 173 , Colin O'Donoghue
+9 Enjoy your day !	Have a nice day !
+
+1 True , 12 , Charlie Hunnam , small , caramel macchiato
+2 Hi !	Hello , Charlie Hunnam ! Would you like to have a small caramel macchiato again ?
+3 I think I will change it this time ! A cappuccino .	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 Hmm , a pain au chocolat .	So that would be a medium cappuccino and a pain au chocolat . Is that right ?
+6 May I get small ?	Sure ! So that would be a small cappuccino and a pain au chocolat . Is that right ?
+7 Yes !	Your order will be ready at the next counter , Charlie .
+8 Thanks !	Have a nice day !
+
+1 True , 167 , Gary Coleman , medium , breakfast tea , chocolate caramel shortbread
+2 Hi !	Hello , Gary Coleman ! Would you like to have a medium breakfast tea and a chocolate caramel shortbread again ?
+3 Yes , please !	Your order will be ready at the next counter , Gary .
+4 Bye !	Have a nice day !
+
+1 True , 146 , Emma Roberts , small , peppermint hot chocolate , plain bagel
+2 Hey there !	Hello , Emma Roberts ! Would you like to have a small peppermint hot chocolate and a plain bagel again ?
+3 That is not true .	Alright ! Which drink can I get for you , Emma ?
+4 An espresso con panna .	Which size ?
+5 Medium , please .	Would you like anything else with that ?
+6 No .	So that would be a medium espresso con panna . Is that right ?
+7 Oh I am sorry , but I would like small instead .	Sure ! So that would be a small espresso con panna . Is that right ?
+8 Can I have an Earl Grey instead ?	Sure ! So that would be a small Earl Grey . Is that right ?
+9 Indeed !	Your order will be ready at the next counter , Emma .
+10 Alright .	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 I want an espresso con panna , please .	Which size ?
+4 Large .	Would you like anything else with that ?
+5 Hmm , a chocolate chip cookie .	So that would be a large espresso con panna and a chocolate chip cookie . Is that right ?
+6 I would like small .	Sure ! So that would be a small espresso con panna and a chocolate chip cookie . Is that right ?
+7 Can I get a pain aux raisins , please ?	Sure ! So that would be a small espresso con panna and a pain aux raisins . Is that right ?
+8 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+9 It is Chris Hemsworth .	Your order will be ready at the next counter , Chris .
+10 False , 174 , Chris Hemsworth
+11 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 May I have a breakfast tea ?	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 Ah yes , a chocolate chip cookie .	So that would be a medium breakfast tea and a chocolate chip cookie . Is that right ?
+6 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+7 Josh Dallas .	Your order will be ready at the next counter , Josh .
+8 False , 175 , Josh Dallas
+9 Okay .	Have a nice day !
+
+1 True , 87 , Kevin Costner , small , noisette , lemon pound cake
+2 Hey there !	Hello , Kevin Costner ! Would you like to have a small noisette and a lemon pound cake again ?
+3 I'm not Kevin Costner .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Chris Colfer .	Let me see if I have any previous records of you , Chris .
+5 True , 22 , Chris Colfer , medium , mocha
+6 Okay .	I thought you looked familiar , Chris ! Would you like a medium mocha again ?
+7 Let's try something different . May I get a caramel macchiato ?	Which size ?
+8 Small would do .	Would you like anything else with that ?
+9 Yes , a pain aux raisins .	So that would be a small caramel macchiato and a pain aux raisins . Is that right ?
+10 Yeap .	Your order will be ready at the next counter , Chris .
+11 Bye !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 Can I have an espresso con panna ?	Which size ?
+4 Small , please .	Would you like anything else with that ?
+5 Hmm , an everything bagel , please .	So that would be a small espresso con panna and an everything bagel . Is that right ?
+6 Can I get a latte instead ?	Sure ! So that would be a small latte and an everything bagel . Is that right ?
+7 Yeap .	Great ! Can I take your name ? api_call getCustomerName
+8 Christopher Gorham .	Your order will be ready at the next counter , Christopher .
+9 False , 176 , Christopher Gorham
+10 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 I want an espresso , please .	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 Can I get a veggie tortilla wrap , please ?	So that would be a medium espresso and a veggie tortilla wrap . Is that right ?
+6 May I get a white hot chocolate ?	Sure ! So that would be a medium white hot chocolate and a veggie tortilla wrap . Is that right ?
+7 Yes !	Great ! Can I take your name ? api_call getCustomerName
+8 Joelle Carter .	Your order will be ready at the next counter , Joelle .
+9 False , 177 , Joelle Carter
+10 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Could I have an espresso , please ?	Which size ?
+4 Large would do .	Would you like anything else with that ?
+5 That is it .	So that would be a large espresso . Is that right ?
+6 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Damon Wayans Jr . .	Your order will be ready at the next counter , Damon .
+8 False , 178 , Damon Wayans Jr.
+9 Have a nice day !	Have a nice day !
+
+1 True , 5 , Ashley Benson , large , mocha , gingerbread cookie
+2 Hi !	Hello , Ashley Benson ! Would you like to have a large mocha and a gingerbread cookie again ?
+3 That is actually my least favourite !	Alright ! Which drink can I get for you , Ashley ?
+4 May I get an Earl Grey ?	Which size ?
+5 Medium .	Would you like anything else with that ?
+6 A blueberry muffin , please .	So that would be a medium Earl Grey and a blueberry muffin . Is that right ?
+7 Sounds good !	Your order will be ready at the next counter , Ashley .
+8 Alright .	Have a nice day !
+
+1 True , 27 , Felicity Huffman , medium , americano , chocolate chip cookie
+2 Hello !	Hello , Felicity Huffman ! Would you like to have a medium americano and a chocolate chip cookie again ?
+3 No , I think I will try something else instead . A salted caramel hot chocolate , please .	Which size ?
+4 Large cup .	Would you like anything else with that ?
+5 No , thanks .	So that would be a large salted caramel hot chocolate . Is that right ?
+6 Yes !	Your order will be ready at the next counter , Felicity .
+7 Have a nice day !	Have a nice day !
+
+1 True , 85 , Jim Caviezel , large , peppermint hot chocolate , plain bagel
+2 Hello !	Hello , Jim Caviezel ! Would you like to have a large peppermint hot chocolate and a plain bagel again ?
+3 That is incorrect .	Alright ! Which drink can I get for you , Jim ?
+4 I want a flat white , please .	Which size ?
+5 Large , please .	Would you like anything else with that ?
+6 Just the drink , please .	So that would be a large flat white . Is that right ?
+7 Let's change large to medium instead .	Sure ! So that would be a medium flat white . Is that right ?
+8 On second thought , I would have an Earl Grey instead .	Sure ! So that would be a medium Earl Grey . Is that right ?
+9 Yeah .	Your order will be ready at the next counter , Jim .
+10 Thank you !	Have a nice day !
+
+1 True , 43 , Lena Dunham , small , peppermint hot chocolate , veggie tortilla wrap
+2 Hello !	Hello , Lena Dunham ! Would you like to have a small peppermint hot chocolate and a veggie tortilla wrap again ?
+3 That is not my name .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Emily VanCamp .	Let me see if I have any previous records of you , Emily .
+5 True , 159 , Emily VanCamp , medium , white hot chocolate , pain aux raisins
+6 Alright .	I thought you looked familiar , Emily ! Would you like a medium white hot chocolate and a pain aux raisins again ?
+7 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Emily ?
+8 I would like a flat white .	Which size ?
+9 Large .	Would you like anything else with that ?
+10 I am good .	So that would be a large flat white . Is that right ?
+11 May I get a hot chocolate ?	Sure ! So that would be a large hot chocolate . Is that right ?
+12 Yes !	Your order will be ready at the next counter , Emily .
+13 Okay .	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 I want a mocha , please .	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 That would be it .	So that would be a medium mocha . Is that right ?
+6 No , I want large .	Sure ! So that would be a large mocha . Is that right ?
+7 Can I get small instead ?	Sure ! So that would be a small mocha . Is that right ?
+8 Sounds good !	Great ! Can I take your name ? api_call getCustomerName
+9 Joseph Gordon-Levitt .	Your order will be ready at the next counter , Joseph .
+10 False , 179 , Joseph Gordon-Levitt
+11 Bye !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 May I have a salted caramel hot chocolate ?	Which size ?
+4 Medium , please .	Would you like anything else with that ?
+5 Could I get a blueberry muffin , please ?	So that would be a medium salted caramel hot chocolate and a blueberry muffin . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Matthew Perry .	Your order will be ready at the next counter , Matthew .
+8 False , 180 , Matthew Perry
+9 Enjoy your day !	Have a nice day !
+
+1 True , 47 , Sarah Michelle Gellar , large , Earl Grey
+2 Hello !	Hello , Sarah Michelle Gellar ! Would you like to have a large Earl Grey again ?
+3 No , I think I will try something else instead . Can I have an espresso macchiato ?	Which size ?
+4 Large , thank you !	Would you like anything else with that ?
+5 Hmm , a pain au chocolat , please .	So that would be a large espresso macchiato and a pain au chocolat . Is that right ?
+6 Can I have small ?	Sure ! So that would be a small espresso macchiato and a pain au chocolat . Is that right ?
+7 May I get an iced hot chocolate ?	Sure ! So that would be a small iced hot chocolate and a pain au chocolat . Is that right ?
+8 That sounds right !	Your order will be ready at the next counter , Sarah .
+9 Have a nice day !	Have a nice day !
+
+1 True , 178 , Damon Wayans Jr. , large , espresso macchiato , chocolate chip muffin
+2 Hey !	Hello , Damon Wayans Jr . ! Would you like to have a large espresso macchiato and a chocolate chip muffin again ?
+3 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Damon ?
+4 Could I have an iced hot chocolate ?	Which size ?
+5 Large would do .	Would you like anything else with that ?
+6 A chocolate caramel shortbread , please .	So that would be a large iced hot chocolate and a chocolate caramel shortbread . Is that right ?
+7 Can I have medium , please ?	Sure ! So that would be a medium iced hot chocolate and a chocolate caramel shortbread . Is that right ?
+8 Can I have small instead ?	Sure ! So that would be a small iced hot chocolate and a chocolate caramel shortbread . Is that right ?
+9 Definitely .	Your order will be ready at the next counter , Damon .
+10 Okay .	Have a nice day !
+
+1 True , 11 , Kaley Cuoco , large , white hot chocolate
+2 Hey !	Hello , Kaley Cuoco ! Would you like to have a large white hot chocolate again ?
+3 I am not Kaley Cuoco .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Kerry Washington .	Let me see if I have any previous records of you , Kerry .
+5 True , 24 , Kerry Washington , medium , espresso con panna , double chocolate muffin
+6 Okay .	I thought you looked familiar , Kerry ! Would you like a medium espresso con panna and a double chocolate muffin again ?
+7 Nice of you to remember ! But I will take something else . Can I have a mocha ?	Which size ?
+8 Medium would do .	Would you like anything else with that ?
+9 I am good .	So that would be a medium mocha . Is that right ?
+10 That sounds right !	Your order will be ready at the next counter , Kerry .
+11 Cheers !	Have a nice day !
+
+1 True , 35 , James Spader , medium , green tea , croissant
+2 Hello !	Hello , James Spader ! Would you like to have a medium green tea and a croissant again ?
+3 I don't remember ever ordering that !	Alright ! Which drink can I get for you , James ?
+4 I want a salted caramel hot chocolate , please .	Which size ?
+5 Small , thank you !	Would you like anything else with that ?
+6 No , thanks .	So that would be a small salted caramel hot chocolate . Is that right ?
+7 Can I get large instead ?	Sure ! So that would be a large salted caramel hot chocolate . Is that right ?
+8 Yes !	Your order will be ready at the next counter , James .
+9 Goodbye !	Have a nice day !
+
+1 True , 142 , Sasha Alexander , large , green tea
+2 Hey !	Hello , Sasha Alexander ! Would you like to have a large green tea again ?
+3 No , not today . Could I have a mocha ?	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 Yes , an almond croissant .	So that would be a medium mocha and an almond croissant . Is that right ?
+6 Sorry , I would like to change that to a pain au chocolat .	Sure ! So that would be a medium mocha and a pain au chocolat . Is that right ?
+7 Yeah .	Your order will be ready at the next counter , Sasha .
+8 Bye !	Have a nice day !
+
+1 True , 74 , Joel McHale , small , espresso macchiato , chocolate chip muffin
+2 Hey !	Hello , Joel McHale ! Would you like to have a small espresso macchiato and a chocolate chip muffin again ?
+3 Sure .	Your order will be ready at the next counter , Joel .
+4 Thanks !	Have a nice day !
+
+1 True , 15 , Ellen Pompeo , large , black tea
+2 Hello !	Hello , Ellen Pompeo ! Would you like to have a large black tea again ?
+3 Nice of you to remember ! But I will take something else . I would like a caramel macchiato , please .	Which size ?
+4 Small .	Would you like anything else with that ?
+5 No , thanks .	So that would be a small caramel macchiato . Is that right ?
+6 Yeah .	Your order will be ready at the next counter , Ellen .
+7 Have a nice day !	Have a nice day !
+
+1 True , 17 , Sandra Oh , small , cordusio , pain au chocolat
+2 Hey !	Hello , Sandra Oh ! Would you like to have a small cordusio and a pain au chocolat again ?
+3 No .	Alright ! Which drink can I get for you , Sandra ?
+4 I would like a green tea , please .	Which size ?
+5 Large , please .	Would you like anything else with that ?
+6 No .	So that would be a large green tea . Is that right ?
+7 Oh I am sorry , but I would like a black tea instead .	Sure ! So that would be a large black tea . Is that right ?
+8 That is correct .	Your order will be ready at the next counter , Sandra .
+9 Bye !	Have a nice day !
+
+1 True , 175 , Josh Dallas , medium , breakfast tea , chocolate chip cookie
+2 Hey there !	Hello , Josh Dallas ! Would you like to have a medium breakfast tea and a chocolate chip cookie again ?
+3 No , thanks . Can I get a black tea , please ?	Which size ?
+4 Large would do .	Would you like anything else with that ?
+5 An almond croissant , please .	So that would be a large black tea and an almond croissant . Is that right ?
+6 That sounds right !	Your order will be ready at the next counter , Josh .
+7 Alright .	Have a nice day !
+
+1 True , 174 , Chris Hemsworth , small , espresso macchiato , blueberry oatmeal
+2 Hello !	Hello , Chris Hemsworth ! Would you like to have a small espresso macchiato and a blueberry oatmeal again ?
+3 I am not Chris Hemsworth .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Aaron Paul .	Let me see if I have any previous records of you , Aaron .
+5 True , 84 , Aaron Paul , small , cappuccino , doughnut
+6 <SILENCE>	I thought you looked familiar , Aaron ! Would you like a small cappuccino and a doughnut again ?
+7 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Aaron ?
+8 Can I have a caramel macchiato ?	Which size ?
+9 Medium would do .	Would you like anything else with that ?
+10 No .	So that would be a medium caramel macchiato . Is that right ?
+11 Can I get large instead ?	Sure ! So that would be a large caramel macchiato . Is that right ?
+12 That sounds right !	Your order will be ready at the next counter , Aaron .
+13 Bye !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 Can I get a flat white , please ?	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 Just the drink .	So that would be a small flat white . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Tom Mison .	Your order will be ready at the next counter , Tom .
+8 False , 181 , Tom Mison
+9 Have a great day !	Have a nice day !
+
+1 True , 92 , Mark Harmon , small , latte , double chocolate muffin
+2 Hey !	Hello , Mark Harmon ! Would you like to have a small latte and a double chocolate muffin again ?
+3 No , thanks . I want an espresso macchiato , please .	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 I am good .	So that would be a small espresso macchiato . Is that right ?
+6 Indeed !	Your order will be ready at the next counter , Mark .
+7 Cheers !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 An espresso .	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 Hmm , a veggie tortilla wrap .	So that would be a medium espresso and a veggie tortilla wrap . Is that right ?
+6 Can I get a black tea , please ?	Sure ! So that would be a medium black tea and a veggie tortilla wrap . Is that right ?
+7 No , I would like a carrot cake .	Sure ! So that would be a medium black tea and a carrot cake . Is that right ?
+8 Definitely .	Great ! Can I take your name ? api_call getCustomerName
+9 It is Jennifer Carpenter .	Your order will be ready at the next counter , Jennifer .
+10 False , 182 , Jennifer Carpenter
+11 Alright .	Have a nice day !
+
+1 True , 54 , Zac Efron , large , mocha , pain aux raisins
+2 Hey there !	Hello , Zac Efron ! Would you like to have a large mocha and a pain aux raisins again ?
+3 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Zac ?
+4 I want a caramel macchiato .	Which size ?
+5 Small cup .	Would you like anything else with that ?
+6 Hmm , a blueberry muffin .	So that would be a small caramel macchiato and a blueberry muffin . Is that right ?
+7 Indeed !	Your order will be ready at the next counter , Zac .
+8 Thank you !	Have a nice day !
+
+1 False , 0
+2 Hi !	Hello ! Which drink can I get for you ?
+3 Could I have a mocha , please ?	Which size ?
+4 Small .	Would you like anything else with that ?
+5 Just the drink , please .	So that would be a small mocha . Is that right ?
+6 Can I get medium instead ?	Sure ! So that would be a medium mocha . Is that right ?
+7 That sounds right !	Great ! Can I take your name ? api_call getCustomerName
+8 Tatiana Maslany .	Your order will be ready at the next counter , Tatiana .
+9 False , 183 , Tatiana Maslany
+10 Thanks !	Have a nice day !
+
+1 True , 151 , Ian Somerhalder , medium , cappuccino , chocolate chip muffin
+2 Hey there !	Hello , Ian Somerhalder ! Would you like to have a medium cappuccino and a chocolate chip muffin again ?
+3 How did you know ?	Your order will be ready at the next counter , Ian .
+4 Enjoy your day !	Have a nice day !
+
+1 True , 12 , Charlie Hunnam , small , cappuccino
+2 Hey !	Hello , Charlie Hunnam ! Would you like to have a small cappuccino again ?
+3 I think you are mixing me with someone .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Mark Wahlberg .	Let me see if I have any previous records of you , Mark .
+5 True , 59 , Mark Wahlberg , small , mocha
+6 Sure .	I thought you looked familiar , Mark ! Would you like a small mocha again ?
+7 I will try something else . Can I get an espresso macchiato ?	Which size ?
+8 Small , please .	Would you like anything else with that ?
+9 No , that is it .	So that would be a small espresso macchiato . Is that right ?
+10 Yes !	Your order will be ready at the next counter , Mark .
+11 Goodbye !	Have a nice day !
+
+1 True , 28 , Melissa Joan Hart , medium , white hot chocolate , doughnut
+2 Hey there !	Hello , Melissa Joan Hart ! Would you like to have a medium white hot chocolate and a doughnut again ?
+3 Nope .	Alright ! Which drink can I get for you , Melissa ?
+4 Can I get a flat white , please ?	Which size ?
+5 Small would do .	Would you like anything else with that ?
+6 Just the drink .	So that would be a small flat white . Is that right ?
+7 That is correct .	Your order will be ready at the next counter , Melissa .
+8 Have a nice day !	Have a nice day !
+
+1 True , 141 , Emily Blunt , large , latte
+2 Hi !	Hello , Emily Blunt ! Would you like to have a large latte again ?
+3 Yes , thanks !	Your order will be ready at the next counter , Emily .
+4 Enjoy your day !	Have a nice day !
+
+1 True , 79 , Kiefer Sutherland , large , noisette
+2 Hey !	Hello , Kiefer Sutherland ! Would you like to have a large noisette again ?
+3 Yes , thanks !	Your order will be ready at the next counter , Kiefer .
+4 Have a nice day !	Have a nice day !
+
+1 True , 155 , Vincent Kartheiser , medium , iced hot chocolate , chocolate chip cookie
+2 Hello !	Hello , Vincent Kartheiser ! Would you like to have a medium iced hot chocolate and a chocolate chip cookie again ?
+3 That is not what I ordered .	Alright ! Which drink can I get for you , Vincent ?
+4 An espresso , please .	Which size ?
+5 Medium , please .	Would you like anything else with that ?
+6 No , that is it .	So that would be a medium espresso . Is that right ?
+7 That sounds right !	Your order will be ready at the next counter , Vincent .
+8 Alright .	Have a nice day !
+
+1 True , 6 , Chloe Grace Moretz , medium , espresso con panna
+2 Hello !	Hello , Chloe Grace Moretz ! Would you like to have a medium espresso con panna again ?
+3 Alright .	Your order will be ready at the next counter , Chloe .
+4 Bye !	Have a nice day !
+
+1 True , 162 , January Jones , medium , flat white , gingerbread cookie
+2 Hi !	Hello , January Jones ! Would you like to have a medium flat white and a gingerbread cookie again ?
+3 No .	Alright ! Which drink can I get for you , January ?
+4 Could I have a hot chocolate ?	Which size ?
+5 Medium .	Would you like anything else with that ?
+6 Could I get an almond croissant , please ?	So that would be a medium hot chocolate and an almond croissant . Is that right ?
+7 That is correct .	Your order will be ready at the next counter , January .
+8 Alright .	Have a nice day !
+
+1 True , 92 , Mark Harmon , small , latte , double chocolate muffin
+2 Hey !	Hello , Mark Harmon ! Would you like to have a small latte and a double chocolate muffin again ?
+3 I would .	Your order will be ready at the next counter , Mark .
+4 Goodbye !	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 May I have a cappuccino ?	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 I would like a croissant , please .	So that would be a medium cappuccino and a croissant . Is that right ?
+6 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Nina Dobrev .	Your order will be ready at the next counter , Nina .
+8 False , 184 , Nina Dobrev
+9 Alright .	Have a nice day !
+
+1 True , 131 , Kunal Nayyar , medium , peppermint hot chocolate , carrot cake
+2 Hello !	Hello , Kunal Nayyar ! Would you like to have a medium peppermint hot chocolate and a carrot cake again ?
+3 No , not Kunal Nayyar .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Laura Linney .	Let me see if I have any previous records of you , Laura .
+5 True , 93 , Laura Linney , medium , caramel macchiato
+6 Sure .	I thought you looked familiar , Laura ! Would you like a medium caramel macchiato again ?
+7 Nice of you to remember ! But I will take something else . Can I have a salted caramel hot chocolate ?	Which size ?
+8 Medium would do .	Would you like anything else with that ?
+9 That would be it .	So that would be a medium salted caramel hot chocolate . Is that right ?
+10 That is correct .	Your order will be ready at the next counter , Laura .
+11 Thank you !	Have a nice day !
+
+1 True , 36 , John Noble , small , salted caramel hot chocolate
+2 Hello !	Hello , John Noble ! Would you like to have a small salted caramel hot chocolate again ?
+3 Do I have a twin that I don't know ?	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Matthew Perry .	Let me see if I have any previous records of you , Matthew .
+5 True , 180 , Matthew Perry , medium , salted caramel hot chocolate , blueberry muffin
+6 Sure .	I thought you looked familiar , Matthew ! Would you like a medium salted caramel hot chocolate and a blueberry muffin again ?
+7 No , thanks . May I get a white hot chocolate ?	Which size ?
+8 Small would do .	Would you like anything else with that ?
+9 No , thank you .	So that would be a small white hot chocolate . Is that right ?
+10 Actually , I would like large instead .	Sure ! So that would be a large white hot chocolate . Is that right ?
+11 Yes !	Your order will be ready at the next counter , Matthew .
+12 Okay .	Have a nice day !
+
+1 True , 45 , Michael Emerson , small , white hot chocolate
+2 Hello !	Hello , Michael Emerson ! Would you like to have a small white hot chocolate again ?
+3 No , thanks . Can I have a caramel macchiato , please ?	Which size ?
+4 Small .	Would you like anything else with that ?
+5 Can I get a slice of banana bread ?	So that would be a small caramel macchiato and a slice of banana bread . Is that right ?
+6 Indeed !	Your order will be ready at the next counter , Michael .
+7 Thank you !	Have a nice day !
+
+1 True , 57 , Damian Lewis , large , noisette , plain bagel
+2 Hey !	Hello , Damian Lewis ! Would you like to have a large noisette and a plain bagel again ?
+3 You got me ! Yes , please .	Your order will be ready at the next counter , Damian .
+4 Okay .	Have a nice day !
+
+1 True , 25 , Josh Radnor , small , iced hot chocolate , pain au chocolat
+2 Hi !	Hello , Josh Radnor ! Would you like to have a small iced hot chocolate and a pain au chocolat again ?
+3 Nice of you to remember ! But I don't think I have ever had that .	Alright ! Which drink can I get for you , Josh ?
+4 Could I get a latte , please ?	Which size ?
+5 Medium .	Would you like anything else with that ?
+6 A chocolate chip muffin , please .	So that would be a medium latte and a chocolate chip muffin . Is that right ?
+7 That is correct .	Your order will be ready at the next counter , Josh .
+8 Cheers !	Have a nice day !
+
+1 True , 13 , Roseanne Barr , small , green tea
+2 Hey !	Hello , Roseanne Barr ! Would you like to have a small green tea again ?
+3 How did you know ?	Your order will be ready at the next counter , Roseanne .
+4 Have a nice day !	Have a nice day !
+
+1 True , 129 , Michael Weatherly , medium , espresso , gingerbread cookie
+2 Hi !	Hello , Michael Weatherly ! Would you like to have a medium espresso and a gingerbread cookie again ?
+3 That is incorrect .	Alright ! Which drink can I get for you , Michael ?
+4 Can I have an espresso macchiato ?	Which size ?
+5 Large cup .	Would you like anything else with that ?
+6 Could I get a double chocolate muffin , please ?	So that would be a large espresso macchiato and a double chocolate muffin . Is that right ?
+7 That sounds right !	Your order will be ready at the next counter , Michael .
+8 Cheers !	Have a nice day !
+
+1 True , 102 , Lucy Hale , large , breakfast tea , double chocolate muffin
+2 Hey !	Hello , Lucy Hale ! Would you like to have a large breakfast tea and a double chocolate muffin again ?
+3 Nice of you to remember ! But I will take something else . Could I have a flat white ?	Which size ?
+4 Medium , please .	Would you like anything else with that ?
+5 That is it .	So that would be a medium flat white . Is that right ?
+6 Let's change medium to small instead .	Sure ! So that would be a small flat white . Is that right ?
+7 No , I would like large .	Sure ! So that would be a large flat white . Is that right ?
+8 Yeah .	Your order will be ready at the next counter , Lucy .
+9 Cheers !	Have a nice day !
+
+1 True , 98 , Angelina Jolie , small , noisette
+2 Hey there !	Hello , Angelina Jolie ! Would you like to have a small noisette again ?
+3 Yes , thanks !	Your order will be ready at the next counter , Angelina .
+4 Have a great day !	Have a nice day !
+
+1 True , 173 , Colin O'Donoghue , medium , espresso con panna
+2 Hi !	Hello , Colin O'Donoghue ! Would you like to have a medium espresso con panna again ?
+3 No . Could I get a flat white , please ?	Which size ?
+4 Small , thank you !	Would you like anything else with that ?
+5 No .	So that would be a small flat white . Is that right ?
+6 Can I have large , please ?	Sure ! So that would be a large flat white . Is that right ?
+7 Can I have an Earl Grey ?	Sure ! So that would be a large Earl Grey . Is that right ?
+8 Indeed !	Your order will be ready at the next counter , Colin .
+9 Goodbye !	Have a nice day !
+
+1 True , 44 , Jessica Capshaw , large , espresso
+2 Hey !	Hello , Jessica Capshaw ! Would you like to have a large espresso again ?
+3 No . I would like an espresso macchiato , please .	Which size ?
+4 Medium would do .	Would you like anything else with that ?
+5 Just the drink , please .	So that would be a medium espresso macchiato . Is that right ?
+6 Yeap .	Your order will be ready at the next counter , Jessica .
+7 Bye !	Have a nice day !
+
+1 True , 184 , Nina Dobrev , small , latte , almond croissant
+2 Hey !	Hello , Nina Dobrev ! Would you like to have a small latte and an almond croissant again ?
+3 That is not what I ordered .	Alright ! Which drink can I get for you , Nina ?
+4 May I have an espresso con panna ?	Which size ?
+5 Large cup .	Would you like anything else with that ?
+6 Yes , a blueberry muffin .	So that would be a large espresso con panna and a blueberry muffin . Is that right ?
+7 Can I have medium ?	Sure ! So that would be a medium espresso con panna and a blueberry muffin . Is that right ?
+8 Can I get small , please ?	Sure ! So that would be a small espresso con panna and a blueberry muffin . Is that right ?
+9 That is correct .	Your order will be ready at the next counter , Nina .
+10 Okay .	Have a nice day !
+
+1 True , 84 , Aaron Paul , small , green tea , blueberry muffin
+2 Hello !	Hello , Aaron Paul ! Would you like to have a small green tea and a blueberry muffin again ?
+3 I don't want that .	Alright ! Which drink can I get for you , Aaron ?
+4 I want an americano , please .	Which size ?
+5 Large cup .	Would you like anything else with that ?
+6 An almond croissant .	So that would be a large americano and an almond croissant . Is that right ?
+7 Definitely .	Your order will be ready at the next counter , Aaron .
+8 Enjoy your day !	Have a nice day !
+
+1 True , 80 , Will Smith , medium , green tea
+2 Hi !	Hello , Will Smith ! Would you like to have a medium green tea again ?
+3 Yes , thanks !	Your order will be ready at the next counter , Will .
+4 Okay .	Have a nice day !
+
+1 True , 130 , Clark Gregg , medium , Earl Grey , veggie tortilla wrap
+2 Hi !	Hello , Clark Gregg ! Would you like to have a medium Earl Grey and a veggie tortilla wrap again ?
+3 I've never had that .	Alright ! Which drink can I get for you , Clark ?
+4 Could I get a mocha , please ?	Which size ?
+5 Medium would do .	Would you like anything else with that ?
+6 An almond croissant .	So that would be a medium mocha and an almond croissant . Is that right ?
+7 Definitely .	Your order will be ready at the next counter , Clark .
+8 Have a nice day !	Have a nice day !
+
+1 False , 0
+2 Hey there !	Hello ! Which drink can I get for you ?
+3 I want a noisette , please .	Which size ?
+4 Medium .	Would you like anything else with that ?
+5 Just the drink , please .	So that would be a medium noisette . Is that right ?
+6 On second thought , I would have small instead .	Sure ! So that would be a small noisette . Is that right ?
+7 Can I have large instead ?	Sure ! So that would be a large noisette . Is that right ?
+8 Yeah .	Great ! Can I take your name ? api_call getCustomerName
+9 It is Jared Padalecki .	Your order will be ready at the next counter , Jared .
+10 False , 185 , Jared Padalecki
+11 Alright .	Have a nice day !
+
+1 False , 0
+2 Hello !	Hello ! Which drink can I get for you ?
+3 Could I have a peppermint hot chocolate , please ?	Which size ?
+4 Small , thank you !	Would you like anything else with that ?
+5 Could I get a pain aux raisins ?	So that would be a small peppermint hot chocolate and a pain aux raisins . Is that right ?
+6 Indeed !	Great ! Can I take your name ? api_call getCustomerName
+7 It is Simon Helberg .	Your order will be ready at the next counter , Simon .
+8 False , 186 , Simon Helberg
+9 Enjoy your day !	Have a nice day !
+
+1 True , 166 , Heidi Klum , medium , cordusio
+2 Hey !	Hello , Heidi Klum ! Would you like to have a medium cordusio again ?
+3 I will try something else . Could I get an iced hot chocolate ?	Which size ?
+4 Large cup .	Would you like anything else with that ?
+5 Yeah , a carrot cake , please .	So that would be a large iced hot chocolate and a carrot cake . Is that right ?
+6 Sounds good !	Your order will be ready at the next counter , Heidi .
+7 Enjoy your day !	Have a nice day !
+
+1 True , 44 , Jessica Capshaw , medium , espresso macchiato
+2 Hi !	Hello , Jessica Capshaw ! Would you like to have a medium espresso macchiato again ?
+3 That's precisely it !	Your order will be ready at the next counter , Jessica .
+4 Thanks !	Have a nice day !
+
+1 False , 0
+2 Hey !	Hello ! Which drink can I get for you ?
+3 A cordusio .	Which size ?
+4 Small .	Would you like anything else with that ?
+5 Yes , a classic oatmeal .	So that would be a small cordusio and a classic oatmeal . Is that right ?
+6 That is correct .	Great ! Can I take your name ? api_call getCustomerName
+7 It is Gillian Jacobs .	Your order will be ready at the next counter , Gillian .
+8 False , 187 , Gillian Jacobs
+9 Have a nice day !	Have a nice day !
+
+1 True , 56 , John Slattery , medium , mocha , lemon pound cake
+2 Hi !	Hello , John Slattery ! Would you like to have a medium mocha and a lemon pound cake again ?
+3 That is not my name .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 Sarah Michelle Gellar .	Let me see if I have any previous records of you , Sarah .
+5 True , 47 , Sarah Michelle Gellar , large , Earl Grey
+6 No worries .	I thought you looked familiar , Sarah ! Would you like a large Earl Grey again ?
+7 Absolutely !	Your order will be ready at the next counter , Sarah .
+8 Okay .	Have a nice day !
+
+1 True , 8 , Kodi Smit-McPhee , medium , noisette , almond croissant
+2 Hi !	Hello , Kodi Smit-McPhee ! Would you like to have a medium noisette and an almond croissant again ?
+3 That's precisely it !	Your order will be ready at the next counter , Kodi .
+4 Have a nice day !	Have a nice day !
+
+1 True , 150 , Pauley Perrette , medium , noisette
+2 Hey !	Hello , Pauley Perrette ! Would you like to have a medium noisette again ?
+3 No . Could I get a peppermint hot chocolate ?	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 Just the drink .	So that would be a small peppermint hot chocolate . Is that right ?
+6 Sounds good !	Your order will be ready at the next counter , Pauley .
+7 Enjoy your day !	Have a nice day !
+
+1 True , 157 , Timothy Hutton , small , espresso macchiato , lemon pound cake
+2 Hi !	Hello , Timothy Hutton ! Would you like to have a small espresso macchiato and a lemon pound cake again ?
+3 I think I will change it this time ! May I have a flat white ?	Which size ?
+4 Medium cup .	Would you like anything else with that ?
+5 No , thanks .	So that would be a medium flat white . Is that right ?
+6 Let's change flat white to a green tea instead .	Sure ! So that would be a medium green tea . Is that right ?
+7 Hmm , can I change to large instead ?	Sure ! So that would be a large green tea . Is that right ?
+8 Yes !	Your order will be ready at the next counter , Timothy .
+9 Alright .	Have a nice day !
+
+1 True , 183 , Tatiana Maslany , medium , mocha
+2 Hello !	Hello , Tatiana Maslany ! Would you like to have a medium mocha again ?
+3 No , not today . May I get a salted caramel hot chocolate ?	Which size ?
+4 Small cup .	Would you like anything else with that ?
+5 No .	So that would be a small salted caramel hot chocolate . Is that right ?
+6 Erm , I would like medium actually .	Sure ! So that would be a medium salted caramel hot chocolate . Is that right ?
+7 Sorry , I would like to change that to a cappuccino .	Sure ! So that would be a medium cappuccino . Is that right ?
+8 Yeap .	Your order will be ready at the next counter , Tatiana .
+9 Have a nice day !	Have a nice day !
+
+1 True , 46 , Lea Michele , large , caramel macchiato , blueberry oatmeal
+2 Hey there !	Hello , Lea Michele ! Would you like to have a large caramel macchiato and a blueberry oatmeal again ?
+3 Sure .	Your order will be ready at the next counter , Lea .
+4 Cheers !	Have a nice day !
+
+1 True , 13 , Roseanne Barr , small , caramel macchiato , veggie tortilla wrap
+2 Hey !	Hello , Roseanne Barr ! Would you like to have a small caramel macchiato and a veggie tortilla wrap again ?
+3 My name is not Roseanne Barr .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Chris Hemsworth .	Let me see if I have any previous records of you , Chris .
+5 True , 174 , Chris Hemsworth , medium , noisette , carrot cake
+6 <SILENCE>	I thought you looked familiar , Chris ! Would you like a medium noisette and a carrot cake again ?
+7 That is actually my least favourite !	Alright ! Which drink can I get for you , Chris ?
+8 I want a peppermint hot chocolate .	Which size ?
+9 Medium , please .	Would you like anything else with that ?
+10 No , that is it .	So that would be a medium peppermint hot chocolate . Is that right ?
+11 Oh I am sorry , but I would like large instead .	Sure ! So that would be a large peppermint hot chocolate . Is that right ?
+12 Sounds good !	Your order will be ready at the next counter , Chris .
+13 Enjoy your day !	Have a nice day !
+
+1 True , 13 , Roseanne Barr , small , green tea
+2 Hey !	Hello , Roseanne Barr ! Would you like to have a small green tea again ?
+3 I'm not Roseanne Barr .	I am terribly sorry ! May I take your name ? api_call getCustomerName
+4 It is Helen Hunt .	Let me see if I have any previous records of you , Helen .
+5 True , 138 , Helen Hunt , small , peppermint hot chocolate , almond croissant
+6 Sure .	I thought you looked familiar , Helen ! Would you like a small peppermint hot chocolate and an almond croissant again ?
+7 No , I think I will try something else instead . I would like a caramel macchiato .	Which size ?
+8 Large , please .	Would you like anything else with that ?
+9 A double chocolate muffin , please .	So that would be a large caramel macchiato and a double chocolate muffin . Is that right ?
+10 May I have small ?	Sure ! So that would be a small caramel macchiato and a double chocolate muffin . Is that right ?
+11 That sounds right !	Your order will be ready at the next counter , Helen .
+12 Enjoy your day !	Have a nice day !
+

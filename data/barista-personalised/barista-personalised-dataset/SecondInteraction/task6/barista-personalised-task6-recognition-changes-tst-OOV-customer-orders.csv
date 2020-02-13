@@ -1,0 +1,201 @@
+IN,CusID,CusName,Drink,Size,Extra
+1,101,Christian Kane,a soy latte,grande,a salted caramel brownie
+2,102,Ashton Kutcher,a peach iced tea,short,an egg sandwich
+3,103,Emma Stone,an iced coffee mocha,grande,a white chocolate cheesecake
+4,104,Seth Rogen,an iced caramel macchiato,short,a milk chocolate bar
+5,105,Chris O'Donnell,a chai tea latte,grande,a yogurt parfait
+6,106,Terrence Howard,a lemonade,short,a raspberry cheesecake
+7,107,Laurie Holden,a raspberry lemonade,tall,a chocolate brownie
+8,106,Terrence Howard,a lemonade,short,a raspberry cheesecake
+9,108,Sophie Turner,an iced pumpkin spice latte,grande,
+10,109,Sean Murray,an orange juice,grande,a vegetable sandwich
+11,110,Paul Rudd,a bottle of water,grande,
+12,111,Tina Fey,an iced cinnamon dolce latte,short,a granola bar
+13,112,Megan Fox,an iced caramel macchiato,short,
+14,113,Nicole Kidman,an iced latte macchiato,grande,
+15,114,Fred Armisen,an iced cinnamon dolce latte,tall,a tomato and mozzarella panini
+16,115,Mark Feuerstein,an iced salted caramel mocha,grande,
+17,116,Candice King,an iced pumpkin spice latte,short,a white chocolate cheesecake
+18,109,Sean Murray,an orange juice,grande,a vegetable sandwich
+19,117,Gina Bellman,an iced pumpkin spice chai latte,short,
+20,112,Megan Fox,a lemonade,grande,a milk chocolate bar
+21,118,Reese Witherspoon,a peach iced tea,tall,a chicken and pesto panini
+22,119,Michael Vartan,a salted caramel mocha,grande,
+23,120,Sandra Bullock,an iced coffee mocha,grande,a vegan wrap
+24,113,Nicole Kidman,an iced latte macchiato,grande,
+25,102,Ashton Kutcher,a salted caramel mocha,short,
+26,121,Scott Caan,an iced cinnamon dolce latte,short,a yogurt parfait
+27,122,Lisa Whelchel,a strawberry lemonade,tall,a cinnamon swirl
+28,123,Suzanne Somers,an iced caramel macchiato,tall,a dark chocolate bar
+29,124,Robert Downey Jr.,a pumpkin spice latte,tall,a milk chocolate bar
+30,125,James Roday,a chai tea latte,tall,a whole-grain feta sandwich
+31,126,Emma Watson,a chai tea latte,grande,
+32,103,Emma Stone,a raspberry lemonade,tall,
+33,110,Paul Rudd,an iced caramel macchiato,short,
+34,127,Hayden Christensen,an orange juice,short,
+35,128,Jason Sudeikis,an iced latte macchiato,grande,
+36,129,Shelley Hennig,a bottle of water,short,
+37,101,Christian Kane,a soy latte,grande,a salted caramel brownie
+38,130,Amy Brenneman,a salted caramel mocha,grande,an egg sandwich
+39,117,Gina Bellman,an orange juice,short,
+40,131,Carey Mulligan,an iced pumpkin spice chai latte,grande,
+41,132,Beth Behrs,an iced cordusio,grande,
+42,133,Ewan McGregor,a soy latte,grande,an egg sandwich
+43,134,Eddie McClintock,a salted caramel mocha,grande,
+44,116,Candice King,an iced pumpkin spice latte,short,a white chocolate cheesecake
+45,135,Grant Gustin,an iced pumpkin spice chai latte,tall,a chicken and pesto panini
+46,136,Olga Kurylenko,a bottle of water,tall,
+47,137,Jenna Coleman,a cinnamon latte,tall,a yogurt parfait
+48,138,Josh Hutcherson,an iced pumpkin spice chai latte,tall,
+49,105,Chris O'Donnell,a chai tea latte,grande,a yogurt parfait
+50,136,Olga Kurylenko,an iced pumpkin spice chai latte,tall,
+51,129,Shelley Hennig,an orange juice,short,
+52,139,Maisie Williams,an iced cordusio,tall,
+53,140,Claire Danes,a soy latte,short,a raspberry cheesecake
+54,141,Jason Bateman,an iced cordusio,grande,
+55,142,Jason Segel,a chai tea latte,grande,
+56,143,Travis Fimmel,a cinnamon latte,grande,a tomato and mozzarella panini
+57,144,Michael Fassbender,a strawberry lemonade,grande,
+58,145,Daniel Radcliffe,an iced coffee mocha,short,a raspberry cheesecake
+59,128,Jason Sudeikis,an iced latte macchiato,grande,
+60,146,Chris Messina,a lemonade,grande,a white chocolate cheesecake
+61,126,Emma Watson,a peach iced tea,short,a granola bar
+62,124,Robert Downey Jr.,a cinnamon latte,grande,
+63,145,Daniel Radcliffe,an iced coffee mocha,short,a raspberry cheesecake
+64,132,Beth Behrs,an iced cordusio,grande,
+65,147,Ted Danson,a raspberry lemonade,tall,a cheese toastie
+66,148,Busy Philipps,a pumpkin spice latte,short,a strawberry cheesecake
+67,107,Laurie Holden,a raspberry lemonade,tall,a chocolate brownie
+68,120,Sandra Bullock,a soy latte,short,a dark chocolate bar
+69,149,Chace Crawford,a peach iced tea,tall,a granola bar
+70,111,Tina Fey,an iced cinnamon dolce latte,short,a granola bar
+71,147,Ted Danson,a strawberry lemonade,tall,
+72,119,Michael Vartan,an iced pumpkin spice latte,short,a dark chocolate bar
+73,138,Josh Hutcherson,an iced pumpkin spice chai latte,tall,
+74,146,Chris Messina,a lemonade,grande,a white chocolate cheesecake
+75,150,Scarlett Johansson,a chai tea latte,short,a vegetable sandwich
+76,151,John Cusack,a salted caramel mocha,grande,a chocolate brownie
+77,152,Chiwetel Ejiofor,a salted caramel mocha,short,
+78,148,Busy Philipps,a pumpkin spice latte,short,a strawberry cheesecake
+79,153,Deborah Ann Woll,a raspberry lemonade,short,
+80,154,Kristen Wiig,an iced pumpkin spice latte,short,
+81,155,Garrett Hedlund,a bottle of water,grande,
+82,150,Scarlett Johansson,a raspberry lemonade,grande,a chocolate brownie
+83,156,Poppy Montgomery,an iced cinnamon dolce latte,grande,
+84,140,Claire Danes,a soy latte,short,a raspberry cheesecake
+85,157,Russell Brand,a peach iced tea,tall,
+86,123,Suzanne Somers,a cinnamon latte,short,a vegan wrap
+87,158,Charlotte Rae,a strawberry lemonade,short,a dark chocolate bar
+88,121,Scott Caan,an iced cinnamon dolce latte,short,a yogurt parfait
+89,143,Travis Fimmel,a cinnamon latte,grande,a tomato and mozzarella panini
+90,159,Todd Bridges,a raspberry lemonade,short,a tomato and mozzarella panini
+91,160,Lyndsy Fonseca,a pumpkin spice latte,grande,a chicken and pesto panini
+92,153,Deborah Ann Woll,an iced pumpkin spice chai latte,tall,
+93,161,Bradley Cooper,a raspberry lemonade,tall,
+94,162,Anna Kendrick,an orange juice,tall,
+95,163,Anna Gunn,a peach iced tea,tall,a lemon cheesecake
+96,164,Kit Harington,a chai tea latte,tall,
+97,142,Jason Segel,an orange juice,tall,
+98,144,Michael Fassbender,a strawberry lemonade,grande,
+99,141,Jason Bateman,a soy latte,tall,a white chocolate cheesecake
+100,160,Lyndsy Fonseca,a raspberry lemonade,grande,
+101,127,Hayden Christensen,an orange juice,short,
+102,108,Sophie Turner,a strawberry lemonade,tall,
+103,125,James Roday,a raspberry lemonade,tall,
+104,165,Danai Gurira,an iced caramel macchiato,tall,a chicken and pesto panini
+105,166,Reginald VelJohnson,an iced salted caramel mocha,grande,a vegetable sandwich
+106,167,Cory Monteith,a salted caramel mocha,tall,a tomato and mozzarella panini
+107,137,Jenna Coleman,an orange juice,short,a cheese toastie
+108,163,Anna Gunn,an iced pumpkin spice latte,tall,a white chocolate cheesecake
+109,168,Brooke Elliott,an iced cordusio,short,a vegetable sandwich
+110,169,Simon Pegg,an iced latte macchiato,grande,
+111,162,Anna Kendrick,an orange juice,tall,
+112,165,Danai Gurira,a bottle of water,short,a chocolate brownie
+113,154,Kristen Wiig,an iced pumpkin spice latte,short,
+114,170,Billy Campbell,a soy latte,grande,an egg sandwich
+115,133,Ewan McGregor,an iced pumpkin spice latte,grande,a white chocolate cheesecake
+116,167,Cory Monteith,an iced pumpkin spice latte,short,a granola bar
+117,170,Billy Campbell,an iced latte macchiato,short,
+118,156,Poppy Montgomery,an iced cinnamon dolce latte,grande,
+119,104,Seth Rogen,a peach iced tea,grande,
+120,159,Todd Bridges,a raspberry lemonade,short,a tomato and mozzarella panini
+121,171,Melissa Rauch,a strawberry lemonade,grande,a whole-grain feta sandwich
+122,172,Lily James,a raspberry lemonade,tall,a whole-grain feta sandwich
+123,173,Kyra Sedgwick,a bottle of water,tall,a white chocolate cheesecake
+124,174,Chandler Riggs,an iced caramel macchiato,tall,a tomato and mozzarella panini
+125,175,Kat Graham,a bottle of water,tall,a dark chocolate bar
+126,176,Jessica Biel,an iced latte macchiato,tall,a cheese toastie
+127,177,David Spade,an iced coffee americano,short,a strawberry cheesecake
+128,178,Kristen Bell,an iced cordusio,short,a tomato and mozzarella panini
+129,179,Jesse Williams,an iced cinnamon dolce latte,tall,a chicken and pesto panini
+130,158,Charlotte Rae,an iced salted caramel mocha,grande,a fruit mix
+131,180,Chandra Wilson,an iced coffee americano,grande,
+132,179,Jesse Williams,an iced cinnamon dolce latte,tall,a chicken and pesto panini
+133,151,John Cusack,a salted caramel mocha,grande,a chocolate brownie
+134,173,Kyra Sedgwick,a bottle of water,tall,a white chocolate cheesecake
+135,181,Emma Thompson,an iced cinnamon dolce latte,grande,
+136,149,Chace Crawford,a peach iced tea,tall,a granola bar
+137,182,Steve Carell,a soy latte,short,
+138,183,Victor Garber,an iced salted caramel mocha,short,
+139,184,Missy Peregrym,a raspberry lemonade,tall,
+140,135,Grant Gustin,an iced pumpkin spice chai latte,tall,a chicken and pesto panini
+141,115,Mark Feuerstein,an iced salted caramel mocha,grande,
+142,157,Russell Brand,an iced latte macchiato,short,
+143,182,Steve Carell,a strawberry lemonade,tall,
+144,185,Eric Dane,a pumpkin spice latte,short,
+145,186,Patricia Arquette,a raspberry lemonade,tall,a granola bar
+146,177,David Spade,an iced coffee americano,short,a strawberry cheesecake
+147,166,Reginald VelJohnson,an iced salted caramel mocha,grande,a vegetable sandwich
+148,187,Josh Charles,a peach iced tea,grande,a dark chocolate bar
+149,186,Patricia Arquette,an iced coffee mocha,tall,
+150,122,Lisa Whelchel,a pumpkin spice latte,short,
+151,188,Owen Wilson,a peach iced tea,short,
+152,174,Chandler Riggs,an iced caramel macchiato,tall,a tomato and mozzarella panini
+153,181,Emma Thompson,an iced cinnamon dolce latte,grande,
+154,187,Josh Charles,an iced coffee mocha,tall,
+155,178,Kristen Bell,an iced cordusio,short,a tomato and mozzarella panini
+156,134,Eddie McClintock,a peach iced tea,grande,a chicken and pesto panini
+157,189,Alexander Skarsgard,an iced coffee americano,grande,
+158,161,Bradley Cooper,a bottle of water,short,a cheese toastie
+159,190,Marion Cotillard,an iced salted caramel mocha,tall,a vegetable sandwich
+160,172,Lily James,a cinnamon latte,short,a granola bar
+161,184,Missy Peregrym,a raspberry lemonade,tall,
+162,168,Brooke Elliott,an iced cordusio,short,a vegetable sandwich
+163,118,Reese Witherspoon,an iced pumpkin spice chai latte,grande,
+164,114,Fred Armisen,an iced cinnamon dolce latte,tall,a tomato and mozzarella panini
+165,183,Victor Garber,an iced salted caramel mocha,short,
+166,176,Jessica Biel,an iced coffee mocha,short,
+167,180,Chandra Wilson,an iced pumpkin spice latte,short,
+168,191,Kathy Bates,an iced cordusio,grande,a strawberry cheesecake
+169,171,Melissa Rauch,a chai tea latte,tall,
+170,190,Marion Cotillard,an iced cinnamon dolce latte,tall,a lemon cheesecake
+171,152,Chiwetel Ejiofor,a salted caramel mocha,short,
+172,192,Matt Damon,a soy latte,tall,
+173,193,Ansel Elgort,a salted caramel mocha,tall,
+174,185,Eric Dane,a bottle of water,grande,
+175,164,Kit Harington,a chai tea latte,tall,
+176,130,Amy Brenneman,a salted caramel mocha,grande,an egg sandwich
+177,139,Maisie Williams,an iced cordusio,tall,
+178,191,Kathy Bates,an iced cordusio,grande,a strawberry cheesecake
+179,131,Carey Mulligan,an iced pumpkin spice chai latte,grande,
+180,175,Kat Graham,an iced latte macchiato,tall,a fruit mix
+181,194,Leslie Mann,an iced salted caramel mocha,short,a salted caramel brownie
+182,195,Marg Helgenberger,a cinnamon latte,tall,a raspberry cheesecake
+183,155,Garrett Hedlund,an iced coffee americano,grande,
+184,189,Alexander Skarsgard,an iced coffee americano,grande,
+185,196,Lindsay Lohan,an iced coffee mocha,short,
+186,196,Lindsay Lohan,an iced coffee mocha,short,
+187,197,Ron Perlman,a bottle of water,tall,
+188,194,Leslie Mann,an iced latte macchiato,grande,
+189,198,Mads Mikkelsen,an iced coffee mocha,short,
+190,193,Ansel Elgort,a salted caramel mocha,tall,
+191,199,Eddie Redmayne,a soy latte,tall,a tomato and mozzarella panini
+192,197,Ron Perlman,a lemonade,grande,a fruit mix
+193,198,Mads Mikkelsen,an iced coffee mocha,short,
+194,199,Eddie Redmayne,an iced caramel macchiato,short,
+195,192,Matt Damon,a soy latte,tall,
+196,169,Simon Pegg,an iced latte macchiato,grande,
+197,200,Rupert Grint,an iced pumpkin spice chai latte,short,an egg sandwich
+198,200,Rupert Grint,a salted caramel mocha,grande,
+199,195,Marg Helgenberger,a raspberry lemonade,grande,a cheese toastie
+200,188,Owen Wilson,a peach iced tea,short,
