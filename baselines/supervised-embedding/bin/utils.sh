@@ -55,7 +55,7 @@ function parse_candidates {
     ds=$3"-order"
   fi
 
-  base_path="../../../data/$ds/$ds-dataset/$response_type/$ds_t/$ds_format/$task_size"
+  base_path="../../data/$ds/$ds-dataset/$response_type/$ds_t/$ds_format/$task_size"
   python3.6 parse_candidates.py $base_path/$ds-candidates.txt > $dir_name/data/candidates.tsv
 }
 
@@ -86,7 +86,7 @@ function parse_dialogs {
     ds=$3"-order"
   fi
 
-  base_path="../../../data/$ds/$ds-dataset/$response_type/$ds_t/$ds_format/$task_size/"
+  base_path="../../data/$ds/$ds-dataset/$response_type/$ds_t/$ds_format/$task_size/"
 
   for entry in "$base_path/$task"/*
   do

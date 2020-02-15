@@ -1,7 +1,10 @@
+# Start from a core gpu-enabled stack version
+# FROM gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/base-notebook
+# Set user as root so next commands run correctly
 # prepare system for Ubuntu 16.04 with python3.6
 FROM ubuntu:16.04
 # Set user as root so next commands run correctly
-WORKDIR /project
+USER root
 
 # install python3.6 and python3.6-dev
 RUN apt-get update
@@ -32,4 +35,5 @@ RUN pip3 install -r /project/hrinlp/requirements.txt
 
 RUN ln -s /usr/local/bin/python3 /usr/bin/python & \
     ln -s /usr/local/bin/pip3 /usr/bin/pip
+
 

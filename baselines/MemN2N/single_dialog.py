@@ -23,7 +23,7 @@ tf.flags.DEFINE_integer("embedding_size", 20, "Embedding size for embedding matr
 tf.flags.DEFINE_integer("memory_size", 250, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "task id, 0 <= id <= 8")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
-tf.flags.DEFINE_string("data_dir", "../../../data/", "Directory containing datasets")
+tf.flags.DEFINE_string("data_dir", "../../data/", "Directory containing datasets")
 # tf.flags.DEFINE_string("data_dir", "../data/personalized-dialog-dataset/full", "Directory containing bAbI tasks")
 tf.flags.DEFINE_string("model_dir", "checkpoints/", "Directory containing memn2n model checkpoints")
 tf.flags.DEFINE_boolean("train", True, "if True, begin to train")
