@@ -3,15 +3,16 @@
 source bin/utils.sh
 
 ds="$1"
-[ -z "$ds" ] && ds="barista-personalised"
 task_size="$2"
 hops=$3
+[ -z "$ds" ] && ds="barista-personalised"
+[ -z "$task_size" ] && task_size="Task1k"
+[ -z "$hops" ] && hops=1
+
 order_info=$4
 ds_format="$5"
 response_type="$6"
 ds_type="$7"
-
-[ -z "$task_size" ] && task_size="Task1k"
 
 ds_set=""
 [ -n "$task_size" ] && ds_set=$ds_set$task_size
@@ -19,8 +20,7 @@ ds_set=""
 [ -n "$response_type" ] && ds_set=$ds_set"-"$response_type
 [ -n "$ds_type" ] && ds_set=$ds_set"-"$ds_type
 
-dir_name=$ds/$ds_set
-[ -z "$ds_set" ] && dir_name=$ds
+dir_name=/project/MemN2N-split-memory/$ds/$ds_set/hop$hops
 
 if [ "$ds" == "barista" ]; then
   start_task=1

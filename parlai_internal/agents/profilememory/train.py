@@ -52,7 +52,7 @@ if __name__ == '__main__':
         datatype='train',
         batchsize=128,
         numthreads=1,
-        num_epochs=1,
+        num_epochs=100,
         dict_lower=True,
         dict_include_valid=False,
         dict_maxexs=-1,

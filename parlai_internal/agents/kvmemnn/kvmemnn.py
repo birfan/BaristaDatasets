@@ -237,7 +237,9 @@ class KvmemnnAgent(Agent):
         self.ys_cache_sz = opt['cache_size']
         self.truncate = opt['truncate'] if opt['truncate'] > 0 else None
         self.history = {}
-        
+
+        #BI: added 
+        self.calculate_fix_cands = False
         if shared:
             torch.set_num_threads(1)
             if 'threadindex' in shared:
@@ -273,9 +275,9 @@ class KvmemnnAgent(Agent):
                 self.load(opt['model_file'])
             self.model.share_memory()
 
-            #BI: added    
-            self.calculate_fix_cands=opt['calculate_fix_cands']
-            self.incorrect_pred_path, self.correct_pred_path, self.id_example = update_predictions_path(opt)
+            #BI: added
+            if 'calculate_fix_cands' in opt:
+                self.calculate_fix_cands=opt['calculate_fix_cands']
 
             self.fixedCands = False
             self.fixedX = None
@@ -300,6 +302,8 @@ class KvmemnnAgent(Agent):
                 self.fixedX = ye
             print("=init done=")
 
+        #BI: added 
+        self.incorrect_pred_path, self.correct_pred_path, self.id_example = update_predictions_path(opt)
         if self.opt['loss'] == 'cosine':
             self.criterion = torch.nn.CosineEmbeddingLoss(margin=opt['margin'], size_average=False)
         elif self.opt['loss'] == 'nll':

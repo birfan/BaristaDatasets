@@ -57,7 +57,7 @@ def update_predictions_path(opt):
     id_example=1     
     return incorrect_pred_path, correct_pred_path, id_example
 
-def write_result_to_csv(report, result_file, task_id, datapath=None, OOV=False):
+def write_result_to_csv(report, result_file, task_id, datapath=None, OOV=False, test_time=None):
     """Write evaluation results to csv."""
     
     if datapath is not None:
@@ -82,6 +82,9 @@ def write_result_to_csv(report, result_file, task_id, datapath=None, OOV=False):
         if value:
             columns.append(key)
             results.append("%.2f" % value)
+    if test_time:
+        columns.append('test_time')
+        results.append("%.2f" % test_time)
 
     with open(result_file, 'a') as outcsv:
         writer = csv.writer(outcsv)
@@ -92,17 +95,26 @@ def write_result_to_csv(report, result_file, task_id, datapath=None, OOV=False):
 def update_opt(opt, model_name, log_incorrect=False, log_correct=False):
     opt['task']='internal:' + opt['dataset'] + ':' + opt['task_size'] + ':' + str(opt['task_id'])
 
-    opt['model_file'] = 'izoo:' + os.path.join(model_name, opt['dataset'], opt['task_size'], 'checkpoints', 'task'+str(opt['task_id'])) + '/model'
+    hops_dir = ""
+    if 'hops' in opt:
+        if opt['hops'] is not None:
+            hops_dir = "hop" + str(opt['hops'])
+
+    opt['model_file'] = 'izoo:' + os.path.join(model_name, opt['dataset'], opt['task_size'], hops_dir, 'checkpoints', 'task'+str(opt['task_id'])) + '/model'
+
+    task_log_folder = opt['model_file'].replace("checkpoints", "log").replace("model", "")
+    if not os.path.exists(task_log_folder):
+        os.makedirs(task_log_folder)
 
     if log_incorrect:
         opt['log_predictions']=True
-        opt['dump_incorrect_predictions_path'] = opt['model_file'].replace("model", "incorrect_predictions-" + opt['datatype'] + ".json")
+        opt['dump_incorrect_predictions_path'] = task_log_folder + "incorrect_predictions-" + opt['datatype'] + ".json"
     else:
         opt['dump_incorrect_predictions_path'] = None
 
     if log_correct:
        opt['log_predictions']=True
-       opt['dump_correct_predictions_path'] = opt['model_file'].replace("model", "correct_predictions-" + opt['datatype'] +  ".json")
+       opt['dump_correct_predictions_path'] = task_log_folder + "correct_predictions-" + opt['datatype'] + ".json"
     else:
        opt['dump_correct_predictions_path'] = None
 

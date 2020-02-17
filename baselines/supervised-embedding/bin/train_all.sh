@@ -18,8 +18,8 @@ ds_set=""
 [ -n "$response_type" ] && ds_set=$ds_set"-"$response_type
 [ -n "$ds_type" ] && ds_set=$ds_set"-"$ds_type
 
-dir_name=$ds/$ds_set
-[ -z "$ds_set" ] && dir_name=$ds
+dir_name=/project/supervised-embedding/$ds/$ds_set
+[ -z "$ds_set" ] && dir_name=/project/supervised-embedding/$ds
 
 if [ "$ds" == "barista" ]; then
   start_task=1

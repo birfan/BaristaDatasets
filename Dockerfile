@@ -3,6 +3,7 @@
 # Set user as root so next commands run correctly
 # prepare system for Ubuntu 16.04 with python3.6
 FROM ubuntu:16.04
+FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu16.04
 # Set user as root so next commands run correctly
 USER root
 
@@ -24,14 +25,16 @@ RUN pip3 install torch==1.1.0 torchvision==0.3.0 -f https://download.pytorch.org
 # install tensorflow 1.13.1
 RUN pip3 install tensorflow-gpu==1.13.1
 
-RUN git clone https://github.com/facebookresearch/ParlAI.git /project/ParlAI
-RUN cd /project/ParlAI; pip3 install -r ./requirements.txt; echo "" > README.md; python3.6 setup.py develop
+RUN mkdir -p /app/
 
-COPY . /project/hrinlp/
-COPY ./parlai_internal/ /project/ParlAI/parlai_internal
-COPY ./data/ /project/ParlAI/data
+RUN git clone https://github.com/facebookresearch/ParlAI.git /app/ParlAI
+RUN cd /app/ParlAI; pip3 install -r ./requirements.txt; echo "" > README.md; python3.6 setup.py develop
 
-RUN pip3 install -r /project/hrinlp/requirements.txt
+COPY . /app/hrinlp/
+COPY ./parlai_internal/ /app/ParlAI/parlai_internal
+COPY ./data/ /app/ParlAI/data
+
+RUN pip3 install -r /app/hrinlp/requirements.txt
 
 RUN ln -s /usr/local/bin/python3 /usr/bin/python & \
     ln -s /usr/local/bin/pip3 /usr/bin/pip

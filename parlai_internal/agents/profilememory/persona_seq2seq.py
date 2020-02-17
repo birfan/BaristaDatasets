@@ -1634,7 +1634,8 @@ class PersonachatSeqseqAgentSplit(Agent):
             observation.force_set('persona', self.persona_given)
 
             if len(observation['persona']) == 0:
-                observation['persona'] = '__START__'
+                observation.force_set('persona', '__START__')
+                # observation['persona'] = '__START__'
             self.observation = observation
             return observation
         else:

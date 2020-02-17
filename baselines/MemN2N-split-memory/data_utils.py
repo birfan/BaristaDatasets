@@ -285,7 +285,7 @@ def log_predictions_to_file(context, predicted, correct_response, profile="", id
         id_example += 1
     return id_example
 
-def write_result_to_csv(report, result_file, task_id, datapath=None, OOV=False):
+def write_result_to_csv(report, result_file, task_id, datapath=None, OOV=False, test_time=None):
     """Write evaluation results to csv."""
     
     if datapath is not None:
@@ -310,6 +310,9 @@ def write_result_to_csv(report, result_file, task_id, datapath=None, OOV=False):
         if value:
             columns.append(key)
             results.append("%.2f" % value)
+    if test_time:
+        columns.append('test_time')
+        results.append("%.2f" % test_time)
 
     with open(result_file, 'a') as outcsv:
         writer = csv.writer(outcsv)

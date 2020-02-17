@@ -15,7 +15,12 @@ else
   start_task=0
   end_task=8
 fi
+log_folder=/project/KVMemNN/$ds/$task_size/hop$hops/log
+
+if [[ ! -d $log_folder ]]; then
+  mkdir -p $log_folder
+fi
 
 for ((i = start_task ; i <= end_task ; i++)); do
-  python3.6 parlai_internal/agents/kvmemnn/train.py -ds=$ds -ts=$task_size -tid=$i --hops=$hops
+  python3.6 parlai_internal/agents/kvmemnn/train.py -ds=$ds -ts=$task_size -tid=$i --hops=$hops > $log_folder/task$i.txt
 done

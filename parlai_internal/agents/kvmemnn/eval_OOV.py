@@ -10,8 +10,8 @@ Key-Value Memory Net model trained on barista datasets
 
 from parlai.scripts.eval_model import eval_model, setup_args
 from parlai_internal.scripts.utils import write_result_to_csv, update_opt
-
 import os
+import time
 
 if __name__ == '__main__':
     parser = setup_args()
@@ -57,7 +57,11 @@ if __name__ == '__main__':
     )
     opt = new_parser.parse_args()
 
+    start_test = time.time()
+
     report = eval_model(opt)
 
-    result_file = os.path.join("izoo:" + "KVMemNN", opt['dataset'], opt['task_size'], "log") + "/results_test.csv"
-    write_result_to_csv(report, result_file, opt['task_id'], opt['datapath'], OOV=True)
+    test_time = time.time() - start_test
+
+    result_file = os.path.join("izoo:" + "KVMemNN", opt['dataset'], opt['task_size'], "hop"+str(opt['hops']), "log") + "/results_test.csv"
+    write_result_to_csv(report, result_file, opt['task_id'], opt['datapath'], OOV=True, test_time=test_time)

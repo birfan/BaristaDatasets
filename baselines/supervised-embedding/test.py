@@ -6,11 +6,14 @@ from tqdm import tqdm
 import numpy as np
 import tensorflow as tf
 import argparse
+import os
+import time
 
 
 def main(test_tensor, candidates_tensor, model, checkpoint_dir, 
          vocab_inverse=None, task_id=1, result_file=None, OOV=False,
          incorrect_pred_path=None, correct_pred_path=None):
+    start_test = time.time()
     saver = tf.train.Saver()
     config = tf.ConfigProto()
     config.gpu_options.allow_growth = True
@@ -23,9 +26,10 @@ def main(test_tensor, candidates_tensor, model, checkpoint_dir,
         print("Testing Size", test_tensor.shape[0])
         (pos, neg, accuracy) = evaluate(test_tensor, candidates_tensor, sess, model, vocab_inverse,
                                         incorrect_pred_path=incorrect_pred_path, correct_pred_path=correct_pred_path)
+        test_time = time.time() - start_test
         print("Testing Accuracy:", accuracy)
         #BI: print results to csv file
-        write_result_to_csv({'exs': test_tensor.shape[0], 'accuracy': accuracy}, result_file, task_id, OOV=OOV)
+        write_result_to_csv({'exs': test_tensor.shape[0], 'accuracy': accuracy}, result_file, task_id, OOV=OOV, test_time=test_time)
       
   
 def evaluate(test_tensor, candidates_tensor, sess, model, 
@@ -86,6 +90,7 @@ def _parse_args():
     parser.add_argument('--vocab', default='data/vocab.tsv')
     parser.add_argument('--candidates', default='data/candidates.tsv')
     parser.add_argument('--checkpoint_dir')
+    parser.add_argument('--log_dir', defailt='')
     parser.add_argument('--emb_dim', type=int, default=32)
     parser.add_argument('--OOV', action='store_true',
                         help='OOV test set.')
@@ -106,10 +111,13 @@ if __name__ == '__main__':
     candidates_tensor = make_tensor(args.candidates, vocab)
     model = Model(len(vocab), args.emb_dim)
     if args.log_predictions:
+        task_log = args.log_dir + "/" + "task" + str(task_id) + "/"
         if args.dupi:
-            dupi = args.checkpoint_dir + "/" + args.dupi
+            dupi = task_log + args.dupi
         if args.dupc:
-            dupc = args.checkpoint_dir + "/" + args.dupc
+            dupc = task_log + args.dupc
+        if not os.path.exists(task_log):
+            os.makedirs(task_log)
     else:
         dupi = None
         dupc = None

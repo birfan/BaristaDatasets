@@ -28,7 +28,7 @@ function train {
   fi
 
   python3.6 single_dialog.py --task_id=$task --train=True --hops=$hops --ds_name=$ds_name --task_size=$task_size \
---ds_type=$ds_t --order_info=$order_info --ds_format=$ds_format --response_type=$response_type
+--ds_type=$ds_t --order_info=$order_info --ds_format=$ds_format --response_type=$response_type --results_dir="/project/MemN2N/"
 }
 
 function evaluate {
@@ -70,7 +70,7 @@ function evaluate {
 
   python3.6 single_dialog.py --task_id=$task --OOV=$OOV --train=False --hops=$hops --ds_name=$ds_name --task_size=$task_size \
 --ds_type=$ds_t --order_info=$order_info --ds_format=$ds_format --response_type=$response_type \
---log_predictions=True --dupi=$dupi --dupc=$dupc
+--log_predictions=True --dupi=$dupi --dupc=$dupc --results_dir="/project/MemN2N/"
 
 
 }

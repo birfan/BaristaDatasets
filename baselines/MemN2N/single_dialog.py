@@ -11,6 +11,7 @@ import tensorflow as tf
 import numpy as np
 import os
 import pickle
+import time
 
 tf.flags.DEFINE_float("learning_rate", 0.001, "Learning rate for Adam Optimizer.")
 tf.flags.DEFINE_float("epsilon", 1e-8, "Epsilon value for Adam Optimizer.")
@@ -45,6 +46,7 @@ tf.flags.DEFINE_boolean("log_predictions", False, "Log predictions to json or tx
 tf.flags.DEFINE_string("dupi", None,"Dump incorrect predictions into the specified path")
 tf.flags.DEFINE_string("dupc", None,"Dump correct predictions into the specified path.")
 tf.flags.DEFINE_string("result_file", "results_test.csv","CSV file for logging the results of test.")
+tf.flags.DEFINE_string("results_dir", "","Results directory.")
 
 FLAGS = tf.flags.FLAGS
 print("Started Task:", FLAGS.task_id)
@@ -320,6 +322,7 @@ class chatBot(object):
 
         Loads best performing model weights based on validation accuracy.
         """
+        start_test = time.time()
         ckpt = tf.train.get_checkpoint_state(self.model_dir)
         if ckpt and ckpt.model_checkpoint_path:
             self.saver.restore(self.sess, ckpt.model_checkpoint_path)
@@ -334,6 +337,7 @@ class chatBot(object):
         
         test_preds = self.batch_predict(testS, testQ, n_test)
         test_acc = metrics.accuracy_score(test_preds, testA)
+        test_time = time.time() - start_test
         print("Testing Accuracy:", test_acc)
 
         # # Un-comment below to view correct responses and predictions 
@@ -342,7 +346,7 @@ class chatBot(object):
         #    print(pred, self.indx2candid[pred])
 
         #BI: print results to csv file
-        write_result_to_csv({'exs': n_test, 'accuracy': test_acc}, self.result_file, self.task_id, OOV=self.OOV)
+        write_result_to_csv({'exs': n_test, 'accuracy': test_acc}, self.result_file, self.task_id, OOV=self.OOV, test_time=test_time)
    
         #BI: dump predictions to file
         for num_pred in range(len(test_preds)):
@@ -382,13 +386,15 @@ class chatBot(object):
 
 if __name__ == '__main__':
     if FLAGS.order_info and "order" not in FLAGS.ds_name:
-        results_dir = FLAGS.ds_name + "-order/" + FLAGS.task_size + "/"
+        results_dir = FLAGS.results_dir + FLAGS.ds_name + "-order/" + FLAGS.task_size + "/" + "hop" + str(FLAGS.hops) + "/"
     else:
-        results_dir = FLAGS.ds_name + "/" + FLAGS.task_size + "/"
+        results_dir = FLAGS.results_dir + FLAGS.ds_name + "/" + FLAGS.task_size + "/" + "hop" + str(FLAGS.hops) + "/"
         
     model_dir = results_dir + FLAGS.model_dir + "task" + str(FLAGS.task_id) + "/"
     vocab_dir = results_dir + "data/"
-    log_dir= results_dir + "log/"
+    log_dir= results_dir + "log/" + "task" + str(FLAGS.task_id) + "/"
+    if not os.path.exists(results_dir):
+        os.makedirs(results_dir)
     if not os.path.exists(model_dir):
         os.makedirs(model_dir)
     if not os.path.exists(vocab_dir):
@@ -397,16 +403,16 @@ if __name__ == '__main__':
         os.makedirs(log_dir)
 
     if FLAGS.dupi and FLAGS.log_predictions:
-        dupi=model_dir + FLAGS.dupi
+        dupi=log_dir + FLAGS.dupi
     else:
         dupi=None
 
     if FLAGS.dupc and FLAGS.log_predictions:
-        dupc=model_dir + FLAGS.dupc
+        dupc=log_dir + FLAGS.dupc
     else:
         dupc=None
         
-    result_file= log_dir + FLAGS.result_file 
+    result_file= results_dir + "log/" + FLAGS.result_file 
     
     chatbot = chatBot(FLAGS.data_dir, model_dir, vocab_dir, FLAGS.task_id, OOV=FLAGS.OOV,
                       batch_size=FLAGS.batch_size, memory_size=FLAGS.memory_size,

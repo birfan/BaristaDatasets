@@ -24,8 +24,8 @@ ds_set=""
 [ -n "$response_type" ] && ds_set=$ds_set"-"$response_type
 [ -n "$ds_type" ] && ds_set=$ds_set"-"$ds_type
 
-dir_name=$ds/$ds_set
-[ -z "$ds_set" ] && dir_name=$ds
+dir_name=/project/supervised-embedding/$ds/$ds_set
+[ -z "$ds_set" ] && dir_name=/project/supervised-embedding/$ds
 
 if [ "$ds" == "barista" ]; then
   start_task=1
@@ -43,13 +43,13 @@ for ((i = start_task ; i <= end_task ; i++)); do
   python3.6 test.py --test $dir_name/data/test-task$i.tsv --candidates $dir_name/data/candidates.tsv \
   --vocab $dir_name/data/vocab-task$i.tsv --checkpoint_dir $dir_name/checkpoints/task$i --emb_dim 32 --task_id $i \
   --log_predictions --dupi="incorrect_predictions-test.json" --dupc="correct_predictions-test.json" \
-  --result_file=$dir_name/log/results_test.csv > $dir_name/log/task$i-test.txt
+  --result_file=$dir_name/log/results_test.csv --log_dir=$dir_name/log/ > $dir_name/log/task$i-test.txt
 done
 
 for ((i = start_task ; i <= end_task ; i++)); do
   python3.6 test.py --test $dir_name/data/test-OOV-task$i.tsv --candidates $dir_name/data/candidates.tsv \
   --vocab $dir_name/data/vocab-task$i.tsv --checkpoint_dir $dir_name/checkpoints/task$i --emb_dim 32 --OOV --task_id $i \
   --log_predictions --dupi="incorrect_predictions-oov.json" --dupc="correct_predictions-oov.json" \
-  --result_file=$dir_name/log/results_test.csv > $dir_name/log/task$i-OOV.txt
+  --result_file=$dir_name/log/results_test.csv --log_dir=$dir_name/log/ > $dir_name/log/task$i-OOV.txt
 done
 
