@@ -412,6 +412,7 @@ class Seq2seqAgent(Agent):
             if self.use_cuda:
                 print('[ Using CUDA ]')
                 torch.cuda.set_device(opt['gpu'])
+                torch.cuda.empty_cache()
 
             init_model = None
             # check first for 'init_model' for loading model from file
@@ -509,8 +510,7 @@ class Seq2seqAgent(Agent):
             if self.use_cuda:
                 self.model.cuda()
             
-            #BI: update predictions path for izoo
-            self.incorrect_pred_path, self.correct_pred_path, self.id_example = update_predictions_path(opt)
+        self.id_example = 1
 
         # set up criteria
         if opt.get('numsoftmax', 1) > 1:
@@ -903,10 +903,10 @@ class Seq2seqAgent(Agent):
 
             #BI: added write predictions to file
             for i in range(len(predictions)):
-                if 'eval_labels' in observations[i]:
+                if 'eval_labels' in observations[i] and self.opt.get('log_predictions', False):
                     context_txt= self.v2t(xs[i])
                     context_txt = context_txt.replace(self.dict.null_token+" ", "")
-                    self.id_example = log_predictions_to_file(context_txt.replace(self.dict.null_token, ""), self.v2t(predictions[i]), observations[i]['eval_labels'][0], profile="", id_example=self.id_example, incorrect_pred_path=self.incorrect_pred_path, correct_pred_path=self.correct_pred_path)
+                    self.id_example = log_predictions_to_file(context_txt.replace(self.dict.null_token, ""), self.v2t(predictions[i]), observations[i]['eval_labels'][0], profile="", id_example=self.id_example, incorrect_pred_path=self.opt['dump_incorrect_predictions_path'], correct_pred_path=self.opt['dump_correct_predictions_path'])
 
         if predictions is not None:
             PaddingUtils.map_predictions(

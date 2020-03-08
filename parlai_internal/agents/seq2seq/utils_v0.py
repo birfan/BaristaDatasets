@@ -584,10 +584,10 @@ class PaddingUtils(object):
             elif answers is not None:
                 answers[valid_inds[i]] = curr_pred
 
-            if random.random() > (1 - report_freq):
+            #if random.random() > (1 - report_freq):
                 # log sometimes
-                print('TEXT: ', observations[valid_inds[i]]['text'])
-                print('PREDICTION: ', curr_pred, '\n~')
+            #    print('TEXT: ', observations[valid_inds[i]]['text'])
+            #    print('PREDICTION: ', curr_pred, '\n~')
         return
 
 

@@ -14,7 +14,7 @@ else
   end_task=8
 fi
 
-log_folder=/project/ProfileMemory/$ds/$task_size/log
+log_folder=/project/ProfileMemory-extended-dict/$ds/$task_size/log
 
 if [[ ! -d $log_folder ]]; then
   mkdir -p $log_folder

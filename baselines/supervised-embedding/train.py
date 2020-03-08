@@ -37,6 +37,7 @@ def _parse_args():
     parser.add_argument('--negative_cand', type=int, default=100)
     parser.add_argument('--learning_rate', type=float, default=0.01)
     parser.add_argument('--task', default="task1")
+    parser.add_argument('--batchsize', type=int, default=32)
     
     args = parser.parse_args()
 
@@ -160,8 +161,12 @@ if __name__ == '__main__':
     train_tensor = make_tensor(args.train, vocab)
     dev_tensor = make_tensor(args.dev, vocab)
     candidates_tensor = make_tensor(args.candidates, vocab)
-    config = {'batch_size': 32, 'epochs': 100, #used to be 15 epochs
+    config = {'epochs': 25, #epochs was 15 - then I made 100 but it was too long
               'negative_cand': args.negative_cand, 'save_dir': args.save_dir,
               'lr': args.learning_rate, 'evaluation_interval': 1} #evaluation_interval used to be 2
+    if args.batchsize:
+        config['batch_size'] = args.batchsize #batchsize was 32 (increased to 128 use gpu better)
+    else:
+        config['batch_size'] = 32
     model = Model(len(vocab), emb_dim=args.emb_dim, margin=args.margin)
     main(train_tensor, dev_tensor, candidates_tensor, model, config, args.task)

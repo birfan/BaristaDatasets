@@ -3,3 +3,5 @@
 *.project
 .settings/
 status.csv
+stats.txt
+log.txt

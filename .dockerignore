@@ -1,2 +1,4 @@
 .git/
 status.csv
+gpu-scripts/
+stats.txt

@@ -303,7 +303,7 @@ class KvmemnnAgent(Agent):
             print("=init done=")
 
         #BI: added 
-        self.incorrect_pred_path, self.correct_pred_path, self.id_example = update_predictions_path(opt)
+        self.id_example = 1
         if self.opt['loss'] == 'cosine':
             self.criterion = torch.nn.CosineEmbeddingLoss(margin=opt['margin'], size_average=False)
         elif self.opt['loss'] == 'nll':
@@ -734,14 +734,14 @@ class KvmemnnAgent(Agent):
                         tc.append(cands_txt[0][ind[i].item()])
                 
                 #BI: added write predictions to file
-                if self.opt['log_predictions']:
+                if self.opt.get('log_predictions', False):
                     correct_response=obs[0]['eval_labels'][0]
                     ps = []
                     for c in obs[0]['mem']:
                         ps.append(self.v2t(c))
                     profile = ' '.join(ps)
                     
-                    self.id_example = log_predictions_to_file(self.v2t(xs), ypred, correct_response, profile=profile, id_example=self.id_example, incorrect_pred_path=self.incorrect_pred_path, correct_pred_path=self.correct_pred_path)
+                    self.id_example = log_predictions_to_file(self.v2t(xs), ypred, correct_response, profile=profile, id_example=self.id_example, incorrect_pred_path=self.opt['dump_incorrect_predictions_path'], correct_pred_path=self.opt['dump_correct_predictions_path'])
 
             ret = [{'text': ypred, 'text_candidates': tc }]
             return ret

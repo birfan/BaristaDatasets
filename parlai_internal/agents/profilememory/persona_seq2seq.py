@@ -186,6 +186,7 @@ class Seq2seqAgent(Agent):
             if self.use_cuda:
                 print('[ Using CUDA ]')
                 torch.cuda.set_device(opt['gpu'])
+                torch.cuda.empty_cache()
 
             self.dict = DictionaryAgent(opt)
 
@@ -200,9 +201,6 @@ class Seq2seqAgent(Agent):
             if opt.get('personachat_symbol_words', None):
                 for w in opt['personachat_symbol_words']:
                     self.dict.add_to_dict([w])
-
-            #BI: update predictions path for izoo
-            self.incorrect_pred_path, self.correct_pred_path, self.id_example = update_predictions_path(opt)
 
             self.id = 'Seq2Seq'
             # we use START markers to start our output
@@ -328,6 +326,8 @@ class Seq2seqAgent(Agent):
 
             if self.use_cuda:
                 self.cuda()
+
+        self.id_example = 1
 
         self.loss = 0.0
         self.loss_c = 0
@@ -1215,9 +1215,6 @@ class PersonachatSeqseqAgentSplit(Agent):
                 for w in opt['personachat_symbol_words']:
                     self.dict.add_to_dict([w])
 
-            #BI: update predictions path for izoo
-            self.incorrect_pred_path, self.correct_pred_path, self.id_example = update_predictions_path(opt)
-
             self.id = 'Seq2Seq'
             # we use START markers to start our output
             self.START = self.dict.start_token
@@ -1426,6 +1423,8 @@ class PersonachatSeqseqAgentSplit(Agent):
 
             if self.use_cuda:
                 self.cuda()
+
+        self.id_example = 1
 
         self.loss = 0.0
         self.loss_c = 0
@@ -2334,11 +2333,10 @@ class PersonachatSeqseqAgentSplit(Agent):
             else:
                 self.answers[valid_inds[i]] = curr_pred
 
-            if 'eval_labels' in observations[i]:
+            if 'eval_labels' in observations[i] and self.opt.get('log_predictions', False):
                 context_txt= self.v2t(xs[i])
                 context_txt = context_txt.replace(self.dict.null_token + " ", "")
-                self.id_example = log_predictions_to_file(context_txt.replace(self.dict.null_token, ""), ' '.join(predictions[i]), observations[i]['eval_labels'][0], profile=observations[i]['persona'].replace("\n", " "), id_example=self.id_example, incorrect_pred_path=self.incorrect_pred_path, correct_pred_path=self.correct_pred_path)
-
+                self.id_example = log_predictions_to_file(context_txt.replace(self.dict.null_token, ""), ' '.join(predictions[i]), observations[i]['eval_labels'][0], profile=observations[i]['persona'].replace("\n", " "), id_example=self.id_example, incorrect_pred_path=self.opt['dump_incorrect_predictions_path'], correct_pred_path=self.opt['dump_correct_predictions_path'])
 
         if text_cand_inds is not None:
             for i in range(len(valid_cands)):

@@ -30,13 +30,21 @@ RUN mkdir -p /app/
 RUN git clone https://github.com/facebookresearch/ParlAI.git /app/ParlAI
 RUN cd /app/ParlAI; pip3 install -r ./requirements.txt; echo "" > README.md; python3.6 setup.py develop
 
-COPY . /app/hrinlp/
-COPY ./parlai_internal/ /app/ParlAI/parlai_internal
-COPY ./data/ /app/ParlAI/data
+RUN mkdir -p /app/hrinlp
+COPY ./requirements.txt /app/hrinlp/
 
 RUN pip3 install -r /app/hrinlp/requirements.txt
 
 RUN ln -s /usr/local/bin/python3 /usr/bin/python & \
     ln -s /usr/local/bin/pip3 /usr/bin/pip
 
+RUN apt-get install -y nano
+
+COPY ./README.md /app/hrinlp/
+COPY ./data /app/hrinlp/data
+COPY ./data/ /app/ParlAI/data
+
+COPY ./baselines /app/hrinlp/baselines
+COPY ./parlai_internal/ /app/ParlAI/parlai_internal
+COPY ./parlai_internal/scripts/params.py /app/ParlAI/parlai/core/params.py
 

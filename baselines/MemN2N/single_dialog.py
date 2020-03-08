@@ -359,7 +359,10 @@ class chatBot(object):
                     contex+=stor
             contex+=convert_word_index_to_sentence(testQ[num_pred], self.vocab) 
             if self.log_predictions:
-                self.id_example = log_predictions_to_file(contex, self.indx2candid[test_preds[num_pred]], self.indx2candid[answer], profile="", id_example=self.id_example, incorrect_pred_path=self.incorrect_pred_path, correct_pred_path=self.correct_pred_path) 
+                try:
+                    self.id_example = log_predictions_to_file(contex, self.indx2candid[test_preds[num_pred]], self.indx2candid[answer], profile="", id_example=self.id_example, incorrect_pred_path=self.incorrect_pred_path, correct_pred_path=self.correct_pred_path)
+                except:
+                    pass
 
     def batch_predict(self,S,Q,n):
         """Predict answers over the passed data in batches.

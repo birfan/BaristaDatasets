@@ -14,6 +14,7 @@ import os
 import time
 
 if __name__ == '__main__':
+    model_name="Seq2Seq-extended-dict"
     parser = setup_args()
     parser.add_argument('-ds','--dataset',
                            default='barista-personalised', type=str,
@@ -35,7 +36,7 @@ if __name__ == '__main__':
     opt = parser.parse_args(print_args=False)
 
     # add additional model args
-    opt = update_opt(opt, "Seq2Seq", log_incorrect=True, log_correct=True)
+    opt = update_opt(opt, model_name, log_incorrect=True, log_correct=True)
     
     new_parser = setup_args(parser=parser)
     new_parser.set_params(
@@ -45,13 +46,14 @@ if __name__ == '__main__':
         dump_incorrect_predictions_path=opt['dump_incorrect_predictions_path'],
         dump_correct_predictions_path=opt['dump_correct_predictions_path'],
         datatype='oov',
-        numthreads=1,
-        batchsize=32,
+        numthreads=opt['numthreads'],
+        batchsize=opt['batchsize'], #used to be 32
         hide_labels=False,
         dict_lower=True,
-        dict_include_valid=False,
+        dict_include_valid=True,
+        dict_include_test=False,
         dict_tokenizer='split',
-        rank_candidates=True,
+        rank_candidates=False,
         metrics='accuracy,f1,hits@1,ppl',
         display_examples=False,
         #log_every_n_secs=2,
@@ -64,5 +66,5 @@ if __name__ == '__main__':
 
     test_time = time.time() - start_test
 
-    result_file = os.path.join("izoo:" + "Seq2Seq", opt['dataset'], opt['task_size'], "log") + "/results_test.csv"
+    result_file = os.path.join("izoo:" + model_name, opt['dataset'], opt['task_size'], "log") + "/results_test.csv"
     write_result_to_csv(report, result_file, opt['task_id'], opt['datapath'], OOV=True, test_time=test_time)

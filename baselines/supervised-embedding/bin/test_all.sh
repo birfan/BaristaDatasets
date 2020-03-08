@@ -5,17 +5,18 @@ source bin/utils.sh
 ds="$1"
 [ -z "$ds" ] && ds="barista-personalised"
 task_size="$2"
-order_info=$3
-ds_type="$4"
-ds_format="$5"
-response_type="$6"
+batch_size="$3"
+order_info=$4
+ds_type="$5"
+ds_format="$6"
+response_type="$7"
 
 [ -z "$task_size" ] && task_size="Task1k"
 
 if [[ $ds =~ "-order" ]]; then
   order_info=True
 elif [[ "$order_info" == "True" ]]; then
-  ds=$3"-order"
+  ds=$1"-order"
 fi
 
 ds_set=""
@@ -24,8 +25,13 @@ ds_set=""
 [ -n "$response_type" ] && ds_set=$ds_set"-"$response_type
 [ -n "$ds_type" ] && ds_set=$ds_set"-"$ds_type
 
-dir_name=/project/supervised-embedding/$ds/$ds_set
-[ -z "$ds_set" ] && dir_name=/project/supervised-embedding/$ds
+if [ -z "$batch_size" ]; then
+  dir_name=/project/supervised-embedding/$ds/$ds_set
+  batch_size=32
+else
+  dir_name=/project/supervised-embedding-bs$batch_size/$ds/$ds_set
+fi
+
 
 if [ "$ds" == "barista" ]; then
   start_task=1

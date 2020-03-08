@@ -48,17 +48,21 @@ def convert_BOW_sentence(bow, vocab_inverse):
                 s+= " "
     return s
 
-def log_predictions_to_file(context, predicted, correct_response, profile="", id_example=1, incorrect_pred_path=None, correct_pred_path=None):
+def log_predictions_to_file(context, predicted, correct_response, profile="", is_pos=True, id_example=1, incorrect_pred_path=None, correct_pred_path=None, vocab=None):
     """
     Log predictions to file (.json or .txt depending on dump_incorrect_predictions_path and dump_correct_predictions_path).
     Only logs for test or validation if it is set.
     """
     write_file = None
-    if predicted != correct_response and incorrect_pred_path is not None:
+    if not is_pos and incorrect_pred_path is not None:
         write_file = incorrect_pred_path
-    elif predicted == correct_response and correct_pred_path is not None:
+    elif is_pos and correct_pred_path is not None:
         write_file = correct_pred_path
    
+    context_text = convert_BOW_sentence(context, vocab)
+    predicted_text = convert_BOW_sentence(predicted, vocab)
+    correct_text = convert_BOW_sentence(correct_response, vocab)
+    
     if write_file is not None:
         if write_file.endswith(".json"):
             # write to json file. NOTE: FOR FASTER SPEED, PREFER EITHER TEXT, OR ONLY USE IN TEST
@@ -69,9 +73,9 @@ def log_predictions_to_file(context, predicted, correct_response, profile="", id
                 data_log = {}
             str_id = str(id_example)
             data_log[str_id] = {"profile": profile, 
-                                "context": context, 
-                                "predicted": predicted,
-                                "correct": correct_response
+                                "context": context_text, 
+                                "predicted": predicted_text,
+                                "correct": correct_text
                                }
                 
             with open(write_file, 'w') as json_file:
@@ -82,9 +86,9 @@ def log_predictions_to_file(context, predicted, correct_response, profile="", id
             with open(write_file, 'a') as f:
                 txt = str(id_example) + \
                       "\nprofile\n" + profile + \
-                      "\ncontext\n" + context +  \
-                      "\npredicted\n" + predicted + \
-                      "\ncorrect\n" + correct_response + "\n"
+                      "\ncontext\n" + context_text +  \
+                      "\npredicted\n" + predicted_text + \
+                      "\ncorrect\n" + correct_text + "\n"
                 f.write(txt)
         id_example += 1
     return id_example
@@ -113,10 +117,10 @@ def write_result_to_csv(report, result_file, task_id, datapath=None, OOV=False, 
     for key, value in report.items():
         if value:
             columns.append(key)
-            results.append("%.2f" % value)
+            results.append("%.3f" % value)
     if test_time:
         columns.append('test_time')
-        results.append("%.2f" % test_time)
+        results.append("%.3f" % test_time)
 
     with open(result_file, 'a') as outcsv:
         writer = csv.writer(outcsv)

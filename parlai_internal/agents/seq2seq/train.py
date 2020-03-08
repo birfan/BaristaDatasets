@@ -15,7 +15,7 @@ from parlai_internal.scripts.utils import update_opt
 import os
 
 if __name__ == '__main__':
-
+    model_name="Seq2Seq-extended-dict"
     parser = setup_args()
 
     # BI:additional arguments for barista datasets
@@ -42,7 +42,7 @@ if __name__ == '__main__':
     opt = parser.parse_args(print_args=False)
 
     # add additional model args
-    opt = update_opt(opt, "Seq2Seq", log_incorrect=False, log_correct=False)
+    opt = update_opt(opt, model_name, log_incorrect=False, log_correct=False)
 
     new_parser = setup_args(parser=parser)
     new_parser.set_params(
@@ -56,7 +56,8 @@ if __name__ == '__main__':
         numthreads=1,
         num_epochs=100,
         dict_lower=True,
-        dict_include_valid=False,
+        dict_include_valid=True,
+        dict_include_test=True,
         dict_maxexs=-1,
         dict_tokenizer='split',
         hiddensize=1024,

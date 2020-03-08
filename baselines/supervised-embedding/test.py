@@ -46,9 +46,18 @@ def evaluate(test_tensor, candidates_tensor, sess, model,
                        model.neg_response_batch: [row[1]]}
         )
         test_score = test_score[0]
-        is_pos, id_example = evaluate_one_row(candidates_tensor, true_context, sess, model, test_score, row[1], 
-                                              vocab_inverse, id_example=id_example,
-                                              incorrect_pred_path=incorrect_pred_path, correct_pred_path=correct_pred_path)
+        is_pos, predicted = evaluate_one_row(candidates_tensor, true_context, sess, model, test_score, row[1])
+
+        if vocab_inverse:
+            try:
+                id_example = log_predictions_to_file(row[0], predicted,
+                                                     row[1], profile="", is_pos=is_pos,
+                                                     id_example=id_example, 
+                                                     incorrect_pred_path=incorrect_pred_path, 
+                                                     correct_pred_path=correct_pred_path, vocab=vocab_inverse)
+            except:
+                pass
+
         if is_pos:
             pos += 1
         else:
@@ -56,8 +65,7 @@ def evaluate(test_tensor, candidates_tensor, sess, model,
     return (pos, neg, pos / (pos+neg))
 
 
-def evaluate_one_row(candidates_tensor, true_context, sess, model, test_score, true_response, 
-                     vocab_inverse=None, id_example=1, incorrect_pred_path=None, correct_pred_path=None):
+def evaluate_one_row(candidates_tensor, true_context, sess, model, test_score, true_response):
     for batch in batch_iter(candidates_tensor, 512):
         candidate_responses = batch[:, 0, :]
         context_batch = np.repeat(true_context, candidate_responses.shape[0], axis=0)
@@ -73,14 +81,8 @@ def evaluate_one_row(candidates_tensor, true_context, sess, model, test_score, t
                 print(score, ind, scores[ind])
                 raise ValueError
             if score >= test_score and not np.array_equal(candidate_responses[ind], true_response):
-                if vocab_inverse:
-                    id_example = log_predictions_to_file(convert_BOW_sentence(true_context[0], vocab_inverse), convert_BOW_sentence(candidate_responses[ind], vocab_inverse), 
-                                                     convert_BOW_sentence(true_response, vocab_inverse), profile="", 
-                                                     id_example=id_example, 
-                                                     incorrect_pred_path=incorrect_pred_path, correct_pred_path=correct_pred_path)
-
-                return False, id_example
-    return True, id_example
+                return False, candidate_responses[ind]
+    return True, true_response
 
 
 def _parse_args():
@@ -90,7 +92,7 @@ def _parse_args():
     parser.add_argument('--vocab', default='data/vocab.tsv')
     parser.add_argument('--candidates', default='data/candidates.tsv')
     parser.add_argument('--checkpoint_dir')
-    parser.add_argument('--log_dir', defailt='')
+    parser.add_argument('--log_dir', default='')
     parser.add_argument('--emb_dim', type=int, default=32)
     parser.add_argument('--OOV', action='store_true',
                         help='OOV test set.')
@@ -111,7 +113,7 @@ if __name__ == '__main__':
     candidates_tensor = make_tensor(args.candidates, vocab)
     model = Model(len(vocab), args.emb_dim)
     if args.log_predictions:
-        task_log = args.log_dir + "/" + "task" + str(task_id) + "/"
+        task_log = args.log_dir + "/" + "task" + str(args.task_id) + "/"
         if args.dupi:
             dupi = task_log + args.dupi
         if args.dupc:

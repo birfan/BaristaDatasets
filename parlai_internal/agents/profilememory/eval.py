@@ -12,8 +12,10 @@ from parlai.scripts.eval_model import eval_model, setup_args
 from parlai_internal.scripts.utils import write_result_to_csv, update_opt
 import os
 import time
+import torch
 
 if __name__ == '__main__':
+    model_name="ProfileMemory-extended-dict"
     parser = setup_args()
     parser.add_argument('-ds','--dataset',
                            default='barista-personalised', type=str,
@@ -35,7 +37,7 @@ if __name__ == '__main__':
     opt = parser.parse_args(print_args=False)
 
     # add additional model args
-    opt = update_opt(opt, "ProfileMemory", log_incorrect=True, log_correct=True)
+    opt = update_opt(opt, model_name, log_incorrect=True, log_correct=True)
     
     new_parser = setup_args(parser=parser)
     new_parser.set_params(
@@ -46,13 +48,14 @@ if __name__ == '__main__':
         dump_correct_predictions_path=opt['dump_correct_predictions_path'],
         dict_file=opt['model_file']+".dict",
         datatype='test',
-        numthreads=1,
-        batchsize=128,
+        numthreads=opt['numthreads'],
+        batchsize=opt['batchsize'], #used to be 128
         hide_labels=False,
         dict_lower=True,
-        dict_include_valid=False,
+        dict_include_valid=True,
+        dict_include_test=True,
         dict_tokenizer='split',
-        rank_candidates=True,
+        rank_candidates=False,
         metrics='accuracy,f1,hits@1,ppl',
         display_examples=False,
         use_persona=True,
@@ -71,6 +74,6 @@ if __name__ == '__main__':
 
     test_time = time.time() - start_test
 
-    result_file = os.path.join("izoo:" + "ProfileMemory", opt['dataset'], opt['task_size'], "log") + "/results_test.csv"
+    result_file = os.path.join("izoo:" + model_name, opt['dataset'], opt['task_size'], "log") + "/results_test.csv"
     write_result_to_csv(report, result_file, opt['task_id'], opt['datapath'], test_time=test_time)
 

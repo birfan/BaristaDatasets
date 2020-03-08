@@ -15,38 +15,44 @@ def log_predictions_to_file(context, predicted, correct_response, profile="", id
     Only logs for test or validation if it is set.
     """
     write_file = None
-    if predicted != correct_response and incorrect_pred_path is not None:
+    if predicted.lower() != correct_response.lower() and incorrect_pred_path is not None:
         write_file = incorrect_pred_path
-    elif predicted == correct_response and correct_pred_path is not None:
+    elif predicted.lower() == correct_response.lower() and correct_pred_path is not None:
         write_file = correct_pred_path
    
     if write_file is not None:
         if write_file.endswith(".json"):
             # write to json file. NOTE: FOR FASTER SPEED, PREFER EITHER TEXT, OR ONLY USE IN TEST
-            if os.path.isfile(write_file):
-                with open(write_file) as f:
-                    data_log = json.load(f)
-            else:
-                data_log = {}
-            str_id = str(id_example)
-            data_log[str_id] = {"profile": profile, 
+            try:
+                if os.path.isfile(write_file):
+                    with open(write_file) as f:
+                        data_log = json.load(f)
+                else:
+                    data_log = {}
+                str_id = str(id_example)
+                data_log[str_id] = {"profile": profile, 
                                 "context": context, 
                                 "predicted": predicted,
                                 "correct": correct_response
                                }
                 
-            with open(write_file, 'w') as json_file:
-                json.dump(data_log, json_file, indent=4, sort_keys=False)
+                with open(write_file, 'w') as json_file:
+                    json.dump(data_log, json_file, indent=4, sort_keys=False)
+            except:
+                pass
 
         else:
-            # write to text file                    
-            with open(write_file, 'a') as f:
-                txt = str(id_example) + \
-                      "\nprofile\n" + profile + \
-                      "\ncontext\n" + context +  \
-                      "\npredicted\n" + predicted + \
-                      "\ncorrect\n" + correct_response + "\n"
-                f.write(txt)
+            try:
+                # write to text file                    
+                with open(write_file, 'a') as f:
+                    txt = str(id_example) + \
+                          "\nprofile\n" + profile + \
+                          "\ncontext\n" + context +  \
+                          "\npredicted\n" + predicted + \
+                          "\ncorrect\n" + correct_response + "\n"
+                    f.write(txt)
+            except:
+                pass
         id_example += 1
     return id_example
  
@@ -102,19 +108,23 @@ def update_opt(opt, model_name, log_incorrect=False, log_correct=False):
 
     opt['model_file'] = 'izoo:' + os.path.join(model_name, opt['dataset'], opt['task_size'], hops_dir, 'checkpoints', 'task'+str(opt['task_id'])) + '/model'
 
-    task_log_folder = opt['model_file'].replace("checkpoints", "log").replace("model", "")
+    task_log_folder = modelzoo_path(opt['datapath'], opt['model_file'].replace("checkpoints", "log").replace("model",""))
     if not os.path.exists(task_log_folder):
         os.makedirs(task_log_folder)
 
     if log_incorrect:
         opt['log_predictions']=True
         opt['dump_incorrect_predictions_path'] = task_log_folder + "incorrect_predictions-" + opt['datatype'] + ".json"
+        if "KVMemNN" in model_name:
+            opt['dump_incorrect_predictions_path'] = opt['dump_incorrect_predictions_path'].replace(".json", ".txt")
     else:
         opt['dump_incorrect_predictions_path'] = None
 
     if log_correct:
        opt['log_predictions']=True
        opt['dump_correct_predictions_path'] = task_log_folder + "correct_predictions-" + opt['datatype'] + ".json"
+       if "KVMemNN" in model_name:
+           opt['dump_correct_predictions_path'] = opt['dump_correct_predictions_path'].replace(".json", ".txt")
     else:
        opt['dump_correct_predictions_path'] = None
 

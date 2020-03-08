@@ -14,6 +14,7 @@ import os
 import time
 
 if __name__ == '__main__':
+    model_name="KVMemNN-extended-dict"
     parser = setup_args()
     parser.add_argument('-ds','--dataset',
                            default='barista-personalised', type=str,
@@ -35,7 +36,7 @@ if __name__ == '__main__':
     opt = parser.parse_args(print_args=False)
 
     # add additional model args
-    opt = update_opt(opt, "KVMemNN", log_incorrect=True, log_correct=True)
+    opt = update_opt(opt, model_name, log_incorrect=True, log_correct=True)
     
     new_parser = setup_args(parser=parser)
     new_parser.set_params(
@@ -45,11 +46,12 @@ if __name__ == '__main__':
         dump_incorrect_predictions_path=opt['dump_incorrect_predictions_path'],
         dump_correct_predictions_path=opt['dump_correct_predictions_path'],
         datatype='test',
-        numthreads=1,
+        numthreads=opt['numthreads'],
         batchsize=1,
         hide_labels=False,
         dict_lower=True,
-        dict_include_valid=False,
+        dict_include_valid=True,
+        dict_include_test=True,
         dict_tokenizer='split',
         rank_candidates=True,
         metrics='accuracy,f1,hits@1',
@@ -63,5 +65,5 @@ if __name__ == '__main__':
 
     test_time = time.time() - start_test
 
-    result_file = os.path.join("izoo:" + "KVMemNN", opt['dataset'], opt['task_size'], "hop"+str(opt['hops']), "log") + "/results_test.csv"
+    result_file = os.path.join("izoo:" + model_name, opt['dataset'], opt['task_size'], "hop"+str(opt['hops']), "log") + "/results_test.csv"
     write_result_to_csv(report, result_file, opt['task_id'], opt['datapath'], test_time=test_time)

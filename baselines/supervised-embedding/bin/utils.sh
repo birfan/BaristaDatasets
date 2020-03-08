@@ -24,10 +24,11 @@ function mkdirs {
 function train {
   dir_name=$1
   task="task"$2
+  batchsize=$3
 
   python3.6 train.py --train $dir_name/data/train-$task.tsv --dev $dir_name/data/dev-$task.tsv \
   --vocab $dir_name/data/vocab-$task.tsv --save_dir $dir_name/checkpoints/$task/model \
-  --candidates $dir_name/data/candidates.tsv --task $task
+  --candidates $dir_name/data/candidates.tsv --task $task --batchsize $batchsize
 }
 
 function parse_candidates {
