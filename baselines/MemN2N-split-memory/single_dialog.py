@@ -267,8 +267,14 @@ class chatBot(object):
         tf.summary.scalar("accuracy", acc)
         merged_summary = tf.summary.merge_all()
                 
-        # Training loop
-        for t in range(1, self.epochs+1):
+        epoch_start = 1
+        ckpt = tf.train.get_checkpoint_state(self.model_dir)
+        if ckpt and ckpt.model_checkpoint_path:
+            self.saver.restore(self.sess, ckpt.model_checkpoint_path)
+            epoch_start = int(os.path.basename(ckpt.model_checkpoint_path).split('-')[1]) + 1
+            print("starting a checkpoint from epoch:", epoch_start)
+
+        for t in range(epoch_start, self.epochs+1):   
             print('Epoch', t)
             np.random.shuffle(batches)
             total_cost = 0.0

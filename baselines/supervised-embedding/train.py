@@ -107,11 +107,17 @@ def main(train_tensor, dev_tensor, candidates_tensor, model, config, task_name):
     print("vocab size:", candidates_tensor.shape[2])
     print("Training Size", train_tensor.shape[0])
     print("Validation Size", dev_tensor.shape[0])
-    
+    epoch_start = 1
+
     with tf.Session(config=config) as sess:
         sess.run(tf.global_variables_initializer())
+        ckpt = tf.train.get_checkpoint_state(model_dir)
+        if ckpt and ckpt.model_checkpoint_path:
+            saver.restore(sess, ckpt.model_checkpoint_path)
+            epoch_start = int(os.path.basename(ckpt.model_checkpoint_path).split('-')[1]) + 1
+            print("starting a checkpoint from epoch:", epoch_start)
 
-        for epoch in range(1, epochs+1):
+        for epoch in range(epoch_start, epochs+1):
             avg_loss = _train(train_tensor, batch_size, negative_cand, model, optimizer, sess)
             # TODO: Refine dev loss calculation
             avg_dev_loss = _forward_all(dev_tensor, model, sess)
