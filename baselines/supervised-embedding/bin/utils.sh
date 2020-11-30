@@ -102,6 +102,6 @@ function parse_dialogs {
     fi
   done
   eval $shuf_cmd -n 500 $dir_name/data/dev-$task.tsv > $dir_name/data/dev-$task-500.tsv
-  cat $dir_name/data/train-$task.tsv $dir_name/data/dev-$task.tsv $dir_name/data/test-$task.tsv | python3.6 build_vocabulary.py > $dir_name/data/vocab-$task.tsv
+  cat $dir_name/data/train-$task.tsv $dir_name/data/dev-$task.tsv $dir_name/data/test-$task.tsv $dir_name/data/test-OOV-$task.tsv | python3.6 build_vocabulary.py > $dir_name/data/vocab-$task.tsv
 }
 

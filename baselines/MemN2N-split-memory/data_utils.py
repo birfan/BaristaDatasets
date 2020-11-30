@@ -202,7 +202,9 @@ def vectorize_data(data, word_idx, sentence_size,
     S = [] # story
     Q = [] # query
     A = [] # answer
-    data.sort(key=lambda x:len(x[0]),reverse=True)
+
+    # data.sort(key=lambda x:len(x[0]),reverse=True) # this is from the original code - and it is incorrect! It causes memory_size=1 (so only last memory is taken into account), because it doesn't reverse the data according to Story, but it reverses according to Profile! 
+    data.sort(key=lambda x:len(x[1]),reverse=True) # sort according to Story
     for i, (profile, story, query, answer) in enumerate(data):
         if i%batch_size==0:
             memory_size=max(1,min(max_memory_size,len(story)))
@@ -309,7 +311,10 @@ def write_result_to_csv(report, result_file, task_id, datapath=None, OOV=False, 
     for key, value in report.items():
         if value:
             columns.append(key)
-            results.append("%.2f" % value)
+            if key == "accuracy":
+                results.append("%.2f" % (float(value)*100))
+            else:
+                results.append("%.2f" % value)
     if test_time:
         columns.append('test_time')
         results.append("%.2f" % test_time)

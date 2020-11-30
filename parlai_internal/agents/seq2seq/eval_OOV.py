@@ -14,6 +14,7 @@ import os
 import time
 
 if __name__ == '__main__':
+    #model_name="Seq2Seq-extended-dict-glove-no-history"
     model_name="Seq2Seq-extended-dict"
     parser = setup_args()
     parser.add_argument('-ds','--dataset',
@@ -56,6 +57,7 @@ if __name__ == '__main__':
         rank_candidates=False,
         metrics='accuracy,f1,hits@1,ppl',
         display_examples=False,
+        embedding_type='random',
         #log_every_n_secs=2,
     )
     opt = new_parser.parse_args()

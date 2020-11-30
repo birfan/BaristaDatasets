@@ -27,8 +27,10 @@ function train {
     ds_name=$2"-order"
   fi
 
+  results_dir="/project/MemN2N/"
+
   python3.6 single_dialog.py --task_id=$task --train=True --hops=$hops --ds_name=$ds_name --task_size=$task_size \
---ds_type=$ds_t --order_info=$order_info --ds_format=$ds_format --response_type=$response_type --results_dir="/project/MemN2N/"
+--ds_type=$ds_t --order_info=$order_info --ds_format=$ds_format --response_type=$response_type --results_dir=$results_dir
 }
 
 function evaluate {
@@ -68,11 +70,11 @@ function evaluate {
     dupc="correct_predictions-test.json"
   fi
 
+  results_dir="/project/MemN2N/"
+
   python3.6 single_dialog.py --task_id=$task --OOV=$OOV --train=False --hops=$hops --ds_name=$ds_name --task_size=$task_size \
 --ds_type=$ds_t --order_info=$order_info --ds_format=$ds_format --response_type=$response_type \
---log_predictions=True --dupi=$dupi --dupc=$dupc --results_dir="/project/MemN2N/"
-
+--log_predictions=True --dupi=$dupi --dupc=$dupc --results_dir=$results_dir
 
 }
-
 

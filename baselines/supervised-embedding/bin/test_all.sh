@@ -26,11 +26,10 @@ ds_set=""
 [ -n "$ds_type" ] && ds_set=$ds_set"-"$ds_type
 
 if [ -z "$batch_size" ]; then
-  dir_name=/project/supervised-embedding/$ds/$ds_set
-  batch_size=32
-else
-  dir_name=/project/supervised-embedding-bs$batch_size/$ds/$ds_set
+  batch_size=128
 fi
+
+dir_name=/project/supervised-embedding-with-oov-dict/$ds/$ds_set
 
 
 if [ "$ds" == "barista" ]; then

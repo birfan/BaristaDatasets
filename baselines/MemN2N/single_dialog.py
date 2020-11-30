@@ -216,7 +216,7 @@ class chatBot(object):
         self.memory_size = min(self.memory_size, max_story_size)
         self.vocab_size = len(self.word_idx) + 1  # +1 for nil word
         self.sentence_size = max(query_size, self.sentence_size)  # for the position
-        
+
         # Print parameters
         print("vocab size:", self.vocab_size)
         print("Longest sentence length", self.sentence_size)
@@ -335,7 +335,6 @@ class chatBot(object):
             self.saver.restore(self.sess, ckpt.model_checkpoint_path)
         else:
             print("...no checkpoint found...")
-       
         testS, testQ, testA = vectorize_data(
             self.testData, self.word_idx, self.sentence_size, 
             self.batch_size, self.n_cand, self.memory_size)
@@ -348,7 +347,6 @@ class chatBot(object):
         print("Testing Accuracy:", test_acc)
 
         # # Un-comment below to view correct responses and predictions 
-        # print(testA)
         # for pred in test_preds:
         #    print(pred, self.indx2candid[pred])
 

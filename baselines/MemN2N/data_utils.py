@@ -150,6 +150,7 @@ def vectorize_data(data, word_idx, sentence_size,
     S = []
     Q = []
     A = []
+
     data.sort(key=lambda x:len(x[0]),reverse=True)
     for i, (story, query, answer) in enumerate(data):
         if i%batch_size==0:
@@ -252,7 +253,10 @@ def write_result_to_csv(report, result_file, task_id, datapath=None, OOV=False, 
     for key, value in report.items():
         if value:
             columns.append(key)
-            results.append("%.2f" % value)
+            if key == "accuracy":
+                results.append("%.2f" % (float(value)*100))
+            else:
+                results.append("%.2f" % value)
     if test_time:
         columns.append('test_time')
         results.append("%.2f" % test_time)

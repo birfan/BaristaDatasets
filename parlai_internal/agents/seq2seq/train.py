@@ -15,6 +15,9 @@ from parlai_internal.scripts.utils import update_opt
 import os
 
 if __name__ == '__main__':
+    #model_name="Seq2Seq-extended-dict-glove-no-history"
+    #model_name="Seq2Seq-extended-dict-fasttext"
+    #model_name="Seq2Seq-extended-dict-no-history"
     model_name="Seq2Seq-extended-dict"
     parser = setup_args()
 
@@ -70,7 +73,7 @@ if __name__ == '__main__':
         gradient_clip=0.1,
         lookuptable='enc_dec',
         optimizer='sgd',
-        embedding_type='random',
+        embedding_type='random', #'glove', 'random', 'fasttext'
         momentum=0.9,
         bidirectional=False,
         context_length=-1,
@@ -78,9 +81,9 @@ if __name__ == '__main__':
         #validation_every_n_secs=60,
         validation_metric='ppl',
         validation_metric_mode='min',
-        validation_patience=12,
+        validation_patience=-1, #was 12
         log_every_n_secs=60,
-        tblog=True,
+        tblog=False,
         display_examples=False,
     )
     opt = new_parser.parse_args()

@@ -161,9 +161,10 @@ class MemN2NDialog(object):
                 # Calculate probabilities
                 probs = tf.nn.softmax(dotted)
                 
-                # # Uncomment below to view attention values over memories during inference:
-                # probs = tf.Print(
-                #     probs, ['memory', count, tf.shape(probs), probs], summarize=200)
+                # # Uncomment below to view attention values over memories during inference: 
+                # (use summarize=-1 instead for listing all entries)
+                probs = tf.Print(
+                     probs, ['memory', count, tf.shape(probs), probs], summarize=200)
 
                 probs_temp = tf.transpose(tf.expand_dims(probs, -1), [0, 2, 1])
                 c_temp = tf.transpose(m, [0, 2, 1])

@@ -38,7 +38,8 @@ def _parse_args():
     parser.add_argument('--learning_rate', type=float, default=0.01)
     parser.add_argument('--task', default="task1")
     parser.add_argument('--batchsize', type=int, default=32)
-    
+    parser.add_argument('--num_epochs', type=int, default=25)
+
     args = parser.parse_args()
 
     return args
@@ -95,12 +96,12 @@ def main(train_tensor, dev_tensor, candidates_tensor, model, config, task_name):
     config.gpu_options.allow_growth = True
     
 
-    train_writer = tf.summary.FileWriter(model_dir + "/training", model.loss.graph)
-    val_writer = tf.summary.FileWriter(model_dir + "/validation", model.loss.graph)
+    #train_writer = tf.summary.FileWriter(model_dir + "/training", model.loss.graph)
+    #val_writer = tf.summary.FileWriter(model_dir + "/validation", model.loss.graph)
     
-    acc = tf.Variable(0.0)
-    tf.summary.scalar("accuracy", acc)
-    merged_summary = tf.summary.merge_all()
+    #acc = tf.Variable(0.0)
+    #tf.summary.scalar("accuracy", acc)
+    #merged_summary = tf.summary.merge_all()
 
     print("Started Task:", task_name.replace("task",""))
     print("Candidate Size", candidates_tensor.shape[0])
@@ -138,14 +139,14 @@ def main(train_tensor, dev_tensor, candidates_tensor, model, config, task_name):
                 # Write summary
     
                 # for training
-                summary = sess.run(merged_summary, {acc: train_acc})
-                train_writer.add_summary(summary, epoch)
-                train_writer.flush()
+                #summary = sess.run(merged_summary, {acc: train_acc})
+                #train_writer.add_summary(summary, epoch)
+                #train_writer.flush()
             
                 # for validation
-                summary = sess.run(merged_summary, {acc: val_acc})
-                val_writer.add_summary(summary, epoch)
-                val_writer.flush()
+                #summary = sess.run(merged_summary, {acc: val_acc})
+                #val_writer.add_summary(summary, epoch)
+                #val_writer.flush()
             
                 # logger.info('Evaluation: {}'.format(dev_eval))
                 if val_acc > prev_best_accuracy:
@@ -167,7 +168,7 @@ if __name__ == '__main__':
     train_tensor = make_tensor(args.train, vocab)
     dev_tensor = make_tensor(args.dev, vocab)
     candidates_tensor = make_tensor(args.candidates, vocab)
-    config = {'epochs': 25, #epochs was 15 - then I made 100 but it was too long
+    config = {'epochs': args.num_epochs, #25, epochs was 15 - then I made 100 but it was too long
               'negative_cand': args.negative_cand, 'save_dir': args.save_dir,
               'lr': args.learning_rate, 'evaluation_interval': 1} #evaluation_interval used to be 2
     if args.batchsize:

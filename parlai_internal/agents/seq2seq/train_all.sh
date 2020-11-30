@@ -14,6 +14,7 @@ else
   end_task=8
 fi
 
+#log_folder=/project/Seq2Seq-extended-dict-glove-no-history/$ds/$task_size/log
 log_folder=/project/Seq2Seq-extended-dict/$ds/$task_size/log
 
 if [[ ! -d $log_folder ]]; then

@@ -87,7 +87,10 @@ def write_result_to_csv(report, result_file, task_id, datapath=None, OOV=False, 
     for key, value in report.items():
         if value:
             columns.append(key)
-            results.append("%.2f" % value)
+            if key == "accuracy":
+                results.append("%.2f" % (float(value)*100))
+            else:
+                results.append("%.2f" % value)
     if test_time:
         columns.append('test_time')
         results.append("%.2f" % test_time)
@@ -114,17 +117,19 @@ def update_opt(opt, model_name, log_incorrect=False, log_correct=False):
 
     if log_incorrect:
         opt['log_predictions']=True
-        opt['dump_incorrect_predictions_path'] = task_log_folder + "incorrect_predictions-" + opt['datatype'] + ".json"
-        if "KVMemNN" in model_name:
-            opt['dump_incorrect_predictions_path'] = opt['dump_incorrect_predictions_path'].replace(".json", ".txt")
+        #opt['dump_incorrect_predictions_path'] = task_log_folder + "incorrect_predictions-" + opt['datatype'] + ".json"
+        opt['dump_incorrect_predictions_path'] = task_log_folder + "incorrect_predictions-" + opt['datatype'] + ".txt"
+        #if "KVMemNN" in model_name:
+        #    opt['dump_incorrect_predictions_path'] = opt['dump_incorrect_predictions_path'].replace(".json", ".txt")
     else:
         opt['dump_incorrect_predictions_path'] = None
 
     if log_correct:
        opt['log_predictions']=True
-       opt['dump_correct_predictions_path'] = task_log_folder + "correct_predictions-" + opt['datatype'] + ".json"
-       if "KVMemNN" in model_name:
-           opt['dump_correct_predictions_path'] = opt['dump_correct_predictions_path'].replace(".json", ".txt")
+       #opt['dump_correct_predictions_path'] = task_log_folder + "correct_predictions-" + opt['datatype'] + ".json"
+       opt['dump_correct_predictions_path'] = task_log_folder + "correct_predictions-" + opt['datatype'] + ".txt"
+       #if "KVMemNN" in model_name:
+       #    opt['dump_correct_predictions_path'] = opt['dump_correct_predictions_path'].replace(".json", ".txt")
     else:
        opt['dump_correct_predictions_path'] = None
 

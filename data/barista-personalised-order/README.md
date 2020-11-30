@@ -1,16 +1,16 @@
-# Personalised Barista Dialogue Tasks Dataset
+# Personalised Barista with Preferences Information Dataset
 
-This directory contains a set of 9 tasks for evaluating end-to-end dialogue systems for personalisation in goal-oriented long-term interactions, which is an extension of the non-personalised barista-dataset (of task 7 - ordering drink and extras with changes and greetings). The scenario is based on ordering a drink and a snack (extra) at a coffee shop from the barista. The barista recognises the customers and recalls the previous orders. The dataset has been described in the paper ["Paper Title"] (paper link) by Bahar Irfan, Michael Garcia Ortiz and Tony Belpaeme.
+This directory contains a set of 9 tasks for evaluating end-to-end dialogue systems for personalisation in goal-oriented long-term interactions, which is an extension of the non-personalised barista-dataset (of task 7 - ordering drink and extras with changes and greetings). The scenario is based on ordering a drink and a snack (extra) at a coffee shop from the barista. The barista recognises the customers and recalls the previous orders. The dataset has been described in the paper "Coffee with a Hint of Data: Towards Using Data-Driven Approaches in Personalised Long-Term Interactions" (under review at the Frontiers in Robotics and AI journal) by Bahar Irfan and Tony Belpaeme.
 
 
 ## Data
 
-The format of the dataset is either *FB* in FbDialogTeacher format or *PAI* in ParlAIDialogTeacher format. *AllLabels* format contains multi-labels for *bot\_utterances* that contains all the correct responses from the bot for the evaluation of *test* (test set), *dev* (development set), *test-OOV* (out of vocabulary set - includes names and drink, size and snack choices which are not present in training, test or development sets), and single label for *train* (training set). *SingleLabel* contains a single response for all of the sets. *SecondInteraction* folder contains dialogues that focus on first, second and third interaction scenarios. The number of dialogues depends on the set. The details are given in Tasks section.
+The format of the dataset is in *FB* in FbDialogTeacher format for ParlAI. There tasks are under folders *train* (train set), *test* (test set), *dev* (development set), *test-OOV* (out of vocabulary set - includes names and drink, size and snack choices which are not present in training, test or development sets). *SecondInteraction* folder contains dialogues that focus on first, second and third interaction scenarios. *Task1k* contains 1000 dialogues and *Task10k* contains 10000 dialogues.
 
 The data is structured as follows:
 
 ```
-1 recognised_isCusKnown recognised_cusID recognised_cusName 
+1 recognised_isCusKnown , recognised_cusID , recognised_cusName , preferred_drink_size , preferred_drink , preferred_extra
 2 user_utterance [tab] bot_utterances
 ...
 ID It is David Boreanaz.	You can pick up your order at the next counter, David.
@@ -187,8 +187,8 @@ This task is the combination of tasks 2, 3 and 4.
 
 ## License
 
-This dataset is released under Creative Commons Attribution 3.0 Unported license. A copy of this license is included with the data.
+This dataset is released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. A copy of this license is included with the data.
 
 ## Contact
 
-For more details on the dataset and baselines, see the paper "Paper Title" by Bahar Irfan, Michael Garcia Ortiz and Tony Belpaeme, available at (paper link). For any information, contact Bahar Irfan: bahar.irfan (at) plymouth (dot) ac (dot) uk.
+For more details on the dataset and baselines, see the paper "Coffee with a Hint of Data: Towards Using Data-Driven Approaches in Personalised Long-Term Interactions" by Bahar Irfan and Tony Belpaeme, under review at the Frontiers in Robotics and AI journal. For any information, contact Bahar Irfan: bahar.irfan (at) plymouth (dot) ac (dot) uk.

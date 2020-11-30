@@ -902,6 +902,9 @@ class Seq2seqAgent(Agent):
             curr_pred = curr['text']
             if labels is not None:
                 self.answers[valid_inds[i]] = labels[i]
+            #BI: this is added to use correct labels even in validation and test!
+            #elif eval_labels is not None:
+            #    self.answers[valid_inds[i]] = eval_labels[i]
             else:
                 self.answers[valid_inds[i]] = curr_pred
 
@@ -1020,12 +1023,12 @@ class PersonachatSeqseqAgentBasic(Seq2seqAgent):
                         attribs = t.split(' , ')
                         for attrib in attribs:
                             self.persona_given += attrib +'\n'
-            else:
-                if self.usepreviousdialog:
-                    self.prev_dialog += self.last_obs if self.last_obs == '' else self.last_obs + '\n'
-                    if self.answers[self.batch_idx] is not None and self.prev_dialog != '':
-                        self.prev_dialog += self.answers[self.batch_idx] + '\n'
-                    self.answers[self.batch_idx] = None
+            #else:
+            if self.usepreviousdialog:
+                self.prev_dialog += self.last_obs if self.last_obs == '' else self.last_obs + '\n'
+                if self.answers[self.batch_idx] is not None and self.prev_dialog != '':
+                    self.prev_dialog += self.answers[self.batch_idx] + '\n'
+                self.answers[self.batch_idx] = None
             observation['text'] = text_split[-1]
             self.last_obs = observation['text']
             self.episode_done = observation['episode_done']
@@ -1620,12 +1623,12 @@ class PersonachatSeqseqAgentSplit(Agent):
                         attribs = t.split(' , ')
                         for attrib in attribs:
                             self.persona_given += attrib +'\n'
-            else:
-                if self.usepreviousdialog:
-                    self.prev_dialog += self.last_obs if self.last_obs == '' else self.last_obs + '\n'
-                    if self.answers[self.batch_idx] is not None and self.prev_dialog != '':
-                        self.prev_dialog += self.answers[self.batch_idx] + '\n'
-                    self.answers[self.batch_idx] = None
+            # else:
+            if self.usepreviousdialog:
+                self.prev_dialog += self.last_obs if self.last_obs == '' else self.last_obs + '\n'
+                if self.answers[self.batch_idx] is not None and self.prev_dialog != '':
+                    self.prev_dialog += self.answers[self.batch_idx] + '\n'
+                self.answers[self.batch_idx] = None
             observation.force_set('text', text_split[-1])
             self.last_obs = observation['text']
             self.episode_done = observation['episode_done']
@@ -2330,6 +2333,9 @@ class PersonachatSeqseqAgentSplit(Agent):
             curr_pred = curr['text']
             if labels is not None:
                 self.answers[valid_inds[i]] = labels[i]
+            #BI: this is added to use correct labels even in validation and test!
+            #elif eval_labels is not None:
+            #    self.answers[valid_inds[i]] = eval_labels[i]
             else:
                 self.answers[valid_inds[i]] = curr_pred
 

@@ -29,14 +29,13 @@ if __name__ == '__main__':
                            'choices: Task100, Task1k, Task10k for barista.')
     parser.add_argument('-tid', '--task-id', type=int, default=1,
                            help='Task number, default is 1. For personalised sets, 0-8, for barista 1-7.')
-    parser.add_argument('-ntspec', '--numthreadsspec', type=int, default=20,
-                           help='Number of threads specified from command line.')
 
     parser.set_defaults(
         task='internal:barista-personalised:Task1k:1',
         model='parlai_internal.agents.kvmemnn.kvmemnn:KvmemnnAgent',
         model_file='izoo:KVMemNN/model',
         datatype='train',
+        num_epochs=25,
     )
 
     opt = parser.parse_args(print_args=False)
@@ -53,8 +52,8 @@ if __name__ == '__main__':
         dump_correct_predictions_path=opt['dump_correct_predictions_path'],
         datatype='train',
         batchsize=1,
-        numthreads=opt['numthreadsspec'],
-        num_epochs=25,
+        numthreads=opt['numthreads'],
+        num_epochs=opt['num_epochs'],
         dict_lower=True,
         dict_include_valid=True,
         dict_include_test=True,
@@ -77,6 +76,8 @@ if __name__ == '__main__':
         tblog=True,
         calculate_fix_cands=True,
         display_examples=False,
+        save_after_valid=True,
+        load_from_checkpoint=True,
     )
     opt = new_parser.parse_args()
 
