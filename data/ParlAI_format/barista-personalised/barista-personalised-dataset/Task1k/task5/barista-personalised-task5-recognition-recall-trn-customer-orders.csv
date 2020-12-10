@@ -1,0 +1,1001 @@
+IN,CusID,CusName,Drink,Size,Extra
+1,1,Sandra Oh,a breakfast tea,small,a pain au chocolat
+2,2,Ryan Gosling,a salted caramel hot chocolate,large,
+3,3,Kaley Cuoco,an espresso con panna,medium,
+4,4,Leonardo DiCaprio,an espresso con panna,medium,a chocolate chip muffin
+5,5,Lena Dunham,a caramel macchiato,large,
+6,6,Melissa Joan Hart,a cordusio,small,a chocolate chip cookie
+7,7,Michael Emerson,an iced hot chocolate,large,a veggie tortilla wrap
+8,8,Taylor Schilling,a black tea,medium,
+9,9,Alyson Hannigan,an espresso macchiato,small,
+10,10,Hugh Laurie,a latte,small,a slice of banana bread
+11,11,Simon Baker,a black tea,small,a pain au chocolat
+12,1,Sandra Oh,an americano,large,
+13,12,Kerry Washington,a black tea,large,a chocolate chip cookie
+14,13,Josh Radnor,a salted caramel hot chocolate,medium,a pain aux raisins
+15,14,John Noble,a flat white,medium,
+16,15,Angelina Jolie,an americano,large,a blueberry oatmeal
+17,16,Troian Bellisario,a latte,medium,
+18,17,Roseanne Barr,a black tea,small,a veggie tortilla wrap
+19,18,Kevin Bacon,an americano,medium,a blueberry muffin
+20,19,David Boreanaz,an iced hot chocolate,large,a carrot cake
+21,20,Joel McHale,an Earl Grey,medium,
+22,21,Melissa McBride,an espresso,medium,a plain bagel
+23,22,Jesse Tyler Ferguson,an iced hot chocolate,large,a breakfast tortilla wrap
+24,22,Jesse Tyler Ferguson,an iced hot chocolate,large,a breakfast tortilla wrap
+25,23,Zac Efron,an espresso con panna,large,
+26,24,Rachel Bilson,a latte,small,
+27,25,Jeffrey Donovan,a breakfast tea,medium,a chocolate caramel shortbread
+28,26,Jessica Capshaw,an Earl Grey,small,a croissant
+29,27,Robert Pattinson,an espresso con panna,medium,
+30,28,Jonny Lee Miller,a latte,large,a pain au chocolat
+31,29,Miles Teller,a mocha,small,a veggie tortilla wrap
+32,30,Aaron Paul,a caramel macchiato,large,a gingerbread cookie
+33,2,Ryan Gosling,a salted caramel hot chocolate,large,
+34,31,Norman Reedus,a peppermint hot chocolate,small,a blueberry muffin
+35,32,Ellen Pompeo,a salted caramel hot chocolate,large,a croissant
+36,33,America Ferrera,an iced hot chocolate,large,
+37,20,Joel McHale,an Earl Grey,medium,
+38,34,Cote de Pablo,a mocha,medium,a carrot cake
+39,4,Leonardo DiCaprio,a green tea,large,a doughnut
+40,4,Leonardo DiCaprio,a cappuccino,medium,a blueberry oatmeal
+41,35,Kevin Costner,a hot chocolate,medium,
+42,35,Kevin Costner,a hot chocolate,medium,
+43,36,Sarah Wayne Callies,a green tea,large,
+44,37,Joshua Jackson,a flat white,medium,
+45,38,Ed Westwick,a salted caramel hot chocolate,large,a croissant
+46,30,Aaron Paul,a caramel macchiato,large,a gingerbread cookie
+47,11,Simon Baker,a black tea,small,a pain au chocolat
+48,11,Simon Baker,a black tea,small,a pain au chocolat
+49,39,Chris Colfer,a flat white,small,
+50,2,Ryan Gosling,a green tea,small,
+51,40,Channing Tatum,a latte,large,an everything bagel
+52,25,Jeffrey Donovan,a breakfast tea,medium,a chocolate caramel shortbread
+53,5,Lena Dunham,a caramel macchiato,large,
+54,41,Anna Torv,a flat white,medium,a blueberry oatmeal
+55,1,Sandra Oh,an americano,large,
+56,42,Ariana Grande,an espresso con panna,small,
+57,18,Kevin Bacon,an americano,medium,a blueberry muffin
+58,20,Joel McHale,an Earl Grey,medium,
+59,32,Ellen Pompeo,an Earl Grey,large,a gingerbread cookie
+60,17,Roseanne Barr,a black tea,small,a veggie tortilla wrap
+61,43,Sarah Michelle Gellar,a latte,large,a pain au chocolat
+62,25,Jeffrey Donovan,a breakfast tea,medium,a chocolate caramel shortbread
+63,44,Johnny Depp,an Earl Grey,large,a blueberry oatmeal
+64,45,Mayim Bialik,an espresso macchiato,small,a lemon pound cake
+65,39,Chris Colfer,an Earl Grey,large,
+66,46,Felicity Huffman,a white hot chocolate,medium,a doughnut
+67,29,Miles Teller,a hot chocolate,small,
+68,47,Mireille Enos,a peppermint hot chocolate,large,
+69,48,Ashley Benson,a white hot chocolate,large,a blueberry oatmeal
+70,29,Miles Teller,a hot chocolate,small,
+71,31,Norman Reedus,a peppermint hot chocolate,small,a blueberry muffin
+72,49,Kristen Stewart,a black tea,large,a veggie tortilla wrap
+73,15,Angelina Jolie,an americano,large,a blueberry oatmeal
+74,34,Cote de Pablo,a mocha,medium,a carrot cake
+75,25,Jeffrey Donovan,a latte,large,a veggie tortilla wrap
+76,50,Kodi Smit-McPhee,a breakfast tea,medium,an almond croissant
+77,51,Andrew Lincoln,a mocha,small,a lemon pound cake
+78,52,Stephen Amell,a noisette,medium,
+79,49,Kristen Stewart,a black tea,large,a veggie tortilla wrap
+80,32,Ellen Pompeo,an Earl Grey,large,a gingerbread cookie
+81,53,Laura Linney,an espresso con panna,small,a chocolate chip cookie
+82,54,Chloe Grace Moretz,a latte,large,an almond croissant
+83,15,Angelina Jolie,an americano,large,a blueberry oatmeal
+84,5,Lena Dunham,a caramel macchiato,large,
+85,55,Charlie Hunnam,a mocha,small,a doughnut
+86,38,Ed Westwick,a white hot chocolate,large,a lemon pound cake
+87,32,Ellen Pompeo,an Earl Grey,large,a gingerbread cookie
+88,52,Stephen Amell,a noisette,medium,
+89,37,Joshua Jackson,a caramel macchiato,medium,
+90,56,Brad Pitt,a cappuccino,medium,
+91,57,Mark Harmon,an espresso,medium,a pain au chocolat
+92,33,America Ferrera,an iced hot chocolate,large,
+93,33,America Ferrera,an iced hot chocolate,large,
+94,27,Robert Pattinson,an espresso con panna,medium,
+95,58,Jake Johnson,a breakfast tea,medium,
+96,59,Alison Brie,an espresso con panna,small,a lemon pound cake
+97,60,Leighton Meester,an americano,large,an everything bagel
+98,61,Paul Reiser,an americano,medium,a classic oatmeal
+99,33,America Ferrera,an iced hot chocolate,large,
+100,13,Josh Radnor,a latte,small,a chocolate caramel shortbread
+101,62,Cate Blanchett,a green tea,large,
+102,63,Anne Hathaway,an Earl Grey,small,
+103,14,John Noble,a peppermint hot chocolate,large,a carrot cake
+104,64,Ty Burrell,an Earl Grey,medium,
+105,62,Cate Blanchett,a cappuccino,small,a pain aux raisins
+106,65,Mindy Kaling,an Earl Grey,small,
+107,28,Jonny Lee Miller,a latte,large,a pain au chocolat
+108,66,Julie Bowen,an espresso macchiato,small,a pain au chocolat
+109,67,Zoe Saldana,an espresso,small,a doughnut
+110,58,Jake Johnson,a breakfast tea,medium,
+111,68,Kiefer Sutherland,a breakfast tea,small,an almond croissant
+112,51,Andrew Lincoln,a salted caramel hot chocolate,large,
+113,67,Zoe Saldana,an Earl Grey,small,
+114,69,Jon Hamm,an iced hot chocolate,small,a gingerbread cookie
+115,34,Cote de Pablo,a mocha,medium,a carrot cake
+116,1,Sandra Oh,a peppermint hot chocolate,large,a plain bagel
+117,70,Justin Chambers,a latte,large,a chocolate chip muffin
+118,71,James Spader,a noisette,small,a classic oatmeal
+119,22,Jesse Tyler Ferguson,an iced hot chocolate,large,a breakfast tortilla wrap
+120,61,Paul Reiser,an americano,medium,a classic oatmeal
+121,72,AnnaLynne McCord,a hot chocolate,small,a chocolate caramel shortbread
+122,45,Mayim Bialik,an iced hot chocolate,medium,a classic oatmeal
+123,73,Lea Michele,a peppermint hot chocolate,small,a double chocolate muffin
+124,63,Anne Hathaway,an Earl Grey,small,
+125,74,Matthew Morrison,a peppermint hot chocolate,large,
+126,75,Joel Kinnaman,a peppermint hot chocolate,large,an almond croissant
+127,35,Kevin Costner,a hot chocolate,medium,
+128,10,Hugh Laurie,a latte,small,a slice of banana bread
+129,76,Matt Smith,a caramel macchiato,small,
+130,20,Joel McHale,an Earl Grey,medium,
+131,8,Taylor Schilling,a black tea,medium,
+132,2,Ryan Gosling,a salted caramel hot chocolate,large,
+133,30,Aaron Paul,a caramel macchiato,large,a gingerbread cookie
+134,77,Will Smith,an espresso,small,a lemon pound cake
+135,17,Roseanne Barr,a noisette,small,
+136,77,Will Smith,an espresso,small,a lemon pound cake
+137,32,Ellen Pompeo,an Earl Grey,large,a gingerbread cookie
+138,5,Lena Dunham,a green tea,medium,a slice of banana bread
+139,40,Channing Tatum,a latte,large,an everything bagel
+140,42,Ariana Grande,an espresso con panna,small,
+141,78,Ginnifer Goodwin,an espresso macchiato,large,a chocolate chip muffin
+142,63,Anne Hathaway,an Earl Grey,small,
+143,52,Stephen Amell,a noisette,medium,
+144,46,Felicity Huffman,a white hot chocolate,medium,a doughnut
+145,79,RuPaul,a hot chocolate,small,a blueberry muffin
+146,3,Kaley Cuoco,an espresso con panna,medium,
+147,5,Lena Dunham,a caramel macchiato,large,
+148,80,Angie Harmon,a peppermint hot chocolate,large,an almond croissant
+149,42,Ariana Grande,an iced hot chocolate,medium,a blueberry oatmeal
+150,60,Leighton Meester,an americano,large,an everything bagel
+151,31,Norman Reedus,a peppermint hot chocolate,small,a blueberry muffin
+152,64,Ty Burrell,a noisette,small,
+153,42,Ariana Grande,an espresso con panna,small,
+154,81,Teri Hatcher,an Earl Grey,small,
+155,1,Sandra Oh,a latte,medium,
+156,62,Cate Blanchett,a cappuccino,small,a pain aux raisins
+157,8,Taylor Schilling,a black tea,medium,
+158,82,Matthew McConaughey,an espresso macchiato,medium,a croissant
+159,26,Jessica Capshaw,a black tea,small,
+160,19,David Boreanaz,an iced hot chocolate,large,a carrot cake
+161,83,Robin Tunney,a breakfast tea,small,
+162,16,Troian Bellisario,a latte,medium,
+163,19,David Boreanaz,an iced hot chocolate,large,a carrot cake
+164,84,Emily Deschanel,a flat white,medium,
+165,3,Kaley Cuoco,a noisette,medium,
+166,10,Hugh Laurie,an americano,small,a plain bagel
+167,85,Damian Lewis,a mocha,large,a blueberry oatmeal
+168,13,Josh Radnor,a latte,small,a chocolate caramel shortbread
+169,31,Norman Reedus,a peppermint hot chocolate,small,a blueberry muffin
+170,5,Lena Dunham,a caramel macchiato,large,
+171,31,Norman Reedus,a cappuccino,medium,
+172,12,Kerry Washington,a black tea,large,a chocolate chip cookie
+173,82,Matthew McConaughey,an espresso macchiato,medium,a croissant
+174,53,Laura Linney,an espresso con panna,small,a chocolate chip cookie
+175,36,Sarah Wayne Callies,a green tea,large,
+176,12,Kerry Washington,a latte,small,
+177,77,Will Smith,an espresso,small,a lemon pound cake
+178,13,Josh Radnor,a latte,small,a chocolate caramel shortbread
+179,45,Mayim Bialik,an iced hot chocolate,medium,a classic oatmeal
+180,27,Robert Pattinson,an espresso con panna,medium,
+181,8,Taylor Schilling,a black tea,medium,
+182,81,Teri Hatcher,an espresso,small,
+183,86,Jensen Ackles,an americano,large,a blueberry muffin
+184,40,Channing Tatum,a latte,large,an everything bagel
+185,14,John Noble,a cappuccino,large,an everything bagel
+186,65,Mindy Kaling,an espresso macchiato,large,a blueberry muffin
+187,81,Teri Hatcher,an espresso,small,
+188,11,Simon Baker,a noisette,small,a breakfast tortilla wrap
+189,57,Mark Harmon,an espresso,medium,a pain au chocolat
+190,9,Alyson Hannigan,an espresso,medium,
+191,9,Alyson Hannigan,an espresso,medium,
+192,30,Aaron Paul,a caramel macchiato,large,a gingerbread cookie
+193,68,Kiefer Sutherland,a breakfast tea,small,an almond croissant
+194,77,Will Smith,an Earl Grey,large,a slice of banana bread
+195,23,Zac Efron,an espresso con panna,large,
+196,87,Shane West,an Earl Grey,small,a pain aux raisins
+197,42,Ariana Grande,an espresso con panna,small,
+198,86,Jensen Ackles,an americano,large,a blueberry muffin
+199,15,Angelina Jolie,an americano,large,a blueberry oatmeal
+200,48,Ashley Benson,a white hot chocolate,large,a blueberry oatmeal
+201,80,Angie Harmon,a peppermint hot chocolate,large,an almond croissant
+202,49,Kristen Stewart,a black tea,large,a veggie tortilla wrap
+203,3,Kaley Cuoco,an espresso con panna,medium,
+204,88,Matthew Rhys,an americano,medium,
+205,15,Angelina Jolie,an espresso con panna,medium,
+206,63,Anne Hathaway,an Earl Grey,small,
+207,83,Robin Tunney,a breakfast tea,small,
+208,56,Brad Pitt,an espresso con panna,medium,
+209,20,Joel McHale,an Earl Grey,medium,
+210,44,Johnny Depp,a mocha,medium,a pain au chocolat
+211,73,Lea Michele,a peppermint hot chocolate,small,a double chocolate muffin
+212,81,Teri Hatcher,an espresso,small,
+213,89,Jane Lynch,a salted caramel hot chocolate,medium,
+214,29,Miles Teller,a hot chocolate,small,
+215,12,Kerry Washington,a cordusio,large,
+216,11,Simon Baker,an espresso,large,
+217,53,Laura Linney,an iced hot chocolate,large,a pain aux raisins
+218,21,Melissa McBride,an espresso,medium,a plain bagel
+219,21,Melissa McBride,an espresso,medium,a plain bagel
+220,40,Channing Tatum,a latte,large,an everything bagel
+221,90,Jennifer Lawrence,a breakfast tea,medium,
+222,87,Shane West,a mocha,large,
+223,47,Mireille Enos,a peppermint hot chocolate,large,
+224,14,John Noble,a cappuccino,large,an everything bagel
+225,84,Emily Deschanel,a flat white,medium,
+226,63,Anne Hathaway,an Earl Grey,small,
+227,58,Jake Johnson,a breakfast tea,medium,
+228,27,Robert Pattinson,a black tea,medium,
+229,52,Stephen Amell,an iced hot chocolate,large,
+230,3,Kaley Cuoco,a flat white,small,a chocolate caramel shortbread
+231,15,Angelina Jolie,an Earl Grey,large,
+232,55,Charlie Hunnam,a mocha,small,a doughnut
+233,66,Julie Bowen,an espresso con panna,small,
+234,11,Simon Baker,a black tea,small,a pain au chocolat
+235,48,Ashley Benson,a white hot chocolate,large,a blueberry oatmeal
+236,15,Angelina Jolie,an americano,large,a blueberry oatmeal
+237,54,Chloe Grace Moretz,a cappuccino,small,a plain bagel
+238,28,Jonny Lee Miller,a cappuccino,large,a classic oatmeal
+239,64,Ty Burrell,a flat white,medium,a croissant
+240,91,Charlize Theron,a salted caramel hot chocolate,medium,a lemon pound cake
+241,59,Alison Brie,an espresso con panna,small,a lemon pound cake
+242,73,Lea Michele,a peppermint hot chocolate,small,a double chocolate muffin
+243,92,Timothy Olyphant,a white hot chocolate,medium,an everything bagel
+244,19,David Boreanaz,a peppermint hot chocolate,large,a breakfast tortilla wrap
+245,78,Ginnifer Goodwin,an espresso macchiato,large,a chocolate chip muffin
+246,60,Leighton Meester,an americano,large,an everything bagel
+247,90,Jennifer Lawrence,a breakfast tea,medium,
+248,49,Kristen Stewart,an espresso con panna,large,
+249,14,John Noble,a cappuccino,large,an everything bagel
+250,90,Jennifer Lawrence,a mocha,medium,a veggie tortilla wrap
+251,76,Matt Smith,a caramel macchiato,small,
+252,87,Shane West,a black tea,small,an everything bagel
+253,93,Patrick Dempsey,a green tea,large,an everything bagel
+254,38,Ed Westwick,a white hot chocolate,large,a lemon pound cake
+255,84,Emily Deschanel,a flat white,medium,
+256,76,Matt Smith,an espresso macchiato,small,a carrot cake
+257,21,Melissa McBride,an espresso,medium,a plain bagel
+258,45,Mayim Bialik,an iced hot chocolate,medium,a classic oatmeal
+259,22,Jesse Tyler Ferguson,an iced hot chocolate,large,a breakfast tortilla wrap
+260,33,America Ferrera,an americano,small,a lemon pound cake
+261,52,Stephen Amell,a noisette,medium,
+262,3,Kaley Cuoco,a green tea,small,
+263,20,Joel McHale,an Earl Grey,medium,
+264,85,Damian Lewis,an espresso con panna,small,
+265,52,Stephen Amell,a noisette,medium,
+266,35,Kevin Costner,a hot chocolate,medium,
+267,35,Kevin Costner,a hot chocolate,medium,
+268,90,Jennifer Lawrence,a breakfast tea,medium,
+269,26,Jessica Capshaw,a black tea,small,
+270,14,John Noble,a cappuccino,large,an everything bagel
+271,42,Ariana Grande,a breakfast tea,small,
+272,55,Charlie Hunnam,a noisette,large,a breakfast tortilla wrap
+273,72,AnnaLynne McCord,a breakfast tea,small,
+274,37,Joshua Jackson,a caramel macchiato,medium,
+275,6,Melissa Joan Hart,a cordusio,small,a chocolate chip cookie
+276,92,Timothy Olyphant,a white hot chocolate,medium,an everything bagel
+277,60,Leighton Meester,an americano,large,an everything bagel
+278,31,Norman Reedus,a peppermint hot chocolate,small,a blueberry muffin
+279,45,Mayim Bialik,a noisette,large,
+280,24,Rachel Bilson,a latte,small,
+281,12,Kerry Washington,a black tea,large,
+282,59,Alison Brie,an espresso con panna,small,a lemon pound cake
+283,56,Brad Pitt,an espresso con panna,medium,
+284,93,Patrick Dempsey,a green tea,large,an everything bagel
+285,54,Chloe Grace Moretz,a cappuccino,small,a plain bagel
+286,78,Ginnifer Goodwin,an Earl Grey,medium,a classic oatmeal
+287,15,Angelina Jolie,an americano,large,a blueberry oatmeal
+288,54,Chloe Grace Moretz,a peppermint hot chocolate,small,
+289,13,Josh Radnor,a latte,small,a chocolate caramel shortbread
+290,56,Brad Pitt,an espresso con panna,medium,
+291,51,Andrew Lincoln,a salted caramel hot chocolate,large,
+292,72,AnnaLynne McCord,a breakfast tea,small,
+293,55,Charlie Hunnam,a mocha,small,a doughnut
+294,59,Alison Brie,an espresso con panna,small,a lemon pound cake
+295,37,Joshua Jackson,a caramel macchiato,medium,
+296,85,Damian Lewis,an espresso con panna,small,
+297,94,David Schwimmer,a black tea,small,a chocolate caramel shortbread
+298,68,Kiefer Sutherland,a caramel macchiato,medium,a classic oatmeal
+299,36,Sarah Wayne Callies,a breakfast tea,large,
+300,67,Zoe Saldana,an Earl Grey,small,
+301,44,Johnny Depp,a mocha,medium,a pain au chocolat
+302,43,Sarah Michelle Gellar,a latte,large,a pain au chocolat
+303,68,Kiefer Sutherland,a breakfast tea,small,an almond croissant
+304,8,Taylor Schilling,an espresso con panna,medium,
+305,26,Jessica Capshaw,a black tea,small,
+306,10,Hugh Laurie,a latte,small,a slice of banana bread
+307,70,Justin Chambers,a latte,large,a chocolate chip muffin
+308,19,David Boreanaz,an iced hot chocolate,large,a carrot cake
+309,54,Chloe Grace Moretz,a cappuccino,small,a plain bagel
+310,95,Noah Wyle,an iced hot chocolate,small,a breakfast tortilla wrap
+311,38,Ed Westwick,a white hot chocolate,large,a lemon pound cake
+312,94,David Schwimmer,a black tea,small,a chocolate caramel shortbread
+313,32,Ellen Pompeo,an Earl Grey,large,a gingerbread cookie
+314,65,Mindy Kaling,an espresso macchiato,large,a blueberry muffin
+315,60,Leighton Meester,an americano,large,an everything bagel
+316,17,Roseanne Barr,a black tea,small,a veggie tortilla wrap
+317,65,Mindy Kaling,a latte,large,a veggie tortilla wrap
+318,43,Sarah Michelle Gellar,a latte,large,a pain au chocolat
+319,53,Laura Linney,an espresso con panna,small,a chocolate chip cookie
+320,79,RuPaul,a hot chocolate,small,a blueberry muffin
+321,31,Norman Reedus,a peppermint hot chocolate,small,a blueberry muffin
+322,71,James Spader,a noisette,small,a classic oatmeal
+323,39,Chris Colfer,a breakfast tea,large,
+324,32,Ellen Pompeo,an Earl Grey,large,a gingerbread cookie
+325,32,Ellen Pompeo,an Earl Grey,large,a gingerbread cookie
+326,92,Timothy Olyphant,a white hot chocolate,medium,an everything bagel
+327,96,Matt Bomer,a noisette,small,
+328,9,Alyson Hannigan,an espresso,medium,
+329,46,Felicity Huffman,a mocha,large,a classic oatmeal
+330,93,Patrick Dempsey,a green tea,large,an everything bagel
+331,17,Roseanne Barr,an Earl Grey,medium,a doughnut
+332,40,Channing Tatum,a cappuccino,small,a pain aux raisins
+333,30,Aaron Paul,a green tea,small,
+334,73,Lea Michele,a peppermint hot chocolate,small,a double chocolate muffin
+335,64,Ty Burrell,a flat white,medium,
+336,84,Emily Deschanel,a flat white,medium,
+337,16,Troian Bellisario,a latte,medium,
+338,4,Leonardo DiCaprio,a cordusio,small,
+339,86,Jensen Ackles,an americano,large,a blueberry muffin
+340,22,Jesse Tyler Ferguson,an iced hot chocolate,large,a breakfast tortilla wrap
+341,9,Alyson Hannigan,an espresso con panna,small,
+342,23,Zac Efron,an espresso con panna,large,
+343,47,Mireille Enos,a peppermint hot chocolate,large,
+344,56,Brad Pitt,an espresso con panna,medium,
+345,43,Sarah Michelle Gellar,a latte,large,a pain au chocolat
+346,51,Andrew Lincoln,a cordusio,medium,
+347,16,Troian Bellisario,a latte,medium,
+348,54,Chloe Grace Moretz,an iced hot chocolate,small,a chocolate caramel shortbread
+349,17,Roseanne Barr,a black tea,small,a veggie tortilla wrap
+350,71,James Spader,a noisette,small,a classic oatmeal
+351,85,Damian Lewis,an espresso con panna,small,
+352,15,Angelina Jolie,an americano,large,a blueberry oatmeal
+353,43,Sarah Michelle Gellar,a peppermint hot chocolate,small,
+354,89,Jane Lynch,a salted caramel hot chocolate,medium,
+355,70,Justin Chambers,a latte,large,a chocolate chip muffin
+356,40,Channing Tatum,a latte,large,an everything bagel
+357,80,Angie Harmon,a peppermint hot chocolate,large,an almond croissant
+358,49,Kristen Stewart,a black tea,large,a veggie tortilla wrap
+359,39,Chris Colfer,a breakfast tea,large,
+360,13,Josh Radnor,a peppermint hot chocolate,medium,
+361,93,Patrick Dempsey,a noisette,large,a gingerbread cookie
+362,3,Kaley Cuoco,an espresso con panna,medium,
+363,50,Kodi Smit-McPhee,a black tea,small,
+364,22,Jesse Tyler Ferguson,an iced hot chocolate,large,a breakfast tortilla wrap
+365,86,Jensen Ackles,an americano,large,a blueberry muffin
+366,9,Alyson Hannigan,an espresso,medium,
+367,4,Leonardo DiCaprio,a cordusio,small,
+368,24,Rachel Bilson,a latte,small,
+369,14,John Noble,a cordusio,medium,
+370,73,Lea Michele,a white hot chocolate,medium,a breakfast tortilla wrap
+371,50,Kodi Smit-McPhee,a black tea,small,
+372,80,Angie Harmon,a breakfast tea,medium,a blueberry oatmeal
+373,50,Kodi Smit-McPhee,a black tea,small,
+374,11,Simon Baker,a black tea,small,a pain au chocolat
+375,18,Kevin Bacon,an americano,medium,a blueberry muffin
+376,61,Paul Reiser,a hot chocolate,large,
+377,19,David Boreanaz,a noisette,medium,a classic oatmeal
+378,26,Jessica Capshaw,a caramel macchiato,large,
+379,62,Cate Blanchett,a cappuccino,small,a pain aux raisins
+380,97,Jim Caviezel,an Earl Grey,large,
+381,14,John Noble,a cappuccino,large,an everything bagel
+382,68,Kiefer Sutherland,a noisette,medium,
+383,41,Anna Torv,a noisette,medium,
+384,60,Leighton Meester,a caramel macchiato,small,a doughnut
+385,35,Kevin Costner,a latte,large,a blueberry muffin
+386,90,Jennifer Lawrence,a breakfast tea,medium,
+387,88,Matthew Rhys,an americano,medium,
+388,98,John Slattery,a caramel macchiato,medium,a blueberry muffin
+389,6,Melissa Joan Hart,a cordusio,small,a chocolate chip cookie
+390,70,Justin Chambers,a latte,large,a chocolate chip muffin
+391,48,Ashley Benson,a white hot chocolate,large,a blueberry oatmeal
+392,99,Mark Wahlberg,a black tea,medium,a carrot cake
+393,8,Taylor Schilling,a flat white,small,
+394,82,Matthew McConaughey,an espresso macchiato,medium,a croissant
+395,81,Teri Hatcher,an espresso,small,
+396,94,David Schwimmer,a black tea,small,a chocolate caramel shortbread
+397,95,Noah Wyle,an iced hot chocolate,small,a breakfast tortilla wrap
+398,5,Lena Dunham,a white hot chocolate,large,
+399,60,Leighton Meester,a caramel macchiato,small,a pain au chocolat
+400,48,Ashley Benson,a white hot chocolate,large,a blueberry oatmeal
+401,78,Ginnifer Goodwin,an espresso macchiato,large,a chocolate chip muffin
+402,42,Ariana Grande,a white hot chocolate,medium,a lemon pound cake
+403,34,Cote de Pablo,a caramel macchiato,small,
+404,5,Lena Dunham,an espresso,small,a gingerbread cookie
+405,1,Sandra Oh,an americano,large,
+406,77,Will Smith,an espresso,small,a lemon pound cake
+407,48,Ashley Benson,a white hot chocolate,large,a blueberry oatmeal
+408,80,Angie Harmon,a peppermint hot chocolate,large,an almond croissant
+409,10,Hugh Laurie,an iced hot chocolate,large,
+410,50,Kodi Smit-McPhee,a caramel macchiato,medium,
+411,39,Chris Colfer,a cappuccino,large,
+412,6,Melissa Joan Hart,a cordusio,small,a chocolate chip cookie
+413,1,Sandra Oh,an americano,large,
+414,57,Mark Harmon,a peppermint hot chocolate,large,a carrot cake
+415,96,Matt Bomer,a noisette,small,
+416,66,Julie Bowen,an espresso con panna,small,
+417,58,Jake Johnson,a breakfast tea,medium,
+418,20,Joel McHale,an Earl Grey,medium,
+419,48,Ashley Benson,a latte,medium,
+420,10,Hugh Laurie,a latte,small,a slice of banana bread
+421,87,Shane West,a black tea,small,an everything bagel
+422,41,Anna Torv,a noisette,medium,
+423,54,Chloe Grace Moretz,a cappuccino,small,a plain bagel
+424,13,Josh Radnor,a white hot chocolate,large,a lemon pound cake
+425,37,Joshua Jackson,a peppermint hot chocolate,small,
+426,63,Anne Hathaway,an Earl Grey,small,
+427,66,Julie Bowen,a latte,small,
+428,75,Joel Kinnaman,a peppermint hot chocolate,large,an almond croissant
+429,64,Ty Burrell,a flat white,medium,
+430,13,Josh Radnor,a noisette,small,
+431,57,Mark Harmon,a salted caramel hot chocolate,small,
+432,3,Kaley Cuoco,a green tea,medium,
+433,58,Jake Johnson,a breakfast tea,medium,
+434,79,RuPaul,a hot chocolate,small,a blueberry muffin
+435,85,Damian Lewis,an espresso con panna,small,
+436,80,Angie Harmon,a peppermint hot chocolate,large,an almond croissant
+437,96,Matt Bomer,a mocha,medium,an everything bagel
+438,90,Jennifer Lawrence,a breakfast tea,medium,
+439,14,John Noble,a cappuccino,large,an everything bagel
+440,42,Ariana Grande,an espresso,small,a doughnut
+441,85,Damian Lewis,a breakfast tea,small,a gingerbread cookie
+442,81,Teri Hatcher,an espresso,small,
+443,53,Laura Linney,an espresso con panna,small,a chocolate chip cookie
+444,82,Matthew McConaughey,an espresso macchiato,medium,a croissant
+445,85,Damian Lewis,an espresso con panna,small,
+446,54,Chloe Grace Moretz,an iced hot chocolate,large,
+447,61,Paul Reiser,an americano,medium,a classic oatmeal
+448,80,Angie Harmon,a peppermint hot chocolate,large,an almond croissant
+449,45,Mayim Bialik,a flat white,large,a lemon pound cake
+450,95,Noah Wyle,an iced hot chocolate,small,a breakfast tortilla wrap
+451,85,Damian Lewis,an espresso con panna,small,
+452,21,Melissa McBride,an espresso,medium,a plain bagel
+453,37,Joshua Jackson,a caramel macchiato,medium,
+454,96,Matt Bomer,a noisette,small,
+455,62,Cate Blanchett,a cappuccino,small,a pain aux raisins
+456,93,Patrick Dempsey,a green tea,large,an everything bagel
+457,38,Ed Westwick,a white hot chocolate,large,a lemon pound cake
+458,84,Emily Deschanel,a flat white,medium,
+459,100,Keri Russell,a green tea,medium,
+460,57,Mark Harmon,an iced hot chocolate,medium,
+461,54,Chloe Grace Moretz,a cappuccino,small,a plain bagel
+462,100,Keri Russell,a green tea,medium,
+463,43,Sarah Michelle Gellar,a latte,large,a pain au chocolat
+464,63,Anne Hathaway,an Earl Grey,small,
+465,22,Jesse Tyler Ferguson,a white hot chocolate,small,a blueberry oatmeal
+466,35,Kevin Costner,an espresso con panna,large,
+467,8,Taylor Schilling,a black tea,medium,
+468,17,Roseanne Barr,an espresso,large,
+469,30,Aaron Paul,a cordusio,medium,a croissant
+470,71,James Spader,a noisette,small,a classic oatmeal
+471,49,Kristen Stewart,a black tea,large,a veggie tortilla wrap
+472,97,Jim Caviezel,an Earl Grey,large,
+473,22,Jesse Tyler Ferguson,a black tea,small,
+474,76,Matt Smith,a caramel macchiato,small,
+475,55,Charlie Hunnam,an espresso con panna,large,a breakfast tortilla wrap
+476,32,Ellen Pompeo,an Earl Grey,large,a gingerbread cookie
+477,66,Julie Bowen,an espresso con panna,small,
+478,30,Aaron Paul,a caramel macchiato,large,a gingerbread cookie
+479,69,Jon Hamm,an americano,small,
+480,79,RuPaul,a hot chocolate,small,a blueberry muffin
+481,10,Hugh Laurie,an americano,medium,
+482,44,Johnny Depp,a mocha,medium,a pain au chocolat
+483,53,Laura Linney,an espresso con panna,small,a chocolate chip cookie
+484,15,Angelina Jolie,an americano,large,a blueberry oatmeal
+485,61,Paul Reiser,a peppermint hot chocolate,large,a gingerbread cookie
+486,47,Mireille Enos,a peppermint hot chocolate,large,
+487,22,Jesse Tyler Ferguson,an iced hot chocolate,large,a breakfast tortilla wrap
+488,53,Laura Linney,a white hot chocolate,small,an almond croissant
+489,76,Matt Smith,a latte,small,
+490,63,Anne Hathaway,an Earl Grey,small,
+491,23,Zac Efron,an espresso con panna,large,
+492,55,Charlie Hunnam,a mocha,small,a doughnut
+493,57,Mark Harmon,an espresso,medium,
+494,8,Taylor Schilling,a black tea,medium,
+495,21,Melissa McBride,an espresso,medium,a plain bagel
+496,49,Kristen Stewart,an espresso,large,a blueberry muffin
+497,97,Jim Caviezel,an Earl Grey,large,
+498,60,Leighton Meester,an americano,large,an everything bagel
+499,78,Ginnifer Goodwin,an Earl Grey,medium,
+500,40,Channing Tatum,a latte,large,an everything bagel
+501,18,Kevin Bacon,an americano,medium,a blueberry muffin
+502,64,Ty Burrell,a breakfast tea,small,
+503,40,Channing Tatum,a noisette,large,
+504,3,Kaley Cuoco,an espresso con panna,medium,
+505,3,Kaley Cuoco,an iced hot chocolate,large,a blueberry oatmeal
+506,45,Mayim Bialik,an iced hot chocolate,medium,a classic oatmeal
+507,50,Kodi Smit-McPhee,a latte,small,
+508,100,Keri Russell,a green tea,medium,
+509,32,Ellen Pompeo,a white hot chocolate,large,a chocolate caramel shortbread
+510,58,Jake Johnson,a breakfast tea,medium,
+511,89,Jane Lynch,a cordusio,medium,
+512,71,James Spader,an espresso con panna,small,
+513,39,Chris Colfer,a breakfast tea,large,
+514,12,Kerry Washington,a black tea,large,
+515,80,Angie Harmon,a peppermint hot chocolate,large,an almond croissant
+516,7,Michael Emerson,an iced hot chocolate,large,a veggie tortilla wrap
+517,12,Kerry Washington,a black tea,large,
+518,90,Jennifer Lawrence,a breakfast tea,medium,
+519,42,Ariana Grande,a black tea,large,
+520,28,Jonny Lee Miller,a latte,large,a pain au chocolat
+521,63,Anne Hathaway,an Earl Grey,small,
+522,34,Cote de Pablo,a mocha,medium,a carrot cake
+523,81,Teri Hatcher,an espresso,small,
+524,51,Andrew Lincoln,a cappuccino,small,a chocolate chip cookie
+525,49,Kristen Stewart,a peppermint hot chocolate,large,a plain bagel
+526,76,Matt Smith,a caramel macchiato,small,
+527,29,Miles Teller,a hot chocolate,small,
+528,34,Cote de Pablo,a mocha,medium,a carrot cake
+529,24,Rachel Bilson,a latte,small,
+530,40,Channing Tatum,a noisette,small,a slice of banana bread
+531,53,Laura Linney,an Earl Grey,large,a croissant
+532,81,Teri Hatcher,an espresso,small,
+533,59,Alison Brie,an espresso con panna,small,a lemon pound cake
+534,68,Kiefer Sutherland,a breakfast tea,small,an almond croissant
+535,48,Ashley Benson,a white hot chocolate,large,a blueberry oatmeal
+536,77,Will Smith,an espresso,small,a lemon pound cake
+537,10,Hugh Laurie,a latte,small,a slice of banana bread
+538,71,James Spader,a noisette,small,a classic oatmeal
+539,82,Matthew McConaughey,an espresso macchiato,medium,a croissant
+540,87,Shane West,an espresso,small,a carrot cake
+541,98,John Slattery,a caramel macchiato,medium,a blueberry muffin
+542,73,Lea Michele,a peppermint hot chocolate,small,a double chocolate muffin
+543,25,Jeffrey Donovan,a salted caramel hot chocolate,small,
+544,80,Angie Harmon,a peppermint hot chocolate,large,an almond croissant
+545,22,Jesse Tyler Ferguson,an iced hot chocolate,large,a breakfast tortilla wrap
+546,75,Joel Kinnaman,a peppermint hot chocolate,large,an almond croissant
+547,81,Teri Hatcher,a white hot chocolate,large,a carrot cake
+548,41,Anna Torv,a noisette,medium,
+549,64,Ty Burrell,an espresso macchiato,large,
+550,5,Lena Dunham,an iced hot chocolate,large,
+551,93,Patrick Dempsey,a green tea,large,an everything bagel
+552,49,Kristen Stewart,a black tea,large,a veggie tortilla wrap
+553,18,Kevin Bacon,a green tea,small,
+554,54,Chloe Grace Moretz,a cappuccino,small,a plain bagel
+555,24,Rachel Bilson,an espresso,medium,
+556,59,Alison Brie,an espresso con panna,small,a lemon pound cake
+557,76,Matt Smith,a caramel macchiato,small,
+558,86,Jensen Ackles,an americano,large,a blueberry muffin
+559,18,Kevin Bacon,an americano,medium,a blueberry muffin
+560,61,Paul Reiser,a cappuccino,large,
+561,12,Kerry Washington,a black tea,large,
+562,70,Justin Chambers,a breakfast tea,medium,
+563,41,Anna Torv,a cappuccino,large,
+564,43,Sarah Michelle Gellar,a peppermint hot chocolate,medium,a chocolate chip cookie
+565,14,John Noble,a cappuccino,large,an everything bagel
+566,5,Lena Dunham,a green tea,medium,
+567,40,Channing Tatum,a latte,large,an everything bagel
+568,19,David Boreanaz,an iced hot chocolate,large,a carrot cake
+569,57,Mark Harmon,an espresso,medium,
+570,99,Mark Wahlberg,a black tea,medium,a carrot cake
+571,71,James Spader,a noisette,small,a classic oatmeal
+572,62,Cate Blanchett,a cappuccino,small,a pain aux raisins
+573,19,David Boreanaz,an iced hot chocolate,large,a carrot cake
+574,52,Stephen Amell,a cordusio,medium,
+575,90,Jennifer Lawrence,a breakfast tea,medium,
+576,52,Stephen Amell,a noisette,medium,
+577,64,Ty Burrell,a flat white,medium,
+578,63,Anne Hathaway,an Earl Grey,small,
+579,83,Robin Tunney,a breakfast tea,small,
+580,50,Kodi Smit-McPhee,a white hot chocolate,small,a chocolate chip muffin
+581,29,Miles Teller,a hot chocolate,small,
+582,44,Johnny Depp,a mocha,medium,a pain au chocolat
+583,76,Matt Smith,a caramel macchiato,small,
+584,1,Sandra Oh,an americano,large,
+585,34,Cote de Pablo,an espresso,large,a pain au chocolat
+586,52,Stephen Amell,a noisette,medium,
+587,58,Jake Johnson,a breakfast tea,medium,
+588,89,Jane Lynch,a salted caramel hot chocolate,medium,
+589,89,Jane Lynch,a salted caramel hot chocolate,medium,
+590,6,Melissa Joan Hart,a cordusio,small,a chocolate chip cookie
+591,39,Chris Colfer,a breakfast tea,large,
+592,47,Mireille Enos,a peppermint hot chocolate,large,
+593,71,James Spader,a noisette,small,a classic oatmeal
+594,73,Lea Michele,a peppermint hot chocolate,small,a double chocolate muffin
+595,100,Keri Russell,an Earl Grey,small,a plain bagel
+596,7,Michael Emerson,an iced hot chocolate,large,a veggie tortilla wrap
+597,89,Jane Lynch,a flat white,large,an almond croissant
+598,26,Jessica Capshaw,a black tea,small,
+599,86,Jensen Ackles,an americano,large,a blueberry muffin
+600,28,Jonny Lee Miller,a latte,large,a pain au chocolat
+601,75,Joel Kinnaman,a peppermint hot chocolate,large,an almond croissant
+602,29,Miles Teller,a latte,large,an almond croissant
+603,35,Kevin Costner,a black tea,medium,
+604,77,Will Smith,an espresso,small,a lemon pound cake
+605,89,Jane Lynch,a salted caramel hot chocolate,medium,
+606,97,Jim Caviezel,an Earl Grey,large,
+607,10,Hugh Laurie,a latte,small,a slice of banana bread
+608,83,Robin Tunney,an espresso con panna,medium,a doughnut
+609,80,Angie Harmon,a peppermint hot chocolate,large,an almond croissant
+610,10,Hugh Laurie,an espresso macchiato,medium,an almond croissant
+611,89,Jane Lynch,a noisette,small,a chocolate caramel shortbread
+612,34,Cote de Pablo,a latte,large,a lemon pound cake
+613,44,Johnny Depp,a peppermint hot chocolate,small,
+614,26,Jessica Capshaw,a white hot chocolate,medium,
+615,34,Cote de Pablo,a mocha,medium,a carrot cake
+616,19,David Boreanaz,an iced hot chocolate,large,a carrot cake
+617,78,Ginnifer Goodwin,a noisette,large,a chocolate chip cookie
+618,50,Kodi Smit-McPhee,a black tea,small,
+619,77,Will Smith,an espresso,small,a lemon pound cake
+620,29,Miles Teller,a hot chocolate,small,
+621,38,Ed Westwick,a black tea,large,
+622,37,Joshua Jackson,a caramel macchiato,medium,
+623,41,Anna Torv,a cappuccino,small,
+624,1,Sandra Oh,an americano,large,
+625,74,Matthew Morrison,an Earl Grey,small,a carrot cake
+626,73,Lea Michele,a peppermint hot chocolate,small,a double chocolate muffin
+627,19,David Boreanaz,an iced hot chocolate,large,a carrot cake
+628,41,Anna Torv,a noisette,medium,
+629,8,Taylor Schilling,an espresso con panna,small,
+630,74,Matthew Morrison,a green tea,large,
+631,21,Melissa McBride,an espresso,medium,a plain bagel
+632,9,Alyson Hannigan,a mocha,small,
+633,16,Troian Bellisario,a latte,medium,
+634,27,Robert Pattinson,an espresso con panna,medium,
+635,84,Emily Deschanel,a flat white,medium,
+636,100,Keri Russell,an espresso con panna,medium,a croissant
+637,13,Josh Radnor,a latte,small,a chocolate caramel shortbread
+638,1,Sandra Oh,an americano,large,
+639,12,Kerry Washington,a noisette,small,
+640,71,James Spader,a noisette,small,a classic oatmeal
+641,42,Ariana Grande,an espresso con panna,small,
+642,41,Anna Torv,an Earl Grey,small,
+643,69,Jon Hamm,an americano,small,
+644,70,Justin Chambers,a latte,large,a chocolate chip muffin
+645,38,Ed Westwick,a white hot chocolate,large,a lemon pound cake
+646,6,Melissa Joan Hart,a peppermint hot chocolate,small,a chocolate caramel shortbread
+647,27,Robert Pattinson,an espresso con panna,medium,
+648,72,AnnaLynne McCord,a breakfast tea,small,
+649,16,Troian Bellisario,a latte,medium,
+650,89,Jane Lynch,a salted caramel hot chocolate,medium,
+651,30,Aaron Paul,a caramel macchiato,large,a gingerbread cookie
+652,51,Andrew Lincoln,a salted caramel hot chocolate,large,
+653,24,Rachel Bilson,a latte,small,
+654,95,Noah Wyle,an iced hot chocolate,small,a breakfast tortilla wrap
+655,92,Timothy Olyphant,a white hot chocolate,medium,an everything bagel
+656,96,Matt Bomer,a mocha,large,a chocolate chip cookie
+657,71,James Spader,a noisette,small,a classic oatmeal
+658,12,Kerry Washington,a flat white,small,a classic oatmeal
+659,16,Troian Bellisario,a latte,medium,
+660,20,Joel McHale,a white hot chocolate,medium,an everything bagel
+661,51,Andrew Lincoln,a salted caramel hot chocolate,large,
+662,77,Will Smith,an espresso,small,a lemon pound cake
+663,99,Mark Wahlberg,a black tea,medium,a carrot cake
+664,95,Noah Wyle,a green tea,large,a carrot cake
+665,38,Ed Westwick,a white hot chocolate,large,a lemon pound cake
+666,57,Mark Harmon,an espresso,medium,
+667,17,Roseanne Barr,a latte,small,a plain bagel
+668,46,Felicity Huffman,a white hot chocolate,medium,a doughnut
+669,47,Mireille Enos,an espresso con panna,medium,
+670,21,Melissa McBride,an espresso,medium,a plain bagel
+671,59,Alison Brie,an espresso con panna,small,a lemon pound cake
+672,88,Matthew Rhys,an americano,medium,
+673,75,Joel Kinnaman,a noisette,large,
+674,51,Andrew Lincoln,a salted caramel hot chocolate,large,
+675,96,Matt Bomer,an espresso macchiato,small,a double chocolate muffin
+676,31,Norman Reedus,a peppermint hot chocolate,small,a blueberry muffin
+677,62,Cate Blanchett,an Earl Grey,large,an everything bagel
+678,60,Leighton Meester,an americano,large,an everything bagel
+679,39,Chris Colfer,a breakfast tea,large,
+680,13,Josh Radnor,a green tea,large,
+681,50,Kodi Smit-McPhee,a black tea,small,
+682,49,Kristen Stewart,a black tea,large,a veggie tortilla wrap
+683,39,Chris Colfer,a breakfast tea,large,
+684,86,Jensen Ackles,an americano,large,a blueberry muffin
+685,18,Kevin Bacon,an americano,medium,a blueberry muffin
+686,65,Mindy Kaling,an espresso macchiato,large,a blueberry muffin
+687,43,Sarah Michelle Gellar,a latte,large,a pain au chocolat
+688,23,Zac Efron,an espresso con panna,large,
+689,69,Jon Hamm,an americano,small,
+690,87,Shane West,a black tea,small,an everything bagel
+691,51,Andrew Lincoln,a salted caramel hot chocolate,large,
+692,89,Jane Lynch,a salted caramel hot chocolate,medium,
+693,6,Melissa Joan Hart,a salted caramel hot chocolate,medium,
+694,6,Melissa Joan Hart,an espresso,medium,a veggie tortilla wrap
+695,24,Rachel Bilson,a green tea,small,
+696,4,Leonardo DiCaprio,a cordusio,small,
+697,98,John Slattery,a mocha,small,a chocolate chip cookie
+698,79,RuPaul,a hot chocolate,small,a blueberry muffin
+699,87,Shane West,a black tea,small,an everything bagel
+700,24,Rachel Bilson,a latte,small,
+701,2,Ryan Gosling,a salted caramel hot chocolate,large,
+702,92,Timothy Olyphant,a white hot chocolate,medium,an everything bagel
+703,65,Mindy Kaling,an espresso macchiato,large,a blueberry muffin
+704,94,David Schwimmer,a black tea,small,a chocolate caramel shortbread
+705,61,Paul Reiser,a white hot chocolate,small,a chocolate caramel shortbread
+706,83,Robin Tunney,a flat white,small,a carrot cake
+707,47,Mireille Enos,a peppermint hot chocolate,large,
+708,64,Ty Burrell,a flat white,medium,
+709,37,Joshua Jackson,a caramel macchiato,medium,
+710,97,Jim Caviezel,a cappuccino,large,
+711,74,Matthew Morrison,a green tea,large,
+712,34,Cote de Pablo,an espresso macchiato,large,a blueberry oatmeal
+713,39,Chris Colfer,a latte,small,a blueberry oatmeal
+714,51,Andrew Lincoln,a salted caramel hot chocolate,large,
+715,30,Aaron Paul,a caramel macchiato,large,a gingerbread cookie
+716,86,Jensen Ackles,an Earl Grey,large,a plain bagel
+717,9,Alyson Hannigan,an espresso,medium,
+718,65,Mindy Kaling,an espresso macchiato,large,a blueberry muffin
+719,59,Alison Brie,an espresso con panna,small,a lemon pound cake
+720,4,Leonardo DiCaprio,a cordusio,small,
+721,26,Jessica Capshaw,a black tea,small,
+722,55,Charlie Hunnam,a mocha,small,a doughnut
+723,33,America Ferrera,an iced hot chocolate,large,
+724,81,Teri Hatcher,an espresso,small,
+725,6,Melissa Joan Hart,a white hot chocolate,small,
+726,60,Leighton Meester,an americano,large,an everything bagel
+727,67,Zoe Saldana,an Earl Grey,small,
+728,43,Sarah Michelle Gellar,a latte,large,a pain au chocolat
+729,50,Kodi Smit-McPhee,a black tea,small,
+730,86,Jensen Ackles,an americano,large,a blueberry muffin
+731,27,Robert Pattinson,an espresso con panna,medium,
+732,90,Jennifer Lawrence,a cordusio,large,
+733,59,Alison Brie,an espresso con panna,small,a lemon pound cake
+734,69,Jon Hamm,an americano,small,
+735,46,Felicity Huffman,a white hot chocolate,medium,a doughnut
+736,38,Ed Westwick,a white hot chocolate,large,a lemon pound cake
+737,44,Johnny Depp,a mocha,medium,a pain au chocolat
+738,98,John Slattery,a caramel macchiato,medium,a blueberry muffin
+739,98,John Slattery,a caramel macchiato,medium,a blueberry muffin
+740,41,Anna Torv,a noisette,medium,
+741,33,America Ferrera,an iced hot chocolate,large,
+742,53,Laura Linney,a cappuccino,medium,a pain au chocolat
+743,67,Zoe Saldana,an Earl Grey,small,
+744,98,John Slattery,a caramel macchiato,medium,a blueberry muffin
+745,78,Ginnifer Goodwin,an espresso macchiato,large,a chocolate chip muffin
+746,47,Mireille Enos,a peppermint hot chocolate,large,
+747,90,Jennifer Lawrence,a peppermint hot chocolate,small,
+748,95,Noah Wyle,an iced hot chocolate,small,a breakfast tortilla wrap
+749,44,Johnny Depp,a mocha,medium,a pain au chocolat
+750,64,Ty Burrell,a flat white,medium,
+751,26,Jessica Capshaw,a black tea,small,
+752,24,Rachel Bilson,a peppermint hot chocolate,small,a plain bagel
+753,58,Jake Johnson,a breakfast tea,medium,
+754,57,Mark Harmon,an espresso,medium,
+755,69,Jon Hamm,an americano,small,
+756,41,Anna Torv,a noisette,medium,
+757,33,America Ferrera,a peppermint hot chocolate,medium,an everything bagel
+758,65,Mindy Kaling,an espresso macchiato,large,a blueberry muffin
+759,83,Robin Tunney,a breakfast tea,small,
+760,26,Jessica Capshaw,a black tea,small,
+761,48,Ashley Benson,a white hot chocolate,large,a blueberry oatmeal
+762,35,Kevin Costner,a flat white,small,
+763,62,Cate Blanchett,a cappuccino,small,a pain aux raisins
+764,92,Timothy Olyphant,a flat white,medium,
+765,57,Mark Harmon,an Earl Grey,medium,
+766,100,Keri Russell,a green tea,medium,
+767,100,Keri Russell,a green tea,medium,
+768,38,Ed Westwick,an espresso,small,a veggie tortilla wrap
+769,72,AnnaLynne McCord,a breakfast tea,small,
+770,21,Melissa McBride,a white hot chocolate,large,
+771,69,Jon Hamm,a breakfast tea,small,
+772,55,Charlie Hunnam,a mocha,small,a doughnut
+773,8,Taylor Schilling,a black tea,medium,
+774,6,Melissa Joan Hart,a breakfast tea,small,
+775,78,Ginnifer Goodwin,an espresso macchiato,large,a chocolate chip muffin
+776,44,Johnny Depp,a mocha,medium,a pain au chocolat
+777,27,Robert Pattinson,an espresso con panna,medium,
+778,23,Zac Efron,an iced hot chocolate,small,
+779,94,David Schwimmer,a hot chocolate,small,
+780,84,Emily Deschanel,a white hot chocolate,medium,a chocolate caramel shortbread
+781,35,Kevin Costner,a hot chocolate,medium,
+782,73,Lea Michele,a peppermint hot chocolate,small,a double chocolate muffin
+783,67,Zoe Saldana,an Earl Grey,small,
+784,31,Norman Reedus,a peppermint hot chocolate,small,a blueberry muffin
+785,45,Mayim Bialik,an espresso macchiato,large,an everything bagel
+786,11,Simon Baker,a black tea,small,a pain au chocolat
+787,66,Julie Bowen,an espresso con panna,small,
+788,29,Miles Teller,a hot chocolate,small,
+789,75,Joel Kinnaman,a peppermint hot chocolate,large,an almond croissant
+790,53,Laura Linney,a salted caramel hot chocolate,medium,
+791,93,Patrick Dempsey,a green tea,large,an everything bagel
+792,83,Robin Tunney,a breakfast tea,small,
+793,56,Brad Pitt,a hot chocolate,small,
+794,48,Ashley Benson,a white hot chocolate,large,a blueberry oatmeal
+795,92,Timothy Olyphant,a white hot chocolate,medium,an everything bagel
+796,85,Damian Lewis,a white hot chocolate,large,a double chocolate muffin
+797,24,Rachel Bilson,a latte,small,
+798,23,Zac Efron,an iced hot chocolate,large,a gingerbread cookie
+799,31,Norman Reedus,a peppermint hot chocolate,small,a blueberry muffin
+800,69,Jon Hamm,an americano,small,
+801,52,Stephen Amell,a noisette,medium,
+802,66,Julie Bowen,a flat white,large,a croissant
+803,58,Jake Johnson,a noisette,small,
+804,84,Emily Deschanel,a flat white,medium,
+805,78,Ginnifer Goodwin,an espresso macchiato,large,a chocolate chip muffin
+806,36,Sarah Wayne Callies,a green tea,large,
+807,36,Sarah Wayne Callies,a green tea,large,
+808,28,Jonny Lee Miller,a latte,large,a pain au chocolat
+809,93,Patrick Dempsey,a breakfast tea,medium,
+810,29,Miles Teller,a hot chocolate,small,
+811,75,Joel Kinnaman,a peppermint hot chocolate,large,an almond croissant
+812,98,John Slattery,a caramel macchiato,medium,a blueberry muffin
+813,68,Kiefer Sutherland,an espresso macchiato,small,a breakfast tortilla wrap
+814,18,Kevin Bacon,an americano,medium,a blueberry muffin
+815,28,Jonny Lee Miller,a latte,large,a pain au chocolat
+816,92,Timothy Olyphant,a white hot chocolate,medium,an everything bagel
+817,95,Noah Wyle,a mocha,medium,an almond croissant
+818,58,Jake Johnson,a breakfast tea,medium,
+819,69,Jon Hamm,an Earl Grey,large,
+820,79,RuPaul,a hot chocolate,small,a blueberry muffin
+821,28,Jonny Lee Miller,a latte,large,a pain au chocolat
+822,44,Johnny Depp,a mocha,medium,a pain au chocolat
+823,47,Mireille Enos,a peppermint hot chocolate,large,
+824,28,Jonny Lee Miller,an americano,medium,
+825,17,Roseanne Barr,a black tea,small,a veggie tortilla wrap
+826,68,Kiefer Sutherland,a breakfast tea,small,an almond croissant
+827,73,Lea Michele,a mocha,medium,a chocolate caramel shortbread
+828,95,Noah Wyle,an iced hot chocolate,small,a breakfast tortilla wrap
+829,77,Will Smith,an espresso,small,a lemon pound cake
+830,45,Mayim Bialik,a cappuccino,small,
+831,93,Patrick Dempsey,a hot chocolate,small,
+832,18,Kevin Bacon,an iced hot chocolate,medium,
+833,100,Keri Russell,a green tea,medium,
+834,23,Zac Efron,an espresso con panna,large,
+835,100,Keri Russell,a green tea,medium,
+836,62,Cate Blanchett,a flat white,large,a croissant
+837,7,Michael Emerson,a breakfast tea,medium,a chocolate chip muffin
+838,75,Joel Kinnaman,a peppermint hot chocolate,large,an almond croissant
+839,2,Ryan Gosling,a salted caramel hot chocolate,large,
+840,84,Emily Deschanel,a hot chocolate,small,
+841,65,Mindy Kaling,an espresso macchiato,large,a blueberry muffin
+842,4,Leonardo DiCaprio,a cordusio,small,
+843,21,Melissa McBride,an espresso,medium,a plain bagel
+844,96,Matt Bomer,a noisette,small,
+845,96,Matt Bomer,a noisette,small,
+846,43,Sarah Michelle Gellar,a latte,large,a pain au chocolat
+847,86,Jensen Ackles,an americano,large,a blueberry muffin
+848,56,Brad Pitt,an espresso con panna,medium,
+849,25,Jeffrey Donovan,an Earl Grey,small,a slice of banana bread
+850,100,Keri Russell,a green tea,medium,
+851,33,America Ferrera,a green tea,large,
+852,11,Simon Baker,a black tea,small,a pain au chocolat
+853,9,Alyson Hannigan,an espresso,medium,
+854,36,Sarah Wayne Callies,a green tea,large,
+855,47,Mireille Enos,a peppermint hot chocolate,large,
+856,78,Ginnifer Goodwin,an espresso macchiato,large,a chocolate chip muffin
+857,88,Matthew Rhys,an americano,medium,
+858,17,Roseanne Barr,a black tea,small,a veggie tortilla wrap
+859,75,Joel Kinnaman,a peppermint hot chocolate,large,an almond croissant
+860,4,Leonardo DiCaprio,a cordusio,small,
+861,37,Joshua Jackson,a mocha,large,a doughnut
+862,99,Mark Wahlberg,a black tea,medium,a carrot cake
+863,76,Matt Smith,a caramel macchiato,small,
+864,98,John Slattery,a green tea,large,a pain aux raisins
+865,76,Matt Smith,a cordusio,medium,
+866,72,AnnaLynne McCord,a breakfast tea,small,
+867,9,Alyson Hannigan,an espresso,medium,
+868,20,Joel McHale,an Earl Grey,medium,
+869,55,Charlie Hunnam,a mocha,small,a doughnut
+870,75,Joel Kinnaman,a peppermint hot chocolate,large,an almond croissant
+871,67,Zoe Saldana,a flat white,medium,a plain bagel
+872,85,Damian Lewis,an espresso con panna,small,
+873,94,David Schwimmer,a white hot chocolate,small,a veggie tortilla wrap
+874,67,Zoe Saldana,a peppermint hot chocolate,large,
+875,36,Sarah Wayne Callies,a cappuccino,small,
+876,93,Patrick Dempsey,a green tea,large,an everything bagel
+877,25,Jeffrey Donovan,a breakfast tea,medium,a chocolate caramel shortbread
+878,87,Shane West,an espresso con panna,large,
+879,99,Mark Wahlberg,a black tea,medium,a carrot cake
+880,2,Ryan Gosling,a salted caramel hot chocolate,large,
+881,2,Ryan Gosling,a peppermint hot chocolate,small,a doughnut
+882,27,Robert Pattinson,an espresso con panna,medium,
+883,46,Felicity Huffman,a peppermint hot chocolate,large,a chocolate chip cookie
+884,83,Robin Tunney,a breakfast tea,small,
+885,28,Jonny Lee Miller,a latte,large,a pain au chocolat
+886,37,Joshua Jackson,a hot chocolate,large,
+887,79,RuPaul,a noisette,medium,an everything bagel
+888,59,Alison Brie,an espresso con panna,small,a lemon pound cake
+889,46,Felicity Huffman,a white hot chocolate,medium,a doughnut
+890,62,Cate Blanchett,a cappuccino,small,a pain aux raisins
+891,20,Joel McHale,an Earl Grey,medium,
+892,92,Timothy Olyphant,an Earl Grey,large,a carrot cake
+893,2,Ryan Gosling,a salted caramel hot chocolate,large,
+894,46,Felicity Huffman,a white hot chocolate,medium,a doughnut
+895,30,Aaron Paul,an Earl Grey,medium,a croissant
+896,97,Jim Caviezel,an Earl Grey,large,
+897,92,Timothy Olyphant,a white hot chocolate,medium,an everything bagel
+898,18,Kevin Bacon,an americano,medium,a blueberry muffin
+899,4,Leonardo DiCaprio,a cordusio,small,
+900,95,Noah Wyle,an iced hot chocolate,small,a breakfast tortilla wrap
+901,65,Mindy Kaling,a cappuccino,small,
+902,96,Matt Bomer,a noisette,small,
+903,68,Kiefer Sutherland,a cordusio,medium,
+904,56,Brad Pitt,a peppermint hot chocolate,large,a chocolate caramel shortbread
+905,2,Ryan Gosling,a peppermint hot chocolate,small,a plain bagel
+906,99,Mark Wahlberg,a black tea,medium,a carrot cake
+907,55,Charlie Hunnam,a mocha,small,a doughnut
+908,94,David Schwimmer,a black tea,small,a chocolate caramel shortbread
+909,7,Michael Emerson,a cordusio,large,
+910,87,Shane West,a breakfast tea,medium,
+911,61,Paul Reiser,a cordusio,medium,
+912,84,Emily Deschanel,a noisette,medium,a blueberry muffin
+913,99,Mark Wahlberg,a black tea,medium,a carrot cake
+914,36,Sarah Wayne Callies,a green tea,large,
+915,46,Felicity Huffman,a white hot chocolate,medium,a doughnut
+916,56,Brad Pitt,an espresso con panna,medium,
+917,83,Robin Tunney,a breakfast tea,small,
+918,99,Mark Wahlberg,a salted caramel hot chocolate,medium,a doughnut
+919,91,Charlize Theron,a caramel macchiato,medium,a double chocolate muffin
+920,67,Zoe Saldana,an Earl Grey,small,
+921,79,RuPaul,a hot chocolate,small,a blueberry muffin
+922,7,Michael Emerson,an iced hot chocolate,large,a veggie tortilla wrap
+923,27,Robert Pattinson,an espresso con panna,medium,
+924,98,John Slattery,a caramel macchiato,medium,a blueberry muffin
+925,87,Shane West,a black tea,small,an everything bagel
+926,66,Julie Bowen,an espresso con panna,small,
+927,74,Matthew Morrison,a green tea,large,
+928,97,Jim Caviezel,an Earl Grey,large,
+929,95,Noah Wyle,an iced hot chocolate,small,a breakfast tortilla wrap
+930,45,Mayim Bialik,an iced hot chocolate,medium,a classic oatmeal
+931,83,Robin Tunney,a cordusio,medium,a breakfast tortilla wrap
+932,33,America Ferrera,an iced hot chocolate,large,
+933,46,Felicity Huffman,a white hot chocolate,medium,a doughnut
+934,94,David Schwimmer,a salted caramel hot chocolate,large,
+935,70,Justin Chambers,a latte,large,a chocolate chip muffin
+936,25,Jeffrey Donovan,a latte,medium,
+937,96,Matt Bomer,a noisette,small,
+938,7,Michael Emerson,an Earl Grey,large,
+939,91,Charlize Theron,a caramel macchiato,medium,a double chocolate muffin
+940,56,Brad Pitt,a white hot chocolate,small,
+941,98,John Slattery,a noisette,large,
+942,79,RuPaul,a hot chocolate,small,a blueberry muffin
+943,88,Matthew Rhys,an americano,medium,
+944,97,Jim Caviezel,an Earl Grey,large,
+945,79,RuPaul,a hot chocolate,small,a blueberry muffin
+946,88,Matthew Rhys,a green tea,small,a blueberry oatmeal
+947,67,Zoe Saldana,an Earl Grey,small,
+948,91,Charlize Theron,a caramel macchiato,medium,a double chocolate muffin
+949,70,Justin Chambers,a cordusio,small,
+950,70,Justin Chambers,a latte,large,a chocolate chip muffin
+951,70,Justin Chambers,a latte,large,a chocolate chip muffin
+952,91,Charlize Theron,an espresso,medium,
+953,66,Julie Bowen,an espresso con panna,small,
+954,68,Kiefer Sutherland,a mocha,small,a carrot cake
+955,91,Charlize Theron,a caramel macchiato,medium,a double chocolate muffin
+956,97,Jim Caviezel,an espresso con panna,large,a gingerbread cookie
+957,69,Jon Hamm,a white hot chocolate,large,
+958,97,Jim Caviezel,an Earl Grey,large,
+959,91,Charlize Theron,a caramel macchiato,medium,a double chocolate muffin
+960,25,Jeffrey Donovan,a cordusio,small,an almond croissant
+961,74,Matthew Morrison,a green tea,large,
+962,16,Troian Bellisario,an americano,small,a plain bagel
+963,88,Matthew Rhys,an americano,medium,
+964,16,Troian Bellisario,a latte,medium,
+965,11,Simon Baker,a black tea,small,a pain au chocolat
+966,72,AnnaLynne McCord,a breakfast tea,small,
+967,74,Matthew Morrison,a green tea,large,
+968,82,Matthew McConaughey,a white hot chocolate,large,a classic oatmeal
+969,7,Michael Emerson,a green tea,medium,
+970,72,AnnaLynne McCord,a breakfast tea,small,
+971,61,Paul Reiser,an americano,medium,
+972,74,Matthew Morrison,a hot chocolate,medium,a veggie tortilla wrap
+973,74,Matthew Morrison,a green tea,large,
+974,36,Sarah Wayne Callies,a green tea,large,
+975,72,AnnaLynne McCord,a breakfast tea,small,
+976,94,David Schwimmer,a black tea,small,a chocolate caramel shortbread
+977,66,Julie Bowen,an espresso con panna,small,
+978,94,David Schwimmer,an espresso con panna,medium,a breakfast tortilla wrap
+979,72,AnnaLynne McCord,an espresso,small,
+980,74,Matthew Morrison,an Earl Grey,small,a doughnut
+981,99,Mark Wahlberg,a latte,medium,
+982,7,Michael Emerson,a mocha,medium,
+983,36,Sarah Wayne Callies,a white hot chocolate,medium,
+984,23,Zac Efron,an Earl Grey,small,a chocolate chip muffin
+985,82,Matthew McConaughey,an espresso macchiato,medium,a croissant
+986,16,Troian Bellisario,a hot chocolate,small,
+987,7,Michael Emerson,an iced hot chocolate,large,
+988,88,Matthew Rhys,an americano,medium,
+989,88,Matthew Rhys,an americano,medium,
+990,99,Mark Wahlberg,a cappuccino,large,a plain bagel
+991,25,Jeffrey Donovan,a breakfast tea,medium,a chocolate caramel shortbread
+992,23,Zac Efron,an espresso con panna,large,
+993,61,Paul Reiser,an americano,medium,
+994,82,Matthew McConaughey,an espresso macchiato,medium,a croissant
+995,82,Matthew McConaughey,a white hot chocolate,large,
+996,82,Matthew McConaughey,an espresso macchiato,medium,a croissant
+997,88,Matthew Rhys,an americano,medium,
+998,91,Charlize Theron,a caramel macchiato,medium,a double chocolate muffin
+999,91,Charlize Theron,a caramel macchiato,medium,a double chocolate muffin
+1000,91,Charlize Theron,a caramel macchiato,medium,a double chocolate muffin

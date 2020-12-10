@@ -1,21 +1,29 @@
 # Barista Dataset
 
-This directory contains a set of 7 tasks for evaluating end-to-end dialogue systems for goal-oriented interactions in ordering a drink and a snack at a coffee shop from the barista. The dataset has been described in the paper "Coffee with a Hint of Data: Towards Using Data-Driven Approaches in Personalised Long-Term Interactions" (under review at the Frontiers in Robotics and AI journal) by Bahar Irfan and Tony Belpaeme.
+This directory contains a set of 7 tasks for evaluating end-to-end dialogue systems for goal-oriented interactions in ordering a drink and a snack at a coffee shop from the barista.
+
+The datasets and the evaluations for the adapted data-driven dialogue models are described in detail in the papers:
+
+    Bahar Irfan, Mehdi Hellou, Alexandre Mazel, and Tony Belpaeme (2020), "Challenges of a Real-World HRI Study with Non-Native English Speakers: Can Personalisation Save the Day?", Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI), DOI: 10.1145/3371382.3378278.
+
+    Bahar Irfan and Tony Belpaeme (under review), "Coffee with a Hint of Data: Towards Using Data-Driven Approaches in Personalised Long-Term Interactions", Frontiers in Robotics and AI.
+
+Please cite both papers if you are using the datasets; cite the first paper for generic and personalised barista robots based on the datasets; cite the second paper if you are referring to the data-driven dialogue evaluations on the datasets.
 
 ## Data
 
-The format of the dataset is in *FB* in FbDialogTeacher format for ParlAI. There tasks are under folders *train* (train set), *test* (test set), *dev* (development set), *test-OOV* (out of vocabulary set - includes names and drink, size and snack choices which are not present in training, test or development sets). *Task1k* contains 1000 dialogues and *Task10k* contains 10000 dialogues.
+The format of the dataset is in *FB* in FbDialogTeacher format for ParlAI. Tasks are under folders *train* (training set), *test* (test set), *dev* (development set), *test-OOV* (out of vocabulary set - includes names and drink, size and snack choices which are not present in training, test or development sets). *Task1k* contains 1000 dialogues and *Task10k* contains 10000 dialogues.
 
 The data is structured as follows:
 
 ```
-ID user_utterance [tab] bot_utterances
+ID user_utterance [tab] bot_utterance
 ...
 ```
 
-The ID for a given dialogue start at 1 and increase within each dialogue. The goal of the tasks is to predict the bot utterances, which are sentences.
+The *ID* for a given dialogue start at 1 and increase within each dialogue. The goal of the tasks is to predict the bot utterances, which are sentences.
 
-Along with the train, dev and test sets, we also include a file containing the candidates to select the answer from (barista-candidates.txt) for tasks 1-7, that is simply made of all the unique bot utterances in the train, dev, test for these tasks.
+Along with the train, dev and test sets, we also include a file containing the candidates to select the answer from (*barista-candidates.txt*) for tasks 1-7, that is simply made of all the unique bot utterances in the train, dev, test for these tasks.
 
 ## Tasks
 
@@ -116,8 +124,8 @@ This task is the combination of tasks 1 and 5.
 
 ## License
 
-This dataset is released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. A copy of this license is included with the data.
+The Barista datasets are released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. In other words, these datasets are made available for academic research purpose only. A copy of this license is included with the data.
 
 ## Contact
 
-For more details on the dataset and baselines, see the paper "Coffee with a Hint of Data: Towards Using Data-Driven Approaches in Personalised Long-Term Interactions" by Bahar Irfan and Tony Belpaeme, under review at the Frontiers in Robotics and AI journal. For any information, contact Bahar Irfan: bahar.irfan (at) plymouth (dot) ac (dot) uk.
+For any information or for requesting Barista Datasets with different order items, customer names, or larger dataset size, contact Bahar Irfan: bahar.irfan (at) plymouth (dot) ac (dot) uk.

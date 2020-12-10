@@ -1,0 +1,1701 @@
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I get a hot chocolate , please ?		eval_labels:Which size ?
+text:Large , thank you !		eval_labels:Would you like anything else with that ?
+text:Just the drink , please .		eval_labels:So that would be a large hot chocolate . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Kat Dennings .		eval_labels:Your order will be ready at the next counter , Kat .
+False , 101 , Kat Dennings
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 73 , Kevin Costner , small , peppermint hot chocolate , pain au chocolat
+text:Hello !		eval_labels:Hello , Kevin Costner ! Would you like to have a small peppermint hot chocolate and a pain au chocolat again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , Kevin .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:May I get a green tea ?		eval_labels:Which size ?
+text:Medium , please .		eval_labels:Would you like anything else with that ?
+text:Just the drink .		eval_labels:So that would be a medium green tea . Is that right ?
+text:Can I have a cappuccino instead ?		eval_labels:Sure ! So that would be a medium cappuccino . Is that right ?
+text:Sounds good !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Jake Gyllenhaal .		eval_labels:Your order will be ready at the next counter , Jake .
+False , 102 , Jake Gyllenhaal
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 90 , Melissa Joan Hart , medium , espresso con panna
+text:Hello !		eval_labels:Hello , Melissa Joan Hart ! Would you like to have a medium espresso con panna again ?
+text:Please !		eval_labels:Your order will be ready at the next counter , Melissa .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 73 , Kevin Costner , small , peppermint hot chocolate , pain au chocolat
+text:Hey !		eval_labels:Hello , Kevin Costner ! Would you like to have a small peppermint hot chocolate and a pain au chocolat again ?
+text:Absolutely !		eval_labels:Your order will be ready at the next counter , Kevin .
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 4 , Melissa McBride , large , black tea
+text:Hey there !		eval_labels:Hello , Melissa McBride ! Would you like to have a large black tea again ?
+text:That's precisely it !		eval_labels:Your order will be ready at the next counter , Melissa .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a mocha ?		eval_labels:Which size ?
+text:Medium would do .		eval_labels:Would you like anything else with that ?
+text:Yeah , a double chocolate muffin , please .		eval_labels:So that would be a medium mocha and a double chocolate muffin . Is that right ?
+text:That sounds right !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Vera Farmiga .		eval_labels:Your order will be ready at the next counter , Vera .
+False , 103 , Vera Farmiga
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 26 , Anna Torv , large , cordusio , carrot cake
+text:Hello !		eval_labels:Hello , Anna Torv ! Would you like to have a large cordusio and a carrot cake again ?
+text:Yes , thank you !		eval_labels:Your order will be ready at the next counter , Anna .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 34 , Joel McHale , medium , americano
+text:Hello !		eval_labels:Hello , Joel McHale ! Would you like to have a medium americano again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Joel .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a green tea .		eval_labels:Which size ?
+text:Medium would do .		eval_labels:Would you like anything else with that ?
+text:Just the drink , please .		eval_labels:So that would be a medium green tea . Is that right ?
+text:Can I have large , please ?		eval_labels:Sure ! So that would be a large green tea . Is that right ?
+text:Can I get small instead ?		eval_labels:Sure ! So that would be a small green tea . Is that right ?
+text:Indeed !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Paul Wesley .		eval_labels:Your order will be ready at the next counter , Paul .
+False , 104 , Paul Wesley
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 48 , Jonny Lee Miller , medium , espresso macchiato , gingerbread cookie
+text:Hey there !		eval_labels:Hello , Jonny Lee Miller ! Would you like to have a medium espresso macchiato and a gingerbread cookie again ?
+text:Why not ?		eval_labels:Your order will be ready at the next counter , Jonny .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 82 , Kevin Bacon , small , hot chocolate
+text:Hi !		eval_labels:Hello , Kevin Bacon ! Would you like to have a small hot chocolate again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Kevin .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I get an espresso macchiato , please ?		eval_labels:Which size ?
+text:Large would do .		eval_labels:Would you like anything else with that ?
+text:Just the drink .		eval_labels:So that would be a large espresso macchiato . Is that right ?
+text:That sounds right !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Amy Poehler .		eval_labels:Your order will be ready at the next counter , Amy .
+False , 105 , Amy Poehler
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:A mocha , please .		eval_labels:Which size ?
+text:Small .		eval_labels:Would you like anything else with that ?
+text:No , thank you .		eval_labels:So that would be a small mocha . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:James Franco .		eval_labels:Your order will be ready at the next counter , James .
+False , 106 , James Franco
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 41 , Will Smith , large , noisette , croissant
+text:Hey there !		eval_labels:Hello , Will Smith ! Would you like to have a large noisette and a croissant again ?
+text:Exactly ! Nice memory !		eval_labels:Your order will be ready at the next counter , Will .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 75 , Ariana Grande , medium , latte , doughnut
+text:Hi !		eval_labels:Hello , Ariana Grande ! Would you like to have a medium latte and a doughnut again ?
+text:Exactly ! Nice memory !		eval_labels:Your order will be ready at the next counter , Ariana .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a green tea ?		eval_labels:Which size ?
+text:Medium , thank you !		eval_labels:Would you like anything else with that ?
+text:Ah yes , a chocolate caramel shortbread , please .		eval_labels:So that would be a medium green tea and a chocolate caramel shortbread . Is that right ?
+text:I would like an espresso con panna .		eval_labels:Sure ! So that would be a medium espresso con panna and a chocolate caramel shortbread . Is that right ?
+text:No , I would like an almond croissant .		eval_labels:Sure ! So that would be a medium espresso con panna and an almond croissant . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Cobie Smulders .		eval_labels:Your order will be ready at the next counter , Cobie .
+False , 107 , Cobie Smulders
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 102 , Jake Gyllenhaal , medium , cappuccino
+text:Hello !		eval_labels:Hello , Jake Gyllenhaal ! Would you like to have a medium cappuccino again ?
+text:Please !		eval_labels:Your order will be ready at the next counter , Jake .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 11 , Keri Russell , small , Earl Grey
+text:Hey !		eval_labels:Hello , Keri Russell ! Would you like to have a small Earl Grey again ?
+text:Why not ?		eval_labels:Your order will be ready at the next counter , Keri .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 59 , Roseanne Barr , medium , green tea
+text:Hey there !		eval_labels:Hello , Roseanne Barr ! Would you like to have a medium green tea again ?
+text:You know me better !		eval_labels:Your order will be ready at the next counter , Roseanne .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have a breakfast tea ?		eval_labels:Which size ?
+text:Small cup .		eval_labels:Would you like anything else with that ?
+text:No , that is it .		eval_labels:So that would be a small breakfast tea . Is that right ?
+text:That sounds right !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Sofia Vergara .		eval_labels:Your order will be ready at the next counter , Sofia .
+False , 108 , Sofia Vergara
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 96 , Angelina Jolie , large , espresso macchiato
+text:Hey !		eval_labels:Hello , Angelina Jolie ! Would you like to have a large espresso macchiato again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Angelina .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 98 , Johnny Depp , medium , latte , lemon pound cake
+text:Hi !		eval_labels:Hello , Johnny Depp ! Would you like to have a medium latte and a lemon pound cake again ?
+text:You know me better !		eval_labels:Your order will be ready at the next counter , Johnny .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 107 , Cobie Smulders , medium , espresso con panna , almond croissant
+text:Hello !		eval_labels:Hello , Cobie Smulders ! Would you like to have a medium espresso con panna and an almond croissant again ?
+text:Why not ?		eval_labels:Your order will be ready at the next counter , Cobie .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 90 , Melissa Joan Hart , medium , espresso con panna
+text:Hey there !		eval_labels:Hello , Melissa Joan Hart ! Would you like to have a medium espresso con panna again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Melissa .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 46 , Jessica Capshaw , medium , salted caramel hot chocolate
+text:Hello !		eval_labels:Hello , Jessica Capshaw ! Would you like to have a medium salted caramel hot chocolate again ?
+text:What a memory ? I would , yes !		eval_labels:Your order will be ready at the next counter , Jessica .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have a hot chocolate , please ?		eval_labels:Which size ?
+text:Large would do .		eval_labels:Would you like anything else with that ?
+text:I am good .		eval_labels:So that would be a large hot chocolate . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Zachary Levi .		eval_labels:Your order will be ready at the next counter , Zachary .
+False , 109 , Zachary Levi
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 104 , Paul Wesley , small , green tea
+text:Hey there !		eval_labels:Hello , Paul Wesley ! Would you like to have a small green tea again ?
+text:What a memory ? I would , yes !		eval_labels:Your order will be ready at the next counter , Paul .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:I would like a flat white , please .		eval_labels:Which size ?
+text:Large , thank you !		eval_labels:Would you like anything else with that ?
+text:Can I get a croissant ?		eval_labels:So that would be a large flat white and a croissant . Is that right ?
+text:No , I would like a peppermint hot chocolate .		eval_labels:Sure ! So that would be a large peppermint hot chocolate and a croissant . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Edie Falco .		eval_labels:Your order will be ready at the next counter , Edie .
+False , 110 , Edie Falco
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 34 , Joel McHale , medium , americano
+text:Hey !		eval_labels:Hello , Joel McHale ! Would you like to have a medium americano again ?
+text:Yes .		eval_labels:Your order will be ready at the next counter , Joel .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a black tea , please ?		eval_labels:Which size ?
+text:Small , please .		eval_labels:Would you like anything else with that ?
+text:No , that is it .		eval_labels:So that would be a small black tea . Is that right ?
+text:That sounds right !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Elisabeth Moss .		eval_labels:Your order will be ready at the next counter , Elisabeth .
+False , 111 , Elisabeth Moss
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 51 , James Spader , medium , americano , classic oatmeal
+text:Hi !		eval_labels:Hello , James Spader ! Would you like to have a medium americano and a classic oatmeal again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , James .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:A noisette , please .		eval_labels:Which size ?
+text:Small cup .		eval_labels:Would you like anything else with that ?
+text:Just the drink .		eval_labels:So that would be a small noisette . Is that right ?
+text:No , I want a cappuccino .		eval_labels:Sure ! So that would be a small cappuccino . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:John Ritter .		eval_labels:Your order will be ready at the next counter , John .
+False , 112 , John Ritter
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have a black tea , please ?		eval_labels:Which size ?
+text:Large cup .		eval_labels:Would you like anything else with that ?
+text:No .		eval_labels:So that would be a large black tea . Is that right ?
+text:Can I get an Earl Grey instead ?		eval_labels:Sure ! So that would be a large Earl Grey . Is that right ?
+text:Oh I am sorry , but I would like small instead .		eval_labels:Sure ! So that would be a small Earl Grey . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Blake Lively .		eval_labels:Your order will be ready at the next counter , Blake .
+False , 113 , Blake Lively
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 7 , Sarah Wayne Callies , large , hot chocolate , veggie tortilla wrap
+text:Hey !		eval_labels:Hello , Sarah Wayne Callies ! Would you like to have a large hot chocolate and a veggie tortilla wrap again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Sarah .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:May I have an espresso ?		eval_labels:Which size ?
+text:Medium cup .		eval_labels:Would you like anything else with that ?
+text:No .		eval_labels:So that would be a medium espresso . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Lucy Liu .		eval_labels:Your order will be ready at the next counter , Lucy .
+False , 114 , Lucy Liu
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I get a peppermint hot chocolate ?		eval_labels:Which size ?
+text:Medium would do .		eval_labels:Would you like anything else with that ?
+text:No , thank you .		eval_labels:So that would be a medium peppermint hot chocolate . Is that right ?
+text:I think I will switch medium with large .		eval_labels:Sure ! So that would be a large peppermint hot chocolate . Is that right ?
+text:I want small .		eval_labels:Sure ! So that would be a small peppermint hot chocolate . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Lauren Cohan .		eval_labels:Your order will be ready at the next counter , Lauren .
+False , 115 , Lauren Cohan
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a salted caramel hot chocolate , please .		eval_labels:Which size ?
+text:Large .		eval_labels:Would you like anything else with that ?
+text:No .		eval_labels:So that would be a large salted caramel hot chocolate . Is that right ?
+text:Indeed !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Madeleine Stowe .		eval_labels:Your order will be ready at the next counter , Madeleine .
+False , 116 , Madeleine Stowe
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 52 , Lena Dunham , small , cordusio
+text:Hello !		eval_labels:Hello , Lena Dunham ! Would you like to have a small cordusio again ?
+text:Yes .		eval_labels:Your order will be ready at the next counter , Lena .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want an iced hot chocolate , please .		eval_labels:Which size ?
+text:Medium cup .		eval_labels:Would you like anything else with that ?
+text:Ah yes , a chocolate caramel shortbread .		eval_labels:So that would be a medium iced hot chocolate and a chocolate caramel shortbread . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Eric Stonestreet .		eval_labels:Your order will be ready at the next counter , Eric .
+False , 117 , Eric Stonestreet
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 106 , James Franco , small , mocha
+text:Hey there !		eval_labels:Hello , James Franco ! Would you like to have a small mocha again ?
+text:I would .		eval_labels:Your order will be ready at the next counter , James .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 24 , Mindy Kaling , large , mocha , chocolate chip cookie
+text:Hi !		eval_labels:Hello , Mindy Kaling ! Would you like to have a large mocha and a chocolate chip cookie again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , Mindy .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 15 , Chris Colfer , medium , green tea
+text:Hey !		eval_labels:Hello , Chris Colfer ! Would you like to have a medium green tea again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Chris .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 16 , Mark Wahlberg , medium , espresso con panna , veggie tortilla wrap
+text:Hey there !		eval_labels:Hello , Mark Wahlberg ! Would you like to have a medium espresso con panna and a veggie tortilla wrap again ?
+text:Exactly !		eval_labels:Your order will be ready at the next counter , Mark .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:I would like an Earl Grey .		eval_labels:Which size ?
+text:Small , please .		eval_labels:Would you like anything else with that ?
+text:Ah yes , a croissant .		eval_labels:So that would be a small Earl Grey and a croissant . Is that right ?
+text:Yeap .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Julianna Margulies .		eval_labels:Your order will be ready at the next counter , Julianna .
+False , 118 , Julianna Margulies
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a green tea , please ?		eval_labels:Which size ?
+text:Medium , thank you !		eval_labels:Would you like anything else with that ?
+text:Yeah , a carrot cake , please .		eval_labels:So that would be a medium green tea and a carrot cake . Is that right ?
+text:Definitely .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Kate Walsh .		eval_labels:Your order will be ready at the next counter , Kate .
+False , 119 , Kate Walsh
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 56 , Simon Baker , medium , latte
+text:Hey there !		eval_labels:Hello , Simon Baker ! Would you like to have a medium latte again ?
+text:Exactly ! Nice memory !		eval_labels:Your order will be ready at the next counter , Simon .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I get a black tea ?		eval_labels:Which size ?
+text:Medium , please .		eval_labels:Would you like anything else with that ?
+text:No , thanks .		eval_labels:So that would be a medium black tea . Is that right ?
+text:Let's change black tea to an espresso instead .		eval_labels:Sure ! So that would be a medium espresso . Is that right ?
+text:I think I will switch medium with small .		eval_labels:Sure ! So that would be a small espresso . Is that right ?
+text:That sounds right !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Tom Hiddleston .		eval_labels:Your order will be ready at the next counter , Tom .
+False , 120 , Tom Hiddleston
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 62 , Kristen Stewart , small , caramel macchiato
+text:Hi !		eval_labels:Hello , Kristen Stewart ! Would you like to have a small caramel macchiato again ?
+text:You got me ! Yes , please .		eval_labels:Your order will be ready at the next counter , Kristen .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a latte .		eval_labels:Which size ?
+text:Small would do .		eval_labels:Would you like anything else with that ?
+text:That would be it .		eval_labels:So that would be a small latte . Is that right ?
+text:May I get large ?		eval_labels:Sure ! So that would be a large latte . Is that right ?
+text:Indeed !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Bryan Cranston .		eval_labels:Your order will be ready at the next counter , Bryan .
+False , 121 , Bryan Cranston
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 9 , Ellen Pompeo , medium , espresso macchiato , lemon pound cake
+text:Hey !		eval_labels:Hello , Ellen Pompeo ! Would you like to have a medium espresso macchiato and a lemon pound cake again ?
+text:You got me ! Yes , please .		eval_labels:Your order will be ready at the next counter , Ellen .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:May I get a mocha ?		eval_labels:Which size ?
+text:Medium , thank you !		eval_labels:Would you like anything else with that ?
+text:I am good .		eval_labels:So that would be a medium mocha . Is that right ?
+text:That sounds right !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Lana Parrilla .		eval_labels:Your order will be ready at the next counter , Lana .
+False , 122 , Lana Parrilla
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 105 , Amy Poehler , large , espresso macchiato
+text:Hey !		eval_labels:Hello , Amy Poehler ! Would you like to have a large espresso macchiato again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Amy .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have a cordusio ?		eval_labels:Which size ?
+text:Medium , thank you !		eval_labels:Would you like anything else with that ?
+text:A chocolate chip muffin .		eval_labels:So that would be a medium cordusio and a chocolate chip muffin . Is that right ?
+text:Can I have large ?		eval_labels:Sure ! So that would be a large cordusio and a chocolate chip muffin . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Alex O'Loughlin .		eval_labels:Your order will be ready at the next counter , Alex .
+False , 123 , Alex O'Loughlin
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 27 , Jane Lynch , large , espresso con panna
+text:Hey !		eval_labels:Hello , Jane Lynch ! Would you like to have a large espresso con panna again ?
+text:Nice of you to remember ! I would , yes .		eval_labels:Your order will be ready at the next counter , Jane .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 81 , David Schwimmer , large , salted caramel hot chocolate , pain au chocolat
+text:Hey !		eval_labels:Hello , David Schwimmer ! Would you like to have a large salted caramel hot chocolate and a pain au chocolat again ?
+text:Sure .		eval_labels:Your order will be ready at the next counter , David .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I get a white hot chocolate , please ?		eval_labels:Which size ?
+text:Large would do .		eval_labels:Would you like anything else with that ?
+text:I would like a croissant , please .		eval_labels:So that would be a large white hot chocolate and a croissant . Is that right ?
+text:Yeap .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Mary-Louise Parker .		eval_labels:Your order will be ready at the next counter , Mary-Louise .
+False , 124 , Mary-Louise Parker
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 61 , Timothy Olyphant , small , americano , chocolate chip cookie
+text:Hello !		eval_labels:Hello , Timothy Olyphant ! Would you like to have a small americano and a chocolate chip cookie again ?
+text:Exactly ! Nice memory !		eval_labels:Your order will be ready at the next counter , Timothy .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 93 , Sarah Michelle Gellar , large , white hot chocolate , gingerbread cookie
+text:Hey there !		eval_labels:Hello , Sarah Michelle Gellar ! Would you like to have a large white hot chocolate and a gingerbread cookie again ?
+text:Exactly !		eval_labels:Your order will be ready at the next counter , Sarah .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 16 , Mark Wahlberg , medium , espresso con panna , veggie tortilla wrap
+text:Hey there !		eval_labels:Hello , Mark Wahlberg ! Would you like to have a medium espresso con panna and a veggie tortilla wrap again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Mark .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 83 , Jim Caviezel , small , white hot chocolate , chocolate chip muffin
+text:Hey !		eval_labels:Hello , Jim Caviezel ! Would you like to have a small white hot chocolate and a chocolate chip muffin again ?
+text:You got me ! Yes , please .		eval_labels:Your order will be ready at the next counter , Jim .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I get an espresso macchiato ?		eval_labels:Which size ?
+text:Medium .		eval_labels:Would you like anything else with that ?
+text:Can I get a slice of banana bread , please ?		eval_labels:So that would be a medium espresso macchiato and a slice of banana bread . Is that right ?
+text:Yeap .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Joelle Carter .		eval_labels:Your order will be ready at the next counter , Joelle .
+False , 125 , Joelle Carter
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 39 , Stephen Amell , small , salted caramel hot chocolate , doughnut
+text:Hello !		eval_labels:Hello , Stephen Amell ! Would you like to have a small salted caramel hot chocolate and a doughnut again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Stephen .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 57 , Andrew Lincoln , large , noisette , blueberry oatmeal
+text:Hey !		eval_labels:Hello , Andrew Lincoln ! Would you like to have a large noisette and a blueberry oatmeal again ?
+text:You know me better !		eval_labels:Your order will be ready at the next counter , Andrew .
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a cordusio .		eval_labels:Which size ?
+text:Large .		eval_labels:Would you like anything else with that ?
+text:Could I get a gingerbread cookie , please ?		eval_labels:So that would be a large cordusio and a gingerbread cookie . Is that right ?
+text:No , medium .		eval_labels:Sure ! So that would be a medium cordusio and a gingerbread cookie . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Matthew Perry .		eval_labels:Your order will be ready at the next counter , Matthew .
+False , 126 , Matthew Perry
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have an espresso , please ?		eval_labels:Which size ?
+text:Small , thank you !		eval_labels:Would you like anything else with that ?
+text:Yeah , a carrot cake .		eval_labels:So that would be a small espresso and a carrot cake . Is that right ?
+text:Definitely .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Emily Blunt .		eval_labels:Your order will be ready at the next counter , Emily .
+False , 127 , Emily Blunt
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 10 , Norman Reedus , small , americano , pain aux raisins
+text:Hi !		eval_labels:Hello , Norman Reedus ! Would you like to have a small americano and a pain aux raisins again ?
+text:Exactly !		eval_labels:Your order will be ready at the next counter , Norman .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I get a black tea , please ?		eval_labels:Which size ?
+text:Large .		eval_labels:Would you like anything else with that ?
+text:Ah yes , a pain au chocolat , please .		eval_labels:So that would be a large black tea and a pain au chocolat . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Jennifer Carpenter .		eval_labels:Your order will be ready at the next counter , Jennifer .
+False , 128 , Jennifer Carpenter
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 68 , Aaron Paul , medium , caramel macchiato
+text:Hello !		eval_labels:Hello , Aaron Paul ! Would you like to have a medium caramel macchiato again ?
+text:I'm becoming predictable ! But that would do , yes !		eval_labels:Your order will be ready at the next counter , Aaron .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 26 , Anna Torv , large , cordusio , carrot cake
+text:Hey !		eval_labels:Hello , Anna Torv ! Would you like to have a large cordusio and a carrot cake again ?
+text:Nice of you to remember ! I would , yes .		eval_labels:Your order will be ready at the next counter , Anna .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 64 , Jeffrey Donovan , medium , espresso macchiato , doughnut
+text:Hi !		eval_labels:Hello , Jeffrey Donovan ! Would you like to have a medium espresso macchiato and a doughnut again ?
+text:What a memory ? I would , yes !		eval_labels:Your order will be ready at the next counter , Jeffrey .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 69 , Matthew Rhys , large , green tea
+text:Hello !		eval_labels:Hello , Matthew Rhys ! Would you like to have a large green tea again ?
+text:Yes , thank you !		eval_labels:Your order will be ready at the next counter , Matthew .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a peppermint hot chocolate , please .		eval_labels:Which size ?
+text:Large , please .		eval_labels:Would you like anything else with that ?
+text:I am good .		eval_labels:So that would be a large peppermint hot chocolate . Is that right ?
+text:Oh I am sorry , but I would like a black tea instead .		eval_labels:Sure ! So that would be a large black tea . Is that right ?
+text:Indeed !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Misha Collins .		eval_labels:Your order will be ready at the next counter , Misha .
+False , 129 , Misha Collins
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 89 , Ryan Gosling , medium , cordusio , classic oatmeal
+text:Hi !		eval_labels:Hello , Ryan Gosling ! Would you like to have a medium cordusio and a classic oatmeal again ?
+text:Yes , thanks !		eval_labels:Your order will be ready at the next counter , Ryan .
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 24 , Mindy Kaling , large , mocha , chocolate chip cookie
+text:Hey !		eval_labels:Hello , Mindy Kaling ! Would you like to have a large mocha and a chocolate chip cookie again ?
+text:Absolutely !		eval_labels:Your order will be ready at the next counter , Mindy .
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:I would like an espresso , please .		eval_labels:Which size ?
+text:Medium .		eval_labels:Would you like anything else with that ?
+text:No , that is it .		eval_labels:So that would be a medium espresso . Is that right ?
+text:That sounds right !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Jon Cryer .		eval_labels:Your order will be ready at the next counter , Jon .
+False , 130 , Jon Cryer
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 96 , Angelina Jolie , large , espresso macchiato
+text:Hello !		eval_labels:Hello , Angelina Jolie ! Would you like to have a large espresso macchiato again ?
+text:What a memory ? I would , yes !		eval_labels:Your order will be ready at the next counter , Angelina .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I get a salted caramel hot chocolate ?		eval_labels:Which size ?
+text:Medium .		eval_labels:Would you like anything else with that ?
+text:An almond croissant .		eval_labels:So that would be a medium salted caramel hot chocolate and an almond croissant . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Jared Padalecki .		eval_labels:Your order will be ready at the next counter , Jared .
+False , 131 , Jared Padalecki
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 113 , Blake Lively , small , Earl Grey
+text:Hey there !		eval_labels:Hello , Blake Lively ! Would you like to have a small Earl Grey again ?
+text:That's precisely it !		eval_labels:Your order will be ready at the next counter , Blake .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a noisette .		eval_labels:Which size ?
+text:Large , please .		eval_labels:Would you like anything else with that ?
+text:Hmm , a blueberry muffin .		eval_labels:So that would be a large noisette and a blueberry muffin . Is that right ?
+text:Erm , I would like a croissant actually .		eval_labels:Sure ! So that would be a large noisette and a croissant . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Ming-Na Wen .		eval_labels:Your order will be ready at the next counter , Ming-Na .
+False , 132 , Ming-Na Wen
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 50 , Ginnifer Goodwin , medium , espresso macchiato , breakfast tortilla wrap
+text:Hey there !		eval_labels:Hello , Ginnifer Goodwin ! Would you like to have a medium espresso macchiato and a breakfast tortilla wrap again ?
+text:Sure .		eval_labels:Your order will be ready at the next counter , Ginnifer .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 28 , Taylor Schilling , medium , espresso , carrot cake
+text:Hello !		eval_labels:Hello , Taylor Schilling ! Would you like to have a medium espresso and a carrot cake again ?
+text:Yes , thanks !		eval_labels:Your order will be ready at the next counter , Taylor .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 132 , Ming-Na Wen , large , noisette , croissant
+text:Hey there !		eval_labels:Hello , Ming-Na Wen ! Would you like to have a large noisette and a croissant again ?
+text:Please !		eval_labels:Your order will be ready at the next counter , Ming-Na .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a cordusio ?		eval_labels:Which size ?
+text:Small .		eval_labels:Would you like anything else with that ?
+text:An everything bagel , please .		eval_labels:So that would be a small cordusio and an everything bagel . Is that right ?
+text:That sounds right !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Liam Hemsworth .		eval_labels:Your order will be ready at the next counter , Liam .
+False , 133 , Liam Hemsworth
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 80 , Cote de Pablo , large , white hot chocolate , plain bagel
+text:Hello !		eval_labels:Hello , Cote de Pablo ! Would you like to have a large white hot chocolate and a plain bagel again ?
+text:Absolutely !		eval_labels:Your order will be ready at the next counter , Cote .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 75 , Ariana Grande , medium , latte , doughnut
+text:Hey !		eval_labels:Hello , Ariana Grande ! Would you like to have a medium latte and a doughnut again ?
+text:Why not ?		eval_labels:Your order will be ready at the next counter , Ariana .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have a green tea ?		eval_labels:Which size ?
+text:Small would do .		eval_labels:Would you like anything else with that ?
+text:I am good .		eval_labels:So that would be a small green tea . Is that right ?
+text:Sounds good !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Cybill Shepherd .		eval_labels:Your order will be ready at the next counter , Cybill .
+False , 134 , Cybill Shepherd
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 20 , Troian Bellisario , large , mocha
+text:Hey there !		eval_labels:Hello , Troian Bellisario ! Would you like to have a large mocha again ?
+text:Please !		eval_labels:Your order will be ready at the next counter , Troian .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 79 , Leighton Meester , large , green tea , pain au chocolat
+text:Hey there !		eval_labels:Hello , Leighton Meester ! Would you like to have a large green tea and a pain au chocolat again ?
+text:Why not ?		eval_labels:Your order will be ready at the next counter , Leighton .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 121 , Bryan Cranston , large , latte
+text:Hello !		eval_labels:Hello , Bryan Cranston ! Would you like to have a large latte again ?
+text:That's precisely it !		eval_labels:Your order will be ready at the next counter , Bryan .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 20 , Troian Bellisario , large , mocha
+text:Hey !		eval_labels:Hello , Troian Bellisario ! Would you like to have a large mocha again ?
+text:Please !		eval_labels:Your order will be ready at the next counter , Troian .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 92 , Noah Wyle , large , mocha , chocolate chip muffin
+text:Hello !		eval_labels:Hello , Noah Wyle ! Would you like to have a large mocha and a chocolate chip muffin again ?
+text:That's precisely it !		eval_labels:Your order will be ready at the next counter , Noah .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 97 , Jake Johnson , large , black tea
+text:Hello !		eval_labels:Hello , Jake Johnson ! Would you like to have a large black tea again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Jake .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:May I get a cappuccino ?		eval_labels:Which size ?
+text:Small , please .		eval_labels:Would you like anything else with that ?
+text:May I get a doughnut ?		eval_labels:So that would be a small cappuccino and a doughnut . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Courteney Cox .		eval_labels:Your order will be ready at the next counter , Courteney .
+False , 135 , Courteney Cox
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:A noisette , please .		eval_labels:Which size ?
+text:Small would do .		eval_labels:Would you like anything else with that ?
+text:Just the drink .		eval_labels:So that would be a small noisette . Is that right ?
+text:Can I get large ?		eval_labels:Sure ! So that would be a large noisette . Is that right ?
+text:May I have a mocha ?		eval_labels:Sure ! So that would be a large mocha . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Emily VanCamp .		eval_labels:Your order will be ready at the next counter , Emily .
+False , 136 , Emily VanCamp
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 117 , Eric Stonestreet , medium , iced hot chocolate , chocolate caramel shortbread
+text:Hey there !		eval_labels:Hello , Eric Stonestreet ! Would you like to have a medium iced hot chocolate and a chocolate caramel shortbread again ?
+text:Please !		eval_labels:Your order will be ready at the next counter , Eric .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 85 , Matt Smith , small , black tea
+text:Hey there !		eval_labels:Hello , Matt Smith ! Would you like to have a small black tea again ?
+text:Yes .		eval_labels:Your order will be ready at the next counter , Matt .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a noisette , please ?		eval_labels:Which size ?
+text:Large , please .		eval_labels:Would you like anything else with that ?
+text:Could I get a double chocolate muffin ?		eval_labels:So that would be a large noisette and a double chocolate muffin . Is that right ?
+text:Can I get medium ?		eval_labels:Sure ! So that would be a medium noisette and a double chocolate muffin . Is that right ?
+text:Let's change medium to small instead .		eval_labels:Sure ! So that would be a small noisette and a double chocolate muffin . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Simon Helberg .		eval_labels:Your order will be ready at the next counter , Simon .
+False , 137 , Simon Helberg
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 130 , Jon Cryer , medium , espresso
+text:Hey there !		eval_labels:Hello , Jon Cryer ! Would you like to have a medium espresso again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , Jon .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 91 , Angie Harmon , medium , green tea , double chocolate muffin
+text:Hi !		eval_labels:Hello , Angie Harmon ! Would you like to have a medium green tea and a double chocolate muffin again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , Angie .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 2 , Kiefer Sutherland , medium , latte , breakfast tortilla wrap
+text:Hi !		eval_labels:Hello , Kiefer Sutherland ! Would you like to have a medium latte and a breakfast tortilla wrap again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Kiefer .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want an americano .		eval_labels:Which size ?
+text:Large cup .		eval_labels:Would you like anything else with that ?
+text:No , thanks .		eval_labels:So that would be a large americano . Is that right ?
+text:Can I get medium ?		eval_labels:Sure ! So that would be a medium americano . Is that right ?
+text:Erm , I would like small actually .		eval_labels:Sure ! So that would be a small americano . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Kevin McKidd .		eval_labels:Your order will be ready at the next counter , Kevin .
+False , 138 , Kevin McKidd
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have a caramel macchiato ?		eval_labels:Which size ?
+text:Small .		eval_labels:Would you like anything else with that ?
+text:I would like a slice of banana bread , please .		eval_labels:So that would be a small caramel macchiato and a slice of banana bread . Is that right ?
+text:Can I get large , please ?		eval_labels:Sure ! So that would be a large caramel macchiato and a slice of banana bread . Is that right ?
+text:Sounds good !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Ed O'Neill .		eval_labels:Your order will be ready at the next counter , Ed .
+False , 139 , Ed O'Neill
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 72 , Ty Burrell , medium , Earl Grey
+text:Hello !		eval_labels:Hello , Ty Burrell ! Would you like to have a medium Earl Grey again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Ty .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I get a hot chocolate , please ?		eval_labels:Which size ?
+text:Small would do .		eval_labels:Would you like anything else with that ?
+text:No , thank you .		eval_labels:So that would be a small hot chocolate . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Connie Britton .		eval_labels:Your order will be ready at the next counter , Connie .
+False , 140 , Connie Britton
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 91 , Angie Harmon , medium , green tea , double chocolate muffin
+text:Hey !		eval_labels:Hello , Angie Harmon ! Would you like to have a medium green tea and a double chocolate muffin again ?
+text:You got me ! Yes , please .		eval_labels:Your order will be ready at the next counter , Angie .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 58 , Miles Teller , medium , mocha
+text:Hey there !		eval_labels:Hello , Miles Teller ! Would you like to have a medium mocha again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Miles .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 1 , David Boreanaz , large , black tea , chocolate caramel shortbread
+text:Hi !		eval_labels:Hello , David Boreanaz ! Would you like to have a large black tea and a chocolate caramel shortbread again ?
+text:Definitely !		eval_labels:Your order will be ready at the next counter , David .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 63 , John Noble , large , caramel macchiato
+text:Hey there !		eval_labels:Hello , John Noble ! Would you like to have a large caramel macchiato again ?
+text:Yes , thank you !		eval_labels:Your order will be ready at the next counter , John .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 61 , Timothy Olyphant , small , americano , chocolate chip cookie
+text:Hey !		eval_labels:Hello , Timothy Olyphant ! Would you like to have a small americano and a chocolate chip cookie again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Timothy .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:I would like a peppermint hot chocolate .		eval_labels:Which size ?
+text:Small would do .		eval_labels:Would you like anything else with that ?
+text:May I get a chocolate chip muffin ?		eval_labels:So that would be a small peppermint hot chocolate and a chocolate chip muffin . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Shailene Woodley .		eval_labels:Your order will be ready at the next counter , Shailene .
+False , 141 , Shailene Woodley
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 101 , Kat Dennings , large , hot chocolate
+text:Hello !		eval_labels:Hello , Kat Dennings ! Would you like to have a large hot chocolate again ?
+text:Definitely !		eval_labels:Your order will be ready at the next counter , Kat .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:An espresso macchiato , please .		eval_labels:Which size ?
+text:Large , please .		eval_labels:Would you like anything else with that ?
+text:I am good .		eval_labels:So that would be a large espresso macchiato . Is that right ?
+text:I think I will switch espresso macchiato with a hot chocolate .		eval_labels:Sure ! So that would be a large hot chocolate . Is that right ?
+text:May I have medium ?		eval_labels:Sure ! So that would be a medium hot chocolate . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Yvette Nicole Brown .		eval_labels:Your order will be ready at the next counter , Yvette .
+False , 142 , Yvette Nicole Brown
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 35 , Sandra Oh , small , americano
+text:Hello !		eval_labels:Hello , Sandra Oh ! Would you like to have a small americano again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Sandra .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I get an iced hot chocolate , please ?		eval_labels:Which size ?
+text:Large .		eval_labels:Would you like anything else with that ?
+text:Ah yes , a pain au chocolat .		eval_labels:So that would be a large iced hot chocolate and a pain au chocolat . Is that right ?
+text:May I have medium ?		eval_labels:Sure ! So that would be a medium iced hot chocolate and a pain au chocolat . Is that right ?
+text:Oh I am sorry , but I would like small instead .		eval_labels:Sure ! So that would be a small iced hot chocolate and a pain au chocolat . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Gary Coleman .		eval_labels:Your order will be ready at the next counter , Gary .
+False , 143 , Gary Coleman
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 126 , Matthew Perry , medium , cordusio , gingerbread cookie
+text:Hi !		eval_labels:Hello , Matthew Perry ! Would you like to have a medium cordusio and a gingerbread cookie again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Matthew .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a hot chocolate , please .		eval_labels:Which size ?
+text:Large cup .		eval_labels:Would you like anything else with that ?
+text:No , that is it .		eval_labels:So that would be a large hot chocolate . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Stana Katic .		eval_labels:Your order will be ready at the next counter , Stana .
+False , 144 , Stana Katic
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 62 , Kristen Stewart , small , caramel macchiato
+text:Hey there !		eval_labels:Hello , Kristen Stewart ! Would you like to have a small caramel macchiato again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , Kristen .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 63 , John Noble , large , caramel macchiato
+text:Hey there !		eval_labels:Hello , John Noble ! Would you like to have a large caramel macchiato again ?
+text:That's precisely it !		eval_labels:Your order will be ready at the next counter , John .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 85 , Matt Smith , small , black tea
+text:Hello !		eval_labels:Hello , Matt Smith ! Would you like to have a small black tea again ?
+text:Sure .		eval_labels:Your order will be ready at the next counter , Matt .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a caramel macchiato , please .		eval_labels:Which size ?
+text:Large cup .		eval_labels:Would you like anything else with that ?
+text:No , that is it .		eval_labels:So that would be a large caramel macchiato . Is that right ?
+text:Hmm , can I change to a white hot chocolate instead ?		eval_labels:Sure ! So that would be a large white hot chocolate . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Helen Hunt .		eval_labels:Your order will be ready at the next counter , Helen .
+False , 145 , Helen Hunt
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:May I get a black tea ?		eval_labels:Which size ?
+text:Medium .		eval_labels:Would you like anything else with that ?
+text:No , thank you .		eval_labels:So that would be a medium black tea . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Mark Ruffalo .		eval_labels:Your order will be ready at the next counter , Mark .
+False , 146 , Mark Ruffalo
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 111 , Elisabeth Moss , small , black tea
+text:Hello !		eval_labels:Hello , Elisabeth Moss ! Would you like to have a small black tea again ?
+text:Absolutely !		eval_labels:Your order will be ready at the next counter , Elisabeth .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:May I have a noisette ?		eval_labels:Which size ?
+text:Large .		eval_labels:Would you like anything else with that ?
+text:That would be it .		eval_labels:So that would be a large noisette . Is that right ?
+text:Can I have small ?		eval_labels:Sure ! So that would be a small noisette . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Zooey Deschanel .		eval_labels:Your order will be ready at the next counter , Zooey .
+False , 147 , Zooey Deschanel
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 69 , Matthew Rhys , large , green tea
+text:Hello !		eval_labels:Hello , Matthew Rhys ! Would you like to have a large green tea again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Matthew .
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 116 , Madeleine Stowe , large , salted caramel hot chocolate
+text:Hey !		eval_labels:Hello , Madeleine Stowe ! Would you like to have a large salted caramel hot chocolate again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Madeleine .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I get a white hot chocolate ?		eval_labels:Which size ?
+text:Medium would do .		eval_labels:Would you like anything else with that ?
+text:A chocolate caramel shortbread .		eval_labels:So that would be a medium white hot chocolate and a chocolate caramel shortbread . Is that right ?
+text:Can I get large ?		eval_labels:Sure ! So that would be a large white hot chocolate and a chocolate caramel shortbread . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Pauley Perrette .		eval_labels:Your order will be ready at the next counter , Pauley .
+False , 148 , Pauley Perrette
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 29 , Jesse Tyler Ferguson , large , noisette , lemon pound cake
+text:Hello !		eval_labels:Hello , Jesse Tyler Ferguson ! Would you like to have a large noisette and a lemon pound cake again ?
+text:Exactly ! Nice memory !		eval_labels:Your order will be ready at the next counter , Jesse .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 53 , Robert Pattinson , small , latte
+text:Hi !		eval_labels:Hello , Robert Pattinson ! Would you like to have a small latte again ?
+text:Definitely !		eval_labels:Your order will be ready at the next counter , Robert .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 131 , Jared Padalecki , medium , salted caramel hot chocolate , almond croissant
+text:Hey !		eval_labels:Hello , Jared Padalecki ! Would you like to have a medium salted caramel hot chocolate and an almond croissant again ?
+text:Please !		eval_labels:Your order will be ready at the next counter , Jared .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a hot chocolate , please ?		eval_labels:Which size ?
+text:Medium , please .		eval_labels:Would you like anything else with that ?
+text:Can I get an almond croissant ?		eval_labels:So that would be a medium hot chocolate and an almond croissant . Is that right ?
+text:No , large .		eval_labels:Sure ! So that would be a large hot chocolate and an almond croissant . Is that right ?
+text:Can I have an americano , please ?		eval_labels:Sure ! So that would be a large americano and an almond croissant . Is that right ?
+text:Yeap .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:David Giuntoli .		eval_labels:Your order will be ready at the next counter , David .
+False , 149 , David Giuntoli
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 14 , Alyson Hannigan , medium , latte
+text:Hey there !		eval_labels:Hello , Alyson Hannigan ! Would you like to have a medium latte again ?
+text:Yes , thanks !		eval_labels:Your order will be ready at the next counter , Alyson .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 1 , David Boreanaz , large , black tea , chocolate caramel shortbread
+text:Hey there !		eval_labels:Hello , David Boreanaz ! Would you like to have a large black tea and a chocolate caramel shortbread again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , David .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 4 , Melissa McBride , large , black tea
+text:Hi !		eval_labels:Hello , Melissa McBride ! Would you like to have a large black tea again ?
+text:Yeah .		eval_labels:Your order will be ready at the next counter , Melissa .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 109 , Zachary Levi , large , hot chocolate
+text:Hey there !		eval_labels:Hello , Zachary Levi ! Would you like to have a large hot chocolate again ?
+text:What a memory ? I would , yes !		eval_labels:Your order will be ready at the next counter , Zachary .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 120 , Tom Hiddleston , small , espresso
+text:Hi !		eval_labels:Hello , Tom Hiddleston ! Would you like to have a small espresso again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Tom .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I get a hot chocolate , please ?		eval_labels:Which size ?
+text:Medium .		eval_labels:Would you like anything else with that ?
+text:No , thank you .		eval_labels:So that would be a medium hot chocolate . Is that right ?
+text:No , I would like a salted caramel hot chocolate .		eval_labels:Sure ! So that would be a medium salted caramel hot chocolate . Is that right ?
+text:Hmm , can I change to large instead ?		eval_labels:Sure ! So that would be a large salted caramel hot chocolate . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Tom Mison .		eval_labels:Your order will be ready at the next counter , Tom .
+False , 150 , Tom Mison
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 110 , Edie Falco , large , peppermint hot chocolate , croissant
+text:Hey !		eval_labels:Hello , Edie Falco ! Would you like to have a large peppermint hot chocolate and a croissant again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Edie .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 142 , Yvette Nicole Brown , medium , hot chocolate
+text:Hey !		eval_labels:Hello , Yvette Nicole Brown ! Would you like to have a medium hot chocolate again ?
+text:Yes .		eval_labels:Your order will be ready at the next counter , Yvette .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 103 , Vera Farmiga , medium , mocha , double chocolate muffin
+text:Hey there !		eval_labels:Hello , Vera Farmiga ! Would you like to have a medium mocha and a double chocolate muffin again ?
+text:Sure .		eval_labels:Your order will be ready at the next counter , Vera .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 148 , Pauley Perrette , large , white hot chocolate , chocolate caramel shortbread
+text:Hey !		eval_labels:Hello , Pauley Perrette ! Would you like to have a large white hot chocolate and a chocolate caramel shortbread again ?
+text:Why not ?		eval_labels:Your order will be ready at the next counter , Pauley .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I get a noisette ?		eval_labels:Which size ?
+text:Large .		eval_labels:Would you like anything else with that ?
+text:I am good .		eval_labels:So that would be a large noisette . Is that right ?
+text:I would like a green tea .		eval_labels:Sure ! So that would be a large green tea . Is that right ?
+text:That sounds right !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Penn Badgley .		eval_labels:Your order will be ready at the next counter , Penn .
+False , 151 , Penn Badgley
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 44 , Charlize Theron , small , flat white , classic oatmeal
+text:Hello !		eval_labels:Hello , Charlize Theron ! Would you like to have a small flat white and a classic oatmeal again ?
+text:Alright .		eval_labels:Your order will be ready at the next counter , Charlize .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a cordusio ?		eval_labels:Which size ?
+text:Large , thank you !		eval_labels:Would you like anything else with that ?
+text:An almond croissant .		eval_labels:So that would be a large cordusio and an almond croissant . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Christina Hendricks .		eval_labels:Your order will be ready at the next counter , Christina .
+False , 152 , Christina Hendricks
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have an espresso , please ?		eval_labels:Which size ?
+text:Large cup .		eval_labels:Would you like anything else with that ?
+text:Just the drink .		eval_labels:So that would be a large espresso . Is that right ?
+text:Actually , I would like medium instead .		eval_labels:Sure ! So that would be a medium espresso . Is that right ?
+text:Can I have small instead ?		eval_labels:Sure ! So that would be a small espresso . Is that right ?
+text:Definitely .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Jennifer Aniston .		eval_labels:Your order will be ready at the next counter , Jennifer .
+False , 153 , Jennifer Aniston
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 79 , Leighton Meester , large , green tea , pain au chocolat
+text:Hi !		eval_labels:Hello , Leighton Meester ! Would you like to have a large green tea and a pain au chocolat again ?
+text:Definitely !		eval_labels:Your order will be ready at the next counter , Leighton .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a mocha .		eval_labels:Which size ?
+text:Large .		eval_labels:Would you like anything else with that ?
+text:I am good .		eval_labels:So that would be a large mocha . Is that right ?
+text:That sounds right !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Michael Hall .		eval_labels:Your order will be ready at the next counter , Michael .
+False , 154 , Michael Hall
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 78 , Julie Bowen , medium , mocha , double chocolate muffin
+text:Hello !		eval_labels:Hello , Julie Bowen ! Would you like to have a medium mocha and a double chocolate muffin again ?
+text:I would .		eval_labels:Your order will be ready at the next counter , Julie .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 39 , Stephen Amell , small , salted caramel hot chocolate , doughnut
+text:Hello !		eval_labels:Hello , Stephen Amell ! Would you like to have a small salted caramel hot chocolate and a doughnut again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Stephen .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 7 , Sarah Wayne Callies , large , hot chocolate , veggie tortilla wrap
+text:Hey there !		eval_labels:Hello , Sarah Wayne Callies ! Would you like to have a large hot chocolate and a veggie tortilla wrap again ?
+text:That's precisely it !		eval_labels:Your order will be ready at the next counter , Sarah .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 119 , Kate Walsh , medium , green tea , carrot cake
+text:Hi !		eval_labels:Hello , Kate Walsh ! Would you like to have a medium green tea and a carrot cake again ?
+text:What a memory ? I would , yes !		eval_labels:Your order will be ready at the next counter , Kate .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 137 , Simon Helberg , small , noisette , double chocolate muffin
+text:Hey there !		eval_labels:Hello , Simon Helberg ! Would you like to have a small noisette and a double chocolate muffin again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Simon .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:May I get a green tea ?		eval_labels:Which size ?
+text:Medium would do .		eval_labels:Would you like anything else with that ?
+text:May I get a pain au chocolat ?		eval_labels:So that would be a medium green tea and a pain au chocolat . Is that right ?
+text:Can I have small instead ?		eval_labels:Sure ! So that would be a small green tea and a pain au chocolat . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Joseph Gordon-Levitt .		eval_labels:Your order will be ready at the next counter , Joseph .
+False , 155 , Joseph Gordon-Levitt
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 83 , Jim Caviezel , small , white hot chocolate , chocolate chip muffin
+text:Hi !		eval_labels:Hello , Jim Caviezel ! Would you like to have a small white hot chocolate and a chocolate chip muffin again ?
+text:Why not ?		eval_labels:Your order will be ready at the next counter , Jim .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 138 , Kevin McKidd , small , americano
+text:Hello !		eval_labels:Hello , Kevin McKidd ! Would you like to have a small americano again ?
+text:Yes , thanks !		eval_labels:Your order will be ready at the next counter , Kevin .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 128 , Jennifer Carpenter , large , black tea , pain au chocolat
+text:Hello !		eval_labels:Hello , Jennifer Carpenter ! Would you like to have a large black tea and a pain au chocolat again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Jennifer .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 65 , Shane West , medium , latte , croissant
+text:Hey !		eval_labels:Hello , Shane West ! Would you like to have a medium latte and a croissant again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Shane .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have a black tea , please ?		eval_labels:Which size ?
+text:Large cup .		eval_labels:Would you like anything else with that ?
+text:Could I get a lemon pound cake ?		eval_labels:So that would be a large black tea and a lemon pound cake . Is that right ?
+text:Definitely .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Megan Boone .		eval_labels:Your order will be ready at the next counter , Megan .
+False , 156 , Megan Boone
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 82 , Kevin Bacon , small , hot chocolate
+text:Hi !		eval_labels:Hello , Kevin Bacon ! Would you like to have a small hot chocolate again ?
+text:Why not ?		eval_labels:Your order will be ready at the next counter , Kevin .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 10 , Norman Reedus , small , americano , pain aux raisins
+text:Hi !		eval_labels:Hello , Norman Reedus ! Would you like to have a small americano and a pain aux raisins again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Norman .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 155 , Joseph Gordon-Levitt , small , green tea , pain au chocolat
+text:Hey !		eval_labels:Hello , Joseph Gordon-Levitt ! Would you like to have a small green tea and a pain au chocolat again ?
+text:I would .		eval_labels:Your order will be ready at the next counter , Joseph .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 140 , Connie Britton , small , hot chocolate
+text:Hey there !		eval_labels:Hello , Connie Britton ! Would you like to have a small hot chocolate again ?
+text:I'm becoming predictable ! But that would do , yes !		eval_labels:Your order will be ready at the next counter , Connie .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 88 , Brad Pitt , small , iced hot chocolate , almond croissant
+text:Hey there !		eval_labels:Hello , Brad Pitt ! Would you like to have a small iced hot chocolate and an almond croissant again ?
+text:You got me ! Yes , please .		eval_labels:Your order will be ready at the next counter , Brad .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 95 , Chloe Grace Moretz , large , cordusio
+text:Hey !		eval_labels:Hello , Chloe Grace Moretz ! Would you like to have a large cordusio again ?
+text:That's precisely it !		eval_labels:Your order will be ready at the next counter , Chloe .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 147 , Zooey Deschanel , small , noisette
+text:Hey !		eval_labels:Hello , Zooey Deschanel ! Would you like to have a small noisette again ?
+text:Absolutely !		eval_labels:Your order will be ready at the next counter , Zooey .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have an americano , please ?		eval_labels:Which size ?
+text:Small cup .		eval_labels:Would you like anything else with that ?
+text:Yeah , a plain bagel .		eval_labels:So that would be a small americano and a plain bagel . Is that right ?
+text:No , I want a cordusio .		eval_labels:Sure ! So that would be a small cordusio and a plain bagel . Is that right ?
+text:I want a chocolate chip cookie .		eval_labels:Sure ! So that would be a small cordusio and a chocolate chip cookie . Is that right ?
+text:Definitely .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Anna Paquin .		eval_labels:Your order will be ready at the next counter , Anna .
+False , 157 , Anna Paquin
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I get an Earl Grey , please ?		eval_labels:Which size ?
+text:Medium cup .		eval_labels:Would you like anything else with that ?
+text:A gingerbread cookie , please .		eval_labels:So that would be a medium Earl Grey and a gingerbread cookie . Is that right ?
+text:Sounds good !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Jessica Pare .		eval_labels:Your order will be ready at the next counter , Jessica .
+False , 158 , Jessica Pare
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 87 , Matthew McConaughey , large , flat white
+text:Hey there !		eval_labels:Hello , Matthew McConaughey ! Would you like to have a large flat white again ?
+text:Definitely !		eval_labels:Your order will be ready at the next counter , Matthew .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 94 , Kodi Smit-McPhee , large , breakfast tea
+text:Hey !		eval_labels:Hello , Kodi Smit-McPhee ! Would you like to have a large breakfast tea again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Kodi .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 141 , Shailene Woodley , small , peppermint hot chocolate , chocolate chip muffin
+text:Hi !		eval_labels:Hello , Shailene Woodley ! Would you like to have a small peppermint hot chocolate and a chocolate chip muffin again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , Shailene .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a cappuccino ?		eval_labels:Which size ?
+text:Medium cup .		eval_labels:Would you like anything else with that ?
+text:A double chocolate muffin , please .		eval_labels:So that would be a medium cappuccino and a double chocolate muffin . Is that right ?
+text:Indeed !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Jennifer Morrison .		eval_labels:Your order will be ready at the next counter , Jennifer .
+False , 159 , Jennifer Morrison
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I get a latte ?		eval_labels:Which size ?
+text:Medium , please .		eval_labels:Would you like anything else with that ?
+text:That is it .		eval_labels:So that would be a medium latte . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Chris Hemsworth .		eval_labels:Your order will be ready at the next counter , Chris .
+False , 160 , Chris Hemsworth
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 33 , Emily Deschanel , large , white hot chocolate
+text:Hi !		eval_labels:Hello , Emily Deschanel ! Would you like to have a large white hot chocolate again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , Emily .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 125 , Joelle Carter , medium , espresso macchiato , slice of banana bread
+text:Hey there !		eval_labels:Hello , Joelle Carter ! Would you like to have a medium espresso macchiato and a slice of banana bread again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Joelle .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 45 , Teri Hatcher , large , espresso , everything bagel
+text:Hi !		eval_labels:Hello , Teri Hatcher ! Would you like to have a large espresso and an everything bagel again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Teri .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 94 , Kodi Smit-McPhee , large , breakfast tea
+text:Hey there !		eval_labels:Hello , Kodi Smit-McPhee ! Would you like to have a large breakfast tea again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Kodi .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 6 , America Ferrera , large , peppermint hot chocolate
+text:Hey there !		eval_labels:Hello , America Ferrera ! Would you like to have a large peppermint hot chocolate again ?
+text:Sure .		eval_labels:Your order will be ready at the next counter , America .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 56 , Simon Baker , medium , latte
+text:Hi !		eval_labels:Hello , Simon Baker ! Would you like to have a medium latte again ?
+text:Absolutely !		eval_labels:Your order will be ready at the next counter , Simon .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 159 , Jennifer Morrison , medium , cappuccino , double chocolate muffin
+text:Hey there !		eval_labels:Hello , Jennifer Morrison ! Would you like to have a medium cappuccino and a double chocolate muffin again ?
+text:You got me ! Yes , please .		eval_labels:Your order will be ready at the next counter , Jennifer .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:An espresso con panna , please .		eval_labels:Which size ?
+text:Large , thank you !		eval_labels:Would you like anything else with that ?
+text:Yeah , a blueberry oatmeal .		eval_labels:So that would be a large espresso con panna and a blueberry oatmeal . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Julianne Moore .		eval_labels:Your order will be ready at the next counter , Julianne .
+False , 161 , Julianne Moore
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 71 , Paul Reiser , small , peppermint hot chocolate , lemon pound cake
+text:Hello !		eval_labels:Hello , Paul Reiser ! Would you like to have a small peppermint hot chocolate and a lemon pound cake again ?
+text:Yes , thank you !		eval_labels:Your order will be ready at the next counter , Paul .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 48 , Jonny Lee Miller , medium , espresso macchiato , gingerbread cookie
+text:Hey there !		eval_labels:Hello , Jonny Lee Miller ! Would you like to have a medium espresso macchiato and a gingerbread cookie again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Jonny .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 44 , Charlize Theron , small , flat white , classic oatmeal
+text:Hi !		eval_labels:Hello , Charlize Theron ! Would you like to have a small flat white and a classic oatmeal again ?
+text:Absolutely !		eval_labels:Your order will be ready at the next counter , Charlize .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 135 , Courteney Cox , small , cappuccino , doughnut
+text:Hi !		eval_labels:Hello , Courteney Cox ! Would you like to have a small cappuccino and a doughnut again ?
+text:Please !		eval_labels:Your order will be ready at the next counter , Courteney .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 53 , Robert Pattinson , small , latte
+text:Hello !		eval_labels:Hello , Robert Pattinson ! Would you like to have a small latte again ?
+text:I'm becoming predictable ! But that would do , yes !		eval_labels:Your order will be ready at the next counter , Robert .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 133 , Liam Hemsworth , small , cordusio , everything bagel
+text:Hi !		eval_labels:Hello , Liam Hemsworth ! Would you like to have a small cordusio and an everything bagel again ?
+text:Absolutely !		eval_labels:Your order will be ready at the next counter , Liam .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a green tea , please ?		eval_labels:Which size ?
+text:Large would do .		eval_labels:Would you like anything else with that ?
+text:Yeah , a gingerbread cookie , please .		eval_labels:So that would be a large green tea and a gingerbread cookie . Is that right ?
+text:Can I get a chocolate chip cookie , please ?		eval_labels:Sure ! So that would be a large green tea and a chocolate chip cookie . Is that right ?
+text:Yeap .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Ian Somerhalder .		eval_labels:Your order will be ready at the next counter , Ian .
+False , 162 , Ian Somerhalder
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 14 , Alyson Hannigan , medium , latte
+text:Hello !		eval_labels:Hello , Alyson Hannigan ! Would you like to have a medium latte again ?
+text:Definitely !		eval_labels:Your order will be ready at the next counter , Alyson .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a peppermint hot chocolate .		eval_labels:Which size ?
+text:Medium , please .		eval_labels:Would you like anything else with that ?
+text:Just the drink , please .		eval_labels:So that would be a medium peppermint hot chocolate . Is that right ?
+text:Erm , I would like small actually .		eval_labels:Sure ! So that would be a small peppermint hot chocolate . Is that right ?
+text:Indeed !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:January Jones .		eval_labels:Your order will be ready at the next counter , January .
+False , 163 , January Jones
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 143 , Gary Coleman , small , iced hot chocolate , pain au chocolat
+text:Hey there !		eval_labels:Hello , Gary Coleman ! Would you like to have a small iced hot chocolate and a pain au chocolat again ?
+text:Exactly ! Nice memory !		eval_labels:Your order will be ready at the next counter , Gary .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 158 , Jessica Pare , medium , Earl Grey , gingerbread cookie
+text:Hello !		eval_labels:Hello , Jessica Pare ! Would you like to have a medium Earl Grey and a gingerbread cookie again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Jessica .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a peppermint hot chocolate ?		eval_labels:Which size ?
+text:Small .		eval_labels:Would you like anything else with that ?
+text:Just the drink , please .		eval_labels:So that would be a small peppermint hot chocolate . Is that right ?
+text:That sounds right !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Piper Perabo .		eval_labels:Your order will be ready at the next counter , Piper .
+False , 164 , Piper Perabo
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 81 , David Schwimmer , large , salted caramel hot chocolate , pain au chocolat
+text:Hello !		eval_labels:Hello , David Schwimmer ! Would you like to have a large salted caramel hot chocolate and a pain au chocolat again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , David .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 70 , Joel Kinnaman , large , breakfast tea , pain au chocolat
+text:Hi !		eval_labels:Hello , Joel Kinnaman ! Would you like to have a large breakfast tea and a pain au chocolat again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Joel .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:May I have an espresso macchiato ?		eval_labels:Which size ?
+text:Small , thank you !		eval_labels:Would you like anything else with that ?
+text:May I get a veggie tortilla wrap ?		eval_labels:So that would be a small espresso macchiato and a veggie tortilla wrap . Is that right ?
+text:No , I want a peppermint hot chocolate .		eval_labels:Sure ! So that would be a small peppermint hot chocolate and a veggie tortilla wrap . Is that right ?
+text:No , I want a hot chocolate .		eval_labels:Sure ! So that would be a small hot chocolate and a veggie tortilla wrap . Is that right ?
+text:Sounds good !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Nina Dobrev .		eval_labels:Your order will be ready at the next counter , Nina .
+False , 165 , Nina Dobrev
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 23 , Damian Lewis , small , cappuccino
+text:Hi !		eval_labels:Hello , Damian Lewis ! Would you like to have a small cappuccino again ?
+text:Yes , thank you !		eval_labels:Your order will be ready at the next counter , Damian .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I get a noisette , please ?		eval_labels:Which size ?
+text:Large would do .		eval_labels:Would you like anything else with that ?
+text:Just the drink , please .		eval_labels:So that would be a large noisette . Is that right ?
+text:Indeed !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Jennifer Garner .		eval_labels:Your order will be ready at the next counter , Jennifer .
+False , 166 , Jennifer Garner
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 42 , Kerry Washington , large , Earl Grey
+text:Hello !		eval_labels:Hello , Kerry Washington ! Would you like to have a large Earl Grey again ?
+text:Yes , thanks !		eval_labels:Your order will be ready at the next counter , Kerry .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 12 , Patrick Dempsey , large , black tea
+text:Hey !		eval_labels:Hello , Patrick Dempsey ! Would you like to have a large black tea again ?
+text:Exactly !		eval_labels:Your order will be ready at the next counter , Patrick .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 87 , Matthew McConaughey , large , flat white
+text:Hey !		eval_labels:Hello , Matthew McConaughey ! Would you like to have a large flat white again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Matthew .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 18 , Jon Hamm , medium , breakfast tea
+text:Hello !		eval_labels:Hello , Jon Hamm ! Would you like to have a medium breakfast tea again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Jon .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 114 , Lucy Liu , medium , espresso
+text:Hi !		eval_labels:Hello , Lucy Liu ! Would you like to have a medium espresso again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Lucy .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 161 , Julianne Moore , large , espresso con panna , blueberry oatmeal
+text:Hi !		eval_labels:Hello , Julianne Moore ! Would you like to have a large espresso con panna and a blueberry oatmeal again ?
+text:I'm becoming predictable ! But that would do , yes !		eval_labels:Your order will be ready at the next counter , Julianne .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 118 , Julianna Margulies , small , Earl Grey , croissant
+text:Hi !		eval_labels:Hello , Julianna Margulies ! Would you like to have a small Earl Grey and a croissant again ?
+text:You know me better !		eval_labels:Your order will be ready at the next counter , Julianna .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 88 , Brad Pitt , small , iced hot chocolate , almond croissant
+text:Hey there !		eval_labels:Hello , Brad Pitt ! Would you like to have a small iced hot chocolate and an almond croissant again ?
+text:Yes , thank you !		eval_labels:Your order will be ready at the next counter , Brad .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 89 , Ryan Gosling , medium , cordusio , classic oatmeal
+text:Hello !		eval_labels:Hello , Ryan Gosling ! Would you like to have a medium cordusio and a classic oatmeal again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Ryan .
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 123 , Alex O'Loughlin , large , cordusio , chocolate chip muffin
+text:Hello !		eval_labels:Hello , Alex O'Loughlin ! Would you like to have a large cordusio and a chocolate chip muffin again ?
+text:Yes .		eval_labels:Your order will be ready at the next counter , Alex .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:A latte , please .		eval_labels:Which size ?
+text:Medium , thank you !		eval_labels:Would you like anything else with that ?
+text:No .		eval_labels:So that would be a medium latte . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Shay Mitchell .		eval_labels:Your order will be ready at the next counter , Shay .
+False , 167 , Shay Mitchell
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:May I get a cordusio ?		eval_labels:Which size ?
+text:Large , please .		eval_labels:Would you like anything else with that ?
+text:Ah yes , an almond croissant .		eval_labels:So that would be a large cordusio and an almond croissant . Is that right ?
+text:Let's change almond croissant to a breakfast tortilla wrap instead .		eval_labels:Sure ! So that would be a large cordusio and a breakfast tortilla wrap . Is that right ?
+text:Sounds good !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Bruce Willis .		eval_labels:Your order will be ready at the next counter , Bruce .
+False , 168 , Bruce Willis
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 157 , Anna Paquin , small , cordusio , chocolate chip cookie
+text:Hey !		eval_labels:Hello , Anna Paquin ! Would you like to have a small cordusio and a chocolate chip cookie again ?
+text:Yeah .		eval_labels:Your order will be ready at the next counter , Anna .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:I would like a white hot chocolate .		eval_labels:Which size ?
+text:Large cup .		eval_labels:Would you like anything else with that ?
+text:No .		eval_labels:So that would be a large white hot chocolate . Is that right ?
+text:Sounds good !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Vincent Kartheiser .		eval_labels:Your order will be ready at the next counter , Vincent .
+False , 169 , Vincent Kartheiser
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 22 , Charlie Hunnam , large , mocha
+text:Hi !		eval_labels:Hello , Charlie Hunnam ! Would you like to have a large mocha again ?
+text:Yes , thanks !		eval_labels:Your order will be ready at the next counter , Charlie .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have an iced hot chocolate , please ?		eval_labels:Which size ?
+text:Medium would do .		eval_labels:Would you like anything else with that ?
+text:That is it .		eval_labels:So that would be a medium iced hot chocolate . Is that right ?
+text:Yeap .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Colin O'Donoghue .		eval_labels:Your order will be ready at the next counter , Colin .
+False , 170 , Colin O'Donoghue
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 58 , Miles Teller , medium , mocha
+text:Hey !		eval_labels:Hello , Miles Teller ! Would you like to have a medium mocha again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Miles .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 22 , Charlie Hunnam , large , mocha
+text:Hello !		eval_labels:Hello , Charlie Hunnam ! Would you like to have a large mocha again ?
+text:Definitely !		eval_labels:Your order will be ready at the next counter , Charlie .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 167 , Shay Mitchell , medium , latte
+text:Hey there !		eval_labels:Hello , Shay Mitchell ! Would you like to have a medium latte again ?
+text:You got me ! Yes , please .		eval_labels:Your order will be ready at the next counter , Shay .
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 168 , Bruce Willis , large , cordusio , breakfast tortilla wrap
+text:Hey there !		eval_labels:Hello , Bruce Willis ! Would you like to have a large cordusio and a breakfast tortilla wrap again ?
+text:Yes .		eval_labels:Your order will be ready at the next counter , Bruce .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:I would like a salted caramel hot chocolate .		eval_labels:Which size ?
+text:Medium , thank you !		eval_labels:Would you like anything else with that ?
+text:I am good .		eval_labels:So that would be a medium salted caramel hot chocolate . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Eva Longoria .		eval_labels:Your order will be ready at the next counter , Eva .
+False , 171 , Eva Longoria
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have an espresso ?		eval_labels:Which size ?
+text:Large cup .		eval_labels:Would you like anything else with that ?
+text:I would like a doughnut , please .		eval_labels:So that would be a large espresso and a doughnut . Is that right ?
+text:Indeed !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Neil Patrick Harris .		eval_labels:Your order will be ready at the next counter , Neil .
+False , 172 , Neil Patrick Harris
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I get a caramel macchiato ?		eval_labels:Which size ?
+text:Large , thank you !		eval_labels:Would you like anything else with that ?
+text:Yes , a slice of banana bread .		eval_labels:So that would be a large caramel macchiato and a slice of banana bread . Is that right ?
+text:Sounds good !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Max Greenfield .		eval_labels:Your order will be ready at the next counter , Max .
+False , 173 , Max Greenfield
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 13 , Matt Bomer , medium , caramel macchiato
+text:Hey !		eval_labels:Hello , Matt Bomer ! Would you like to have a medium caramel macchiato again ?
+text:Nice of you to remember ! I would , yes .		eval_labels:Your order will be ready at the next counter , Matt .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 17 , Josh Radnor , medium , salted caramel hot chocolate , everything bagel
+text:Hi !		eval_labels:Hello , Josh Radnor ! Would you like to have a medium salted caramel hot chocolate and an everything bagel again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Josh .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 17 , Josh Radnor , medium , salted caramel hot chocolate , everything bagel
+text:Hello !		eval_labels:Hello , Josh Radnor ! Would you like to have a medium salted caramel hot chocolate and an everything bagel again ?
+text:Sure .		eval_labels:Your order will be ready at the next counter , Josh .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 162 , Ian Somerhalder , large , green tea , chocolate chip cookie
+text:Hello !		eval_labels:Hello , Ian Somerhalder ! Would you like to have a large green tea and a chocolate chip cookie again ?
+text:Why not ?		eval_labels:Your order will be ready at the next counter , Ian .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a flat white , please .		eval_labels:Which size ?
+text:Medium would do .		eval_labels:Would you like anything else with that ?
+text:No , thank you .		eval_labels:So that would be a medium flat white . Is that right ?
+text:Sounds good !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Jessica Chastain .		eval_labels:Your order will be ready at the next counter , Jessica .
+False , 174 , Jessica Chastain
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 42 , Kerry Washington , large , Earl Grey
+text:Hi !		eval_labels:Hello , Kerry Washington ! Would you like to have a large Earl Grey again ?
+text:You know me better !		eval_labels:Your order will be ready at the next counter , Kerry .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 55 , RuPaul , large , espresso con panna
+text:Hey there !		eval_labels:Hello , RuPaul ! Would you like to have a large espresso con panna again ?
+text:Yeah .		eval_labels:Your order will be ready at the next counter , RuPaul .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 25 , Zoe Saldana , medium , espresso macchiato
+text:Hey there !		eval_labels:Hello , Zoe Saldana ! Would you like to have a medium espresso macchiato again ?
+text:Exactly ! Nice memory !		eval_labels:Your order will be ready at the next counter , Zoe .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 68 , Aaron Paul , medium , caramel macchiato
+text:Hey !		eval_labels:Hello , Aaron Paul ! Would you like to have a medium caramel macchiato again ?
+text:You got me ! Yes , please .		eval_labels:Your order will be ready at the next counter , Aaron .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 6 , America Ferrera , large , peppermint hot chocolate
+text:Hi !		eval_labels:Hello , America Ferrera ! Would you like to have a large peppermint hot chocolate again ?
+text:You know me better !		eval_labels:Your order will be ready at the next counter , America .
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 33 , Emily Deschanel , large , white hot chocolate
+text:Hello !		eval_labels:Hello , Emily Deschanel ! Would you like to have a large white hot chocolate again ?
+text:Nice of you to remember ! I would , yes .		eval_labels:Your order will be ready at the next counter , Emily .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:I would like a latte , please .		eval_labels:Which size ?
+text:Large , please .		eval_labels:Would you like anything else with that ?
+text:I would like a pain aux raisins , please .		eval_labels:So that would be a large latte and a pain aux raisins . Is that right ?
+text:No , I want a mocha .		eval_labels:Sure ! So that would be a large mocha and a pain aux raisins . Is that right ?
+text:Can I have medium , please ?		eval_labels:Sure ! So that would be a medium mocha and a pain aux raisins . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Lucy Hale .		eval_labels:Your order will be ready at the next counter , Lucy .
+False , 175 , Lucy Hale
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have a salted caramel hot chocolate , please ?		eval_labels:Which size ?
+text:Medium , please .		eval_labels:Would you like anything else with that ?
+text:Just the drink .		eval_labels:So that would be a medium salted caramel hot chocolate . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Kunal Nayyar .		eval_labels:Your order will be ready at the next counter , Kunal .
+False , 176 , Kunal Nayyar
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 43 , Laura Linney , small , iced hot chocolate
+text:Hi !		eval_labels:Hello , Laura Linney ! Would you like to have a small iced hot chocolate again ?
+text:You know me better !		eval_labels:Your order will be ready at the next counter , Laura .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 77 , Robin Tunney , large , Earl Grey , blueberry oatmeal
+text:Hey there !		eval_labels:Hello , Robin Tunney ! Would you like to have a large Earl Grey and a blueberry oatmeal again ?
+text:Yeah .		eval_labels:Your order will be ready at the next counter , Robin .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 77 , Robin Tunney , large , Earl Grey , blueberry oatmeal
+text:Hey !		eval_labels:Hello , Robin Tunney ! Would you like to have a large Earl Grey and a blueberry oatmeal again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Robin .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 163 , January Jones , small , peppermint hot chocolate
+text:Hey there !		eval_labels:Hello , January Jones ! Would you like to have a small peppermint hot chocolate again ?
+text:Exactly ! Nice memory !		eval_labels:Your order will be ready at the next counter , January .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 71 , Paul Reiser , small , peppermint hot chocolate , lemon pound cake
+text:Hello !		eval_labels:Hello , Paul Reiser ! Would you like to have a small peppermint hot chocolate and a lemon pound cake again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Paul .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 67 , Leonardo DiCaprio , large , mocha , slice of banana bread
+text:Hey !		eval_labels:Hello , Leonardo DiCaprio ! Would you like to have a large mocha and a slice of banana bread again ?
+text:Sure .		eval_labels:Your order will be ready at the next counter , Leonardo .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:May I get a noisette ?		eval_labels:Which size ?
+text:Medium .		eval_labels:Would you like anything else with that ?
+text:No , thanks .		eval_labels:So that would be a medium noisette . Is that right ?
+text:No , a breakfast tea .		eval_labels:Sure ! So that would be a medium breakfast tea . Is that right ?
+text:No , I want large .		eval_labels:Sure ! So that would be a large breakfast tea . Is that right ?
+text:Indeed !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Timothy Hutton .		eval_labels:Your order will be ready at the next counter , Timothy .
+False , 177 , Timothy Hutton
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 8 , Channing Tatum , medium , espresso con panna
+text:Hi !		eval_labels:Hello , Channing Tatum ! Would you like to have a medium espresso con panna again ?
+text:Yes , thank you !		eval_labels:Your order will be ready at the next counter , Channing .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 169 , Vincent Kartheiser , large , white hot chocolate
+text:Hello !		eval_labels:Hello , Vincent Kartheiser ! Would you like to have a large white hot chocolate again ?
+text:You know me better !		eval_labels:Your order will be ready at the next counter , Vincent .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 32 , Mark Harmon , small , iced hot chocolate , double chocolate muffin
+text:Hey !		eval_labels:Hello , Mark Harmon ! Would you like to have a small iced hot chocolate and a double chocolate muffin again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , Mark .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I get a latte , please ?		eval_labels:Which size ?
+text:Large would do .		eval_labels:Would you like anything else with that ?
+text:Just the drink , please .		eval_labels:So that would be a large latte . Is that right ?
+text:Let's change latte to an espresso instead .		eval_labels:Sure ! So that would be a large espresso . Is that right ?
+text:Sounds good !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Jeff Bridges .		eval_labels:Your order will be ready at the next counter , Jeff .
+False , 178 , Jeff Bridges
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I get an iced hot chocolate ?		eval_labels:Which size ?
+text:Large .		eval_labels:Would you like anything else with that ?
+text:A breakfast tortilla wrap , please .		eval_labels:So that would be a large iced hot chocolate and a breakfast tortilla wrap . Is that right ?
+text:May I have medium ?		eval_labels:Sure ! So that would be a medium iced hot chocolate and a breakfast tortilla wrap . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Karen Gillan .		eval_labels:Your order will be ready at the next counter , Karen .
+False , 179 , Karen Gillan
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have a cappuccino ?		eval_labels:Which size ?
+text:Small , thank you !		eval_labels:Would you like anything else with that ?
+text:No , that is it .		eval_labels:So that would be a small cappuccino . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Emilia Clarke .		eval_labels:Your order will be ready at the next counter , Emilia .
+False , 180 , Emilia Clarke
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 129 , Misha Collins , large , black tea
+text:Hi !		eval_labels:Hello , Misha Collins ! Would you like to have a large black tea again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Misha .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 19 , John Slattery , large , espresso macchiato , everything bagel
+text:Hey !		eval_labels:Hello , John Slattery ! Would you like to have a large espresso macchiato and an everything bagel again ?
+text:Yes , please !		eval_labels:Your order will be ready at the next counter , John .
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 115 , Lauren Cohan , small , peppermint hot chocolate
+text:Hi !		eval_labels:Hello , Lauren Cohan ! Would you like to have a small peppermint hot chocolate again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Lauren .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 13 , Matt Bomer , medium , caramel macchiato
+text:Hey !		eval_labels:Hello , Matt Bomer ! Would you like to have a medium caramel macchiato again ?
+text:I'm becoming predictable ! But that would do , yes !		eval_labels:Your order will be ready at the next counter , Matt .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have a cappuccino ?		eval_labels:Which size ?
+text:Small , thank you !		eval_labels:Would you like anything else with that ?
+text:May I get a gingerbread cookie ?		eval_labels:So that would be a small cappuccino and a gingerbread cookie . Is that right ?
+text:Can I get a classic oatmeal instead ?		eval_labels:Sure ! So that would be a small cappuccino and a classic oatmeal . Is that right ?
+text:Can I have a breakfast tea , please ?		eval_labels:Sure ! So that would be a small breakfast tea and a classic oatmeal . Is that right ?
+text:Sounds good !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Sara Ramirez .		eval_labels:Your order will be ready at the next counter , Sara .
+False , 181 , Sara Ramirez
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 21 , Justin Chambers , small , cappuccino
+text:Hello !		eval_labels:Hello , Justin Chambers ! Would you like to have a small cappuccino again ?
+text:Yeah .		eval_labels:Your order will be ready at the next counter , Justin .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 178 , Jeff Bridges , large , espresso
+text:Hey there !		eval_labels:Hello , Jeff Bridges ! Would you like to have a large espresso again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , Jeff .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:May I get a green tea ?		eval_labels:Which size ?
+text:Small cup .		eval_labels:Would you like anything else with that ?
+text:No , thank you .		eval_labels:So that would be a small green tea . Is that right ?
+text:That is correct .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Lisa Kudrow .		eval_labels:Your order will be ready at the next counter , Lisa .
+False , 182 , Lisa Kudrow
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 139 , Ed O'Neill , large , caramel macchiato , slice of banana bread
+text:Hey there !		eval_labels:Hello , Ed O'Neill ! Would you like to have a large caramel macchiato and a slice of banana bread again ?
+text:Absolutely !		eval_labels:Your order will be ready at the next counter , Ed .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 29 , Jesse Tyler Ferguson , large , noisette , lemon pound cake
+text:Hi !		eval_labels:Hello , Jesse Tyler Ferguson ! Would you like to have a large noisette and a lemon pound cake again ?
+text:How did you know ?		eval_labels:Your order will be ready at the next counter , Jesse .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 57 , Andrew Lincoln , large , noisette , blueberry oatmeal
+text:Hey !		eval_labels:Hello , Andrew Lincoln ! Would you like to have a large noisette and a blueberry oatmeal again ?
+text:You got me ! Yes , please .		eval_labels:Your order will be ready at the next counter , Andrew .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 38 , Lea Michele , large , hot chocolate , chocolate chip cookie
+text:Hi !		eval_labels:Hello , Lea Michele ! Would you like to have a large hot chocolate and a chocolate chip cookie again ?
+text:That's precisely it !		eval_labels:Your order will be ready at the next counter , Lea .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 41 , Will Smith , large , noisette , croissant
+text:Hey !		eval_labels:Hello , Will Smith ! Would you like to have a large noisette and a croissant again ?
+text:You know me better !		eval_labels:Your order will be ready at the next counter , Will .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 156 , Megan Boone , large , black tea , lemon pound cake
+text:Hello !		eval_labels:Hello , Megan Boone ! Would you like to have a large black tea and a lemon pound cake again ?
+text:Yes .		eval_labels:Your order will be ready at the next counter , Megan .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 98 , Johnny Depp , medium , latte , lemon pound cake
+text:Hi !		eval_labels:Hello , Johnny Depp ! Would you like to have a medium latte and a lemon pound cake again ?
+text:Yes , thanks !		eval_labels:Your order will be ready at the next counter , Johnny .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 174 , Jessica Chastain , medium , flat white
+text:Hello !		eval_labels:Hello , Jessica Chastain ! Would you like to have a medium flat white again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Jessica .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 164 , Piper Perabo , small , peppermint hot chocolate
+text:Hi !		eval_labels:Hello , Piper Perabo ! Would you like to have a small peppermint hot chocolate again ?
+text:I would .		eval_labels:Your order will be ready at the next counter , Piper .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 25 , Zoe Saldana , medium , espresso macchiato
+text:Hey there !		eval_labels:Hello , Zoe Saldana ! Would you like to have a medium espresso macchiato again ?
+text:Exactly ! Nice memory !		eval_labels:Your order will be ready at the next counter , Zoe .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 18 , Jon Hamm , medium , breakfast tea
+text:Hey there !		eval_labels:Hello , Jon Hamm ! Would you like to have a medium breakfast tea again ?
+text:Why not ?		eval_labels:Your order will be ready at the next counter , Jon .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 153 , Jennifer Aniston , small , espresso
+text:Hi !		eval_labels:Hello , Jennifer Aniston ! Would you like to have a small espresso again ?
+text:Absolutely !		eval_labels:Your order will be ready at the next counter , Jennifer .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 31 , Mayim Bialik , medium , latte , croissant
+text:Hey !		eval_labels:Hello , Mayim Bialik ! Would you like to have a medium latte and a croissant again ?
+text:Yes , thanks !		eval_labels:Your order will be ready at the next counter , Mayim .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 149 , David Giuntoli , large , americano , almond croissant
+text:Hi !		eval_labels:Hello , David Giuntoli ! Would you like to have a large americano and an almond croissant again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , David .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want an Earl Grey .		eval_labels:Which size ?
+text:Small .		eval_labels:Would you like anything else with that ?
+text:Just the drink , please .		eval_labels:So that would be a small Earl Grey . Is that right ?
+text:Definitely .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Gillian Jacobs .		eval_labels:Your order will be ready at the next counter , Gillian .
+False , 183 , Gillian Jacobs
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 49 , Jensen Ackles , large , breakfast tea , plain bagel
+text:Hi !		eval_labels:Hello , Jensen Ackles ! Would you like to have a large breakfast tea and a plain bagel again ?
+text:Alright .		eval_labels:Your order will be ready at the next counter , Jensen .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 19 , John Slattery , large , espresso macchiato , everything bagel
+text:Hello !		eval_labels:Hello , John Slattery ! Would you like to have a large espresso macchiato and an everything bagel again ?
+text:Yeah .		eval_labels:Your order will be ready at the next counter , John .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey there !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I get a green tea ?		eval_labels:Which size ?
+text:Small , thank you !		eval_labels:Would you like anything else with that ?
+text:An almond croissant , please .		eval_labels:So that would be a small green tea and an almond croissant . Is that right ?
+text:Indeed !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:David Duchovny .		eval_labels:Your order will be ready at the next counter , David .
+False , 184 , David Duchovny
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 134 , Cybill Shepherd , small , green tea
+text:Hello !		eval_labels:Hello , Cybill Shepherd ! Would you like to have a small green tea again ?
+text:I'm becoming predictable ! But that would do , yes !		eval_labels:Your order will be ready at the next counter , Cybill .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 59 , Roseanne Barr , medium , green tea
+text:Hi !		eval_labels:Hello , Roseanne Barr ! Would you like to have a medium green tea again ?
+text:That's precisely it !		eval_labels:Your order will be ready at the next counter , Roseanne .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 45 , Teri Hatcher , large , espresso , everything bagel
+text:Hey there !		eval_labels:Hello , Teri Hatcher ! Would you like to have a large espresso and an everything bagel again ?
+text:Sure .		eval_labels:Your order will be ready at the next counter , Teri .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 172 , Neil Patrick Harris , large , espresso , doughnut
+text:Hey there !		eval_labels:Hello , Neil Patrick Harris ! Would you like to have a large espresso and a doughnut again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , Neil .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 160 , Chris Hemsworth , medium , latte
+text:Hello !		eval_labels:Hello , Chris Hemsworth ! Would you like to have a medium latte again ?
+text:Please !		eval_labels:Your order will be ready at the next counter , Chris .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 9 , Ellen Pompeo , medium , espresso macchiato , lemon pound cake
+text:Hello !		eval_labels:Hello , Ellen Pompeo ! Would you like to have a medium espresso macchiato and a lemon pound cake again ?
+text:Nice of you to remember ! I would , yes .		eval_labels:Your order will be ready at the next counter , Ellen .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 100 , Matthew Morrison , medium , latte
+text:Hi !		eval_labels:Hello , Matthew Morrison ! Would you like to have a medium latte again ?
+text:I'm becoming predictable ! But that would do , yes !		eval_labels:Your order will be ready at the next counter , Matthew .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 127 , Emily Blunt , small , espresso , carrot cake
+text:Hey there !		eval_labels:Hello , Emily Blunt ! Would you like to have a small espresso and a carrot cake again ?
+text:Please !		eval_labels:Your order will be ready at the next counter , Emily .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+True , 49 , Jensen Ackles , large , breakfast tea , plain bagel
+text:Hi !		eval_labels:Hello , Jensen Ackles ! Would you like to have a large breakfast tea and a plain bagel again ?
+text:Please !		eval_labels:Your order will be ready at the next counter , Jensen .
+text:Thank you !		eval_labels:Have a nice day !	episode_done:True
+True , 12 , Patrick Dempsey , large , black tea
+text:Hey !		eval_labels:Hello , Patrick Dempsey ! Would you like to have a large black tea again ?
+text:That will do .		eval_labels:Your order will be ready at the next counter , Patrick .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 154 , Michael Hall , large , mocha
+text:Hello !		eval_labels:Hello , Michael Hall ! Would you like to have a large mocha again ?
+text:Alright .		eval_labels:Your order will be ready at the next counter , Michael .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 30 , Zac Efron , small , espresso macchiato , chocolate caramel shortbread
+text:Hey there !		eval_labels:Hello , Zac Efron ! Would you like to have a small espresso macchiato and a chocolate caramel shortbread again ?
+text:Why not ?		eval_labels:Your order will be ready at the next counter , Zac .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 152 , Christina Hendricks , large , cordusio , almond croissant
+text:Hello !		eval_labels:Hello , Christina Hendricks ! Would you like to have a large cordusio and an almond croissant again ?
+text:Yes , thanks !		eval_labels:Your order will be ready at the next counter , Christina .
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hi !		eval_labels:Hello ! Which drink can I get for you ?
+text:Can I have an espresso macchiato , please ?		eval_labels:Which size ?
+text:Large .		eval_labels:Would you like anything else with that ?
+text:Yes , a croissant .		eval_labels:So that would be a large espresso macchiato and a croissant . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Christopher Gorham .		eval_labels:Your order will be ready at the next counter , Christopher .
+False , 185 , Christopher Gorham
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 151 , Penn Badgley , large , green tea
+text:Hello !		eval_labels:Hello , Penn Badgley ! Would you like to have a large green tea again ?
+text:Yeah .		eval_labels:Your order will be ready at the next counter , Penn .
+text:Have a great day !		eval_labels:Have a nice day !	episode_done:True
+True , 72 , Ty Burrell , medium , Earl Grey
+text:Hello !		eval_labels:Hello , Ty Burrell ! Would you like to have a medium Earl Grey again ?
+text:I would .		eval_labels:Your order will be ready at the next counter , Ty .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+True , 124 , Mary-Louise Parker , large , white hot chocolate , croissant
+text:Hey !		eval_labels:Hello , Mary-Louise Parker ! Would you like to have a large white hot chocolate and a croissant again ?
+text:Yes , thank you !		eval_labels:Your order will be ready at the next counter , Mary-Louise .
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I have a black tea ?		eval_labels:Which size ?
+text:Medium , thank you !		eval_labels:Would you like anything else with that ?
+text:A pain aux raisins , please .		eval_labels:So that would be a medium black tea and a pain aux raisins . Is that right ?
+text:Can I have a latte instead ?		eval_labels:Sure ! So that would be a medium latte and a pain aux raisins . Is that right ?
+text:Yeah .		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Tom Welling .		eval_labels:Your order will be ready at the next counter , Tom .
+False , 186 , Tom Welling
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+True , 183 , Gillian Jacobs , small , Earl Grey
+text:Hi !		eval_labels:Hello , Gillian Jacobs ! Would you like to have a small Earl Grey again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Gillian .
+text:Cheers !		eval_labels:Have a nice day !	episode_done:True
+True , 112 , John Ritter , small , cappuccino
+text:Hey there !		eval_labels:Hello , John Ritter ! Would you like to have a small cappuccino again ?
+text:Yes , thank you !		eval_labels:Your order will be ready at the next counter , John .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:An espresso macchiato , please .		eval_labels:Which size ?
+text:Small , thank you !		eval_labels:Would you like anything else with that ?
+text:No , thank you .		eval_labels:So that would be a small espresso macchiato . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Walton Goggins .		eval_labels:Your order will be ready at the next counter , Walton .
+False , 187 , Walton Goggins
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 76 , Mireille Enos , large , hot chocolate
+text:Hello !		eval_labels:Hello , Mireille Enos ! Would you like to have a large hot chocolate again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Mireille .
+text:Have a nice day !		eval_labels:Have a nice day !	episode_done:True
+True , 180 , Emilia Clarke , small , cappuccino
+text:Hey there !		eval_labels:Hello , Emilia Clarke ! Would you like to have a small cappuccino again ?
+text:Yeap !		eval_labels:Your order will be ready at the next counter , Emilia .
+text:Okay .		eval_labels:Have a nice day !	episode_done:True
+True , 40 , AnnaLynne McCord , medium , americano , carrot cake
+text:Hello !		eval_labels:Hello , AnnaLynne McCord ! Would you like to have a medium americano and a carrot cake again ?
+text:Yes , thank you !		eval_labels:Your order will be ready at the next counter , AnnaLynne .
+text:Goodbye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hey !		eval_labels:Hello ! Which drink can I get for you ?
+text:Could I get a salted caramel hot chocolate ?		eval_labels:Which size ?
+text:Medium , thank you !		eval_labels:Would you like anything else with that ?
+text:Could I get an almond croissant , please ?		eval_labels:So that would be a medium salted caramel hot chocolate and an almond croissant . Is that right ?
+text:Yes !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:Sasha Alexander .		eval_labels:Your order will be ready at the next counter , Sasha .
+False , 188 , Sasha Alexander
+text:Bye !		eval_labels:Have a nice day !	episode_done:True
+False , 0
+text:Hello !		eval_labels:Hello ! Which drink can I get for you ?
+text:I want a caramel macchiato .		eval_labels:Which size ?
+text:Small cup .		eval_labels:Would you like anything else with that ?
+text:No , thank you .		eval_labels:So that would be a small caramel macchiato . Is that right ?
+text:Indeed !		eval_labels:Great ! Can I take your name ? api_call getCustomerName
+text:It is Damon Wayans Jr . .		eval_labels:Your order will be ready at the next counter , Damon .
+False , 189 , Damon Wayans Jr.
+text:Enjoy your day !		eval_labels:Have a nice day !	episode_done:True
+True , 150 , Tom Mison , large , salted caramel hot chocolate
+text:Hi !		eval_labels:Hello , Tom Mison ! Would you like to have a large salted caramel hot chocolate again ?
+text:Okay .		eval_labels:Your order will be ready at the next counter , Tom .
+text:Thanks !		eval_labels:Have a nice day !	episode_done:True
+True , 5 , Alison Brie , large , hot chocolate , gingerbread cookie
+text:Hi !		eval_labels:Hello , Alison Brie ! Would you like to have a large hot chocolate and a gingerbread cookie again ?
+text:Nice of you to remember ! I would , yes .		eval_labels:Your order will be ready at the next counter , Alison .
+text:Alright .		eval_labels:Have a nice day !	episode_done:True

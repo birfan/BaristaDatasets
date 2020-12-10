@@ -1,24 +1,42 @@
 # Barista Datasets and Data-Driven Dialogue Models in Generic and Personalised Task-Oriented Dialogue
 
-The datasets and the evaluations for the adapted data-driven dialogue models are described in the paper "Coffee with a Hint of Data: Towards Using Data-Driven Approaches in Personalised Long-Term Interactions" (under review at the Frontiers in Robotics and AI journal) by Bahar Irfan and Tony Belpaeme.
+The datasets and the evaluations for the adapted data-driven dialogue models are described in detail in the papers:
 
-##  Barista Datasets 
+    Bahar Irfan, Mehdi Hellou, Alexandre Mazel, and Tony Belpaeme (2020), "Challenges of a Real-World HRI Study with Non-Native English Speakers: Can Personalisation Save the Day?", Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI), DOI: 10.1145/3371382.3378278.
 
-Barista Dataset is designed to model a real-world barista who: (1) greets and requests the drink order, (2) size, and (3) snack, (4) confirms the order, (5) changes the order if necessary, (6) takes the customer's name, (7) notes the order pick up location, (8) says goodbye. Typically, a customer can ask for the order in one sentence, removing the need of (2) and (3), however, we separated these steps to reduce the errors in rule-based (e.g., template matching) or data-driven approaches, and to aid speech recognition (for the robot).
+    Bahar Irfan and Tony Belpaeme (under review), "Coffee with a Hint of Data: Towards Using Data-Driven Approaches in Personalised Long-Term Interactions", Frontiers in Robotics and AI.
 
-Personalised Barista Dataset recognises customers with provided user recognition information (as if it is a human-robot interaction), and recalls their most common (or most recent) order to suggest to the customers. The dataset also contains failures that can arise in real-world interactions, such as incorrect recognition and recalls, and changes to the preferences, to train methods to overcome these failures.
+Please cite both papers if you are using the datasets; cite the first paper for generic and personalised barista robots based on the datasets; cite the second paper if you are referring to the data-driven dialogue evaluations on the datasets.
 
-Personalised Barista with Preferences Information Dataset includes the preferences of the customer, in addition to the customer identity, to simulate a knowledge-base extraction.
+##  Barista Datasets
+
+For cloning only the datasets (excluding the data-driven models): 
+
+    $ git clone -b datasets --single-branch https://github.com/birfan/BaristaDatasets.git
+
+Barista Dataset (in *barista* folder under *data*) is designed to model a real-world barista who: (1) greets and requests the drink order, (2) size, and (3) snack, (4) confirms the order, (5) changes the order if necessary, (6) takes the customer's name, (7) notes the order pick up location, (8) says goodbye. Typically, a customer can ask for the order in one sentence, removing the need of (2) and (3), however, we separated these steps to reduce the errors in rule-based (e.g., template matching) or data-driven approaches, and to aid speech recognition (for the robot).
+
+Personalised Barista Dataset (*barista-personalised*) recognises customers with provided user recognition information (as if it is a human-robot interaction), and recalls their most common (or most recent) order to suggest to the customers. The dataset also contains failures that can arise in real-world interactions, such as incorrect recognition and recalls, and changes to the preferences, to train methods to overcome these failures.
+
+Personalised Barista with Preferences Information Dataset (*barista-personalised-order*) includes the preferences of the customer, in addition to the customer identity, to simulate a knowledge-base extraction.
+
+*all_labels* folder contains datasets with all possible correst responses (each response is separated with "|") for each customer phrase, exactly corresponding (in terms of customer orders, phrases and names in order) to the Barista Datasets. 
+
+*ParlAI_format* folder contains the Barista Datasets in ParlAI format (https://parl.ai/docs/tutorial_task.html#quickstart-adding-a-new-dataset). The original Barista Datasets are in FbDialogTeacher format (the previous format of datasets in ParlAI).
+
+*info* folder contains the proportion of phrases containing customer name or preferences (*personal(ised)*), phrases containing order item (*order*), remaining (*other*) phrases, and phrases from the Barista Dataset (*Only Barista* (B7)) within all the utterances (*Utterance count*) of the barista (bot) for each task and dataset.
+
+*templates* folder contains the template phrases used in generating the datasets. The phrases in *barista_templates.csv* are used in both the Barista and Personalised Barista Datasets, whereas *personalised_barista_templates.csv* contains phrases specific to the Personalised Barista Datasets. The templates for order items, preferences or customer name are written in brackets in capitals, e.g., *[RECALLED_PREF_DRINK]* refers to the recalled most preferred drink of the customer, *[RECOG_CUS_NAME] [RECOG_CUS_SURNAME]* refers to the first name and surname of the recognised customer, *PREV_CHOSEN* and *NEW_CHOSEN* refer to the previous and new chosen order item, respectively. The first column denotes whether the response is from the customer or bot, and the second column denotes the type of the phrase (e.g. *Greeting*).
 
 For detailed descriptions of the datasets, see the README files in the corresponding folders.
 
 ## Data-Driven Dialogue Models
 
-The Barista datasets were evaluated with the state-of-the-art data-driven dialogue models: Supervised Embeddings (Dodge et al., 2015; Bordes et al., 2016), Sequence-to-Sequence (Sutskever et al., 2015), End-to-End Memory Networks (Sukhbaatar et al., 2016), Generative Profile Memory Networks (Zhang et al., 2018), Key-Value Memory Networks (Miller et al., 2016; Zhang et al., 2018) and Split Memory Networks (Joshi et al., 2017). We adapted the code from ParlAI (https://github.com/facebookresearch/ParlAI) for Sequence-to-Sequence, Generative Profile Memory Networks and Key-Value Memory Networks models and the code from Joshi et al., 2017 (https://github.com/chaitjo/personalized-dialog) for End-to-End Memory Networks, Split Memory Networks and Supervised Embeddings. The adapted code is provided here for reproducibility of the evaluations on the Barista Datasets.
+The Barista datasets were evaluated with the state-of-the-art data-driven dialogue models: Supervised Embeddings (Dodge et al., 2015; Bordes et al., 2016), Sequence-to-Sequence (Sutskever et al., 2015), End-to-End Memory Networks (Sukhbaatar et al., 2016), Generative Profile Memory Networks (Zhang et al., 2018), Key-Value Memory Networks (Miller et al., 2016; Zhang et al., 2018) and Split Memory Networks (Joshi et al., 2017). We adapted the code from ParlAI (https://github.com/facebookresearch/ParlAI) for Sequence-to-Sequence, Generative Profile Memory Networks and Key-Value Memory Networks models and the code from Joshi et al., 2017 (https://github.com/chaitjo/personalized-dialog) for End-to-End Memory Networks, Split Memory Networks and Supervised Embeddings. The adapted code is provided here (in *parlai_internal* for former methods, in *baselines* for latter methods) for reproducibility of the evaluations on the Barista Datasets.
 
 Clone the repository.
 
-    $ git clone https://github.com/birfan/BaristaDatasets.git ~/BaristaDatasets
+    $ git clone -b master --single-branch https://github.com/birfan/BaristaDatasets.git ~/BaristaDatasets
     $ cd ~/BaristaDatasets
     $ mkdir results
 
@@ -107,7 +125,7 @@ Test: (Used 1 for batch size and number of threads in the paper)
 
     $ cd /app/ParlAI/;bash parlai_internal/agents/profilememory/test_all.sh [dataset_name] [task_name] [batchsize] [numthreads]
 
-### Key-Value Memory Networks:
+### Key-Value Memory Networks
 
 Train: (18 threads were used in the experiments)
 
@@ -119,13 +137,21 @@ Test: (18 threads were used in the experiments)
 
 More options are available for the models in train.py and eval.py scripts of ParlAI codes; single_dialog.py in Memory Networks or Split Memory; train.py and test.py scripts in Supervised Embeddings.
 
-Models with other hyperparameters (as described in the Irfan and Belpaeme paper) are available under the "baselines" and "agents" folders. The above mentioned methods have the best performing hyperparameters as described in the paper.
+Models with other hyperparameters (as described in the Irfan and Belpaeme paper) are available under the *baselines* and *agents* folders. The above mentioned methods have the best performing hyperparameters as described in the paper.
+
+## Trained Models
+
+*trained-models* branch contains the best trained models corresponding to the reported results for each baseline on the Barista Datasets. Note that this branch is 22.6 GB in size. Profile Memory and Seq2Seq models have only the last task of the datasets (i.e., task 7 in Barista or task 8 in Personalised Barista Datasets), because the trained models are very large in size. Key-Value Memory Network was only trained with one hop, due to the vast amount of time required for training.
+
+For cloning the trained models with the datasets: 
+
+    $ git clone -b trained-models --single-branch https://github.com/birfan/BaristaDatasets.git
 
 ## License
 
-The Barista datasets are released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. A copy of this license is included with the data. The adapted codes are released with original licenses under the corresponding folders.
+The Barista datasets are released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. In other words, these datasets are made available for academic research purpose only. A copy of this license is included with the data. The adapted codes are released with original licenses under the corresponding folders.
 
 ## Contact
 
-For more details on the dataset and baselines, see the paper "Coffee with a Hint of Data: Towards Using Data-Driven Approaches in Personalised Long-Term Interactions" by Bahar Irfan and Tony Belpaeme, under review at the Frontiers in Robotics and AI journal. For any information, contact Bahar Irfan: bahar.irfan (at) plymouth (dot) ac (dot) uk.
+For any information or for requesting Barista Datasets with different order items, customer names, or larger dataset size, contact Bahar Irfan: bahar.irfan (at) plymouth (dot) ac (dot) uk.
 
