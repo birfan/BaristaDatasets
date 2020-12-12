@@ -10,9 +10,7 @@ Please cite both papers if you are using the datasets; cite the first paper for 
 
 ##  Barista Datasets
 
-For cloning only the datasets (excluding the data-driven models): 
-
-    $ git clone -b datasets --single-branch https://github.com/birfan/BaristaDatasets.git
+For obtaining only the datasets (excluding the data-driven models), download the *barista-datasets* release.
 
 Barista Dataset (in *barista* folder under *data*) is designed to model a real-world barista who: (1) greets and requests the drink order, (2) size, and (3) snack, (4) confirms the order, (5) changes the order if necessary, (6) takes the customer's name, (7) notes the order pick up location, (8) says goodbye. Typically, a customer can ask for the order in one sentence, removing the need of (2) and (3), however, we separated these steps to reduce the errors in rule-based (e.g., template matching) or data-driven approaches, and to aid speech recognition (for the robot).
 
@@ -34,9 +32,9 @@ For detailed descriptions of the datasets, see the README files in the correspon
 
 The Barista datasets were evaluated with the state-of-the-art data-driven dialogue models: Supervised Embeddings (Dodge et al., 2015; Bordes et al., 2016), Sequence-to-Sequence (Sutskever et al., 2015), End-to-End Memory Networks (Sukhbaatar et al., 2016), Generative Profile Memory Networks (Zhang et al., 2018), Key-Value Memory Networks (Miller et al., 2016; Zhang et al., 2018) and Split Memory Networks (Joshi et al., 2017). We adapted the code from ParlAI (https://github.com/facebookresearch/ParlAI) for Sequence-to-Sequence, Generative Profile Memory Networks and Key-Value Memory Networks models and the code from Joshi et al., 2017 (https://github.com/chaitjo/personalized-dialog) for End-to-End Memory Networks, Split Memory Networks and Supervised Embeddings. The adapted code is provided here (in *parlai_internal* for former methods, in *baselines* for latter methods) for reproducibility of the evaluations on the Barista Datasets.
 
-Clone the repository.
+Clone the repository (or download the *barista-datasets-and-models* release).
 
-    $ git clone -b master --single-branch https://github.com/birfan/BaristaDatasets.git ~/BaristaDatasets
+    $ git clone https://github.com/birfan/BaristaDatasets.git ~/BaristaDatasets
     $ cd ~/BaristaDatasets
     $ mkdir results
 
@@ -141,11 +139,7 @@ Models with other hyperparameters (as described in the Irfan and Belpaeme paper)
 
 ## Trained Models
 
-*trained-models* branch contains the best trained models corresponding to the reported results for each baseline on the Barista Datasets. Note that this branch is 22.6 GB in size. Profile Memory and Seq2Seq models have only the last task of the datasets (i.e., task 7 in Barista or task 8 in Personalised Barista Datasets), because the trained models are very large in size. Key-Value Memory Network was only trained with one hop, due to the vast amount of time required for training.
-
-For cloning the trained models with the datasets: 
-
-    $ git clone -b trained-models --single-branch https://github.com/birfan/BaristaDatasets.git
+*barista-datasets-and-trained-models* release contains the Barista Datasets, adapted code for models and the best trained models corresponding to the reported results (in Irfan et al., under review) for each baseline on the Barista Datasets. Profile Memory and Seq2Seq models have only the last task of the datasets (i.e., task 7 in Barista or task 8 in Personalised Barista Datasets), because the trained models are very large in size. Key-Value Memory Network was only trained with one hop, due to the vast amount of time required for training.
 
 ## License
 
