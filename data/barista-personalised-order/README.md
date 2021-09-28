@@ -4,11 +4,11 @@ This directory contains a set of 9 tasks for evaluating end-to-end dialogue syst
 
 The datasets and the evaluations for the adapted data-driven dialogue models are described in detail in the papers:
 
-    Bahar Irfan, Mehdi Hellou, Alexandre Mazel, and Tony Belpaeme (2020), "Challenges of a Real-World HRI Study with Non-Native English Speakers: Can Personalisation Save the Day?", Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI), DOI: 10.1145/3371382.3378278.
+ * Bahar Irfan, Mehdi Hellou, Alexandre Mazel, Tony Belpaeme (2020), "Challenges of a Real-World HRI Study with Non-Native English Speakers: Can Personalisation Save the Day?", Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI), [DOI: 10.1145/3371382.3378278](https://dl.acm.org/doi/10.1145/3371382.3378278).
 
-    Bahar Irfan and Tony Belpaeme (under review), "Coffee with a Hint of Data: Towards Using Data-Driven Approaches in Personalised Long-Term Interactions", Frontiers in Robotics and AI.
+ * Bahar Irfan, Mehdi Hellou, Tony Belpaeme (2021), "Coffee with a Hint of Data: Towards Using Data-Driven Approaches in Personalised Long-Term Interactions", Frontiers in Robotics and AI, [DOI: 10.3389/frobt.2021.676814](https://www.frontiersin.org/article/10.3389/frobt.2021.676814).
 
-Please cite both papers if you are using the datasets; cite the first paper for generic and personalised barista robots based on the datasets; cite the second paper if you are referring to the data-driven dialogue evaluations on the datasets.
+Please cite both papers if you are using the datasets; cite both papers for generic and personalised barista robots based on the datasets; cite the second paper if you are referring to the data-driven dialogue evaluations on the datasets.
 
 
 ## Data
@@ -200,4 +200,4 @@ The Barista datasets are released under a Creative Commons Attribution-NonCommer
 
 ## Contact
 
-For any information or for requesting Barista Datasets with different order items, customer names, or larger dataset size, contact Bahar Irfan: bahar.irfan (at) plymouth (dot) ac (dot) uk.
+For any information or for requesting Barista Datasets with different order items, customer names, or larger dataset size, contact Bahar Irfan: bahar.irfan (at) plymouth (dot) ac (dot) uk (the most recent contact information is available at [personal website](https://www.baharirfan.com)).

@@ -4,6 +4,8 @@
 .settings/
 gpu-scripts/
 scripts/
+best_trained_models/
+performance_results/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

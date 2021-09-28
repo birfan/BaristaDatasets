@@ -1,8 +1,19 @@
 #!/usr/bin/env python3
 
-# Copyright (c) Bahar Irfan, 2020.
+# Copyright (c) 2020-present, Bahar Irfan.
+# All rights reserved.
 # This source code is licensed under the MIT license found in the
 # LICENSE file in the root directory of this source tree.
+#
+# Please cite the following work if using this code:
+# 
+#  Bahar Irfan, Mehdi Hellou, Alexandre Mazel, Tony Belpaeme (2020), "Challenges of a Real-World HRI
+#  Study with Non-Native English Speakers: Can Personalisation Save the Day?", Companion of the 2020
+#  ACM/IEEE International Conference on Human-Robot Interaction (HRI), DOI: 10.1145/3371382.3378278.
+#  
+#  Bahar Irfan, Mehdi Hellou, Tony Belpaeme (2021), "Coffee with a Hint of Data: Towards Using
+#  Data-Driven Approaches in Personalised Long-Term Interactions", Frontiers in Robotics and AI,
+#  DOI: 10.3389/frobt.2021.676814.
 
 import json
 import csv
