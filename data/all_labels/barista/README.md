@@ -1,6 +1,6 @@
 # Barista Dataset
 
-This directory contains a set of 7 tasks for evaluating end-to-end dialogue systems for goal-oriented interactions in ordering a drink and a snack at a coffee shop from the barista.
+This directory contains a set of 7 tasks for evaluating end-to-end dialogue systems for goal-oriented interactions in ordering a drink and a snack at a coffee shop from the barista. Each bot utterance contains all correct responses.
 
 The datasets and the evaluations for the adapted data-driven dialogue models are described in detail in the papers:
 
@@ -9,6 +9,8 @@ The datasets and the evaluations for the adapted data-driven dialogue models are
  * Bahar Irfan, Mehdi Hellou, Tony Belpaeme (2021), "Coffee with a Hint of Data: Towards Using Data-Driven Approaches in Personalised Long-Term Interactions", Frontiers in Robotics and AI, [DOI: 10.3389/frobt.2021.676814](https://www.frontiersin.org/article/10.3389/frobt.2021.676814).
 
 Please cite both papers if you are using the datasets; cite both papers for generic and personalised barista robots based on the datasets; cite the second paper if you are referring to the data-driven dialogue evaluations on the datasets.
+
+![Example dialogue from the Barista Dataset](../../../img/barista-task7.JPEG)
 
 ## Data
 
@@ -19,6 +21,17 @@ The data is structured as follows:
 ```
 ID user_utterance [tab] bot_utterance_1|bot_utterance_2|...|bot_utterance_n
 ...
+```
+
+Example dialogue from task 6:
+```
+1 Hi !	Hello ! Which drink can I get for you ?|Hello ! Which drink can I get for you today ?|Hello ! Which drink would you like to have ?|Hello ! Which drink would you like today ?|Hi ! Which drink can I get for you ?|Hi ! Which drink can I get for you today ?|Hi ! Which drink would you like to have ?|Hi ! Which drink would you like today ?|Welcome to Botista ! Which drink can I get for you ?|Welcome to Botista ! Which drink can I get for you today ?|Welcome to Botista ! Which drink would you like to have ?|Welcome to Botista ! Which drink would you like today ?|Welcome to the coffee heaven ! Which drink can I get for you ?|Welcome to the coffee heaven ! Which drink can I get for you today ?|Welcome to the coffee heaven ! Which drink would you like to have ?|Welcome to the coffee heaven ! Which drink would you like today ?
+2 May I get an Earl Grey ?	Which size ?|Which size would you like ?|Which size for the cup ?
+3 Large cup .	Would you like anything else with that ?|Anything else ?|Would you like a delicious snack with that ?|Can I offer you anything to go with your drink ?
+4 Can I get a classic oatmeal , please ?	So that would be a large Earl Grey and a classic oatmeal . Is that right ?|So that would be a large Earl Grey and a classic oatmeal . Did I get that right ?|Your order is a large Earl Grey and a classic oatmeal . Is that right ?|Your order is a large Earl Grey and a classic oatmeal . Did I get that right ?
+5 Definitely .	Great ! Can I take your name ? api_call getCustomerName|Perfect ! What would be the name ? api_call getCustomerName|May I take your name , please ? api_call getCustomerName|Great , and what is your name ? api_call getCustomerName
+6 It is Melissa McBride .	Your order will be ready at the next counter , Melissa .|You can pick up your order at the next counter , Melissa .|We will get that ready for you at the next counter , Melissa .
+7 Cheers !	Have a nice day !|Have a great day !|Enjoy your day !|Have a nice day ! Hope to see you again at Botista !|I wish you an amazing day !
 ```
 
 The *ID* for a given dialogue start at 1 and increase within each dialogue. The goal of the tasks is to predict the bot utterances, which are sentences. All correct responses to the user utterance are given at each turn (see *templates* folder for dataset specific responses for each phrase type), separated by "|". 

@@ -10,7 +10,6 @@ The datasets and the evaluations for the adapted data-driven dialogue models are
 
 Please cite both papers if you are using the datasets; cite both papers for generic and personalised barista robots based on the datasets; cite the second paper if you are referring to the data-driven dialogue evaluations on the datasets.
 
-
 ## Data
 
 The format of the dataset is in *FB* in FbDialogTeacher format for ParlAI. Tasks are under folders *train* (training set), *test* (test set), *dev* (development set), *test-OOV* (out of vocabulary set - includes names and drink, size and snack choices which are not present in training, test or development sets). *SecondInteraction* folder contains dialogues that focus on first, second and third interaction scenarios. *Task1k* contains 1000 dialogues and *Task10k* contains 10000 dialogues.
@@ -56,6 +55,8 @@ For each task, customer orders file (*customer-orders.csv*) is provided to keep 
 ### Task 0: Unknown customers
 
 This task evaluates learning unknown customers and personalising the dialogue in the second interaction. This task assumes perfect recognition, recall and no changes are made by the customers to their previous preference.
+
+![Example dialogue of task 0/1 from the Personalised Barista Dataset](../../../img/barista-personalised-task1-full.JPEG)
 
 For task 0: In the training set, 100 customers from database A have 2 interactions each with the bot. In test and development sets, 100 customers from database B have 2 interactions each. In OOV set, 100 customers from database C have 2 interactions each.
 
@@ -103,6 +104,8 @@ Total number of dialogues in *SecondInteraction* for tasks 1-8:
 ### Task 2: Recognition error 
 
 This task trains (and evaluates) the bot to correct itself after incorrect recognitions. This type of interaction is categorised as *open-world recognition* (A. Bendale and T. Boult, "Towards Open World Recognition", 2015) in which new users are incrementally added to the recognition system. We use two metrics to evaluate the recognition: Detection and Identification Rate (DIR) and False Alarm Rate (FAR). DIR is the fraction of correctly classified probes within the probes of the enrolled users. FAR is the fraction of incorrectly classified probes within the probes of the unknown users. For this the dataset, we used DIR = 0.9 and FAR = 0.1. This task contains incorrect recognitions as well as correct ones.
+
+![Example dialogue of task 2 from the Personalised Barista Dataset](../../../img/barista-personalised-task2.JPEG)
 
 There are three scenarios of incorrect recognitions as shown below in the examples.
 
@@ -152,6 +155,8 @@ There are three scenarios of incorrect recognitions as shown below in the exampl
 
 This task trains (and evaluates) the bot to correct itself after an incorrect recall of the preferences of the customer. An incorrect memory rate of 0.3 is used, that is 30% of the dialogues contain incorrect recalls (a random choice) of the preferences of known users.
 
+![Example dialogue of task 3 from the Personalised Barista Dataset](../../../img/barista-personalised-task3.JPEG)
+
 **Example 3.1:** Previous order of customer 29: small espresso and a pain au chocolat
 ```
 1 True , 29 , Anne Hathaway
@@ -167,6 +172,8 @@ This task trains (and evaluates) the bot to correct itself after an incorrect re
 ### Task 4: Changes to preference
 
 This task acknowledges that customers can change their preferences, that is for any interaction, the customer could want to have the same order as the previous times, or can ask for some other drink or snack.
+
+![Example dialogue of task 4 from the Personalised Barista Dataset](../../../img/barista-personalised-task4.JPEG)
 
 **Example 4.1:** Previous order of customer 25: small black tea
 ```

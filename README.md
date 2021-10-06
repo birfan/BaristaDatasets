@@ -14,7 +14,11 @@ For obtaining only the datasets (excluding the data-driven models), download the
 
 Barista Dataset (in *barista* folder under *data*) is designed to model a real-world barista who: (1) greets and requests the drink order, (2) size, and (3) snack, (4) confirms the order, (5) changes the order if necessary, (6) takes the customer's name, (7) notes the order pick up location, (8) says goodbye. Typically, a customer can ask for the order in one sentence, removing the need of (2) and (3), however, we separated these steps to reduce the errors in rule-based (e.g., template matching) or data-driven approaches, and to aid speech recognition (for the robot).
 
-Personalised Barista Dataset (*barista-personalised*) recognises customers with provided user recognition information (as if it is a human-robot interaction), and recalls their most common (or most recent) order to suggest to the customers. The dataset also contains failures that can arise in real-world interactions, such as incorrect recognition and recalls, and changes to the preferences, to train methods to overcome these failures.
+![Example dialogue from the Barista Dataset](./img/barista-task7.JPEG)
+
+Personalised Barista Dataset (*barista-personalised*) recognises customers with provided user recognition information (as if it is a human-robot interaction), and recalls their most common (or most recent) order to suggest to the customers. The dataset also contains failures that can arise in real-world interactions, such as incorrect recognition and recalls (example in image), and changes to the preferences, to train methods to overcome these failures.
+
+![Example dialogue with incorrect recall from the Personalised Barista Dataset](./img/barista-personalised-task3.JPEG)
 
 Personalised Barista with Preferences Information Dataset (*barista-personalised-order*) includes the preferences of the customer, in addition to the customer identity, to simulate a knowledge-base extraction.
 

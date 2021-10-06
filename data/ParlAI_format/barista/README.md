@@ -10,6 +10,8 @@ The datasets and the evaluations for the adapted data-driven dialogue models are
 
 Please cite both papers if you are using the datasets; cite both papers for generic and personalised barista robots based on the datasets; cite the second paper if you are referring to the data-driven dialogue evaluations on the datasets.
 
+![Example dialogue from the Barista Dataset](../../../img/barista-task7.JPEG)
+
 ## Data
 
 The format of the dataset is in ParlAI format (https://parl.ai/docs/tutorial_task.html#quickstart-adding-a-new-dataset). Tasks are under folders *train* (training set), *test* (test set), *dev* (development set), *test-OOV* (out of vocabulary set - includes names and drink, size and snack choices which are not present in training, test or development sets). *Task1k* contains 1000 dialogues and *Task10k* contains 10000 dialogues.
